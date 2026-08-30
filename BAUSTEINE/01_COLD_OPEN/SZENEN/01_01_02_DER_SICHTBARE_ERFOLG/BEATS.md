@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/01_COLD_OPEN/SZENEN/01_01_02_DER_SICHTBARE_ERFOLG/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

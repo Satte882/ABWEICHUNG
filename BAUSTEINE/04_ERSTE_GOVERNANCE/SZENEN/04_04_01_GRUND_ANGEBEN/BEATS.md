@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/04_ERSTE_GOVERNANCE/SZENEN/04_04_01_GRUND_ANGEBEN/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/03_UNSICHTBARE_GEGENRECHNUNG/SZENEN/03_03_01_DIE_BETTENKETTE/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 
