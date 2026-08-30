@@ -9,9 +9,7 @@ source_beats: `BEATS.md`
 
 Evas Name stand auf der ersten Seite.
 
-Nicht in einer Fallakte. Nicht unter einem Override.
-
-Als eigene Zeile in einer Regel.
+Diesmal weder in einer Fallakte noch unter einem Override. Er stand als eigene Zeile in einer Regel.
 
 Sie las den Absatz noch einmal.
 
@@ -69,7 +67,7 @@ Miriam zog die Augenbrauen zusammen.
 
 „Praktisch ist auch, dass wir inzwischen wissen, dass deine high-confidence Ressourcenabweichungen schlechter abschneiden.“
 
-Eva spürte den Impuls, den Cold-Open-Fall wieder herauszunehmen. Zu erklären, dass ihr Patient tatsächlich stabilisiert worden war. Dass die Statistik nicht am Bett gestanden hatte.
+Eva spürte den Impuls, den Fall aus jener Nacht wieder herauszunehmen. Zu erklären, dass ihr Patient tatsächlich stabilisiert worden war. Dass die Statistik nicht am Bett gestanden hatte.
 
 Sie ließ es.
 
