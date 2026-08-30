@@ -7,13 +7,7 @@ source_beats: `BEATS.md`
 
 ---
 
-Danach blieb nur Medizin.
-
-Keine Governance.
-
-Keine Grundtypen.
-
-Keine Frage, ob KORA recht hatte.
+Danach blieb nur Medizin. Governance, Grundtypen und die Frage, ob KORA recht hatte, spielten am Bett keine Rolle.
 
 Eva stand am Bett und versuchte, den Patienten mit dem zu stabilisieren, was verfügbar war.
 
@@ -71,7 +65,7 @@ Eva blieb noch einen Moment stehen, nachdem die anderen begonnen hatten, den Rau
 
 Ihre Hand lag auf dem Bettgitter.
 
-Im Cold Open hatte ein Patient vor ihr überlebt, weil sie die Ressource für ihn genommen hatte.
+In jener ersten Nacht hatte ein Patient vor ihr überlebt, weil sie die Ressource für ihn genommen hatte.
 
 Damals war der sichtbare Ausgang zu einem Argument geworden.
 
@@ -89,7 +83,7 @@ Der Gedanke kam schnell.
 
 Er tat weh, weil er genau der Denkweise ähnelte, die ihre eigene Bilanz später zerlegt hatte.
 
-Ein sichtbarer Mensch. Ein sichtbarer Ausgang. Eine Erinnerung, die alles andere überdeckckte.
+Ein sichtbarer Mensch. Ein sichtbarer Ausgang. Eine Erinnerung, die alles andere überdeckte.
 
 Eva sah zur Tür.
 
