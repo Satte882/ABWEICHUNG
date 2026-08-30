@@ -1,8 +1,9 @@
 # Fresh-Context-Auftrag – Gesamtmanuskript ABWEICHUNG
 
-review_target: `1d717f47277d22381fdd97bd804e0e31cf09e10e`
+review_target: `78222a7e99c80378c35379ad42684ee332a412a6`
 review_scope: full manuscript S001–S040
 review_mode: independent semantic whole-manuscript review
+prerequisite: execute only after the reworked scene/beat layer has been independently reviewed and human G2 re-approved
 
 ## Clean-Room-Voraussetzung
 
@@ -28,7 +29,7 @@ Nutze keine Erinnerungen, frühere Chats oder außerhalb dieses Auftrags bekannt
 
 Prüfe ausschließlich den Repository-Stand des Commits:
 
-`1d717f47277d22381fdd97bd804e0e31cf09e10e`
+`78222a7e99c80378c35379ad42684ee332a412a6`
 
 Nicht den aktuellen Branch-Head, falls dieser inzwischen weitergelaufen ist.
 
@@ -50,6 +51,7 @@ Lies für die Prüfung ausschließlich die fachlichen Produktionsquellen des Zie
 
 Nicht öffnen oder verwenden:
 
+- `LESSONS_LEARNED.md`
 - `FULL_MANUSCRIPT_SELF_REVIEW.md`
 - `G3_REVIEW_REQUEST.md`
 - sonstige `*_REVIEW_*`-Dateien
@@ -145,7 +147,7 @@ Bevorzuge `prose`, wenn der Befund ohne Storyänderung behebbar ist. Fordere kei
 Wenn die Session sauber ist, beginne exakt mit:
 
 `review_status: CLEAN_FRESH_CONTEXT`
-`review_target: 1d717f47277d22381fdd97bd804e0e31cf09e10e`
+`review_target: 78222a7e99c80378c35379ad42684ee332a412a6`
 `finding_count: <n>`
 
 Danach pro Finding:
