@@ -1,18 +1,18 @@
 # Beats – S014
 
 scene_ref: `BAUSTEINE/07_KORAS_GRENZEN/SZENEN/07_07_01_GETRENNTE_DATEN/SZENE.md`
-beat_status: draft
+beat_status: reworked_after_manuscript_review
 prose_allowed: yes
 
 ## Sequenz
 
-1. **S014-B01** – Eva kritisiert aggregierte Leistungszahlen als zu grob für weitere Governance-Schritte.
-2. **S014-B02** – Sie formuliert die Hypothese, dass ärztliche Abweichungen in bestimmten Entscheidungsklassen Mehrwert haben können.
-3. **S014-B03** – Sie fordert Jan auf, Daten nach Entscheidungstyp, Konfidenz und Fallmix zu trennen.
-4. **S014-B04** – Jan akzeptiert die methodische Frage, ohne ein gewünschtes Ergebnis zu versprechen.
-5. **S014-B05** – Eva macht ihre Gegenposition damit falsifizierbar.
-6. **S014-B06** – Die differenzierte Analyse wird angestoßen.
+1. **S014-B01** – Im laufenden Betrieb erlebt Eva einen Fall mit niedriger KORA-Konfidenz, in dem das Team nach eigener klinischer Prüfung anders entscheidet.
+2. **S014-B02** – Die Situation macht Eva erneut bewusst, dass die bisherige Gesamtkennzahl sehr unterschiedliche Entscheidungstypen und Konfidenzbereiche zusammenzieht.
+3. **S014-B03** – Nach der Schicht formuliert sie die Hypothese, dass menschliche Abweichungen in bestimmten Klassen messbaren Mehrwert haben können.
+4. **S014-B04** – Eva sendet Jan einen konkreten Analyseauftrag: Trennung nach Entscheidungstyp, Konfidenz und Fallmix; Unsicherheit separat ausweisen.
+5. **S014-B05** – Jan akzeptiert die methodische Frage, ohne ein gewünschtes Ergebnis zu versprechen.
+6. **S014-B06** – Evas Gegenposition ist falsifizierbar; die differenzierte Analyse wird angestoßen.
 
 ## Regel
 
-Diese Beats granularisieren ausschließlich die freigegebene Szenenlogik. Neue Plotentscheidungen, zusätzliche Figurenfunktionen oder neue Kausalitäten dürfen hier nicht eingeführt werden.
+Diese Beats verändern die dramaturgische Trägerform von E019, nicht dessen Storyfunktion. Der konkrete klinische Fall dient nur als Auslöser der bereits freigegebenen Analysefrage und erzeugt keine neue plotrelevante Kausalität.
