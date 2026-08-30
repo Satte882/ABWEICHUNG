@@ -9,7 +9,7 @@ source_beats: `BEATS.md`
 
 Laura Berg hatte während der ganzen Chronologie kaum unterbrochen.
 
-Jetzt lag die Zeitleiste zwischen ihnen auf dem Tisch. Ausdrucke, Uhrzeiten, Vermerke aus zwei Standorten. Daneben ein Glas Wasser, das Laura nicht angerührt hatte.
+Jetzt lag die Zeitleiste zwischen ihnen auf dem Tisch. Ausdrucke, Vermerke aus zwei Standorten. Daneben ein Glas Wasser, das Laura nicht angerührt hatte.
 
 Eva wartete auf die nächste Frage.
 
@@ -45,15 +45,9 @@ Eva nickte.
 
 Im Nebenraum fiel etwas Metallisches zu Boden. Ein kurzer Schlag, Schritte, dann war es wieder still.
 
-Eva sah auf die Zeitleiste.
+Eva sah auf die Zeitleiste. Entscheidung in Zentral. Zuweisung der Intensivkapazität. Nord blieb in Übergangsversorgung.
 
-23:41 Uhr. Entscheidung.
-
-23:43 Uhr. Intensivkapazität Zentral zugewiesen.
-
-Nord blieb in Übergangsversorgung.
-
-Die Uhrzeiten waren inzwischen so vertraut, dass sie sie nicht mehr lesen musste.
+Die Reihenfolge kannte sie inzwischen ohne Papier.
 
 „Wir wissen nicht, ob Ihr Vater bei einer früheren Aufnahme überlebt hätte.“
 
@@ -81,7 +75,7 @@ Eva nickte.
 
 „Ja.“
 
-Zum ersten Mal veränderte sich etwas in Lauras Gesicht. Kein Ausbruch. Nur der Kiefer wurde fester.
+Zum ersten Mal veränderte sich etwas in Lauras Gesicht. Der Kiefer wurde fester.
 
 „Für Sie aber nicht in dem Moment.“
 
@@ -91,7 +85,7 @@ Der Satz war fachlich zu grob. Der andere Patient hatte auf dem Display gestande
 
 Sie hatte von ihm gewusst.
 
-Das war nicht dasselbe.
+Nur hatte sie ihn nicht vor sich gehabt.
 
 „Ich wusste, dass er existiert“, sagte Eva.
 
@@ -101,15 +95,9 @@ Eva blickte auf das Glas Wasser.
 
 „Ich habe ihn nicht gesehen.“
 
-Laura sagte nichts.
-
-„Ich hatte bei meinem Patienten jede Veränderung direkt vor mir. Seine Atmung. Seine Erschöpfung. Ich musste ihn ansehen und entscheiden.“
-
 „Und bei meinem Vater hatten Sie Zahlen.“
 
 „Ja.“
-
-Das Wort war zu klein für den Satz, traf ihn aber.
 
 Laura strich mit einem Finger über den Rand der letzten Seite.
 
@@ -129,41 +117,27 @@ Laura zog die Hand zurück.
 
 Eva zwang sich, langsamer weiterzusprechen.
 
-„Ich habe ihn genommen, weil ich seine Verschlechterung für entscheidend hielt. Das war eine medizinische Einschätzung.“
+„Ich habe seine Verschlechterung für entscheidend gehalten. Das war meine medizinische Einschätzung.“
 
-„Die Maschine hat anders entschieden.“
+„KORA hat anders empfohlen.“
 
-„Empfohlen.“
+„Ja.“
 
-„Gut. Anders empfohlen.“
+„Und heute wissen Sie, dass KORA in solchen Fällen meistens besser liegt.“
 
-Eva nickte.
+„In dieser Entscheidungsklasse, ja.“
 
-„Und heute wissen Sie, dass die Maschine in solchen Fällen meistens besser liegt.“
-
-„In dieser Klasse, ja.“
-
-„Dann frage ich noch einmal.“
-
-Laura beugte sich nicht vor. Ihre Stimme wurde auch nicht lauter.
+Laura ließ ein paar Sekunden vergehen.
 
 „Würden Sie es wieder tun?“
 
 Eva sah zur Tür.
 
-Auf dem Flur ging eine Ärztin vorbei, ohne in den Raum zu sehen.
+Auf dem Flur ging jemand vorbei, ohne in den Raum zu sehen.
 
-Eva dachte an den Mann auf der Liege. An seine Hand unter ihrer. An den Moment, in dem sie den Override bestätigt hatte.
+Sie dachte an den Mann auf der Liege. An seine Hand unter ihrer. An den Moment, in dem sie den Override bestätigt hatte.
 
-Sie dachte an Nord.
-
-Dort gab es keine Erinnerung, die ihr gehörte.
-
-Nur die Rekonstruktion.
-
-Das war der Unterschied.
-
-Und genau der Unterschied war gefährlich.
+Von Nord hatte sie keine solche Erinnerung. Nur die später rekonstruierte Geschichte.
 
 „Ich weiß es nicht“, sagte sie.
 
@@ -185,33 +159,23 @@ Eva antwortete nicht.
 
 „Ich wollte wissen, ob es beim nächsten Mal anders wäre.“
 
-Da war sie wieder, die Frage, nur größer.
-
-Nicht Eva gegen KORA. Nicht dieser eine Patient gegen den anderen.
-
-Der nächste Fall.
-
-Der nächste Arzt.
-
-Der nächste Mensch, der vor einem Bett stand und mehr fühlte für das, was er sehen konnte.
-
 Eva nahm die oberste Seite der Chronologie und legte sie zurück auf den Stapel.
 
-„Dann müssen wir dafür sorgen, dass Nähe allein kein Argument wird.“
+Beim nächsten Mal würde wieder jemand vor einem konkreten Bett stehen. Die andere Seite des Konflikts konnte erneut weit weg sein.
+
+„Dann darf Nähe allein kein ausreichender Grund sein“, sagte sie.
 
 Laura sah sie an.
 
-Eva sprach weiter, bevor sie den Satz zu sauber machen konnte.
+Eva merkte, dass sie damit nur die Hälfte beantwortet hatte.
 
-„Und trotzdem muss es Gründe geben, aus denen ein Arzt abweichen darf. Gründe, die eine Maschine nicht abbildet.“
+„Es muss trotzdem Fälle geben, in denen ein Arzt begründet abweichen kann. Wenn es etwas Relevantes gibt, das KORA nicht abbildet.“
 
-„Welche?“
+„Was zum Beispiel?“
 
 Eva schwieg.
 
 Darauf hatte sie noch keine fertige Antwort.
-
-Zum ersten Mal störte sie das nicht.
 
 „Das muss ich herausfinden.“
 
@@ -219,4 +183,4 @@ Laura nickte langsam.
 
 Es war keine Zustimmung.
 
-Mehr brauchte die Szene nicht.
+Aber sie stellte keine weitere Frage.
