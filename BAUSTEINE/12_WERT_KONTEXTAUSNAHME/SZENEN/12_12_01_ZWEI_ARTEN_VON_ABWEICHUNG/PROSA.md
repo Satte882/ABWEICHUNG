@@ -1,13 +1,19 @@
 # Prosa – S024
 
 scene_id: S024
-prose_status: full_manuscript_draft
+prose_status: full_manuscript_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Eva schrieb zwei Sätze auf Miriams Whiteboard.
+Eva fand den freien Besprechungsraum leer.
+
+Gut.
+
+Sie wollte zunächst niemanden überzeugen.
+
+Auf das Whiteboard schrieb sie zwei Sätze.
 
 **KORA liegt falsch.**
 
@@ -15,86 +21,88 @@ Darunter:
 
 **KORA liegt wahrscheinlich richtig. Ich entscheide trotzdem anders.**
 
-Der Marker quietschte beim letzten Wort.
+Sie trat einen Schritt zurück.
 
-Miriam las beide Zeilen, sagte aber nichts.
+Der zweite Satz sah gefährlich aus.
 
-Eva legte den Marker auf die Ablage.
+Zu nah an allem, was sie bisher verteidigt hatte: ärztliche Letztentscheidung, Erfahrung, Verantwortung am Bett.
 
-„Wir behandeln beides bisher wie dieselbe Abweichung. Das ist der Fehler.“
+Laura hatte genau dort eine andere Frage hineingeschoben.
 
-Sie zeigte auf die erste Zeile.
+Wenn Eva akzeptierte, dass Nähe allein kein ausreichender Grund war, musste es andere Gründe geben, die tatsächlich etwas Eigenes bedeuteten.
 
-„Wenn ich KORAs medizinische Einschätzung bestreite, brauche ich etwas Medizinisches. Einen Befund, eine Datenlücke, eine Entwicklung, die das Modell nicht hat. Etwas, das die Prognosefrage verändert.“
+Sie schrieb unter die erste Zeile:
 
-Dann auf die zweite.
+**Befund. Datenlücke. Entwicklung.**
 
-„Es gibt aber Fälle, in denen ich die Prognose akzeptiere. Ich kann trotzdem einen patientenspezifischen Grund haben, anders zu entscheiden. Patientenwille. Therapieziel. Behandlungsbelastung. Ein relevanter Kontext, den KORA nicht als eigenen Entscheidungswert abbildet.“
+Dort war die Logik einfach. Wer KORAs Prognose bestreiten wollte, brauchte etwas, das die medizinische Einschätzung veränderte.
 
-Miriam verschränkte die Arme.
+Unter die zweite Zeile schrieb Eva langsamer.
 
-„Und Behandlergefühl?“
+**Patientenwille. Therapieziel. Behandlungsbelastung.**
 
-Eva antwortete nicht sofort.
+Sie dachte an einen Patienten, der eine Behandlung ablehnte, obwohl sie seinen erwarteten medizinischen Nutzen erhöhte.
 
-Die Pause reichte.
+KORA konnte dabei vollständig korrekt rechnen.
 
-Miriam nahm den Marker und schrieb unter die zweite Zeile nur ein Wort:
+Die Ablehnung blieb trotzdem eine Tatsache der Entscheidung.
+
+Eva setzte darunter:
+
+**patientenspezifisch**
+
+Dann:
+
+**benennbar**
+
+Sie blieb mit dem Marker in der Hand stehen.
+
+*Kontext* war das gefährliche Wort.
+
+Es konnte heißen: eine relevante Eigenschaft dieses Patienten, die KORA nicht als Entscheidungswert abbildete.
+
+Es konnte auch heißen: Ich kenne ihn. Er liegt bei mir. Mein Gefühl sagt etwas anderes.
+
+Genau diese Tür durfte nicht wieder aufgehen.
+
+Als Miriam später hereinkam, stand die Struktur bereits auf dem Board.
+
+Sie las schweigend.
+
+Erst bei der zweiten Spalte blieb sie länger stehen.
+
+„Wo endet Kontext?“
+
+Eva deutete auf die drei Wörter darunter.
+
+„Nicht bei mir. Beim Patienten.“
+
+Miriam nahm den Marker und schrieb an den Rand:
 
 **Intuition?**
 
-Eva betrachtete es.
+Eva verzog den Mund.
 
-Da lag die Schwachstelle. Jeder Arzt konnte ein Bauchgefühl umetikettieren, sobald *Kontext* als eigener Weg existierte.
+„Genau deshalb muss der Grund prüfbar sein.“
 
-Sie nahm Miriam den Marker wieder ab und schrieb daneben:
-
-**benennbarer patientenspezifischer Grund**
-
-„Nicht: Ich kenne solche Verläufe. Nicht: Der Patient liegt bei mir. Etwas, das bei genau diesem Patienten für die Entscheidung relevant ist.“
-
-Miriam deutete auf die Formulierung.
-
-„Dann muss jemand prüfen können, ob der Grund wirklich dort liegt.“
-
-Eva setzte darunter ein zweites Wort.
+Sie schrieb das Wort selbst dazu.
 
 **prüfbar**
 
-Miriam lächelte kurz.
+Miriam legte den Marker zurück.
 
-„Du baust deine Ausnahme gerade selbst enger.“
+„Dann brauchst du Ethik dabei.“
 
-„Ich baue sie so, dass sie nicht beim ersten schlechten Gebrauch zusammenbricht.“
+„Ja.“
 
-Eva trat zurück.
+Mehr musste sie nicht erklären.
 
-Die zwei großen Sätze standen noch immer oben.
+Eva wischte **Intuition?** nicht weg.
 
-Sie dachte an einen Patienten, der eine medizinisch aussichtsreiche Behandlung ablehnte. KORA konnte den erwarteten Nutzen korrekt berechnen. Die Ablehnung blieb trotzdem relevant. Eine bessere Prognose beantwortete nicht automatisch jede Frage darüber, was für diesen Menschen getan werden sollte.
+Die Frage sollte dort bleiben.
 
-„Genau diesen Raum will ich behalten“, sagte Eva. „Nicht das Recht, eine starke Prognose mit Erfahrung wegzuwischen. Einen Raum für Gründe, die eine Prognose gar nicht widerlegen wollen.“
+Zum ersten Mal verteidigte sie menschlichen Entscheidungsraum nicht mit dem Recht, gegen eine Maschine recht behalten zu können.
 
-Miriam las das Board von oben nach unten.
+Sie hatte einen Bereich formuliert, in dem die medizinisch bessere Prognose gar nicht die einzige relevante Frage war.
 
-„Das ist präziser als dein bisheriges Autonomieargument.“
-
-Eva verzog den Mund.
-
-„Ich nehme an, das ist ein Kompliment.“
-
-„Teilweise.“
-
-Miriam tippte auf **prüfbar**.
-
-„Wenn wir das ernst meinen, gehört Klinische Ethik an den Tisch.“
-
-Eva nickte.
-
-Sie wischte **Intuition?** vom Board. Die beiden Grundtypen blieben stehen.
-
-Zum ersten Mal verteidigte sie menschlichen Entscheidungsraum nicht mit dem Satz, dass Ärzte irren dürfen.
-
-Sie hatte einen positiven Grund dafür formuliert, warum eine medizinisch bessere Prognose nicht in jedem Fall die ganze Entscheidung sein musste.
-
-Jetzt musste sich zeigen, ob dieser Grund eine Regel aushielt.
+Jetzt musste dieser Bereich nur noch Regeln aushalten.
