@@ -7,116 +7,88 @@ source_beats: `BEATS.md`
 
 ---
 
-Nach einigen Wochen war aus dem Freitextfeld eine Wand geworden.
+Nach einigen Wochen war aus dem Freitextfeld eine Datenspur geworden.
 
-Miriam scrollte durch die Einträge.
+Miriam hatte vier anonymisierte Einträge nebeneinandergestellt. Keine Namen, keine Bewertungen, nur die damalige KORA-Empfehlung und der Satz, mit dem ein Arzt davon abgewichen war.
 
-„Lies den.“
-
-Eva beugte sich vor.
+Eva las den ersten.
 
 **Klinischer Verlauf passt nicht zur prognostizierten Verschlechterung. Aktuelle Untersuchung spricht gegen sofortige Eskalation.**
 
-„Okay.“
+Daneben stand ein konkreter Befund aus der Untersuchung.
 
-Miriam scrollte weiter.
+Der zweite Eintrag war kürzer.
 
 **Patient wirkt stabiler als Modellbewertung.**
 
-Eva verzog den Mund.
-
-„Schwach.“
-
-„Der nächste.“
+Der dritte:
 
 **Langjährige Erfahrung mit vergleichbaren Verläufen.**
 
-„Noch schwächer.“
-
-„Und der?“
-
-Eva las.
+Der vierte:
 
 **Fachärztliche Entscheidung nach Gesamtbewertung.**
 
-Sie lehnte sich zurück.
+Eva nahm den Stift, der neben dem Ausdruck lag, und zog unter dem ersten Satz eine Linie.
 
-„Das ist kein Grund.“
+„Der benennt etwas, das man prüfen kann.“
 
-„Steht trotzdem drin.“
+Sie tippte auf die anderen drei.
 
-„Wer?“
+„Die hier benennen vor allem den Entscheider.“
 
-Miriam sah sie an.
+Miriam ließ sie weiterlesen.
 
-„Ist das für die Frage wichtig?“
+Weitere Einträge folgten. Ein fehlender Laborwert, der später ergänzt worden war. Ein neu aufgetretener klinischer Befund. Eine knappe Intuitionsformel. Ein Statusargument. Zwei Sätze, die professionell klangen und nach dem zweiten Lesen kaum mehr sagten als: *Ich halte es für richtig.*
 
-Eva hob beide Hände. „Schon gut.“
+Eva hatte mit Unterschieden gerechnet. Ärzte beschrieben dieselbe Lage nie identisch. Was sie nicht erwartet hatte, war die Klarheit, mit der die Unterschiede plötzlich nebeneinanderstanden.
 
-Sie scrollten weiter.
+Vor der Begründungspflicht war eine Abweichung eine Entscheidung gewesen.
 
-Es gab gute Einträge. Konkrete Befunde, die im Fall tatsächlich etwas änderten. Hinweise auf fehlende Informationen. nachvollziehbare klinische Gründe.
+Jetzt hinterließ sie zusätzlich einen Satz.
 
-Und es gab Sätze, die nur professioneller klangen als Bauchgefühl.
+Und Sätze ließen sich vergleichen.
 
-Eva hatte mit Varianz gerechnet. Nicht damit, wie sichtbar sie werden würde, sobald alle gezwungen waren, einen Satz zu schreiben.
+„Das ist nützlich“, sagte Eva.
 
-„Interessant“, sagte sie.
+Miriam hob nur leicht die Augenbrauen.
 
-„Das klingt nicht begeistert.“
+„Das klang schmerzhafter, als es müsste.“
 
-„Bin ich auch nicht.“
+Eva legte den Stift hin.
 
-„Warum?“
+„Weil nützlich nicht dasselbe ist wie eindeutig. Der erste schreibt besser. Vielleicht entscheidet er auch besser. Vielleicht kann er nur besser erklären, was er ohnehin getan hätte.“
 
-Eva zeigte auf die Liste.
+„Deshalb bewerten wir hier keine Schreibkunst.“
 
-„Weil wir gerade sehen, wie unterschiedlich Menschen denselben Anspruch formulieren. Und weil ich nicht weiß, ob der gute Schreiber automatisch der bessere Entscheider ist.“
+„Noch überhaupt irgendetwas?“
 
-Miriam nickte. „Deshalb sanktionieren wir niemanden.“
+Miriam schob den Ausdruck zurück in die Mappe.
 
-„Noch nicht.“
+„Wir beobachten. Wir prüfen Fälle. Keine Sanktion, keine neue Schwelle, keine Verschärfung.“
 
-Miriam sah sie kurz an.
+Eva wartete einen Moment auf den Zusatz.
 
-Eva musste an Felix denken und ärgerte sich darüber.
+Er kam nicht.
 
-„Ich meine nur: Wenn wir anfangen, Texte zu bewerten, messen wir irgendwann Sprachfähigkeit statt Medizin.“
+„Wirklich nur beobachten.“
 
-„Dann dürfen wir genau das nicht tun.“
+„Ja.“
 
-„Was willst du stattdessen?“
+Das gefiel ihr mehr, als sie erwartet hatte.
 
-„Erst einmal sehen, ob Muster entstehen.“
+Sie öffnete das Register noch einmal. Nicht wegen des vierten Eintrags. Wegen der guten Begründungen. Einige machten im Nachhinein sichtbar, was am Bett tatsächlich gegen die Empfehlung gesprochen hatte. Andere zeigten, dass eine Abweichung zwar vertretbar gewesen war, ihre ursprüngliche Erklärung aber dünner klang, als alle Beteiligten sie in Erinnerung hatten.
 
-Eva scrollte zurück zu dem Eintrag **Fachärztliche Entscheidung nach Gesamtbewertung**.
+So konnte Qualitätssicherung aussehen, dachte Eva.
 
-„Das ist ein Muster.“
-
-„Ein schlechter Satz ist noch kein Sicherheitsproblem.“
-
-„Gut.“
+Nicht als Urteil über den Arzt. Als bessere Erinnerung an den Fall.
 
 Miriam schloss die Ansicht.
 
-„Keine neue Regel.“
+Das kleine Symbol des Override-Registers blieb in der Seitenleiste stehen.
 
-Eva sah sie überrascht an.
+Eva nahm es in diesem Moment als Archiv wahr: Fälle, Gründe, Verläufe.
 
-„Wirklich?“
+Dass dieselbe Spur irgendwann nicht nur Entscheidungen, auch Entscheidungsmuster einzelner Ärzte sichtbar machen konnte, lag bereits in den Daten.
 
-„Wirklich.“
-
-„Du wirst nachlässig.“
-
-„Genieß es.“
-
-Eva stand auf.
-
-Auf dem Bildschirm blieb das Override-Register als kleines Symbol in der Seitenleiste stehen.
-
-Sie empfand es noch als nützliches Archiv.
-
-Eine Möglichkeit, Entscheidungen später besser zu verstehen.
-
-Dass dieselben Einträge irgendwann nicht nur Fälle, auch Ärzte beschreiben könnten, beschäftigte sie in diesem Moment nicht.
+Eva dachte trotzdem nicht daran.
