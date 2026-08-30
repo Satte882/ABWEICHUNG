@@ -4,7 +4,7 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene vollständig geplant → AWAITING_FRESH_CONTEXT_BEAT_REVIEW**
+**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → READY_FOR_HUMAN_G2**
 
 - 18 Bausteine
 - 54 Ereignisse
@@ -15,6 +15,9 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 - R-06 medizinische Ankerfälle geschlossen
 - Fresh-Context-Szenenreview: `CLEAN_FRESH_CONTEXT`, 0 Findings
 - Same-Context-Beat-Review: 0 mandatory findings
+- Fresh-Context-Beat-Review: `CLEAN_FRESH_CONTEXT`, 1 Finding
+- BEAT-SR-001: bestätigt und auf Beat-Ebene korrigiert
+- offene Story-/Szenen-/Beat-Blocker: none
 - Prosa bewusst noch nicht begonnen
 
 ## Arbeitsprinzip
@@ -55,13 +58,17 @@ ABWEICHUNG/
     └── 18_.../
 ```
 
-Die Storywahrheit ist damit bis auf Beat-Ebene horizontal über den gesamten Roman heruntergebrochen. `PROSA.md` wird weiterhin **nicht vorgezogen**.
+Die Storywahrheit ist damit bis auf Beat-Ebene horizontal über den gesamten Roman heruntergebrochen und unabhängig geprüft. `PROSA.md` wird weiterhin **nicht vorgezogen**.
 
 ## Nächster Prüfpunkt
 
-Die vollständige Beat-Ebene wird einmal unabhängig im Fresh Context geprüft (`BEAT_FRESH_CONTEXT_TASK.md`).
+Human Gate **G2 / Prose Ready**.
 
-Wenn dieser Review keine offenen Blocker ergibt, folgt der Human Gate **G2 / Prose Ready**. Erst nach G2 beginnt die Prosaebene.
+Freigabetoken:
+
+`G2-APPROVE`
+
+Erst nach G2 beginnt die Prosaebene.
 
 ## Reihengedanke
 
