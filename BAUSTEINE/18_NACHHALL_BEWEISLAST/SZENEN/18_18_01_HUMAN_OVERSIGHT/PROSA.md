@@ -13,9 +13,7 @@ Eva hatte alle relevanten Daten gesehen.
 
 KORA hatte den entfernten Patienten mit hoher Konfidenz priorisiert.
 
-Eva hatte keinen medizinischen Gegenbeleg benennen können.
-
-Keinen zulässigen patientenspezifischen Wert-/Kontextgrund.
+Eva hatte weder einen medizinischen Gegenbeleg noch einen zulässigen patientenspezifischen Wert-/Kontextgrund benennen können.
 
 Nele hatte die Zweitfreigabe nach geltender Regel verweigert.
 
@@ -81,13 +79,7 @@ Wieder diese unangenehme Eigenschaft der ganzen Geschichte: Die stärksten Sätz
 
 Eva sah auf ihre eigene Entscheidung im Bericht.
 
-Kein Break-glass.
-
-Kapazität an den entfernten Standort.
-
-Lokaler Patient später verstorben.
-
-Entfernter Patient überlebt.
+Kein Break-glass. Kapazität an den entfernten Standort. Lokaler Patient später verstorben. Entfernter Patient überlebt.
 
 „Vielleicht war die Entscheidung richtig“, sagte Eva.
 
