@@ -7,94 +7,88 @@ source_beats: `BEATS.md`
 
 ---
 
-Jan brauchte weniger als eine Minute, um Evas Frage unangenehm zu machen.
+Eva stellte Jan nur eine Frage.
 
-„Natürlich kann ein späterer Wert die Konfidenz verändern.“
+„Was passiert mit KORAs Konfidenz, wenn nach einer Intervention neue reale Werte kommen?“
 
-„Wie stark?“
+Jan öffnete einen anonymisierten Verlauf.
 
-„Kommt auf den Fall an.“
+„Das hier.“
 
-„Zeig mir einen.“
+Er setzte eine Markierung auf den ersten Zeitpunkt.
 
-Er öffnete einen anonymisierten Verlauf.
+Der Patient war instabil. KORA empfahl eine Eskalation mit hoher Konfidenz. In der damals geltenden Risikoklasse hätte eine Abweichung eine Zweitfreigabe ausgelöst.
 
-Vor einer Intervention lag die KORA-Empfehlung deutlich im high-confidence Bereich. Danach besserten sich reale Messwerte. Die Empfehlung blieb ähnlich, die Konfidenz sank.
+Jan schob die Markierung weiter.
 
-„Und das ist korrekt?“
+Eine Intervention. Neue Messwerte. Reale Besserung.
 
-„Wenn die neuen Daten korrekt sind: ja.“
+Die Empfehlung blieb ähnlich, die Konfidenz sank.
 
-„Dann kann ein Fall vor der Intervention eine Zweitfreigabe auslösen und danach nicht mehr.“
+Am zweiten Zeitpunkt lag der Konflikt unter der Schwelle.
 
-„Ja.“
+„Beide Ansichten sind medizinisch korrekt“, sagte Jan. „Sie beschreiben zwei unterschiedliche Zustände desselben Patienten.“
 
-Eva verschränkte die Arme.
+Eva zog den Bildschirm näher.
 
-„Wer entscheidet, welcher Zeitpunkt zählt?“
+Vor der Intervention: Zweitfreigabe.
 
-Jan sah sie jetzt genauer an.
+Danach: keine Zweitfreigabe.
 
-„Für was?“
+Der Unterschied war nicht durch einen Rechenfehler entstanden. Der Patient hatte sich tatsächlich verändert.
 
-„Für die Entscheidung.“
-
-„Der tatsächliche klinische Entscheidungszeitpunkt.“
-
-„Und wenn jemand erst nach einer Intervention dokumentiert, dass er schon vorher entschieden hatte, nicht zu eskalieren?“
-
-Jan antwortete nicht sofort.
-
-Dann drehte er den Bildschirm zu sich und schloss den Beispielverlauf.
-
-„Dann haben wir kein Modellproblem.“
-
-„Was dann?“
-
-„Ein Prozesswahrheitsproblem.“
-
-Eva mochte den Begriff nicht, verstand ihn aber sofort.
-
-„Die Daten können real sein“, sagte Jan. „Der spätere Snapshot kann medizinisch völlig korrekt sein. Wenn er aber so behandelt wird, als wäre er die Informationslage zum ursprünglichen Entscheidungspunkt gewesen, bildet der Prozess die Entscheidung falsch ab.“
-
-„Kann KORA das erkennen?“
-
-„Nicht zuverlässig, wenn die Dokumentation selbst den Zeitpunkt setzt.“
-
-Eva sah zum Fenster.
-
-Felix hatte ihr genau erklärt, dass er nach Interventionen neu bewertete.
-
-Das war klinisch plausibel.
-
-Es konnte auch genau die Lücke sein, die Jan gerade beschrieben hatte.
-
-„Du denkst an jemanden.“
-
-Eva sah ihn an.
-
-„Ich denke an eine Frage.“
+„Dann hängt die Governance am Zeitpunkt.“
 
 Jan nickte.
 
-„Dann bleib bei der Frage, bis du Daten hast.“
+Eva ließ den Verlauf noch einmal von vorn laufen. Instabilität. Entscheidungslage. Intervention. Besserer Snapshot.
 
-„Das hatte ich vor.“
+„Welcher Zeitpunkt zählt für die Abweichung?“
 
-Sie ging zur Tür.
+„Der Zeitpunkt, an dem die klinische Entscheidung tatsächlich getroffen wird.“
 
-„Eva.“
+Jan legte zwei Finger auf die Timeline.
 
-Sie drehte sich um.
+„Wenn ein Arzt erst hier entscheidet“ – er zeigte auf den späteren Punkt – „ist der spätere Zustand die richtige Grundlage. Wenn die Entscheidung schon hier gefallen ist“ – zurück zum ersten Marker – „und erst später dokumentiert wird, dann stimmt die Prozessabbildung nicht mehr mit der Entscheidung überein.“
 
-„Neue Werte sind nicht verdächtig, nur weil sie eine Regel nicht auslösen.“
+Eva verstand die Lücke sofort.
+
+Die Daten konnten in beiden Momenten echt sein.
+
+Der spätere Snapshot konnte medizinisch sauber sein.
+
+Trotzdem konnte er eine frühere Entscheidung so aussehen lassen, als sei sie erst unter den günstigeren Bedingungen getroffen worden.
+
+„Kann KORA das unterscheiden?“
+
+„Nicht zuverlässig, wenn die Dokumentation selbst den Entscheidungspunkt vorgibt.“
+
+Jan schloss den Verlauf.
+
+„Das wäre kein Modellfehler. Das wäre ein Problem der Prozesswahrheit.“
+
+Eva mochte das Wort nicht. Es war trotzdem präzise.
+
+Felix hatte ihr erklärt, dass er nach Interventionen neu bewertete. Klinisch war das plausibel. Jeder gute Arzt tat es.
+
+Genau deshalb war die Lücke gefährlich: Dasselbe Verhalten konnte völlig sauber sein oder eine relevante Schutzstufe umgehen. Der Unterschied lag nicht in den späteren Werten. Er lag darin, wann die eigentliche Entscheidung gefallen war.
+
+Jan beobachtete sie einen Moment.
+
+„Eine mögliche Lücke ist noch kein Beleg gegen jemanden.“
 
 „Weiß ich.“
 
-„Gut.“
+„Neue Werte auch nicht.“
 
-Eva ging.
+Eva stand auf.
 
-Sie hatte weiterhin keinen Beleg gegen Felix.
+„Ich suche keinen Schuldigen.“
 
-Nur eine Lücke, in die ein Beleg passen könnte.
+Sie nahm ihre Unterlagen.
+
+„Ich will wissen, ob wir den richtigen Zeitpunkt sehen.“
+
+Als sie ging, hatte sie gegen Felix weiterhin nichts in der Hand.
+
+Nur eine Frage, die sich später prüfen ließ.
