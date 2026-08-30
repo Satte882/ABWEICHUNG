@@ -4,14 +4,17 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → G3 APPROVED → VOLLMANUSKRIPT-PROSA IN ARBEIT**
+**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → G3 APPROVED → 40/40 PROSA → MANUSKRIPT-HARDENING COMPLETE → AWAITING FRESH-CONTEXT MANUSCRIPT REVIEW**
 
 - 18 Bausteine
 - 54 Ereignisse
 - 40 Szenen
 - 253 Beats
+- 40/40 Szenen mit `PROSA.md`
 - 3 G3-Stilreferenz-Szenen freigegeben
-- 37 weitere Szenen werden jetzt in derselben Stilrichtung ausformuliert
+- 37 weitere Szenen vollständig ausformuliert
+- Whole-Manuscript-Hardening auf Prosaebene durchgeführt
+- gehärteter Prosa-Zielstand: `1937fec17d283613a31e30e3346d4b521fc61176`
 - 6 plotrelevante Kernrollen
 - 3 Informationsstränge: Outcome / Governance / Externalität
 - R-06 medizinische Ankerfälle geschlossen
@@ -20,14 +23,15 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 - offene Story-/Szenen-/Beat-Blocker: none
 - Human Gate G2 / Prose Ready: APPROVED
 - Human Gate G3 / Prosa-Stil: APPROVED
+- Human Gate G4 / Manuskript: **noch nicht freigegeben**
 
 ## Arbeitsprinzip
 
-Die Story wird konsequent **vom Groben ins Feine** aufgebaut:
+Die Story wurde konsequent **vom Groben ins Feine** aufgebaut:
 
 `Buchidee / Gesamtarchitektur → Baustein → Ereignisse → Szene → Beats → Prosa`
 
-Die Story ist bis auf Beat-Ebene horizontal geschlossen. Die G3-Stichprobe hat die sprachliche Richtung freigegeben. Jetzt wird die Prosa auf alle verbleibenden Szenen skaliert.
+Story, Szenen und Beats sind horizontal geschlossen. Die Prosa ist über alle 40 Szenen vorhanden und wurde nach der ersten Gesamtlektüre auf manuskriptweite Wiederholungsmuster gehärtet.
 
 ## Stilreferenz G3
 
@@ -35,24 +39,43 @@ Die Story ist bis auf Beat-Ebene horizontal geschlossen. Die G3-Stichprobe hat d
 - `S019 – Die Bilanz`: analytischer Midpoint
 - `S023 – Würden Sie es wieder tun?`: persönliche Konfrontation
 
-Diese drei Szenen sind die interne Kalibrierung für Direktheit, Rhythmus, Dialog, Informationsdichte und Evas POV.
+Diese drei Szenen bleiben die interne Kalibrierung für Direktheit, Rhythmus, Dialog, Informationsdichte und Evas POV.
 
 ## Prosa-Regel
 
 Prosa konkretisiert Sprache, Rhythmus, Dialog, Atmosphäre und Wahrnehmung. Sie darf keine neue relevante Storyentscheidung stillschweigend einführen.
 
-Wenn beim Schreiben eine echte Storyänderung notwendig erscheint, muss sie explizit auf die betroffene vorgelagerte Ebene zurückgeführt werden.
+Wenn beim Schreiben oder Rework eine echte Storyänderung notwendig erscheint, muss sie explizit auf die betroffene vorgelagerte Ebene zurückgeführt werden.
+
+## Manuskript-Hardening
+
+Nach der 40/40-Fassung wurden insbesondere folgende manuskriptweite Risiken bearbeitet:
+
+- interne Produktions-/Architekturlabels im Romantext,
+- zu häufiges Dialog-Pingpong in Governance-/Analyse-Szenen,
+- Wiederholung des Szenentyps `Daten/Regel → Rückfragen → Klärung`,
+- wiederkehrende Scharnierformulierungen wie `Eva sah / nickte / schwieg`,
+- wiederkehrende Kontrastformeln,
+- bereits bekannte Negationsketten und medizinische Timing-Formulierungen.
+
+Die Änderungen blieben auf Prosaebene. Es war kein G2-Backtrack nötig.
 
 ## Aktuelle Phase
 
-**Vollmanuskript-Prosa.**
+**Unabhängiger Gesamtmanuskript-Review vor G4.**
 
-Nach vollständiger Prosa folgen:
+Der Auftrag liegt in:
 
-1. Vollmanuskript-Audit,
-2. semantischer Gesamt-/Fresh-Context-Review,
-3. Rework,
-4. Human Gate **G4 – Manuskript**.
+`MANUSCRIPT_FRESH_CONTEXT_TASK.md`
+
+Er prüft den festen Prosa-Zielstand `1937fec17d283613a31e30e3346d4b521fc61176` und muss in einer wirklich kontextfreien Session ausgeführt werden.
+
+Danach:
+
+1. Findings dispositionieren und gegebenenfalls Prosa reworken,
+2. bei sauberem Ergebnis `READY_FOR_HUMAN_G4`,
+3. Human Gate **G4 – Manuskript**,
+4. danach erst Produktion / G5.
 
 ## Reihengedanke
 
