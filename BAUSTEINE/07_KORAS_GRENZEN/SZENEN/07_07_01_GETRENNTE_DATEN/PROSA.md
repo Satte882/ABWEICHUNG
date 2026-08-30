@@ -1,66 +1,76 @@
 # Prosa – S014
 
 scene_id: S014
-prose_status: full_manuscript_draft
+prose_status: full_manuscript_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Eva legte Jan einen Ausdruck auf den Tisch. Drei Stellen waren mit Stift eingekreist.
+KORA zeigte gelb.
 
-„Die Zahl ist zu grob.“
+Nicht rot. Keine hohe Konfidenz. Eine Empfehlung mit deutlich markierter Unsicherheit.
 
-Jan überflog ihre Markierungen.
+Eva stand neben Nele am Arbeitsplatz und las die Einflussfaktoren ein zweites Mal. Der aktuelle Befund passte nicht sauber in die Richtung, die das System bevorzugte. Nichts Dramatisches. Kein Systemfehler. Genau die Art Fall, bei der KORA selbst sichtbar machte, dass die Lage nicht eindeutig war.
 
-Unter die erste hatte sie **Entscheidungstyp** geschrieben, unter die zweite **Konfidenz**, unter die dritte **Fallmix**.
+„Ich würde anders gehen“, sagte Nele.
 
-„Du willst die Gesamtübersicht zerlegen.“
+Eva nickte nicht sofort.
 
-„Ja. Wir reden ständig davon, dass KORA besser ist, als wären Ressourcenentscheidungen, Eskalationen und Priorisierungen ein und dieselbe Sache. Vielleicht sind menschliche Abweichungen in einzelnen Klassen besser. Vielleicht nur bei bestimmter Konfidenz. Vielleicht verschwindet der Effekt, wenn du die Fälle sauber trennst.“
+Sie ließ sich den Verlauf zeigen, ging die Untersuchung mit ihr durch und stellte nur die Fragen, die für den Fall nötig waren.
 
-Jan las die Notizen ein zweites Mal.
+Dann sagte sie: „Mach es.“
 
-„Das ist eine Hypothese mit ziemlich gewünschtem Ergebnis.“
+Nele dokumentierte die Abweichung.
 
-Eva setzte sich ihm gegenüber. „Natürlich wünsche ich mir, dass sie stimmt. Deshalb sollst du sie rechnen und nicht ich.“
+Die neue Begründungsmaske nahm den Grund auf, KORA blieb bei niedriger Konfidenz, und der klinische Ablauf ging weiter.
 
-Er drehte den Ausdruck um und schrieb die drei Schnitte untereinander.
+Später am selben Abend sah Eva in einer Präsentation von Patientensicherheit wieder die große Gesamtzahl zur KORA-Performance.
 
-„Entscheidungstyp. Konfidenz. Fallmix. Die Gruppen werden kleiner. Einige werden statistisch kaum noch etwas hergeben.“
+Ein Wert über alles.
 
-„Dann sagen wir genau das.“
+Ressourcenentscheidungen. Eskalationen. Priorisierungen. Hohe Konfidenz. Niedrige Konfidenz.
 
-Jan ergänzte einen vierten Punkt: **Unsicherheit ausweisen**.
+Der Fall von vorhin hätte darin nur als weitere Abweichung gezählt.
 
-Eva deutete darauf. „Gut.“
+Eva schloss die Folie und öffnete stattdessen eine leere Nachricht an Jan.
 
-Er sah jetzt zum ersten Mal wieder auf. „Wenn high confidence am Ende genau der Bereich ist, in dem deine These nicht hält, bekommst du keine freundlichere Auswertung von mir.“
+Sie schrieb drei Überschriften.
 
-„Will ich nicht.“
+**Entscheidungstyp.**
 
-„Das merke ich mir.“
+**Konfidenz.**
 
-Eva hatte mit mehr Widerstand gerechnet. Stattdessen öffnete Jan bereits die Datenstruktur und begann, die vorhandenen Gruppen zu prüfen.
+**Fallmix.**
 
-„Du verteidigst das System gar nicht“, sagte sie.
+Darunter setzte sie einen vierten Punkt.
 
-„Ich verteidige keine Antwort, bevor ich die Frage gerechnet habe.“
+**Unsicherheit sichtbar ausweisen.**
 
-Eva musste lächeln. „Deshalb mag ich dich gelegentlich.“
+Sie lehnte sich zurück.
 
-„Das dokumentiere ich ebenfalls.“
+Die Frage war nicht, ob KORA Fehler machte. Das tat jedes probabilistische System.
 
-Sie stand auf.
+Die brauchbare Frage war enger: In welchen Entscheidungsklassen half menschliches Abweichen tatsächlich, und wo war es nur ein anderes Wort für schlechtere Treffer?
 
-An der Tür blieb sie noch einmal stehen. „Ich will am Ende nicht nur wissen, wie oft KORA gewinnt. Ich will wissen, wo ein Arzt durch Abweichen tatsächlich etwas verbessert.“
+Eva formulierte den Auftrag so präzise, dass Jan ihn nicht freundlich interpretieren konnte.
 
-Jan hatte den Blick schon wieder auf den Daten. „Und wenn die Antwort lautet: fast nirgends bei high confidence?“
+Keine Gesamtzahl. Keine Vermischung von low und high confidence. Keine Auswertung, in der unterschiedliche Risiken durch den Mittelwert verschwanden.
 
-Eva legte die Hand an den Türrahmen.
+Sie fügte hinzu:
 
-„Dann reden wir darüber.“
+**Wenn meine Hypothese nicht hält, will ich genau das sehen.**
 
-Sie ging.
+Dann schickte sie die Nachricht.
 
-Zum ersten Mal seit Einführung der Zweitfreigabe fühlte sich der Konflikt wieder wie etwas an, das sie beherrschte: eine Behauptung, die an Daten scheitern durfte.
+Jan antwortete wenige Minuten später.
+
+**Methodisch sinnvoll. Gruppen werden kleiner. Ich weise Grenzen separat aus. Ergebnis offen.**
+
+Eva las die Antwort und steckte das Telefon weg.
+
+Das gefiel ihr.
+
+Zum ersten Mal seit Einführung der Zweitfreigabe hatte sie wieder eine Gegenposition, die nicht auf einem Grundsatz beruhte.
+
+Sie konnte an Daten scheitern.
