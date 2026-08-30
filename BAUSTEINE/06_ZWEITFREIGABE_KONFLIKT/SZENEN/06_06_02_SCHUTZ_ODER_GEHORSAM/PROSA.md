@@ -9,90 +9,66 @@ source_beats: `BEATS.md`
 
 Die erste Zweitfreigabe, die Eva im Alltag sah, dauerte weniger als zwei Minuten.
 
-Der Erstentscheider rief eine Kollegin an. Beide öffneten denselben Fall. Zwei Fragen, ein kurzer Austausch, Zustimmung.
+Der Erstentscheider stand am Arbeitsplatz, das Telefon zwischen Schulter und Ohr. Auf dem zweiten Bildschirm hatte seine Kollegin denselben Fall geöffnet. Er nannte den Befund, der für ihn gegen KORAs Empfehlung sprach. Sie prüfte die Daten, stellte eine einzige Nachfrage und gab frei.
 
 Der Override lief durch.
 
-Felix stand daneben.
+Auf der Station änderte sich nichts sichtbar. Ein Telefonat, zwei Namen in der Dokumentation, dann ging die Arbeit weiter.
 
-„Siehst du?“ sagte Eva. „Welt nicht untergegangen.“
+Felix hatte den Ablauf vom anderen Ende des Tresens beobachtet.
 
-„Das war eine Zustimmung.“
+„Heute hat sie zugestimmt“, sagte er. „Das ist die harmlose Version.“
 
-„Ja.“
+Eva kannte seine eigentliche Kritik bereits.
 
-„Interessant wird es, wenn die zweite Person nein sagt.“
+Felix erklärte sie trotzdem. Der Erstentscheider müsse jetzt nicht mehr nur medizinisch überzeugt sein. Er müsse jemanden finden, der bereit war, dieselbe Abweichung mitzutragen. Noch bevor eine zweite Person Nein sagte, verändere ihre notwendige Zustimmung das Verhalten der ersten.
 
-Nele kam mit einem Becher Kaffee dazu.
+„Aus einer individuellen Entscheidung wird eine soziale“, sagte Eva.
 
-„Oder wenn sie verhindert, dass du allein einen Fehler machst.“
+Felix nickte.
 
-Felix sah sie an.
+Nele stellte ihren Kaffeebecher ab. Sie hatte bisher geschwiegen.
 
-„Du findest das gut?“
+„Bei meinem Fall wäre mir genau das lieber gewesen.“
 
-Nele nahm einen Schluck. „Ich finde es unangenehm.“
+Felix wandte sich zu ihr.
 
-„Das war nicht die Frage.“
+Nele hielt seinem Blick stand.
 
-„Ich weiß.“
+„Nicht weil ein zweiter Arzt automatisch recht gehabt hätte. Ich hätte meinen Grund laut sagen müssen. Vor jemandem, der nicht schon in meiner Entscheidung steckte.“
 
-Sie stellte den Becher ab.
+Ihre Finger lagen um den Becher, ohne dass sie trank.
 
-„Bei meinem Fall hätte ich mir gewünscht, jemand hätte mich gezwungen, meine Begründung laut zu sagen.“
+„Vielleicht hätte die Person zugestimmt. Vielleicht nicht. Aber ich wäre mit meiner vorübergehenden Stabilisierung nicht allein durch den Prozess gegangen.“
 
-Felix' Gesicht veränderte sich kaum.
+Felix zog den Mund schmal.
 
-„Hinterher wünscht man sich vieles.“
+„Hinterher ist jede zusätzliche Kontrolle leicht zu mögen.“
 
-„Hinterher weiß man manchmal auch mehr über die eigenen blinden Flecken.“
+Nele antwortete erst nach einem Moment.
 
-Eva sah zwischen beiden hin und her.
+„Hinterher weiß ich zumindest, was eine isolierte Fehlentscheidung kostet.“
 
-„Die Regel ist nicht dafür da, Nele ihren Fall jeden Tag neu vorzuhalten.“
+Der Satz blieb zwischen ihnen stehen.
 
-„Tue ich nicht“, sagte Felix.
+Hinter dem Tresen rief jemand nach einer Übergabe. Eine Pflegekraft schob einen Wagen vorbei. Auf einem Monitor wechselte ein Statusfeld. Der Stationsbetrieb wartete nicht darauf, dass sie den Grundkonflikt lösten.
 
-Nele antwortete ebenfalls nicht.
+Eva verstand Felix' Punkt. Eine zweite Person war keine neutrale Ergänzung. Sie verschob die Schwelle, ab der ein Arzt bereit war, sich gegen eine starke Empfehlung zu stellen.
 
-Ein paar Sekunden lang hörten sie nur die Geräusche aus dem Stationsbereich.
+Und sie verstand Nele.
 
-Dann sagte Felix: „Das Problem ist doch einfach. Wenn ich künftig abweichen will, brauche ich jemanden, der bereit ist, mit mir gegen eine high-confidence Empfehlung zu gehen. Das verändert die Entscheidung schon, bevor wir über Medizin reden.“
+Die zusätzliche Reibung konnte genau dort Schutz sein, wo ein einzelner Mensch seinen eigenen Grund bereits für ausreichend hielt.
 
-„Ja“, sagte Eva.
+„Beides ist wahr“, sagte Eva.
 
-Nele sah sie an.
+Felix reagierte mit einem leisen Schnauben.
 
-Eva fuhr fort: „Es macht aus einer individuellen Entscheidung eine soziale. Das ist eine echte Veränderung.“
+Nele nahm den Becher wieder auf.
 
-Felix nickte, als hätte er einen Punkt gewonnen.
+Vor einigen Monaten hätte der Streit KORA gegolten: Maschine gegen Arzt, Empfehlung gegen klinisches Urteil.
 
-„Aber“, sagte Eva, „Neles Punkt ist auch echt.“
+Jetzt lief KORA im Hintergrund weiter.
 
-Sein Nicken hörte auf.
+Der Streit hatte sich verschoben.
 
-„Ein zweiter Blick kann Schutz sein.“
-
-„Vor dem Arzt?“
-
-„Vor einer schlechten Entscheidung.“
-
-Felix lachte leise.
-
-„Und wer entscheidet, was schlecht ist?“
-
-„Im Moment noch zwei Ärzte.“
-
-Nele sah auf das KORA-Display am Arbeitsplatz.
-
-„Vielleicht ist genau das besser als einer.“
-
-Felix wandte sich ab.
-
-Eva blieb stehen.
-
-Vor einigen Monaten hätte die Diskussion gelautet: Hat KORA recht oder der Arzt?
-
-Jetzt war KORA kaum noch Gegenstand des Streits.
-
-Die Frage war, welche Regeln ein Mensch erfüllen musste, um anders entscheiden zu dürfen.
+Es ging darum, was ein Mensch tun musste, bevor seine Abweichung als verantwortliche Entscheidung gelten durfte.
