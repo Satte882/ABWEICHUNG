@@ -1,84 +1,116 @@
 # Prosa – S032
 
 scene_id: S032
-prose_status: full_manuscript_draft
+prose_status: full_manuscript_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Eva legte Miriam einen handschriftlichen Satz auf den Tisch.
+Der Patient auf dem Bildschirm existierte nicht.
 
-**Akute Lage. Zweitperson nicht rechtzeitig erreichbar. Abweichung muss technisch sofort möglich bleiben.**
+Das machte die Entscheidung leichter.
 
-Miriam las ihn.
+Nur nicht harmlos.
 
-„Das ist mein letzter Punkt zur SOP“, sagte Eva. „Wenn dieser Weg nicht real ist, können wir aufhören, von menschlicher Letztentscheidung zu sprechen.“
+Jan hatte den Testfall so gebaut, dass die neue Governance an ihrer engsten Stelle geprüft wurde: high confidence, hohe Schadensrelevanz, Zweitfreigabe erforderlich.
 
-Sie setzte sich nicht.
+Und im Szenario war keine zweite Person rechtzeitig verfügbar.
 
-Miriam nahm einen Stift und zog unter **technisch sofort möglich** eine Linie.
+Eva stand vor dem Testsystem. Miriam hinter ihr, Jan am zweiten Bildschirm.
 
-„Dann ohne vorherige Freigabe.“
+„Los“, sagte Jan.
 
-„Ja.“
+KORA zeigte die Empfehlung.
 
-Miriam schrieb darunter drei Folgen.
+Eva öffnete den regulären Override-Weg.
 
-**automatisch markiert**
+**Zweitfreigabe erforderlich.**
 
-**unmittelbarer Review**
+Darunter lief die simulierte Erreichbarkeitsprüfung ins Leere.
 
-**persönlich zurechenbar**
+Kein verfügbarer Zweitentscheider im vorgesehenen Zeitfenster.
 
-Eva las mit.
+Eva wartete, bis der Hinweis stehen blieb.
 
-Kein anonymer Notfallmodus. Keine zweite Person, hinter der man die Entscheidung teilen konnte. Wer den Weg nutzte, bekam die Handlung sofort durch und den Fall ebenso sofort zurück.
+Dann scrollte sie weiter.
 
-„Damit kann ich leben“, sagte Eva.
-
-Miriam legte den Stift weg.
-
-„Du weißt, was das mit der Nutzung macht.“
-
-„Natürlich.“
-
-Ein Break-glass, der unsichtbar blieb, wäre nur eine Hintertür gewesen. Eva wollte eine echte Letztentscheidung, keine Möglichkeit, Verantwortung aus dem System zu drücken.
-
-„Der Review darf den Knopf nicht rückwirkend zu einem Regelbruch machen“, sagte sie. „Wenn er vorgesehen ist, ist seine Nutzung vorgesehen.“
-
-„Die Nutzung ist erlaubt. Die Begründung wird geprüft.“
-
-Eva nickte.
-
-Das war der Preis.
-
-Sie hatte verlangt, im Ausnahmefall ohne Zustimmung handeln zu können. Miriam verlangte im Gegenzug, dass genau diese einsame Entscheidung später vollständig sichtbar war.
-
-Wenige Tage später erschien der Mechanismus in der Oberfläche.
-
-Eva öffnete ihn zwischen zwei Fällen, nur um zu prüfen, was aus ihrem Satz geworden war.
-
-Unterhalb des regulären Zweitfreigabewegs stand:
+Unterhalb des regulären Wegs erschien die Option, wegen der sie diesen Test verlangt hatte.
 
 **SOLO-BREAK-GLASS – unmittelbare Abweichung mit automatischem Review**
 
-Sie klickte auf die Erklärung.
+Eva öffnete die Erklärung.
 
-Keine zweite Person musste bestätigt werden. Keine technische Sperre erschien. Nach der eigenen Bestätigung würde die Abweichung sofort wirksam. Gleichzeitig ging der Fall in die persönliche Nachprüfung.
+Keine Freigabe im Hintergrund. Keine verdeckte Wartezeit. Kein Feld, das einen zweiten Namen verlangte.
 
-Eva ließ den Cursor über der Option stehen.
+Sie klickte.
 
-Der Weg war real.
+**Abweichung sofort wirksam machen?**
+
+Eva bestätigte.
+
+Der simulierte Behandlungspfad wechselte unmittelbar.
+
+Fast gleichzeitig erschien rechts ein neuer Eintrag.
+
+**Persönlicher Reviewfall erstellt.**
+
+Darunter ihr Name.
+
+Zeitpunkt. Fallklasse. KORA-Konfidenz. dokumentierte Abweichung.
+
+Eva las die Zeile zweimal.
+
+„Kann irgendjemand die Abweichung vor Wirksamkeit noch stoppen?“
+
+Jan schüttelte den Kopf. „Nicht in diesem Weg.“
+
+Mehr musste sie technisch nicht wissen.
+
+Der Knopf war real.
+
+Miriam trat neben sie.
+
+„Und der Review auch.“
+
+Eva deutete auf den neuen Eintrag. „Den sehe ich.“
+
+Sie öffnete ihn.
+
+Der Fall war bereits vollständig markiert. Kein anonymer Notfallmodus. Kein späteres Vergessen, dass die Entscheidung allein getroffen worden war.
+
+Genau das hatte Eva verlangt: eine letzte Möglichkeit zu handeln, wenn die reguläre Zweitfreigabe in einer akuten Lage nicht erreichbar war.
+
+Und genau das hatte Falkenried daraus gemacht: eine Handlung, die sofort möglich und sofort sichtbar war.
+
+Eva schloss den Testfall.
+
+„Noch einmal“, sagte sie.
+
+Jan hob die Augenbrauen.
+
+„Warum?“
+
+„Weil ich wissen will, ob es beim zweiten Mal genauso funktioniert.“
+
+Sie testeten einen weiteren Durchlauf.
+
+Gleicher Mechanismus. Sofortige Abweichung. Sofortiger Reviewfall.
+
+Danach brauchte Eva keinen dritten.
+
+Sie trat vom Bildschirm zurück.
 
 Niemand hatte ihr die Letztentscheidung technisch genommen.
 
-Aber der Knopf trug jetzt bereits die Frage in sich, die nach jedem Einsatz kommen würde:
+Aber der Weg dorthin trug die spätere Frage bereits eingebaut:
 
 Warum war dein Grund stark genug, allein abzuweichen?
 
-Eva schloss das Fenster.
+Eva sah noch einmal auf den geschlossenen Testfall.
 
-Sie hatte bekommen, was sie verlangt hatte.
+Der Knopf war da.
 
-Es fühlte sich weniger nach Freiheit an als früher.
+Das reichte ihr.
+
+Fast.
