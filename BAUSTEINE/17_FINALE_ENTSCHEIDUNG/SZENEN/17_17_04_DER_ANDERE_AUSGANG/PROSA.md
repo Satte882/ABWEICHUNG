@@ -67,17 +67,9 @@ Die erschöpfte Atmung. Die Hand. Das Bettgitter nach seinem Tod.
 
 Dann zwang sie sich, den anderen Verlauf nicht aus dem Kopf zu schieben.
 
-Keine Hand.
+Von ihm hatte sie weder eine Hand in Erinnerung noch ein Gesicht. Trotzdem war dort ein Mensch, der weiterlebte.
 
-Kein Gesicht.
-
-Aber ein Mensch, der weiterlebte.
-
-Zum ersten Mal hatte sie beide Enden derselben Entscheidung gleichzeitig.
-
-Nicht erst Monate später in einer Statistik.
-
-Nicht als abstrakte Externalität.
+Zum ersten Mal hatte sie beide Enden derselben Entscheidung gleichzeitig, nicht erst Monate später in einer Statistik oder als abstrakte Externalität.
 
 Einen Tod, den sie gesehen hatte.
 
