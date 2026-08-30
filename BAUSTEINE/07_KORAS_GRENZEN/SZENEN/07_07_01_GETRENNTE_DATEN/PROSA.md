@@ -7,96 +7,60 @@ source_beats: `BEATS.md`
 
 ---
 
+Eva legte Jan einen Ausdruck auf den Tisch. Drei Stellen waren mit Stift eingekreist.
+
 „Die Zahl ist zu grob.“
 
-Jan sah von seinem Bildschirm auf.
+Jan überflog ihre Markierungen.
 
-Eva stand in seiner Tür mit einem Ausdruck der letzten Auswertung.
+Unter die erste hatte sie **Entscheidungstyp** geschrieben, unter die zweite **Konfidenz**, unter die dritte **Fallmix**.
 
-„Welche?“
+„Du willst die Gesamtübersicht zerlegen.“
 
-„Alle.“
+„Ja. Wir reden ständig davon, dass KORA besser ist, als wären Ressourcenentscheidungen, Eskalationen und Priorisierungen ein und dieselbe Sache. Vielleicht sind menschliche Abweichungen in einzelnen Klassen besser. Vielleicht nur bei bestimmter Konfidenz. Vielleicht verschwindet der Effekt, wenn du die Fälle sauber trennst.“
 
-„Hilfreich.“
+Jan las die Notizen ein zweites Mal.
 
-Sie legte das Blatt auf seinen Tisch.
+„Das ist eine Hypothese mit ziemlich gewünschtem Ergebnis.“
 
-„Wir reden ständig davon, dass KORA besser ist. Aber wir werfen Entscheidungen zusammen, die nicht dasselbe sind.“
+Eva setzte sich ihm gegenüber. „Natürlich wünsche ich mir, dass sie stimmt. Deshalb sollst du sie rechnen und nicht ich.“
 
-Jan zog das Papier zu sich.
+Er drehte den Ausdruck um und schrieb die drei Schnitte untereinander.
 
-„Das ist eine Gesamtübersicht.“
+„Entscheidungstyp. Konfidenz. Fallmix. Die Gruppen werden kleiner. Einige werden statistisch kaum noch etwas hergeben.“
 
-„Genau. Ich will keine Gesamtübersicht.“
+„Dann sagen wir genau das.“
 
-Er lehnte sich zurück. „Was willst du?“
+Jan ergänzte einen vierten Punkt: **Unsicherheit ausweisen**.
 
-Eva setzte sich.
+Eva deutete darauf. „Gut.“
 
-„Trenn nach Entscheidungstyp. Ressourcen, Eskalation, Priorisierung. Dann Konfidenz. Dann Fallmix.“
+Er sah jetzt zum ersten Mal wieder auf. „Wenn high confidence am Ende genau der Bereich ist, in dem deine These nicht hält, bekommst du keine freundlichere Auswertung von mir.“
 
-Jan wartete.
+„Will ich nicht.“
 
-„Und?“
+„Das merke ich mir.“
 
-„Und dann schauen wir, wo menschliche Abweichungen tatsächlich Mehrwert haben.“
+Eva hatte mit mehr Widerstand gerechnet. Stattdessen öffnete Jan bereits die Datenstruktur und begann, die vorhandenen Gruppen zu prüfen.
 
-„Du gehst davon aus, dass es solche Bereiche gibt.“
-
-„Ja.“
-
-„Das ist eine Hypothese.“
-
-„Natürlich.“
-
-„Wenn die Daten das Gegenteil zeigen?“
-
-Eva sah ihn an.
-
-„Dann zeigen sie das Gegenteil.“
-
-Jan drehte einen Stift zwischen den Fingern.
-
-„Du willst also die Evidenz benutzen, um die Evidenzpolitik anzugreifen.“
-
-„Ich will verhindern, dass ein Durchschnittswert zur Regel für jeden Fall wird.“
-
-Er nickte langsam.
-
-„Das ist fair.“
-
-Eva hatte mit mehr Widerstand gerechnet.
-
-„Keine Verteidigung des Systems?“
+„Du verteidigst das System gar nicht“, sagte sie.
 
 „Ich verteidige keine Antwort, bevor ich die Frage gerechnet habe.“
 
-„Deshalb mag ich dich gelegentlich.“
+Eva musste lächeln. „Deshalb mag ich dich gelegentlich.“
 
-„Ich werde das dokumentieren.“
+„Das dokumentiere ich ebenfalls.“
 
-Eva stand wieder auf.
+Sie stand auf.
 
-Jan öffnete bereits die Datenstruktur.
+An der Tür blieb sie noch einmal stehen. „Ich will am Ende nicht nur wissen, wie oft KORA gewinnt. Ich will wissen, wo ein Arzt durch Abweichen tatsächlich etwas verbessert.“
 
-„Ich brauche etwas Zeit.“
+Jan hatte den Blick schon wieder auf den Daten. „Und wenn die Antwort lautet: fast nirgends bei high confidence?“
 
-„Nimm sie.“
-
-„Und Eva?“
-
-Sie blieb in der Tür stehen.
-
-„Wenn high confidence am Ende genau der Bereich ist, in dem deine These nicht hält, dann ist das auch ein Ergebnis.“
-
-Eva nickte.
+Eva legte die Hand an den Türrahmen.
 
 „Dann reden wir darüber.“
 
 Sie ging.
 
-Zum ersten Mal seit Einführung der Zweitfreigabe hatte sie das Gefühl, wieder auf vertrautem Boden zu stehen.
-
-Nicht Autonomie gegen System.
-
-Eine prüfbare Frage.
+Zum ersten Mal seit Einführung der Zweitfreigabe fühlte sich der Konflikt wieder wie etwas an, das sie beherrschte: eine Behauptung, die an Daten scheitern durfte.
