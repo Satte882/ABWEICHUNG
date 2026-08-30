@@ -4,14 +4,15 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → nächste Ebene: SZENEN**
+**G0 APPROVED → G1 APPROVED → Szenenebene vollständig geplant**
 
-- 18 Bausteine: freigegeben
-- 54 Ereignisse: freigegeben
+- 18 Bausteine
+- 54 Ereignisse
+- 40 Szenen
 - 6 plotrelevante Kernrollen
 - 3 Informationsstränge: Outcome / Governance / Externalität
-- Fresh-Context-G1-Review durchgeführt; 2/2 Findings bestätigt und korrigiert
-- Szenen, Beats und Prosa noch nicht begonnen
+- R-06 medizinische Ankerfälle für die Szenenebene geschlossen
+- Beats und Prosa bewusst noch nicht begonnen
 
 ## Arbeitsprinzip
 
@@ -33,27 +34,29 @@ ABWEICHUNG/
 ├── STORY_PACKAGE.md
 ├── CHARACTERS.md
 ├── RESEARCH_REGISTER.md
+├── R06_MEDIZINISCHE_ANKERFAELLE.md
 ├── gates/
 └── BAUSTEINE/
     ├── 01_COLD_OPEN/
     │   ├── BAUSTEIN.md
-    │   └── EREIGNISSE/
-    │       └── EREIGNISSE.md
+    │   ├── EREIGNISSE/
+    │   │   └── EREIGNISSE.md
+    │   └── SZENEN/
+    │       ├── 01_01_01_DIE_LETZTE_KAPAZITAET/
+    │       │   └── SZENE.md
+    │       └── 01_01_02_DER_SICHTBARE_ERFOLG/
+    │           └── SZENE.md
     ├── 02_.../
     └── 18_.../
 ```
 
-Die nächste horizontale Ebene sind die Szenen. Eine konkrete Szene erhält später genau diese Struktur:
+Die Szenenebene ist jetzt über den gesamten Roman vorhanden. Jede Szene enthält zunächst nur `SZENE.md`. `BEATS.md` und `PROSA.md` werden **nicht vorgezogen**.
 
-```text
-SZENEN/
-└── 01_01_01/
-    ├── SZENE.md
-    ├── BEATS.md
-    └── PROSA.md   # erst nach vollständiger Beat-Ebene und den nachfolgenden Gates
-```
+## Nächste Ebene
 
-Keine parallelen Root-Ordner für Events, Beats oder Prosa. Figuren und Research bleiben als Querschnitt auf Meta-Ebene.
+Nach Review der vollständigen Szenenfolge folgt horizontal die **Beat-Ebene** über alle 40 Szenen.
+
+Erst danach wird G2 / Prose Ready geprüft. Prosa beginnt nicht vorher.
 
 ## Reihengedanke
 
