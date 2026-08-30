@@ -31,7 +31,7 @@ Eva rechnete im Kopf zurück. Zur Entscheidung. Zu ihrem Patienten. Zum Moment, 
 
 „Die Verzögerung ist kausal.“
 
-Eva sah sie an.
+Miriam hielt ihrem Blick stand.
 
 „Er ist nach der Verzögerung gestorben.“
 
@@ -57,17 +57,11 @@ Das klang nach juristischer Vorsicht. Nach einem Satz, den man in einen Bericht 
 
 „Rückblickend weiß KORA auch nicht, welche Zukunft eingetreten wäre, wenn wir anders entschieden hätten.“
 
-Eva sah wieder auf den Verlauf.
+Auf dem Verlauf standen zwei harte Fakten nebeneinander: Ihr eigener Patient hatte sich stabilisiert. Der andere war gestorben.
 
-Es hätte leichter sein sollen, wenn Miriam ihr eine klare Schuld gegeben hätte.
+Dazwischen lag eine Entscheidung, die Eva getroffen hatte.
 
-Oder eine klare Entlastung.
-
-Beides bekam sie nicht.
-
-Ihr eigener Patient hatte sich stabilisiert. Daran änderte sich nichts. Der andere war gestorben. Auch daran nicht.
-
-Zwischen beiden Fakten lag eine Entscheidung, die Eva getroffen hatte.
+Es hätte leichter sein sollen, wenn Miriam ihr klare Schuld oder klare Entlastung gegeben hätte. Beides bekam sie nicht.
 
 „Also was schreiben wir?“
 
@@ -89,29 +83,13 @@ Unten fuhren Krankenwagen in die Zufahrt. Von hier oben sahen sie klein aus.
 
 Eva drehte sich um. „Das ist alles?“
 
-„Was soll ich dir geben?“
-
-„Eine Antwort.“
-
-Miriam schüttelte den Kopf.
-
-„Die gibt es im Einzelfall nicht.“
+Miriam schüttelte den Kopf. „Mehr Gewissheit gibt der Einzelfall nicht her.“
 
 Eva ging zurück zum Tisch.
 
-Auf dem Bildschirm lagen die zwei Verläufe jetzt untereinander.
-
-Der eine endete mit Stabilisierung.
-
-Der andere mit Tod.
-
-KORA hatte die Reihenfolge vorher anders gesetzt.
-
-Eva hatte sie geändert.
+Auf dem Bildschirm lagen die zwei Verläufe untereinander. Stabilisierung hier, Tod dort. KORA hatte die Reihenfolge vorher anders gesetzt; Eva hatte sie geändert.
 
 „Dann haben wir ein Problem“, sagte sie.
-
-Miriam nickte.
 
 „Ja.“
 
@@ -119,6 +97,6 @@ Miriam nickte.
 
 „Dass eine Entscheidung verantwortlich sein kann, obwohl niemand beweisen kann, wie die andere Entscheidung ausgegangen wäre.“
 
-Eva sah wieder auf den Bildschirm.
+Eva ließ den Satz auf sich wirken.
 
 Zum ersten Mal reichte ihr der gute Ausgang vor dem eigenen Bett nicht mehr als vollständige Antwort.
