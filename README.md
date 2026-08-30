@@ -6,29 +6,78 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 **G0 APPROVED → G1 Story-Architektur vollständig → READY_FOR_HUMAN_G1**
 
-- 18 Story Blocks / Bausteine
+- 18 Bausteine B01–B18
 - 54 Events
 - 6 plotrelevante Kernrollen
 - 3 Informationsstränge: Outcome / Governance / Externalität
 - Fresh-Context-G1-Review durchgeführt; 2/2 Findings bestätigt und korrigiert
-- Beats, Szenen und Prosa bewusst noch nicht begonnen
+- Szenen, Beats und Prosa bewusst noch nicht begonnen
 
-## Arbeitsstruktur
+## Verbindliche Arbeitsstruktur
 
-| Ebene | Ordner | Kanonischer Stand |
-|---|---|---|
-| Konzept | [`01_KONZEPT/`](01_KONZEPT/) | `BOOK_IDEA.md`, G0 |
-| Bausteine | [`02_BAUSTEINE/`](02_BAUSTEINE/) | `STORY_PACKAGE.md`, `STORY_BLOCKS.md` |
-| Events/Sequenzen | [`03_EVENTS_SEQUENZEN/`](03_EVENTS_SEQUENZEN/) | `EVENTS.md` |
-| Beats | [`04_BEATS/`](04_BEATS/) | nach G1 |
-| Szenen | [`05_SZENEN/`](05_SZENEN/) | nach Beats / G2 |
-| Figuren | [`06_FIGUREN/`](06_FIGUREN/) | `CHARACTERS.md` |
-| Research | [`07_RESEARCH/`](07_RESEARCH/) | `RESEARCH_REGISTER.md` |
-| Reviews/Gates | [`08_REVIEWS_GATES/`](08_REVIEWS_GATES/) | G0/G1 Review-Artefakte |
-| Prosa | [`09_PROSA/`](09_PROSA/) | nach G2 |
-| Manuskript/Produktion | [`10_PRODUKTION/`](10_PRODUKTION/) | G4/G5 |
+Die Story wird **vom Groben ins Feine** aufgebaut. Die Ebenen stehen nicht parallel nebeneinander.
 
-**Wichtig:** Die Ordner sind die sichtbare Arbeits-/Navigationsstruktur. Die kanonischen Framework-Dateien bleiben im Repo-Root, damit keine doppelte Story-Wahrheit entsteht und der Pipeline-Contract kompatibel bleibt.
+```text
+ABWEICHUNG/
+├── README.md
+├── BOOK_IDEA.md
+├── STORY_PACKAGE.md
+├── CHARACTERS.md
+├── RESEARCH_REGISTER.md
+├── gates/
+│
+└── BAUSTEINE/
+    ├── B01/
+    │   ├── BAUSTEIN.md
+    │   ├── EVENTS.md
+    │   └── SZENEN/
+    │       └── S001/
+    │           ├── SZENE.md
+    │           ├── BEATS.md
+    │           ├── CHARACTER_STATES.md
+    │           └── PROSA.md
+    ├── B02/
+    │   └── ...
+    └── B18/
+        └── ...
+```
+
+Die Ordner `SZENEN/` und die darunterliegenden Dateien entstehen erst, wenn die jeweilige Ebene fachlich erreicht ist. Git hält keine leeren Ordner vor.
+
+## Ableitungsregel
+
+`Buchidee / Story Package → Baustein → Events / Sequenzen → Szenen → Beats → Prosa`
+
+Dabei gilt horizontal:
+
+> Erst eine Ebene über das gesamte Buch ausreichend schließen, dann die nächste Ebene ableiten.
+
+Das bedeutet insbesondere:
+
+- erst alle Bausteine und ihre Eventketten schließen,
+- dann Szenen über das gesamte Buch ableiten,
+- dann jede Szene in Beats präzisieren,
+- erst wenn G2 bestätigt, dass keine relevante Storyentscheidung mehr beim Schreiben erfunden werden muss, entsteht Prosa.
+
+**Prosa ist die unterste Ebene und niemals ein paralleler Arbeitsstrang.**
+
+## Source of Truth
+
+Meta-Ebene im Root:
+
+- `BOOK_IDEA.md` – Konzept
+- `STORY_PACKAGE.md` – Gesamtarchitektur
+- `CHARACTERS.md` – Figurenkern / Beziehungen
+- `RESEARCH_REGISTER.md` – Rechercheabhängigkeiten
+- `gates/` – Human-Gate-Records
+
+Story-Hierarchie:
+
+- `BAUSTEINE/Bxx/BAUSTEIN.md` – kanonischer Baustein
+- `BAUSTEINE/Bxx/EVENTS.md` – kanonische Event-/Sequenzebene dieses Bausteins
+- später `BAUSTEINE/Bxx/SZENEN/Sxxx/...` – Szene → Beats/States → Prosa
+
+Die Root-Dateien `STORY_BLOCKS.md` und `EVENTS.md` bleiben vorerst als **abgeleitete Gesamt-/Checker-Sicht** erhalten. Sie sind nicht die primäre Arbeitsquelle und dürfen nicht unabhängig von `BAUSTEINE/` weiterentwickelt werden.
 
 ## Reihengedanke
 
