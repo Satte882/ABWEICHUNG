@@ -9,166 +9,98 @@ source_beats: `BEATS.md`
 
 Evas Name stand auf der ersten Seite.
 
-Diesmal weder in einer Fallakte noch unter einem Override. Er stand als eigene Zeile in einer Regel.
+Nicht unter einem Fall. Nicht unter einem Override.
 
-Sie las den Absatz noch einmal.
+Als Anwendung einer Regel.
 
-Ärzte mit wiederholt ungünstiger Bilanz bei high-confidence Abweichungen sollten früher eine zweite Freigabe benötigen als Kollegen ohne entsprechendes Muster.
+Sie las den Absatz zweimal.
 
-„Nein.“
+Ärzte mit wiederholt ungünstiger Bilanz bei high-confidence Abweichungen sollten in genau diesen Entscheidungsklassen früher eine zweite Freigabe benötigen. Die Einstufung musste auf ausreichender Fallzahl beruhen, fallmixbereinigt sein, überprüfbar bleiben und nach festgelegten Zeiträumen neu bewertet werden.
 
-Miriam legte den Stift hin.
+Miriam ließ Eva bis zum Ende lesen.
 
-„Was genau?“
+Dort stand auch das Verfahren für Widerspruch und Rückstufung.
 
-„Das hier.“ Eva tippte auf die Zeile. „Allgemeine Sicherheitsregel ist eine Sache. Personalisierte Einschränkung ärztlicher Entscheidungsmacht ist eine andere.“
+Der Text war sorgfältig gebaut.
 
-„Warum?“
+Das machte ihn nicht leichter.
 
-„Weil die Entscheidung dann nicht mehr nur vom Fall abhängt. Sie hängt davon ab, wer vor dem Patienten steht.“
-
-„Tut sie heute schon.“
-
-Eva sah sie an.
-
-Miriam schob die Auswertung näher.
-
-„Erfahrung, Qualifikation, Zuständigkeit, Berechtigungen. Wir tun im Krankenhaus ständig Dinge unterschiedlich, abhängig davon, wer handelt.“
-
-„Das ist etwas anderes.“
-
-„Warum?“
-
-Eva kannte die Antwort, bevor sie sie aussprach.
-
-„Weil du hier vergangene Entscheidungen benutzt, um meine nächste Entscheidung enger zu machen.“
-
-Miriam nickte. „Ja.“
-
-Keine Beschönigung.
-
-Eva blickte wieder auf die Kriterien.
-
-Die Regel nannte keine Namen. Ihre eigene Zeile kam aus der Anwendung. Wiederholt schlechtere Ergebnisse in einer definierten high-confidence Klasse. Überprüfbare Fallzahl. Reviewmöglichkeit. Rückstufung, wenn sich das Muster änderte.
-
-Sie hasste, dass der Text sauber war.
-
-„Was passiert, wenn zwei Ärzte denselben Fall sehen?“ fragte Eva. „Einer darf allein abweichen, der andere braucht eine zweite Person. Obwohl die medizinische Lage identisch ist.“
-
-„Wenn ihre nachgewiesene Fehlerbilanz in genau dieser Entscheidungsklasse unterschiedlich ist, ja.“
-
-„Dann haben wir keine ärztliche Letztentscheidung mehr. Wir haben eine Bonitätsprüfung.“
-
-Miriam zog die Augenbrauen zusammen.
-
-„Das ist rhetorisch.“
-
-„Es ist praktisch.“
-
-„Praktisch ist auch, dass wir inzwischen wissen, dass deine high-confidence Ressourcenabweichungen schlechter abschneiden.“
-
-Eva spürte den Impuls, den Fall aus jener Nacht wieder herauszunehmen. Zu erklären, dass ihr Patient tatsächlich stabilisiert worden war. Dass die Statistik nicht am Bett gestanden hatte.
-
-Sie ließ es.
-
-Sie hatte diese Diskussion geführt.
-
-Die Daten waren nicht verschwunden.
-
-„Was ist mit Fehlalarmen?“
-
-„Die Schwelle basiert nicht auf einem einzelnen Fall.“
-
-„Fallmix?“
-
-„Bereinigt.“
-
-„Review durch wen?“
-
-Miriam zeigte auf den Abschnitt.
-
-Eva las.
-
-Es gab ein Verfahren. Keine automatische schwarze Liste. Keine unbefristete Einstufung.
-
-„Und du findest das gut?“
-
-Miriam atmete einmal durch.
-
-„Ich finde es besser, Unterschiede zu ignorieren, nur damit sich alle gleich frei fühlen.“
-
-Eva sagte nichts.
-
-„Wenn zwei Verfahren nachweislich unterschiedliche Risiken haben“, fuhr Miriam fort, „ist Gleichbehandlung nicht automatisch fair gegenüber den Patienten.“
-
-„Wir reden über Menschen.“
+„Eine allgemeine Sicherheitsregel gilt für einen Fall“, sagte Eva. „Das hier gilt zusätzlich für die Person, die vor dem Fall steht.“
 
 „Ja.“
 
-„Über Ärzte.“
+Miriam versuchte nicht, den Unterschied kleinzureden.
 
-„Auch.“
+Eva schob die Seite zurück.
 
-Eva stand auf und ging zum Fenster.
+„Zwei Ärzte können dieselben Daten sehen. Einer darf allein abweichen. Der andere braucht eine zweite Person, weil frühere Entscheidungen gegen ihn zählen.“
 
-Unten in der Zufahrt kam ein Rettungswagen an. Zwei Pfleger schoben eine Liege durch die automatische Tür. Jemand entschied gerade draußen, welcher Weg als Nächstes dran war, ohne zu wissen, dass in diesem Raum über die Schwelle seiner künftigen Entscheidungen gesprochen wurde.
+„Weil frühere Entscheidungen in derselben definierten Klasse ein anderes nachgewiesenes Risiko zeigen.“
 
-„Ich habe KORA unterstützt“, sagte Eva.
+„Du machst aus Vergangenheit eine Grenze für die nächste Entscheidung.“
 
-„Weiß ich.“
+„Wir machen aus wiederholtem Risiko eine zusätzliche Kontrolle.“
 
-„Ich habe die Begründungspflicht unterstützt.“
+Eva lehnte sich zurück.
 
-„Ja.“
+Das Wort *Risiko* war sauberer als *Vertrauen*. Genau deshalb war es schwerer anzugreifen.
 
-„Ich habe dem Zweitfreigabe-Pilot zugestimmt.“
+Sie ging den Text erneut durch. Kein einzelner Fehlfall reichte. Keine automatische Ausweitung auf andere Entscheidungsklassen. Keine dauerhafte Einstufung. Ein Reviewweg war vorgesehen.
 
-„Auch das.“
+Sie suchte nach der Demütigung, die sie empfand, und fand sie im Regeltext nicht.
 
-Eva drehte sich um.
+Miriam schob ihr die personenbezogene Auswertung daneben.
 
-„Und jedes Mal war es eine begrenzte Regel für einen begrenzten Schaden.“
+High-confidence Ressourcenabweichungen. Bereinigt. Wiederholt ungünstiger als die Vergleichsgruppe.
 
-Miriam sah auf das Papier.
+Evas eigene Bilanz.
 
-„Das hier auch.“
+Für einen Moment war der Fall aus jener ersten Nacht wieder da: der Patient vor ihr, die respiratorische Erschöpfung, die Ressource, die sie lokal gebunden hatte, der sichtbare gute Ausgang.
 
-Eva lachte kurz.
+Sie ließ die Erinnerung stehen, ohne sie noch einmal als Gegenbeweis zu benutzen.
 
-„Genau das ist das Problem.“
+Die Auswertung war nicht verschwunden, nur weil der einzelne Fall sich für sie anders anfühlte.
 
-Miriam schwieg.
+„Ich will drei Dinge ausdrücklich im Text“, sagte Eva.
 
-Eva setzte sich wieder.
+Sie nahm den Stift.
 
-Sie suchte noch einmal nach dem unsauberen Punkt. Einer versteckten Statusstrafe. Einer willkürlichen Schwelle. Etwas, das sie fachlich zerlegen konnte.
+„Anfechtbar. Zeitlich überprüft. Keine automatische Übertragung auf andere Entscheidungsklassen.“
 
-Sie fand nichts, das groß genug war.
+Miriam las mit.
 
-„Ich will, dass jede Einstufung anfechtbar ist.“
+„Die ersten beiden stehen bereits drin. Das dritte nehmen wir noch klarer auf.“
 
-„Ist sie.“
+Eva schrieb es an den Rand.
 
-„Und zeitlich überprüft.“
+Draußen in der Zufahrt hielt ein Rettungswagen. Durch das Fenster sah sie, wie die Türen aufgingen und eine Liege ins Haus geschoben wurde.
 
-„Steht drin.“
+Dort unten würde ein Arzt in wenigen Minuten Entscheidungen treffen, ohne an diese Seite Papier zu denken.
 
-„Keine automatische Ausweitung auf andere Entscheidungsklassen.“
+Eva hatte lange geglaubt, Verantwortung bedeute vor allem, dass dieser Arzt am Ende selbst entscheiden durfte.
 
-Miriam machte eine Notiz. „Nehmen wir explizit auf.“
+Jetzt sollte die Institution auch berücksichtigen dürfen, wie gut genau dieser Arzt in vergleichbaren Entscheidungen bisher gewesen war.
 
-Eva nickte.
+Sie mochte den Gedanken nicht.
 
-Der Beschluss fiel später am selben Tag.
+Sie konnte ihn fachlich trotzdem nicht als willkürlich bezeichnen.
 
-Als die Regel aktiv wurde, veränderte sich auf Evas Oberfläche nur eine Zeile.
+Die Regel wurde beschlossen.
 
-Bei bestimmten high-confidence Fällen erschien die Zweitfreigabe früher als bei anderen Ärzten.
+Als sie einige Tage später zum ersten Mal auf Evas Oberfläche griff, war die Veränderung klein. In einem relevanten high-confidence Fall erschien die Zweitfreigabe früher, als sie es bei Kollegen gewohnt war.
 
-Sie starrte beim ersten Mal länger darauf, als nötig gewesen wäre.
+Eva kannte den Grund.
 
-Dann behandelte sie weiter.
+Niemand musste ihn ihr erklären.
 
-Zum ersten Mal war die Governance nicht nur etwas, das sie mitgestaltete.
+Ihre Hand blieb einen Moment über der Eingabe stehen.
 
-Sie galt für sie persönlich.
+Der Patient vor ihr war neu.
+
+Die zusätzliche Bedingung kam aus alten Entscheidungen.
+
+Dann rief sie die zweite Person auf und arbeitete weiter.
+
+Zum ersten Mal war Governance für Eva keine Regel mehr, die sie mitgestaltet hatte.
+
+Sie war eine Bedingung ihres eigenen Handelns.
