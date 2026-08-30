@@ -49,44 +49,40 @@ Mehr gab es an diesem Tag zwischen ihnen dazu nicht zu sagen.
 
 Die Regel blieb.
 
-Einige Tage später erschien sie auf Evas Oberfläche.
+Am nächsten Morgen öffnete Eva ihre aktive Regelansicht.
 
-Ein high-confidence Fall. Eine Entscheidungsklasse, die von ihrer Einstufung erfasst war.
+Dort stand jetzt eine zusätzliche Zeile, die gestern noch nicht da gewesen war.
 
-Eva öffnete das Override-Feld.
+**Individuelle Zweitfreigabeschwelle aktiv – high-confidence Ressourcenentscheidungen.**
 
-Der Hinweis stand früher dort, als sie es aus Fällen anderer Kollegen kannte.
+Darunter der Reviewtermin.
 
-**Zweitfreigabe erforderlich.**
+Darunter die Möglichkeit zum Widerspruch.
 
-Darunter eine kleine Information:
+Darunter die ausdrücklich ergänzte Grenze:
 
-**individuelle Schwelle gemäß überprüfter Risikoklasse**
+**Keine automatische Übertragung auf andere Entscheidungsklassen.**
 
-Eva ließ die Hand über der Tastatur liegen.
+Eva ließ die Seite offen.
 
-Der Patient vor ihr war neu.
+Noch lag kein konkreter Override-Fall darunter.
 
-Die zusätzliche Bedingung kam aus alten Entscheidungen.
+Trotzdem war die Veränderung real.
 
-Für einen Moment spürte sie den Satz körperlich stärker als jede Formulierung aus dem Beschluss.
+Der nächste Patient würde neu sein.
 
-Sie war nicht mehr nur die Ärztin, die eine Regel mitgestaltet hatte.
+Die Bedingung, unter der Eva bei ihm handeln durfte, kam aus alten Entscheidungen.
 
-Das System wusste etwas über ihre bisherigen Entscheidungen und veränderte deshalb den Weg ihrer nächsten.
+Sie hätte lieber einen willkürlichen Punkt gefunden. Etwas, das sie fachlich zerlegen konnte.
 
-Eva öffnete die Detailansicht.
+Stattdessen sah sie eine Regel, die eng genug gebaut war, um gerade nicht wie eine Strafe auszusehen.
 
-Dort standen dieselben Grenzen wie in der Mitteilung: diese Klasse, dieser Zeitraum, diese Reviewmöglichkeit.
+Das machte den Statusverlust schärfer.
 
-Keine versteckte Ausweitung.
+Eva schloss die Ansicht.
 
-Kein willkürlicher Zusatz.
+Zum ersten Mal war Governance für sie keine Regel mehr, die sie mitgestaltet hatte.
 
-Sie hätte lieber einen Fehler gefunden.
+Sie war eine Eigenschaft ihres eigenen Profils geworden.
 
-Stattdessen rief sie die vorgesehene zweite Person auf und arbeitete weiter.
-
-Die Entmachtung, die sie empfand, stand nirgends im Text.
-
-Nur eine andere Bedingung ihres Handelns.
+Der erste Fall darunter würde kommen.
