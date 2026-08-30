@@ -10,9 +10,9 @@ prose_allowed: yes
 2. **S020-B02** – Eva erhält ihre eigene Einstufung mit Kriterien, Reviewweg und zeitlicher Überprüfung als formale Mitteilung.
 3. **S020-B03** – Sie prüft die Regel auf Willkür und findet keinen tragfähigen fachlichen Einwand gegen die definierte Risikologik.
 4. **S020-B04** – Eva verlangt ausdrücklich, dass die Einstufung nicht automatisch auf andere Entscheidungsklassen übertragen wird; die Klarstellung wird aufgenommen.
-5. **S020-B05** – Kurz darauf greift die engere Schwelle erstmals sichtbar auf Evas klinischer Oberfläche.
-6. **S020-B06** – Eva erlebt den Rollenwechsel zur regulierten Entscheiderin; Governance-Stufe 4 ist aktiv.
+5. **S020-B05** – Die neue persönliche Schwelle wird in Evas aktiver Regel-/Profilansicht sichtbar, bevor ein konkreter Override-Fall darunter ansteht.
+6. **S020-B06** – Eva erlebt den Rollenwechsel zur regulierten Entscheiderin; Governance-Stufe 4 ist aktiv. Die erste reale Entscheidungswirkung folgt erst in S021.
 
 ## Regel
 
-Diese Beats bewahren E028/E029. Der Rework ersetzt die wiederholte Regelbesprechung durch formale Mitteilung und praktische Anwendung, ohne Kriterien oder Kausalität zu verändern.
+Diese Beats bewahren E028/E029 und lassen E030 vollständig für S021. Der Rework ersetzt die wiederholte Regelbesprechung durch formale Mitteilung und persönliche Systemwirkung, ohne Kriterien oder Kausalität zu verändern.
