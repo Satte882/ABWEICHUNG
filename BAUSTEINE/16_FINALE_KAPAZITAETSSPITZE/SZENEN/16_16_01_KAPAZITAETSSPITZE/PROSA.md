@@ -19,25 +19,15 @@ Sie stand am Bett und hörte den hohen Luftstrom, die kurzen Anweisungen, das Pi
 
 „Er hält das nicht mehr lange.“
 
-Eva nickte.
+Die Einschätzung der Pflegekraft deckte sich mit ihrer.
 
 Dann erschien die Meldung.
 
 **NETZWERK-KONFLIKT – INTENSIVKAPAZITÄT**
 
-Für eine Sekunde war der Raum derselbe wie damals.
+Für eine Sekunde war der Raum derselbe wie in jener ersten Nacht. Patient und Diagnose waren andere; die Form war dieselbe: ein Mensch direkt vor ihr, ein zweiter an einem anderen Standort, eine Ressource.
 
-Nicht derselbe Patient. Nicht dieselbe Diagnose.
-
-Aber dieselbe Form.
-
-Ein Mensch direkt vor ihr.
-
-Ein zweiter an einem anderen Standort.
-
-Eine Ressource.
-
-Eva sah auf die Fernmeldung.
+Eva öffnete die Fernmeldung.
 
 Septischer Schock. Zunehmender Vasopressorbedarf. Drohende weitere Organdysfunktion.
 
@@ -53,29 +43,15 @@ Eva sagte es schärfer, als nötig.
 
 Sie zwang sich, auf die Verbundansicht zu sehen.
 
-Früher hatte sie gewusst, dass dort ein anderer Patient war.
+Früher hatte sie gewusst, dass dort ein anderer Patient war. Heute wusste sie, was es bedeutete, ihn nicht zu sehen.
 
-Heute wusste sie, was es bedeutete, ihn nicht zu sehen.
-
-KORA öffnete die Gegenüberstellung.
-
-Noch keine Priorität.
-
-Nur beide Verläufe nebeneinander.
-
-Eva erkannte den Aufbau sofort.
+KORA öffnete die Gegenüberstellung. Beide Verläufe standen nebeneinander, die Priorität war noch nicht berechnet.
 
 „Das ist derselbe Konflikttyp“, sagte jemand hinter ihr.
 
-Eva antwortete nicht.
+Eva antwortete nicht. Das wusste sie.
 
-Das wusste sie.
-
-Sie sah den lokalen Verlauf. Dann den entfernten.
-
-Diesmal würde sie nicht sagen können, die andere Seite sei nur eine abstrakte Meldung gewesen.
-
-Das System legte sie direkt vor ihr auf den Bildschirm.
+Sie ging erst den lokalen Verlauf durch, dann den entfernten. Diesmal würde sie später nicht sagen können, die andere Seite sei nur eine abstrakte Meldung gewesen. Das System legte beide Patienten gleichzeitig vor sie.
 
 Der Patient am Bett stöhnte unter der Atemunterstützung.
 
@@ -83,12 +59,10 @@ Eva legte ihm die Hand auf den Arm.
 
 „Wir sind da.“
 
-Er nickte kaum sichtbar.
+Er reagierte mit einer kaum sichtbaren Bewegung.
 
 Auf dem Display lief die Berechnung weiter.
 
 Eva wartete.
 
-Sie hasste das Warten.
-
-Und wusste, dass sie es diesmal brauchte.
+Sie hasste das Warten und wusste, dass sie es diesmal brauchte.
