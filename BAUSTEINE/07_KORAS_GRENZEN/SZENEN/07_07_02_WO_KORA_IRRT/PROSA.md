@@ -7,100 +7,54 @@ source_beats: `BEATS.md`
 
 ---
 
-Jan begann diesmal nicht mit einer großen Zahl.
-
-Er begann mit einem Fehler.
+Jan begann diesmal mit einem Fehler.
 
 „Hier lag KORA daneben.“
 
-Eva beugte sich vor.
+Auf dem Bildschirm stand ein Fall mit niedriger Konfidenz und unsicherer Datenlage. Ein Arzt war abgewichen. Der spätere Verlauf hatte die Abweichung gestützt.
 
-Niedrige Konfidenz. Unsichere Datenlage. Ein Arzt war abgewichen, der spätere Verlauf hatte die Abweichung gestützt.
+Jan zeigte zwei weitere Fälle aus derselben Gruppe. Bei einem war der menschliche Vorteil weniger eindeutig, beim anderen klarer. Dann blendete er die Auswertung darüber ein.
 
-Jan zeigte den nächsten Fall.
-
-Wieder niedrige Konfidenz. Wieder kein klarer Vorteil für KORA.
-
-Eva sah zu Miriam.
-
-„Da ist er.“
-
-„Was?“
-
-„Der Bereich, über den wir seit Wochen reden.“
-
-Jan wechselte die Ansicht.
-
-„Ja. Bei niedriger Konfidenz ist das Bild gemischt. In einigen Gruppen sind menschliche Abweichungen mindestens gleichwertig, in anderen besser.“
+„Bei niedriger Konfidenz ist das Bild gemischt“, sagte er. „In einigen Entscheidungsklassen sind Abweichungen mindestens gleichwertig, in anderen schneiden sie besser ab. Die Streuung ist groß genug, dass ich daraus keinen allgemeinen Vorrang ableiten würde.“
 
 Eva lehnte sich zurück.
 
-„Also keine Maschine, die immer recht hat.“
+Da war der Bereich, den sie gesucht hatte. Keine Maschine, die immer recht hatte. Ein echter Raum, in dem ärztliche Abweichung messbar sinnvoll sein konnte.
 
-„Hat nie jemand behauptet.“
+Miriam sagte nichts dazu.
 
-„Das Narrativ entwickelt sich trotzdem gern in die Richtung.“
-
-Miriam ließ den Satz stehen.
-
-Jan öffnete die nächste Gruppe.
-
-High confidence.
+Jan wechselte zu high confidence.
 
 Die Kurven lagen weiter auseinander.
 
-Eva sah sofort, dass die Richtung nicht dieselbe war.
+Er ließ die Grafik stehen und erklärte erst die Kontrollen: Fallmix berücksichtigt, Entscheidungstypen getrennt, unsichere Datensätze separat ausgewiesen. In den relevanten Ressourcen- und Eskalationsklassen blieb die Asymmetrie deutlich zugunsten KORA.
 
-„Wie stabil?“
+Eva ging näher an den Bildschirm.
 
-„Deutlich stabiler als in den niedrigen Konfidenzgruppen.“
+„Wie viel Restfehler bleibt dort?“
 
-„Fallmix?“
+Jan öffnete die Fehlerraten und Konfidenzintervalle. „Genug, dass ich niemals behaupten würde, der einzelne Patient sei damit entschieden. Hohe Konfidenz ist keine individuelle Zukunft. Aber die Kalibrierung ist in dieser Gruppe deutlich stärker.“
 
-„Berücksichtigt.“
-
-„Entscheidungstyp?“
-
-„Getrennt. In den relevanten Ressourcen- und Eskalationsklassen bleibt die Asymmetrie.“
-
-Eva sah auf die Fälle.
-
-„Wie oft irrt KORA dort?“
-
-Jan nannte keine absolute Gewissheit. Er zeigte Fehlerraten, Unsicherheiten, Grenzen.
-
-„High confidence heißt nicht, dass ein einzelner Patient sicher so verläuft“, sagte er. „Es heißt, dass in dieser Klasse die Wahrscheinlichkeit und die Kalibrierung deutlich stärker sind.“
-
-„Also kann ich immer noch recht haben.“
-
-„Im Einzelfall, ja.“
-
-„Und trotzdem ist die Chance größer, dass ich falsch liege.“
-
-Jan nickte.
-
-Eva stand auf und ging zum Bildschirm.
-
-Sie zeigte auf die niedrige Konfidenzgruppe.
+Eva strich mit dem Finger über die niedrige Konfidenzgruppe, ohne den Bildschirm zu berühren.
 
 „Hier brauche ich Spielraum.“
 
 „Den bestreitet niemand“, sagte Miriam.
 
-Eva zeigte auf high confidence.
+Dann deutete Eva auf high confidence. „Und hier ist mein pauschales Fehlbarkeitsargument zu schwach.“
 
-„Und hier wollt ihr ihn enger machen.“
+Jan antwortete nicht sofort. Er musste es nicht für sie formulieren.
 
-Miriam antwortete nicht sofort.
+KORA konnte auch dort irren. Nur war die Chance, dass Eva mit einer unbelegten Abweichung besser lag, deutlich kleiner.
 
-„Hier“, sagte sie dann, „müssen wir zumindest so tun, als hätten die Zahlen Bedeutung.“
+„Im Einzelfall kann ich immer noch recht haben“, sagte sie.
 
-Eva sah weiter auf die Kurven.
+„Ja“, sagte Jan. „Das bleibt wahr.“
 
-Das pauschale Argument, KORA könne eben auch falsch liegen, war nicht weg.
+Miriam schob die Unterlagen zu sich. „Und trotzdem müssen wir bei dieser Gruppe so handeln, als hätten die Zahlen Bedeutung.“
 
-Es war kleiner geworden.
+Eva blieb vor den beiden Kurven stehen.
 
-Präziser.
+Ihr Argument war nicht verschwunden. Es hatte Grenzen bekommen.
 
-Und dadurch schwerer zu benutzen.
+Gerade dadurch war es brauchbarer geworden – und als Schutzschild gegen jede engere Governance deutlich schlechter.
