@@ -1,62 +1,92 @@
 # Prosa – S008
 
 scene_id: S008
-prose_status: full_manuscript_draft
+prose_status: full_manuscript_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Miriam stellte die neue Maske auf den Bildschirm.
+Die Mitteilung von Patientensicherheit lag seit dem Morgen ungelesen in Evas Postfach.
+
+**Override-Begründung ab heute verpflichtend. Grundtyp plus Freitext. Keine Vorabfreigabe.**
+
+Sie hatte nur die Betreffzeile gesehen.
+
+Erst am Nachmittag zwang KORA sie, den Rest praktisch zu lesen.
+
+Der Fall war nicht spektakulär. Eine Entscheidung, bei der Eva nach erneuter Untersuchung anders priorisieren wollte als die Empfehlung. Sie öffnete das Override-Feld und erwartete den alten Bestätigungsdialog.
+
+Stattdessen erschien eine neue Maske.
 
 **Grundtyp auswählen.**
 
-Darunter ein Freitextfeld.
+Darunter vier Kategorien und ein Freitextfeld.
 
-Eva las erst den Entwurf, dann die Prozessbeschreibung daneben.
+Eva klickte nicht weiter.
 
-„Ich will es einmal ohne Verwaltungssprache“, sagte sie. „Wenn ich künftig von KORA abweiche: Muss ich vorher jemanden fragen, muss jemand zustimmen oder kann ich die Entscheidung sofort auslösen?“
+Felix stand zwei Arbeitsplätze entfernt und bemerkte ihr Zögern.
 
-„Du kannst sofort entscheiden“, sagte Miriam. „Niemand muss vorab zustimmen. Neu ist nur, dass du den damaligen Grund festhältst: Kategorie plus Freitext.“
+„Schon eingebaut?“
 
-Eva ging die vorgesehenen Kategorien durch. Medizinischer Gegenbefund. Datenproblem. Klinischer Kontext. Andere begründete Abweichung mit Freitext.
+„Offenbar.“
 
-„Also Dokumentation.“
+Sie öffnete die Prozesshilfe.
 
-„Ja.“
+Keine zweite Person. Keine Freigabe. Kein Countdown. Nur die Pflicht, den Grund festzuhalten, bevor die Abweichung wirksam wurde.
 
-Felix blätterte durch die Seiten. „Dokumentation wächst gern.“
+Eva wählte den passenden Grundtyp und schrieb zwei Sätze zu dem Befund, auf den sie ihre Entscheidung stützte.
 
-Miriam ließ den Einwand stehen und zeigte auf die Begrenzung im Entwurf. Keine automatische Bewertung, keine Vorabfreigabe, zunächst Fallanalyse in der Qualitätssicherung.
+Dann bestätigte sie.
 
-Felix lachte leise. „Zunächst.“
+Der Override lief durch.
 
-Eva hatte sich auf eine härtere Diskussion eingestellt. Nach dem Fall mit der verzögerten Versorgung im anderen Haus hätte die Institution auch versuchen können, aus einem sichtbaren Schaden sofort eine Genehmigungspflicht zu bauen.
+Die Oberfläche sprang zurück in den Fall, als wäre nichts Besonderes passiert.
 
-Stattdessen verlangte sie fürs Erste nur eine Spur.
+Felix kam näher.
 
-Eva stellte sich ihre Entscheidung aus jener Nacht vor. In das Feld hätte sie geschrieben: drohende respiratorische Erschöpfung, unmittelbare klinische Verschlechterung am Bett. Danach hätte sie den Override genauso ausgelöst.
+„Das war's?“
 
-„Ich habe damit kein Problem“, sagte sie.
+„Das war's.“
 
-Felix blickte von den Unterlagen auf. „Noch.“
+Er las den kleinen neuen Vermerk in der Seitenleiste.
 
-Eva ignorierte den Köder. „Wenn wir eine Entscheidung Wochen später prüfen, brauche ich den Grund von damals. Nicht die Erinnerung, die sich inzwischen an den Ausgang angepasst hat.“
+**Begründung dokumentiert.**
 
-Miriam nickte. „Genau dafür ist es gedacht.“
+„Heute zwei Sätze.“
 
-Felix legte die Seiten auf den Tisch. „Dann will ich im Beschluss stehen haben, dass Begründung hier nicht Genehmigung bedeutet.“
+Eva arbeitete weiter.
 
-„Steht bereits drin“, sagte Eva.
+„Heute eine Spur.“
 
-Er prüfte die Stelle selbst und schob den Entwurf zurück.
+„Genau.“ Felix blieb noch stehen. „Und morgen kann jemand die Spuren sortieren.“
 
-„Gut. Dann sehen wir, wie lange der Satz hält.“
+Sie drehte den Stuhl halb zu ihm.
 
-Wenige Tage später erschien das Feld in KORA.
+„Wenn wir Entscheidungen Wochen später prüfen, ist mir der damalige Grund lieber als unsere nachträgliche Erinnerung.“
 
-Beim ersten Override, den Eva danach beobachtete, dauerte die Eingabe keine Minute. Der Arzt wählte einen Grundtyp, schrieb zwei Sätze und bestätigte. Die Empfehlung wurde überschrieben; niemand musste zustimmen und der Ablauf wurde nicht unterbrochen.
+„Bis jemand aus den Gründen eine Bewertung baut.“
 
-Zurück blieb nur etwas, das vorher gefehlt hatte:
+„Das ist heute nicht die Regel.“
 
-sein Grund zum Zeitpunkt der Entscheidung.
+Felix verzog den Mund.
+
+„Heute.“
+
+Eva ließ ihn stehen und öffnete den nächsten Fall.
+
+Die neue Maske störte sie weniger, als sie erwartet hatte.
+
+Sie konnte weiterhin abweichen. Niemand musste zustimmen. Niemand hatte die Entscheidung an sich gezogen.
+
+Nur der Grund verschwand nicht mehr mit dem Moment.
+
+Am Ende der Schicht öffnete Eva die Mitteilung aus dem Morgen doch noch vollständig.
+
+Dort stand, warum Patientensicherheit die Änderung eingeführt hatte: Entscheidungen sollten später anhand der damaligen Begründung nachvollziehbar bleiben. Zunächst keine automatische Bewertung. Keine zusätzliche Genehmigung. Fallanalyse im Qualitätsprozess.
+
+Eva schloss die Nachricht.
+
+Die Maßnahme war klein.
+
+Und vernünftig genug, dass sie keinen Grund fand, gegen sie zu sein.
