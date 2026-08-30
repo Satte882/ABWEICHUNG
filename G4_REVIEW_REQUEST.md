@@ -1,9 +1,9 @@
 # G4 Review Request – Manuskript
 
-status: REWORK_REQUIRED
+status: AWAITING_FRESH_CONTEXT_MANUSCRIPT_REREVIEW
 human_gate: G4
-review_target: `1937fec17d283613a31e30e3346d4b521fc61176`
-review_result: `MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
+review_target: `1d717f47277d22381fdd97bd804e0e31cf09e10e`
+previous_review_result: `MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
 
 ## Stand
 
@@ -16,28 +16,37 @@ review_result: `MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
 - 40/40 Szenen
 - 253 Beats
 - 40/40 Szenen mit Prosa
-- Whole-Manuscript-Hardening abgeschlossen
+- erster Whole-Manuscript-Hardening-Pass abgeschlossen
 - unabhängiger Fresh-Context-Gesamtmanuskriptreview abgeschlossen
-- Review-Status: `CLEAN_FRESH_CONTEXT`
-- Findings: 6
-- Major-Findings: 3
-- G4-Readiness: `REWORK_REQUIRED`
+- alter Review-Status: `CLEAN_FRESH_CONTEXT`
+- alte Findings: 6, davon 3 Major
+- daraus folgender tiefer zweiter Prosa-Rework abgeschlossen
+- kein G2-Backtrack erforderlich
+
+## Rework-Stand
+
+Die sechs Findings des ersten unabhängigen Gesamtmanuskript-Reviews wurden auf Prosaebene bearbeitet.
+
+Schwerpunkte:
+
+1. Dialog-Pingpong in den Governance-/Analyse-Szenen reduziert,
+2. wiederkehrende Szenenchoreografie stärker differenziert,
+3. Mittelteil stärker über unterschiedliche Träger und klinische/konkrete Präsenz rhythmisiert,
+4. wiederkehrende Blickscharnier-Formeln reduziert,
+5. Erklärungsechos komprimiert,
+6. emotionalen Nachhall in S039 verstärkt, ohne S040 zu verändern.
+
+Der neue feste Prosa-Zielstand lautet:
+
+`1d717f47277d22381fdd97bd804e0e31cf09e10e`
 
 ## Vor G4 noch erforderlich
 
-Die drei Major-Findings aus `MANUSCRIPT_FRESH_CONTEXT_RESULT.md` müssen abgearbeitet werden:
+Der neue Zielstand muss mit `MANUSCRIPT_FRESH_CONTEXT_TASK.md` erneut in einer unabhängigen, kontextfreien Session als **gesamtes Manuskript** gelesen werden.
 
-1. manuskriptweites Dialog-Pingpong,
-2. Wiederholung des Szenentyps Regel/Daten → Prüfungsfragen → Klärung,
-3. Pacing-/Erlebnisdichte im Mittelteil.
+Die Findings des alten Zielstands gelten durch den Rework nicht automatisch als geschlossen.
 
-Die drei Minor-Findings zu `Eva sah …`, Erklärungsechos und emotionalem Nachhall werden im selben Prosa-Rework mitbearbeitet.
-
-Der Rework bleibt zunächst auf Prosaebene. Ein Backtrack zu G2 ist nur zulässig, wenn die Probleme innerhalb der freigegebenen Szenenfunktionen nicht ausreichend lösbar sind und muss dann explizit entschieden werden.
-
-Nach dem Rework ist ein erneuter unabhängiger Gesamtmanuskript-Review gegen einen neuen festen Ziel-Commit erforderlich.
-
-Erst wenn keine offenen Blocker/Major-Findings mehr bestehen, darf dieser Status auf `READY_FOR_HUMAN_G4` wechseln.
+Erst wenn der Re-Review keine offenen Blocker/Major-Findings mehr enthält, darf dieser Status auf `READY_FOR_HUMAN_G4` wechseln.
 
 ## G4-Bedeutung
 
