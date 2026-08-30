@@ -4,14 +4,14 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 Story-Architektur vollständig → READY_FOR_HUMAN_G1**
+**G0 APPROVED → G1 APPROVED → nächste Ebene: SZENEN**
 
-- 18 Bausteine
-- 54 Ereignisse
+- 18 Bausteine: freigegeben
+- 54 Ereignisse: freigegeben
 - 6 plotrelevante Kernrollen
 - 3 Informationsstränge: Outcome / Governance / Externalität
 - Fresh-Context-G1-Review durchgeführt; 2/2 Findings bestätigt und korrigiert
-- Szenen, Beats und Prosa bewusst noch nicht begonnen
+- Szenen, Beats und Prosa noch nicht begonnen
 
 ## Arbeitsprinzip
 
@@ -43,14 +43,14 @@ ABWEICHUNG/
     └── 18_.../
 ```
 
-Szenen werden erst in G2 ergänzt. Dann erhält eine konkrete Szene genau diese Struktur:
+Die nächste horizontale Ebene sind die Szenen. Eine konkrete Szene erhält später genau diese Struktur:
 
 ```text
 SZENEN/
 └── 01_01_01/
     ├── SZENE.md
     ├── BEATS.md
-    └── PROSA.md   # erst nach G2/G3
+    └── PROSA.md   # erst nach vollständiger Beat-Ebene und den nachfolgenden Gates
 ```
 
 Keine parallelen Root-Ordner für Events, Beats oder Prosa. Figuren und Research bleiben als Querschnitt auf Meta-Ebene.
