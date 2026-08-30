@@ -11,7 +11,7 @@ prose_allowed: no
 3. **S029-B03** – Für diesen Zeitpunkt zeigt die Rekonstruktion eine high-confidence KORA-Einstufung mit erforderlicher Zweitfreigabe.
 4. **S029-B04** – Felix' formale Dokumentation liegt erst nach einem realen, vorübergehend besseren Snapshot unter Atemunterstützung.
 5. **S029-B05** – Das Audit findet weitere gleichartige Zeitmuster.
-6. **S029-B06** – Die bewusste Umgehung einer konkret relevanten Schutzstufe ist belegt; der alternative Patientenausgang bleibt offen.
+6. **S029-B06** – Die Umgehung einer konkret relevanten Schutzstufe ist belegt; Felix' Absicht und Rechtfertigung sind noch nicht geklärt, und der alternative Patientenausgang bleibt offen.
 7. **S029-B07** – Eva entscheidet, Felix mit der Rekonstruktion zu konfrontieren.
 
 ## Regel
