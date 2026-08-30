@@ -4,7 +4,7 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → G3 APPROVED → 40/40 PROSA → MANUSKRIPT-HARDENING COMPLETE → AWAITING FRESH-CONTEXT MANUSCRIPT REVIEW**
+**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → G3 APPROVED → 40/40 PROSA → WHOLE-MANUSCRIPT REVIEW → REWORK APPLIED → AWAITING FRESH-CONTEXT REREVIEW**
 
 - 18 Bausteine
 - 54 Ereignisse
@@ -13,8 +13,11 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 - 40/40 Szenen mit `PROSA.md`
 - 3 G3-Stilreferenz-Szenen freigegeben
 - 37 weitere Szenen vollständig ausformuliert
-- Whole-Manuscript-Hardening auf Prosaebene durchgeführt
-- gehärteter Prosa-Zielstand: `1937fec17d283613a31e30e3346d4b521fc61176`
+- erster Whole-Manuscript-Hardening-Pass abgeschlossen
+- erster unabhängiger Gesamtmanuskript-Review: `CLEAN_FRESH_CONTEXT`, 6 Findings, davon 3 Major
+- tiefer zweiter Prosa-Rework gegen alle 6 Findings durchgeführt
+- kein G2-Backtrack erforderlich
+- neuer fester Prosa-Zielstand: `1d717f47277d22381fdd97bd804e0e31cf09e10e`
 - 6 plotrelevante Kernrollen
 - 3 Informationsstränge: Outcome / Governance / Externalität
 - R-06 medizinische Ankerfälle geschlossen
@@ -31,7 +34,7 @@ Die Story wurde konsequent **vom Groben ins Feine** aufgebaut:
 
 `Buchidee / Gesamtarchitektur → Baustein → Ereignisse → Szene → Beats → Prosa`
 
-Story, Szenen und Beats sind horizontal geschlossen. Die Prosa ist über alle 40 Szenen vorhanden und wurde nach der ersten Gesamtlektüre auf manuskriptweite Wiederholungsmuster gehärtet.
+Story, Szenen und Beats sind horizontal geschlossen. Die Prosa ist über alle 40 Szenen vorhanden. Der aktuelle Rework blieb vollständig auf Prosaebene.
 
 ## Stilreferenz G3
 
@@ -47,33 +50,43 @@ Prosa konkretisiert Sprache, Rhythmus, Dialog, Atmosphäre und Wahrnehmung. Sie 
 
 Wenn beim Schreiben oder Rework eine echte Storyänderung notwendig erscheint, muss sie explizit auf die betroffene vorgelagerte Ebene zurückgeführt werden.
 
-## Manuskript-Hardening
+## Manuskript-Rework nach unabhängiger Gesamtlektüre
 
-Nach der 40/40-Fassung wurden insbesondere folgende manuskriptweite Risiken bearbeitet:
+Der erste unabhängige Whole-Manuscript-Review identifizierte vor allem:
 
-- interne Produktions-/Architekturlabels im Romantext,
-- zu häufiges Dialog-Pingpong in Governance-/Analyse-Szenen,
-- Wiederholung des Szenentyps `Daten/Regel → Rückfragen → Klärung`,
-- wiederkehrende Scharnierformulierungen wie `Eva sah / nickte / schwieg`,
-- wiederkehrende Kontrastformeln,
-- bereits bekannte Negationsketten und medizinische Timing-Formulierungen.
+- manuskriptweites Dialog-Pingpong,
+- Wiederholung des Szenentyps `Regel/Daten → Prüfungsfragen → Klärung`,
+- Pacing-/Erlebnisdichte im Mittelteil,
+- wiederkehrende Blickscharnier-Formulierungen,
+- Erklärungsechos,
+- zu punktuell konzentrierten emotionalen Nachhall.
 
-Die Änderungen blieben auf Prosaebene. Es war kein G2-Backtrack nötig.
+Der zweite Rework differenzierte insbesondere S009, S012, S013, S017, S020, S024, S028, S031 und S032 stärker über Registerarbeit, Regeltext, Stationsalltag, technische Demonstration, persönliche Regelanwendung, Whiteboard, Notfallhandlung, Vorstandsbeschluss und UI-/Designprüfung.
+
+S019 und S029 wurden zusätzlich auf wiederkehrende Blickscharnier-Formulierungen nachbearbeitet. S039 trägt den menschlichen Nachhall stärker. S040 blieb bewusst unverändert.
+
+Die vollständige Disposition des ersten Reviews steht in:
+
+`MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
 
 ## Aktuelle Phase
 
-**Unabhängiger Gesamtmanuskript-Review vor G4.**
+**Unabhängiger Gesamtmanuskript-Re-Review vor G4.**
 
 Der Auftrag liegt in:
 
 `MANUSCRIPT_FRESH_CONTEXT_TASK.md`
 
-Er prüft den festen Prosa-Zielstand `1937fec17d283613a31e30e3346d4b521fc61176` und muss in einer wirklich kontextfreien Session ausgeführt werden.
+Er prüft ausschließlich den festen Prosa-Zielstand:
+
+`1d717f47277d22381fdd97bd804e0e31cf09e10e`
+
+Der Review muss erneut in einer wirklich kontextfreien Session erfolgen und das Manuskript S001–S040 als Ganzes lesen.
 
 Danach:
 
-1. Findings dispositionieren und gegebenenfalls Prosa reworken,
-2. bei sauberem Ergebnis `READY_FOR_HUMAN_G4`,
+1. neue Findings dispositionieren,
+2. bei keinen offenen Blocker/Major-Findings → `READY_FOR_HUMAN_G4`,
 3. Human Gate **G4 – Manuskript**,
 4. danach erst Produktion / G5.
 
