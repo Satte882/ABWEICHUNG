@@ -13,19 +13,17 @@ Nicht ruhig. Auf einer Intensivstation war es nie ruhig. Pumpen liefen, Monitore
 
 Der Mann lag beatmet vor ihr.
 
-Eva blieb einen Moment am Fußende stehen und sah auf die Kurven. Sauerstoffversorgung besser. Kreislauf stabil. Die Atemarbeit, die seinen ganzen Körper noch kurz zuvor beherrscht hatte, war jetzt an die Maschine abgegeben.
+Eva blieb einen Moment am Fußende stehen und prüfte die Kurven. Sauerstoffversorgung besser. Kreislauf stabil. Die Atemarbeit, die seinen ganzen Körper noch kurz zuvor beherrscht hatte, war jetzt an die Maschine abgegeben.
 
 Nele trat neben sie.
 
 „Er fängt sich.“
 
-Eva nickte.
-
 „Ja.“
 
 „Wenn wir gewartet hätten …“
 
-Eva sah zu ihr.
+Eva wartete.
 
 Nele brach ab.
 
@@ -42,8 +40,6 @@ Eva verschränkte die Arme nicht. Sie wollte den Satz nicht größer machen, als
 „Er stabilisiert sich“, sagte sie. „Das ist alles, was wir gerade wissen.“
 
 „Aber die Entscheidung war richtig.“
-
-Eva sah wieder auf den Monitor.
 
 Die Werte gaben Nele recht, jedenfalls hier. Der Mann vor ihnen lebte. Seine Verschlechterung war real gewesen. Die Intensivkapazität hatte genau das ermöglicht, was Eva in der Notaufnahme gebraucht hatte: eine sichere invasive Unterstützung, bevor er völlig erschöpft war.
 
@@ -71,9 +67,7 @@ Trotzdem spürte sie die Erleichterung.
 
 KORA hatte eine andere Priorität gesetzt. Sie hatte die Empfehlung gesehen, verstanden und bewusst überschrieben. Jetzt lag ihr Patient auf Intensiv und stabilisierte sich.
 
-Das war kein theoretisches Argument über ärztliche Verantwortung.
-
-Es war ein Mensch in einem Bett.
+Das war kein theoretisches Argument über ärztliche Verantwortung. Es war ein Mensch in einem Bett.
 
 Nele stand noch neben ihr.
 
@@ -84,8 +78,6 @@ Eva wusste, was sie meinte.
 „Also was?“
 
 „Was nehme ich daraus mit?“
-
-Eva sah sie an.
 
 Nele war jung genug, noch nach Regeln zu fragen, und erfahren genug, zu wissen, dass es selten welche gab, die lange hielten.
 
