@@ -27,15 +27,11 @@ Eine zweite Meldung legte sich darunter. Falkenried Nord. Septischer Schock. Per
 
 Eva las nur die erste Zeile und sah wieder zum Patienten.
 
-Er war sechsundvierzig, hatte Asthma seit seiner Jugend und seit fast einer Stunde alles bekommen, was außerhalb einer Intensivstation sinnvoll zu geben war. Vor zehn Minuten hatte er noch versucht, Fragen mit ganzen Sätzen zu beantworten. Jetzt hob er nur noch die Hand, wenn Eva ihn ansprach.
-
-„Herr Krämer?“
-
-Seine Augen gingen auf.
+Seit fast einer Stunde bekam er alles, was außerhalb einer Intensivstation noch sinnvoll möglich war. Vor wenigen Minuten hatte er Fragen mit ganzen Sätzen beantwortet. Jetzt hob er nur noch die Hand, wenn Eva ihn ansprach.
 
 „Schauen Sie mich an.“
 
-Er tat es.
+Seine Augen gingen auf.
 
 „Können Sie sagen, wie es geht?“
 
@@ -65,7 +61,7 @@ Darunter standen die Gründe. Kreislaufversagen. Steigender Vasopressorbedarf. V
 
 Für ihren Patienten zeigte KORA ebenfalls ein hohes Risiko. Nur niedriger.
 
-Keine Fehlermeldung. Keine fehlenden Daten. Kein gelber Hinweis, dass das System die Lage nicht sauber einordnen konnte.
+Es gab keine Fehlermeldung oder erkennbare Datenlücke. KORA hatte die Lage bewertet und kam zu einem anderen Ergebnis als sie.
 
 „Wie lange bis ein weiterer Platz frei wird?“
 
@@ -79,13 +75,9 @@ Eva sah wieder auf die Liege.
 
 Der Mann atmete jetzt mit geöffnetem Mund gegen die Maske. Ein Atemzug. Pause. Der nächste kam später, als Eva ihn erwartet hatte.
 
-Sie kannte dieses Bild.
-
-Nicht aus einer Tabelle.
-
 Sie ging an die Seite der Liege und nahm die Maske für einen Moment ab, nur weit genug, um ihn direkt anzusprechen.
 
-„Herr Krämer. Bleiben Sie bei mir.“
+„Bleiben Sie bei mir.“
 
 Sein Blick fand sie erst nach einer Sekunde.
 
@@ -99,15 +91,11 @@ Eva setzte die Maske wieder fest und öffnete KORAs Detailansicht. Die beiden Pa
 
 Der entfernte Patient war schlechter.
 
-Zumindest nach dem, was KORA verglich.
-
 Eva zwang sich, die Zeilen noch einmal zu lesen.
-
-Sie suchte keinen Fehler. Sie suchte den Punkt, an dem ihr Eindruck am Bett in den Daten wieder auftauchen musste.
 
 Atemfrequenz. Sauerstoffbedarf. Erschöpfungszeichen. Verlauf.
 
-Alles da.
+KORA hatte die Verschlechterung ihres Patienten erfasst.
 
 „Neue Blutgase.“
 
@@ -117,7 +105,7 @@ Eva hörte zu und sah dabei den Patienten an.
 
 Der Monitor piepte schneller.
 
-Ein Arzt aus dem Hintergrund trat näher. „Wenn wir den Platz nehmen, bleibt Nord in der Übergangsversorgung.“
+Ein Arzt trat näher. „Wenn wir den Platz nehmen, bleibt Nord in der Übergangsversorgung.“
 
 „Ich weiß.“
 
@@ -125,39 +113,27 @@ Ein Arzt aus dem Hintergrund trat näher. „Wenn wir den Platz nehmen, bleibt N
 
 Eva nickte.
 
-„Ich weiß.“
-
-Der Satz blieb zwischen ihnen stehen.
-
-Der Mann auf der Liege griff plötzlich nach der Maske. Nicht kräftig. Eher wie jemand, der vergessen hatte, was seine Hände tun sollten.
+Der Mann auf der Liege griff plötzlich nach der Maske. Nicht kräftig. Eher wie jemand, dessen Hände nicht mehr richtig mitmachten.
 
 Eva legte ihre Hand über seine.
 
 „Lassen Sie die drauf.“
 
-Er reagierte nicht sofort.
+Er reagierte verzögert.
 
 Sie sah wieder zum Display.
 
-Nord war jetzt nur noch ein Kasten aus Zahlen und Warnhinweisen. Kein Gesicht. Keine Stimme. Keine Hand unter ihrer.
+Nord blieb dort als Werte und Warnhinweise stehen. Der Patient selbst war irgendwo in einem anderen Haus.
 
-Eva spürte, wie leicht es gewesen wäre, daraus ein Argument zu machen.
+KORA konnte mit der Priorisierung recht haben.
 
-Sie tat es nicht.
+Eva musste trotzdem entscheiden, während der Mann vor ihr sichtbar an Kraft verlor.
 
-KORA konnte recht haben.
-
-Trotzdem musste jemand entscheiden.
-
-Und der Patient vor ihr verlor gerade die Kraft zum Atmen.
-
-Eva öffnete das Override-Feld.
+Sie öffnete das Override-Feld.
 
 **Empfehlung überschreiben?**
 
-Darunter ein leerer Bestätigungsbereich.
-
-Noch keine Begründungspflicht. Nur die Entscheidung.
+Noch gab es keine Begründungspflicht. Nur die Entscheidung.
 
 Sie hielt den Finger einen Moment über dem Feld.
 
@@ -169,7 +145,7 @@ Sie sah den Kollegen an.
 
 „Okay.“
 
-„Und das läuft auf mich.“
+„Das läuft auf mich.“
 
 Sie bestätigte.
 
@@ -177,7 +153,7 @@ Das Display wechselte sofort.
 
 **INTENSIVKAPAZITÄT – FALKENRIED ZENTRAL ZUGEWIESEN**
 
-Darunter erschien für Nord ein gelber Status.
+Für Nord erschien der neue Status.
 
 **Übergangsstabilisierung fortsetzen.**
 
@@ -187,9 +163,7 @@ Dann war sie wieder am Bett.
 
 „Intubationsbereitschaft.“
 
-Der Raum setzte sich in Bewegung.
-
-Material wurde geöffnet. Medikamente vorbereitet. Der Monitor wurde lauter, weil jetzt niemand mehr versuchte, den Alarm wegzudrücken.
+Der Raum setzte sich in Bewegung. Material wurde geöffnet, Medikamente vorbereitet, die nächsten Handgriffe liefen an.
 
 Eva stand am Kopfende.
 
@@ -201,6 +175,6 @@ Er blinzelte.
 
 Mehr kam nicht.
 
-Auf dem Wanddisplay blieb der gelbe Balken aus Falkenried Nord sichtbar.
+Auf dem Wanddisplay blieb Falkenried Nord sichtbar.
 
-Eva sah ihn nicht mehr an.
+Eva sah nicht mehr hin.
