@@ -1,40 +1,40 @@
 # G2 Review Request – Prose Ready
 
-status: READY_FOR_HUMAN_G2
+status: REOPENED_AWAITING_FRESH_CONTEXT_SCENE_SHAPE_REVIEW
 gate: G2
+review_target: `78222a7e99c80378c35379ad42684ee332a412a6`
 
-## Gegenstand der Freigabe
+## Hintergrund
 
-Freigegeben werden soll die vollständige Storywahrheit bis einschließlich Beat-Ebene:
+Der ursprüngliche G2-Stand wurde am 2026-08-30 durch Human `G2-APPROVE` freigegeben.
 
-- G0-Konzept
-- G1-Gesamtarchitektur
-- 18 Bausteine
-- 54 Ereignisse
-- 40 Szenen
-- 253 Beats
-- Figurenarchitektur
-- geschlossene plotrelevante Research-Basis einschließlich R-06
+Nach zwei Whole-Manuscript-Reviews wurde ein kontrollierter Backtrack auf Szenen-/Beat-Ebene notwendig, weil wiederholte Scene-Repetition-/Pacing-Majors durch Prosa-Rework allein nicht ausreichend lösbar waren.
 
-## Review-Stand
+G1-Storywahrheit und Ereignisebene bleiben unverändert.
 
-- G1: APPROVED
-- Szenen-Fresh-Context-Review: CLEAN_FRESH_CONTEXT, 0 Findings
-- Beat-Same-Context-Review: 0 mandatory findings
-- Beat-Fresh-Context-Review: CLEAN_FRESH_CONTEXT, 1 Finding
-- BEAT-SR-001: bestätigt und auf Beat-Ebene korrigiert
-- offene Beat-/Szenen-/Architektur-Blocker: none
+## Rework-Scope
 
-## G2-Frage
+Geänderte dramaturgische Trägerformen:
 
-Ist die Story bis auf Beat-Ebene ausreichend vollständig, konsistent und granularisiert, sodass beim Prosaschreiben keine relevante Storyentscheidung mehr erfunden werden muss?
+- S008
+- S014
+- S018
+- S020
+- S024
+- S032
 
-## Bei APPROVE
+Keine Szene wurde entfernt oder neu hinzugefügt. Die Event-Abdeckung bleibt 54/54; die Gesamtstruktur bleibt 40 Szenen / 253 Beats.
 
-Gültiger Human-Token:
+## Re-Review-Frage
+
+Ist der reworked Szenen-/Beat-Stand weiterhin vollständig G1-konsistent und zugleich als **gesamte Szenenfolge** ausreichend variiert, sodass der bisher wiederkehrende Meeting-/Review-Träger nicht mehr als struktureller Major in der Architektur angelegt ist?
+
+## Vor erneutem Human Gate
+
+1. `SCENE_FRESH_CONTEXT_TASK.md` gegen `78222a7e99c80378c35379ad42684ee332a412a6` ausführen.
+2. Findings vollständig dispositionieren.
+3. Bei sauberem Ergebnis erneut:
 
 `G2-APPROVE`
 
-Erst danach darf die Prosaebene beginnen.
-
-G2 ist keine Freigabe des späteren Stils oder des Gesamtmanuskripts. Es bedeutet ausschließlich: **Story / Scene / Beat → prose ready.**
+Bis dahin ist G2 für den aktuellen Rework-Stand **nicht erneut freigegeben**.
