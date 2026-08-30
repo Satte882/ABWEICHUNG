@@ -7,124 +7,104 @@ source_beats: `BEATS.md`
 
 ---
 
-Die drei Fälle passten auf eine Folie.
+Auf der ersten Folie standen nur drei Zeilen.
 
-Eva fand das unangemessen.
+**Ressourcenexternalität.**
 
-Miriam zeigte auf den ersten.
+**High-confidence Fehlabweichung.**
 
-„Unsichtbare Externalität.“
+**Umgangene Zweitfreigabe.**
 
-Der Ressourcenkonflikt aus der Nacht, in der Eva den Platz lokal gebunden hatte. Ihr Patient stabilisiert. Der andere länger in Übergangsversorgung, später verstorben.
+Eva brauchte die Fälle dahinter nicht erklärt zu bekommen.
 
-Zweiter Fall.
+Die erste Zeile gehörte ihr.
 
-„Regelkonformer high-confidence Fehl-Override.“
+Die zweite Nele.
 
-Nele.
+Die dritte Felix.
 
-Keine Manipulation. Kein Regelbruch. Eine medizinisch nachvollziehbar gedachte Abweichung, die sich im Review als deutlich schlechtere Entscheidung erwiesen hatte.
+Miriam wechselte weiter.
 
-Dritter Fall.
+Die neue SOP war länger.
 
-„Umgehung einer relevanten Schutzstufe.“
+Entscheidungszeitpunkte sollten stärker aus automatisch vorhandenen Prozessdaten rekonstruiert werden können. Relevante Eingaben mussten gegen nachträgliche Verschiebung der Entscheidungskette robuster werden. High-confidence Abweichungen in den definierten Hochrisikoklassen bekamen eine verbindliche Zweitfreigabe. Die Wert-/Kontextwege blieben erhalten, unter den inzwischen engeren Kriterien.
 
-Felix.
+Eva las den Entwurf einmal vollständig.
 
-Eva sah nicht zu den anderen Vorstandsmitgliedern.
+Dann noch einmal die drei Zeilen auf der ersten Folie.
 
-Miriam wechselte zur vorgeschlagenen SOP.
+„Das Problem ist nicht, dass ich eine dieser Reaktionen unbegründet finde.“
 
-Entscheidungszeitpunkte sollten künftig stärker aus automatisch vorhandenen Prozessdaten abgeleitet werden, statt allein aus später gesetzter Dokumentation. High-confidence Abweichungen in den definierten Hochrisikoklassen bekamen verbindliche Zweitfreigabe. Die Wert-/Kontextwege blieben erhalten, mit ihren inzwischen engeren Kriterien.
+Miriam wartete.
 
-„Das ist die Summe von allem“, sagte Eva.
+„Für jede einzelne kann ich dir den Schaden nennen, aus dem sie entstanden ist.“ Eva deutete auf die SOP. „Und trotzdem verändert ihre Summe, wer in einem high-confidence Fall praktisch die Ausgangsposition hat.“
 
-Miriam nickte. „Ja.“
+Ein Vorstandsmitglied verschränkte die Hände auf dem Tisch.
 
-„Jede einzelne Regel konnte man begründen.“
+„Die Letztentscheidung bleibt beim Arzt.“
 
-„Kann man immer noch.“
+„Unter mehr Bedingungen als am Anfang.“
 
-„Und zusammen?“
+„Weil wir mehr wissen als am Anfang.“
 
-Miriam sah sie an. „Zusammen bilden sie Governance.“
+Eva antwortete nicht sofort.
 
-Eva lehnte sich zurück.
+Auch das war wahr.
 
-„Zusammen bilden sie eine Entscheidung, bei der KORA in high-confidence Fällen praktisch die Ausgangsautorität hat.“
+Miriam ging zurück auf die erste Folie.
 
-Ein Vorstandsmitglied sagte: „Die Letztentscheidung bleibt beim Arzt.“
+„Welche Schutzreaktion willst du streichen?“
 
-Eva sah zur vorgeschlagenen Zweitfreigabe.
+Eva betrachtete die drei Zeilen.
 
-„Unter Bedingungen.“
+Die Externalität konnte sie nicht mehr auf den sichtbaren Patienten reduzieren.
 
-„Wie jede klinische Entscheidung.“
+Neles Fall hatte gezeigt, dass ein regelkonformer Override trotzdem schlecht sein konnte.
 
-„Nicht wie diese.“
-
-Miriam griff ein, bevor die Diskussion abstrakt wurde.
-
-„Welche der drei Schutzreaktionen willst du streichen?“
-
-Eva blickte auf die Folie.
-
-Die Frage war unfair.
-
-Und gut.
-
-Den ersten Fall konnte sie nicht wegreden. Sie hatte selbst gelernt, dass lokale Sicht nicht die ganze Ressourcenfolge zeigte.
-
-Neles Schaden auch nicht.
-
-Felix am wenigsten.
+Felix hatte eine Schutzstufe bewusst umgangen, ohne Werte erfinden zu müssen.
 
 „Keine einzeln.“
 
-„Dann sag, wo die Kombination fachlich falsch wird.“
+Miriam nickte nur.
 
-Eva schwieg.
+Eva hasste diese Antwort, weil sie die nächste bereits enthielt.
 
-Sie sah die Bewegung deutlicher als die Fehler.
+Sie nahm den Entwurf und strich mit dem Finger drei Stellen an.
 
-Am Anfang hatte KORA empfohlen und der Mensch frei überschrieben.
+„Dann bleibt ärztliche Verantwortung ausdrücklich im Text.“
 
-Dann musste er begründen.
+„Ja.“
 
-Dann eine zweite Person holen.
+„Der Wert-/Kontextweg bleibt real.“
 
-Dann konnte seine eigene Bilanz bestimmen, wie früh diese zweite Person nötig wurde.
+„Ja.“
 
-Dann wurden zulässige Ausnahmegründe enger definiert.
+Eva legte den Finger auf die Stelle zur Zweitfreigabe.
 
-Jetzt sollte selbst der Zeitpunkt, an dem die Entscheidung als Entscheidung galt, manipulationssicherer festgelegt werden.
+„Und wenn in einer akuten Lage keine zweite Person rechtzeitig erreichbar ist, brauche ich einen Weg, der technisch wirklich offen bleibt.“
 
-Alles aus realen Problemen.
+Miriam machte eine Notiz.
 
-Nichts davon war als Machtübernahme beschlossen worden.
+„Das behandeln wir separat.“
 
-„Ich will, dass im Text klar bleibt, dass der Arzt die medizinische Verantwortung trägt“, sagte Eva.
+„Heute.“
 
-Miriam nickte.
+Miriam hob den Blick.
 
-„Bleibt.“
+„Heute.“
 
-„Und dass die Wert-/Kontextausnahme erhalten bleibt.“
-
-„Bleibt.“
-
-„Und ich will einen echten Notfallweg, wenn keine zweite Person rechtzeitig erreichbar ist.“
-
-Miriam sah zu ihr.
-
-„Das ist ein eigener Punkt.“
-
-„Dann machen wir ihn als eigenen Punkt.“
+Mehr musste Eva in diesem Raum nicht gewinnen.
 
 Die SOP wurde beschlossen.
 
-Eva stimmte nicht gegen sie.
+Niemand feierte. Papiere wurden eingesammelt, Termine genannt, Zuständigkeiten verteilt. Der nächste Tagesordnungspunkt wartete bereits.
 
-Sie konnte keinen der Schäden ungeschehen machen, aus denen sie entstanden war.
+Eva blieb einen Moment sitzen, nachdem die erste Person aufgestanden war.
 
-Trotzdem hatte sie beim Verlassen des Raums das Gefühl, dass Falkenried an diesem Tag mehr verändert hatte als einen Prozess.
+Drei Schäden hatten auf eine Folie gepasst.
+
+Die Regeln, die daraus entstanden waren, brauchten mehrere Seiten.
+
+Keine davon fühlte sich für sich genommen wie der große Bruch an.
+
+Beim nächsten high-confidence Konflikt würden sie trotzdem alle gleichzeitig im Raum sein.
