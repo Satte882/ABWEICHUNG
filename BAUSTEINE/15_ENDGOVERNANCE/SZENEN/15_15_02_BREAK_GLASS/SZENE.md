@@ -1,26 +1,26 @@
 # Szene S032 – Break-glass
 
 scene_id: S032
-scene_status: draft
+scene_status: reworked_after_manuscript_review
 block_id: B15
 event_refs: E045
 pov: Eva
 research_refs: R-01, R-03
 
 ## Funktion
-Vor dem Finale beweisen, dass der menschliche Override technisch und formal real bleibt.
+Vor dem Finale praktisch beweisen, dass der menschliche Override technisch und formal real bleibt, ohne direkt nach S031 eine zweite Regelverhandlung zu wiederholen.
 
 ## Ausgangslage
-Eva fordert für akute Situationen eine letzte Möglichkeit, ohne erreichbare Zweitperson sofort abzuweichen.
+Nach Beschluss der End-Governance besteht Eva vor Produktivsetzung darauf, den vorgesehenen Solo-Break-glass unter realistischen Bedingungen zu testen. In einer Testumgebung wird absichtlich eine akute high-confidence Abweichung simuliert, bei der keine Zweitperson rechtzeitig verfügbar ist.
 
 ## Konflikt / Entscheidung
-Falkenried behält einen Solo-Break-glass. Jede Nutzung wird automatisch markiert und nachreviewt; die handelnde Person trägt die Abweichung sichtbar selbst.
+Der reguläre Override-Weg verlangt Zweitfreigabe und kommt im Testszenario nicht rechtzeitig weiter. Eva nutzt den Solo-Break-glass. Die Abweichung wird technisch sofort wirksam; gleichzeitig erzeugt das System automatisch einen persönlich zugeordneten Reviewfall. Eva prüft damit selbst, dass weder eine versteckte Vorabfreigabe noch eine technische Sperre existiert.
 
 ## Informationsverschiebung
-Der Roman darf später nicht behaupten, KORA habe die Entscheidung technisch übernommen. Die Machtverschiebung liegt in Beweislast und Rechenschaft.
+Der Roman zeigt praktisch: KORA hat die Letztentscheidung technisch nicht übernommen. Die Machtverschiebung liegt in Beweislast, Sichtbarkeit und nachgelagerter Rechenschaft.
 
 ## Figurenbewegung
-Eva erreicht einen formalen Erfolg, erkennt aber, wie teuer die Nutzung sozial und institutionell geworden ist.
+Eva erreicht einen formalen Erfolg und erlebt im selben Moment dessen Preis: Der Knopf ist real, aber jeder Einsatz ist institutionell maximal sichtbar.
 
 ## Konsequenz
-Der Mechanismus steht für das Finale bereit.
+Der Solo-Break-glass ist für das Finale als tatsächlich funktionierender Mechanismus etabliert.
