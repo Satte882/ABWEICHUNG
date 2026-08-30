@@ -7,110 +7,78 @@ source_beats: `BEATS.md`
 
 ---
 
-„Dann fehlt ein Knopf.“
+Eva legte Miriam einen handschriftlichen Satz auf den Tisch.
 
-Miriam sah auf den Prozessentwurf.
+**Akute Lage. Zweitperson nicht rechtzeitig erreichbar. Abweichung muss technisch sofort möglich bleiben.**
 
-„Welcher?“
+Miriam las ihn.
 
-„Der, mit dem ich im echten Notfall trotzdem handeln kann.“
+„Das ist mein letzter Punkt zur SOP“, sagte Eva. „Wenn dieser Weg nicht real ist, können wir aufhören, von menschlicher Letztentscheidung zu sprechen.“
 
-„Du kannst immer handeln, wenn die Zweitfreigabe erreichbar ist.“
+Sie setzte sich nicht.
 
-„Ich rede von dem Fall, in dem sie nicht erreichbar ist.“
+Miriam nahm einen Stift und zog unter **technisch sofort möglich** eine Linie.
 
-„Die relevanten Bereiche sind so organisiert, dass—“
-
-„Miriam.“
-
-Eva wartete, bis sie aufsah.
-
-„Wenn es eine Situation gibt, in der ich einen Patienten vor mir habe, sofort entscheiden muss und technisch nicht abweichen kann, weil irgendwo eine zweite Person fehlt, dann haben wir keine Human Oversight mehr. Dann haben wir einen Automatismus mit menschlicher Dekoration.“
-
-Miriam schwieg.
-
-Die Formulierung war hart genug, dass Eva sie nicht zurücknahm.
-
-„Was schlägst du vor?“
-
-„Solo-Break-glass.“
-
-„Ohne Freigabe?“
-
-„Ohne vorherige Freigabe.“
-
-„Bei high confidence?“
-
-„Gerade dann muss er real sein, wenn wir behaupten, dass die Letztentscheidung beim Menschen bleibt.“
-
-Miriam ging zum Fenster und wieder zurück.
-
-„Automatisch markiert.“
+„Dann ohne vorherige Freigabe.“
 
 „Ja.“
 
-„Sofortiger Review.“
+Miriam schrieb darunter drei Folgen.
 
-Eva nickte.
+**automatisch markiert**
 
-„Persönlich zurechenbar.“
+**unmittelbarer Review**
+
+**persönlich zurechenbar**
+
+Eva las mit.
+
+Kein anonymer Notfallmodus. Keine zweite Person, hinter der man die Entscheidung teilen konnte. Wer den Weg nutzte, bekam die Handlung sofort durch und den Fall ebenso sofort zurück.
+
+„Damit kann ich leben“, sagte Eva.
+
+Miriam legte den Stift weg.
+
+„Du weißt, was das mit der Nutzung macht.“
 
 „Natürlich.“
 
-„Kein anonymer Notfallmodus.“
+Ein Break-glass, der unsichtbar blieb, wäre nur eine Hintertür gewesen. Eva wollte eine echte Letztentscheidung, keine Möglichkeit, Verantwortung aus dem System zu drücken.
 
-„Will ich nicht.“
+„Der Review darf den Knopf nicht rückwirkend zu einem Regelbruch machen“, sagte sie. „Wenn er vorgesehen ist, ist seine Nutzung vorgesehen.“
 
-Miriam setzte sich.
+„Die Nutzung ist erlaubt. Die Begründung wird geprüft.“
 
-„Dann ist der Knopf nicht kostenlos.“
+Eva nickte.
 
-Eva lachte leise.
+Das war der Preis.
 
-„Seit wann ist Verantwortung kostenlos?“
+Sie hatte verlangt, im Ausnahmefall ohne Zustimmung handeln zu können. Miriam verlangte im Gegenzug, dass genau diese einsame Entscheidung später vollständig sichtbar war.
 
-Miriam sah sie an.
+Wenige Tage später erschien der Mechanismus in der Oberfläche.
 
-„Du weißt, dass kaum jemand ihn benutzen wird, wenn jeder Einsatz direkt im Review landet.“
+Eva öffnete ihn zwischen zwei Fällen, nur um zu prüfen, was aus ihrem Satz geworden war.
 
-„Vielleicht.“
-
-„Das verändert Verhalten.“
-
-„Ja.“
-
-„Und das stört dich nicht?“
-
-Eva dachte nach.
-
-„Doch.“
-
-Miriam wartete.
-
-„Aber ich kann schlecht gleichzeitig verlangen, dass ein Arzt frei abweichen darf, und verlangen, dass danach niemand fragt, warum.“
-
-Einige Tage später war der Mechanismus in der Oberfläche.
-
-Nicht groß.
-
-Kein roter Alarmknopf.
-
-Eine klar beschriftete Option unterhalb des regulären Zweitfreigabewegs.
+Unterhalb des regulären Zweitfreigabewegs stand:
 
 **SOLO-BREAK-GLASS – unmittelbare Abweichung mit automatischem Review**
 
-Eva öffnete die Erklärung.
+Sie klickte auf die Erklärung.
 
-Keine technische Sperre.
+Keine zweite Person musste bestätigt werden. Keine technische Sperre erschien. Nach der eigenen Bestätigung würde die Abweichung sofort wirksam. Gleichzeitig ging der Fall in die persönliche Nachprüfung.
 
-Keine Rückfrage durch eine zweite Person.
+Eva ließ den Cursor über der Option stehen.
 
-Nach Bestätigung wurde die Entscheidung sofort wirksam. Gleichzeitig ging der Fall in die persönliche Nachprüfung.
+Der Weg war real.
 
-Eva schloss das Fenster wieder.
+Niemand hatte ihr die Letztentscheidung technisch genommen.
 
-Der Knopf war da.
+Aber der Knopf trug jetzt bereits die Frage in sich, die nach jedem Einsatz kommen würde:
 
-Genau das hatte sie verlangt.
+Warum war dein Grund stark genug, allein abzuweichen?
 
-Nur fühlte sich seine Existenz weniger wie Freiheit an, als sie erwartet hatte.
+Eva schloss das Fenster.
+
+Sie hatte bekommen, was sie verlangt hatte.
+
+Es fühlte sich weniger nach Freiheit an als früher.
