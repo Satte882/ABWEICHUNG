@@ -4,14 +4,14 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → G3 APPROVED → VOLLMANUSKRIPT-PROSA FREIGEGEBEN**
+**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → G3 APPROVED → VOLLMANUSKRIPT-PROSA IN ARBEIT**
 
 - 18 Bausteine
 - 54 Ereignisse
 - 40 Szenen
 - 253 Beats
-- 3 repräsentative Prosa-Szenen als freigegebene Stilreferenz
-- 37 weitere Szenen jetzt für Prosa freigegeben
+- 3 G3-Stilreferenz-Szenen freigegeben
+- 37 weitere Szenen werden jetzt in derselben Stilrichtung ausformuliert
 - 6 plotrelevante Kernrollen
 - 3 Informationsstränge: Outcome / Governance / Externalität
 - R-06 medizinische Ankerfälle geschlossen
@@ -27,19 +27,15 @@ Die Story wird konsequent **vom Groben ins Feine** aufgebaut:
 
 `Buchidee / Gesamtarchitektur → Baustein → Ereignisse → Szene → Beats → Prosa`
 
-Dabei gilt:
+Die Story ist bis auf Beat-Ebene horizontal geschlossen. Die G3-Stichprobe hat die sprachliche Richtung freigegeben. Jetzt wird die Prosa auf alle verbleibenden Szenen skaliert.
 
-> Erst eine Ebene über das gesamte Buch ausreichend schließen, dann die nächste Ebene ableiten.
-
-Die Story ist bis auf Beat-Ebene horizontal geschlossen und durch G2 freigegeben. G3 hat die Stilrichtung anhand eines repräsentativen Batches freigegeben. Die weitere Prosa konkretisiert diese freigegebene Kette, ohne neue relevante Storywahrheit stillschweigend einzuführen.
-
-## Freigegebene G3-Stilreferenz
+## Stilreferenz G3
 
 - `S001 – Die letzte Kapazität`: akuter medizinischer Druck
 - `S019 – Die Bilanz`: analytischer Midpoint
 - `S023 – Würden Sie es wieder tun?`: persönliche Konfrontation
 
-Die gemeinsame Stilrichtung dieser drei Szenen wird auf die restlichen 37 Szenen skaliert.
+Diese drei Szenen sind die interne Kalibrierung für Direktheit, Rhythmus, Dialog, Informationsdichte und Evas POV.
 
 ## Prosa-Regel
 
@@ -47,18 +43,16 @@ Prosa konkretisiert Sprache, Rhythmus, Dialog, Atmosphäre und Wahrnehmung. Sie 
 
 Wenn beim Schreiben eine echte Storyänderung notwendig erscheint, muss sie explizit auf die betroffene vorgelagerte Ebene zurückgeführt werden.
 
-Für den späteren Vollmanuskript-Audit bleibt ein nicht-blockierender Beobachtungspunkt notiert: In S019 kommt einmal eine kurze Kontrastkette im Muster `Kein ... Kein ... Nur ...` vor; relevant wird das nur bei Häufung im Gesamttext.
+## Aktuelle Phase
 
-## Nächster Prüfpunkt
+**Vollmanuskript-Prosa.**
 
-Jetzt folgt die **vollständige Prosa über alle 40 Szenen**.
+Nach vollständiger Prosa folgen:
 
-Danach:
-
-- Gesamtmanuskript-Review
-- Rework
-- Prosa-/Qualitätsaudit
-- Human Gate **G4 – Manuskript**
+1. Vollmanuskript-Audit,
+2. semantischer Gesamt-/Fresh-Context-Review,
+3. Rework,
+4. Human Gate **G4 – Manuskript**.
 
 ## Reihengedanke
 
