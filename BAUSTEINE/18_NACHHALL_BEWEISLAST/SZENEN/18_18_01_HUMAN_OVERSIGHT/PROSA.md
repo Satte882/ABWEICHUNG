@@ -7,126 +7,122 @@ source_beats: `BEATS.md`
 
 ---
 
-Die Aufarbeitung war formal sauber.
+Die Aufarbeitung brauchte vier Seiten für eine Entscheidung, die sich im Moment selbst wie wenige Sekunden angefühlt hatte.
 
-Eva hatte alle relevanten Daten gesehen.
+Eva las die Rekonstruktion schweigend.
+
+Alle relevanten Daten waren verfügbar gewesen.
 
 KORA hatte den entfernten Patienten mit hoher Konfidenz priorisiert.
 
-Eva hatte weder einen medizinischen Gegenbeleg noch einen zulässigen patientenspezifischen Wert-/Kontextgrund benennen können.
+Eva hatte keinen medizinischen Gegenbeleg benennen können. Auch keinen zulässigen patientenspezifischen Wert-/Kontextgrund.
 
 Nele hatte die Zweitfreigabe nach geltender Regel verweigert.
 
-Der Solo-Break-glass war verfügbar gewesen.
+Der Solo-Break-glass war technisch verfügbar geblieben.
 
 Eva hatte ihn nicht benutzt.
 
-Miriam fasste zusammen.
+Weiter unten standen die Ausgänge.
 
-„Human Oversight war gewährleistet.“
+Der lokale Patient war später verstorben.
 
-Eva sah auf den Bericht.
+Der entfernte Patient hatte die Intensivkapazität erhalten und überlebt.
 
-„Formal.“
+Eva legte den Bericht flach auf den Tisch.
 
-„Nicht nur formal.“
+Miriam saß ihr gegenüber.
 
-„Erklär.“
+„Die formale Bewertung ist eindeutig“, sagte sie. „Human Oversight war gewährleistet. Du hattest die Informationen, du konntest die Empfehlung prüfen, du konntest eine Abweichung beantragen. Nele hat unabhängig geprüft. Selbst danach hattest du einen technisch offenen Weg, sofort anders zu entscheiden.“
 
-Miriam deutete auf die Entscheidungskette.
-
-„Du kanntest die Daten. Du konntest die Empfehlung prüfen. Du konntest eine Abweichung beantragen. Eine zweite Ärztin hat eigenständig geprüft. Und selbst nach ihrer Ablehnung hattest du technisch die Möglichkeit, sofort anders zu entscheiden.“
-
-„Mit automatischem Review.“
+„Mit automatischer persönlicher Nachprüfung.“
 
 „Ja.“
 
-„Mit persönlicher Zurechnung.“
+Miriam wich dem Punkt nicht aus.
 
-„Natürlich.“
+„Der Weg war nicht kostenlos. Er war real.“
 
-Eva lehnte sich zurück.
+Eva strich mit dem Daumen über die Zeile zum lokalen Ausgang.
 
-„Dann lautet der institutionelle Schluss: Freiheit erhalten, Sicherheit erhöht.“
+Sie dachte an das Bettgitter unter ihrer Hand. An den Moment, in dem im Raum nichts mehr zu tun gewesen war. In diesem Bericht war daraus ein Satz geworden.
 
-Miriam sah sie an.
+*Lokaler Patient später verstorben.*
 
-„So ungefähr.“
+Faktisch korrekt.
 
-„Und der tote Patient in Zentral?“
+Vollständig war es nicht.
 
-„Ist Teil der Aufarbeitung.“
+„Dann kann Falkenried schreiben, dass Freiheit erhalten und Sicherheit erhöht wurde.“
 
-„Aber kein Gegenargument gegen die Governance.“
+Miriam hielt kurz inne.
 
-Miriam antwortete vorsichtig.
+„Falkenried kann schreiben, dass die Governance in diesem Fall so funktioniert hat, wie sie entworfen war.“
 
-„Nicht automatisch. Genauso wenig wie das Überleben in Nord beweist, dass jede KORA-Empfehlung richtig ist.“
+„Das klingt vorsichtiger.“
 
-Eva nickte.
+„Ist es auch.“
 
-Das war korrekt.
+Eva blickte zur anderen Ergebniszeile.
 
-Wieder diese unangenehme Eigenschaft der ganzen Geschichte: Die stärksten Sätze waren oft die, gegen die sie fachlich nichts sagen konnte.
+Der Patient in Nord hatte überlebt. Auch das durfte sie nicht kleiner machen, nur weil sie ihn nie gesehen hatte.
 
-„Ich hatte einen Knopf“, sagte sie.
+„Vielleicht war meine Entscheidung richtig.“
 
-„Ja.“
+„Möglich.“
 
-„Und weil ich ihn nicht gedrückt habe, beweist das, dass das System mir die Entscheidung gelassen hat.“
+„Vielleicht sogar klar richtig.“
 
-„Es zeigt zumindest, dass es sie dir nicht technisch genommen hat.“
+Miriam antwortete nicht.
 
-Eva sah auf ihre eigene Entscheidung im Bericht.
+Eva schob den Bericht ein Stück von sich weg.
 
-Kein Break-glass. Kapazität an den entfernten Standort. Lokaler Patient später verstorben. Entfernter Patient überlebt.
-
-„Vielleicht war die Entscheidung richtig“, sagte Eva.
-
-Miriam sagte nichts.
-
-„Das ist nicht dasselbe wie: Die Ordnung ist richtig.“
+„Und trotzdem sagt mir das nicht, dass die Ordnung richtig ist.“
 
 „Nein.“
 
-Eva sah auf.
+Die Antwort kam ohne Zögern.
 
-„Du widersprichst mir gar nicht.“
+Eva hob den Kopf.
 
-„Warum sollte ich?“
+Miriam fuhr fort.
 
-„Weil du gerade sagst, die Governance hat funktioniert.“
+„Ein funktionierender Prozess ist kein moralischer Beweis. Das Überleben in Nord beweist nicht, dass KORA immer recht hat. Der Tod hier beweist nicht, dass du den Break-glass hättest benutzen müssen. Wir können prüfen, ob die Regeln eingehalten wurden und ob die Entscheidung auf einer tragfähigen Grundlage stand. Mehr gibt uns dieser einzelne Fall nicht.“
 
-„Hat sie.“
+Eva ließ die Worte stehen.
 
-„Und trotzdem ist sie nicht automatisch richtig?“
+Genau diese Begrenzung hatte sie früher selbst eingefordert, wenn jemand aus einem einzelnen Ausgang zu viel ableiten wollte.
 
-Miriam atmete aus.
+Jetzt schützte sie eine Governance, die Eva noch immer als Machtverschiebung empfand.
 
-„Eva, ich bin Ärztin. Kein System ist durch einen gelungenen Fall moralisch endgültig bewiesen.“
+„Ich hatte einen Knopf“, sagte Eva.
 
-Eva musste beinahe lachen.
+„Ja.“
 
-„Das hätte ich gern früher auf einer Folie gesehen.“
+„Und ich habe ihn nicht gedrückt.“
 
-„Hättest du sie geglaubt?“
+„Ja.“
 
-Eva dachte nach.
+Eva legte die Hand auf den Bericht.
 
-„Wahrscheinlich nicht.“
+„Damit ist bewiesen, dass ihr ihn mir gelassen habt.“
+
+Miriam antwortete leiser.
+
+„Technisch und formal: ja.“
+
+Mehr behauptete sie nicht.
+
+Das machte es Eva schwerer, gegen sie anzukämpfen.
 
 Die Sitzung endete ohne neue Regel.
 
-KORA blieb.
+KORA blieb. Die Zweitfreigaben blieben. Die Wert-/Kontextgrenzen blieben. Der Break-glass blieb.
 
-Die Zweitfreigaben blieben.
+Eva unterschrieb die Rekonstruktion der Fakten.
 
-Die Wert-/Kontextgrenzen blieben.
+Bei der institutionellen Bewertung setzte sie keinen zusätzlichen Satz darunter.
 
-Der Break-glass blieb.
+Als sie den Raum verließ, war der Bericht geschlossen.
 
-Falkenried behandelte den finalen Konflikt als Beleg, dass Human Oversight unter der neuen Governance real möglich war.
-
-Eva unterschrieb die Fakten im Bericht.
-
-Die Erfolgserzählung unterschrieb sie nicht.
+Der Patient, der vor ihr gestorben war, war es für sie nicht.
