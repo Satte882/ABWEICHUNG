@@ -1,7 +1,8 @@
 # G3 Review Request – Prosa-Stil
 
-status: READY_FOR_HUMAN_G3
+status: APPROVED
 human_gate: G3
+decision: G3-APPROVE
 basis_gate: G2 APPROVED
 
 ## Repräsentativer Prosa-Batch
@@ -24,8 +25,6 @@ Der G3-Batch besteht bewusst aus drei unterschiedlichen Szenentypen:
    - emotionale Spannung
    - Subtext und unvollständige Antworten
 
-Die übrigen 37 Szenen bleiben bis G3 ohne Prosa.
-
 ## Ableitungsregel
 
 Jede Stichprobe ist ausschließlich aus ihrer freigegebenen Kette abgeleitet:
@@ -36,7 +35,7 @@ Keine Stichprobe darf eine neue relevante Plot-, Figuren-, Informations-, Resear
 
 ## Stilbasis
 
-Verwendet werden die bestehenden Projekt-/Framework-Leitplanken:
+Freigegeben sind insbesondere:
 
 - zugänglich, unmittelbar, schnell lesbar
 - konkrete Wahrnehmung und Handlung vor abstrakter Erklärung
@@ -47,24 +46,18 @@ Verwendet werden die bestehenden Projekt-/Framework-Leitplanken:
 - keine erklärenden Echos nach bereits verständlicher Handlung
 - keine moralisierende Erzählerstimme
 - Prosa-Profil `de_anti_ki_prosa_v1`
-- harter Guard im aktuellen Batch: `sondern = 0`
+- harter Guard: `sondern = 0`
 
-## Human Gate G3 prüft
+## Review-Ergebnis
 
-1. Trägt Evas Stimme als zentrale POV-Figur?
-2. Funktioniert der Lesesog in einer Action-, Analyse- und emotionalen Szene?
-3. Sind medizinische und Governance-Inhalte verständlich, ohne nach Sachtext zu klingen?
-4. Wirken Dialoge wie konkrete Figureninteraktion statt Positionsreferate?
-5. Ist die Prosa direkt genug, ohne in Dauerstakkato zu kippen?
-6. Sind sichtbare KI-Prosa-Muster ausreichend vermieden?
-7. Soll genau diese sprachliche Richtung auf die restlichen 37 Szenen skaliert werden?
+G3 ist freigegeben. Es bestehen keine blockierenden Stil-, Architektur- oder medizinischen Findings im Sample.
 
-## Entscheidung
+Nicht-blockierender Beobachtungspunkt für den späteren Vollmanuskript-Audit:
 
-Gültige Human-Entscheidungen:
+- S019 enthält einmal eine kurze Kontrastkette im Muster `Kein ... Kein ... Nur ...`; auf Häufung im Gesamtmanuskript achten.
 
-- `G3-APPROVE` – Stilrichtung freigeben und auf das Gesamtmanuskript skalieren
-- `G3-REWORK` – Stichprobe überarbeiten; noch nicht skalieren
-- `G3-STOP` – Prosaarbeit stoppen
+## Konsequenz
 
-Bis zu einer Human-Entscheidung wird keine weitere Szene in Prosa geschrieben.
+Die Stilrichtung darf auf die übrigen 37 Szenen skaliert werden.
+
+Nächster Human Gate nach vollständiger Prosa, Reviews und Rework: **G4 – Manuskript**.
