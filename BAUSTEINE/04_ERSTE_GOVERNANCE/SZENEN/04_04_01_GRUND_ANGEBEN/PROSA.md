@@ -7,128 +7,56 @@ source_beats: `BEATS.md`
 
 ---
 
-„Muss ich künftig um Erlaubnis fragen?“
-
-Eva stellte die Frage, bevor Miriam den Vorschlag zu Ende erklärt hatte.
-
-„Nein.“
-
-„Muss jemand zustimmen?“
-
-„Nein.“
-
-„Kann ich einen Override sofort auslösen?“
-
-„Ja.“
-
-Eva sah auf die neue Maske im Entwurf.
+Miriam stellte die neue Maske auf den Bildschirm.
 
 **Grundtyp auswählen.**
 
 Darunter ein Freitextfeld.
 
-„Dann ist es Dokumentation.“
+Eva las erst den Entwurf, dann die Prozessbeschreibung daneben.
 
-„Genau.“
+„Ich will es einmal ohne Verwaltungssprache“, sagte sie. „Wenn ich künftig von KORA abweiche: Muss ich vorher jemanden fragen, muss jemand zustimmen oder kann ich die Entscheidung sofort auslösen?“
 
-Felix saß auf der anderen Seite des Tisches und blätterte durch die Seiten.
+„Du kannst sofort entscheiden“, sagte Miriam. „Niemand muss vorab zustimmen. Neu ist nur, dass du den damaligen Grund festhältst: Kategorie plus Freitext.“
 
-„Dokumentation wächst gern.“
+Eva ging die vorgesehenen Kategorien durch. Medizinischer Gegenbefund. Datenproblem. Klinischer Kontext. Andere begründete Abweichung mit Freitext.
 
-Miriam sah zu ihm. „Das Feld hat zwei Bestandteile.“
+„Also Dokumentation.“
 
-„Heute.“
+„Ja.“
 
-Eva hob die Hand, bevor der Satz sich in eine Grundsatzdebatte verwandelte.
+Felix blätterte durch die Seiten. „Dokumentation wächst gern.“
 
-„Was soll der Grundtyp sein?“
-
-Miriam zählte die vorgesehenen Kategorien auf. Medizinischer Gegenbefund. Datenproblem. Klinischer Kontext. Andere begründete Abweichung mit Freitext.
-
-„Keine automatische Bewertung?“
-
-„Nein.“
-
-„Keine Sanktion?“
-
-„Nein.“
-
-„Keine Freigabe?“
-
-„Nein.“
-
-Eva lehnte sich zurück.
-
-Der Vorschlag war vernünftig.
-
-Das ärgerte sie fast ein wenig.
-
-Sie hatte sich auf eine härtere Diskussion eingestellt. Auf eine Regel, die aus dem Fall in Nord sofort eine Einschränkung ärztlicher Entscheidungsmacht machte.
-
-Stattdessen verlangte die Institution nur, dass jemand festhielt, warum er von KORA abwich.
-
-„Was passiert mit den Daten?“ fragte Felix.
-
-„Qualitätssicherung.“
-
-„Personenbezogen?“
-
-„Zunächst Fallanalyse.“
+Miriam ließ den Einwand stehen und zeigte auf die Begrenzung im Entwurf. Keine automatische Bewertung, keine Vorabfreigabe, zunächst Fallanalyse in der Qualitätssicherung.
 
 Felix lachte leise. „Zunächst.“
 
-Miriam reagierte nicht.
+Eva hatte sich auf eine härtere Diskussion eingestellt. Nach dem Fall mit der verzögerten Versorgung im anderen Haus hätte die Institution auch versuchen können, aus einem sichtbaren Schaden sofort eine Genehmigungspflicht zu bauen.
 
-Eva sah wieder auf die Maske.
+Stattdessen verlangte sie fürs Erste nur eine Spur.
 
-In der Cold-Open-Nacht hätte sie dort geschrieben: drohende respiratorische Erschöpfung, unmittelbare klinische Verschlechterung am Bett.
+Eva stellte sich ihre Entscheidung aus jener Nacht vor. In das Feld hätte sie geschrieben: drohende respiratorische Erschöpfung, unmittelbare klinische Verschlechterung am Bett. Danach hätte sie den Override genauso ausgelöst.
 
-Sie hätte den Override trotzdem ausgelöst.
+„Ich habe damit kein Problem“, sagte sie.
 
-„Ich habe kein Problem damit“, sagte sie.
+Felix blickte von den Unterlagen auf. „Noch.“
 
-Felix drehte sich zu ihr. „Noch eins dieser Wörter.“
+Eva ignorierte den Köder. „Wenn wir eine Entscheidung Wochen später prüfen, brauche ich den Grund von damals. Nicht die Erinnerung, die sich inzwischen an den Ausgang angepasst hat.“
 
-„Welches?“
+Miriam nickte. „Genau dafür ist es gedacht.“
 
-„Noch.“
+Felix legte die Seiten auf den Tisch. „Dann will ich im Beschluss stehen haben, dass Begründung hier nicht Genehmigung bedeutet.“
 
-Eva ignorierte ihn.
+„Steht bereits drin“, sagte Eva.
 
-„Wenn wir Entscheidungen im Nachhinein prüfen wollen, brauchen wir den damaligen Grund. Nicht unsere Erinnerung Wochen später.“
+Er prüfte die Stelle selbst und schob den Entwurf zurück.
 
-Miriam nickte. „Das ist der Zweck.“
-
-„Dann machen wir es.“
-
-Felix legte die Unterlagen auf den Tisch.
-
-„Ich will nur festgehalten haben, dass aus Begründung nicht irgendwann Rechtfertigungspflicht wird.“
-
-Eva sah ihn an.
-
-„Ist festgehalten.“
-
-„Von dir?“
-
-„Reicht dir das nicht?“
-
-Felix lächelte.
-
-„Heute schon.“
+„Gut. Dann sehen wir, wie lange der Satz hält.“
 
 Wenige Tage später erschien das Feld in KORA.
 
-Beim ersten Override, den Eva danach sah, dauerte die Eingabe keine Minute.
+Beim ersten Override, den Eva danach beobachtete, dauerte die Eingabe keine Minute. Der Arzt wählte einen Grundtyp, schrieb zwei Sätze und bestätigte. Die Empfehlung wurde überschrieben; niemand musste zustimmen und der Ablauf wurde nicht unterbrochen.
 
-Der Arzt wählte einen Grundtyp, schrieb zwei Sätze und bestätigte.
+Zurück blieb nur etwas, das vorher gefehlt hatte:
 
-Die Empfehlung wurde überschrieben.
-
-Kein Alarm.
-
-Keine Rückfrage.
-
-Keine Hand, die ihn aufhielt.
-
-Nur eine Spur, die vorher nicht existiert hatte.
+sein Grund zum Zeitpunkt der Entscheidung.
