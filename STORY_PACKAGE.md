@@ -8,8 +8,8 @@ core_conflict_summary: bessere klinische Ergebnisqualität und Schutz vor vermei
 central_question: Wie lange darf ein Mensch eine schlechtere Entscheidung treffen, wenn eine Maschine nachweislich die bessere kennt?
 mechanism_summary: Jeder relevante menschliche Override erzeugt nicht automatisch Schaden, wird aber messbar. Reale adverse Ereignisse, systemweite Ressourcenfolgen und belastbare Outcome-Daten führen nacheinander zu Dokumentationspflicht, Zweitfreigabe, personenbezogener Abweichungsanalyse und engeren Notfallregeln. Der Override-Button verschwindet nie; die Beweislast verschiebt sich.
 promise_to_reader: Psychologisch enger Near-Future-Thriller ohne böse KI und ohne einfachen Technikfehler. Spannung entsteht aus konkreten Entscheidungen, unsichtbaren Folgekosten, institutionell legitimen Gegenpositionen, Schuld und der schrittweisen Umkehr dessen, wer seine Entscheidung begründen muss.
-protagonist_arc_summary: Eva startet als evidenzorientierte Ärztin, die KORA gegen Technikfeindlichkeit verteidigt und zugleich menschliche Letztentscheidung für unverzichtbar hält. Nach einem lokal erfolgreichen, systemisch folgenreichen Override akzeptiert sie erste Governance-Schritte. Sie kämpft erst dann, als aus Qualitätssicherung individuelle Autoritätsbegrenzung wird. Der Midpoint zwingt sie anzuerkennen, dass gerade ihre eigenen hochkonfidenten Abweichungen schlechter abschneiden und dass ihre Erinnerung lokale Erfolge stärker gewichtet als unsichtbare Kosten. Im Finale bleibt ihr ein echter Notfall-Override, aber sie findet keinen belastbaren Grund außer ihrer Nähe zum Patienten vor ihr. Sie nutzt ihn nicht. Formal behält sie die Entscheidungsmacht; innerlich hat sich die Beweislast umgekehrt.
-plot_architecture_summary: Achtzehn Makro-Bausteine führen von einem lokal erfolgreichen Override über die Entdeckung seiner unsichtbaren systemweiten Kosten, erste Governance-Schritte, einen zweiten Schaden, Widerstand und Datenprüfung bis zum Midpoint, an dem Evas eigene Abweichungsbilanz gegen sie spricht. Ein Versuch, wertbezogene Ausnahmen institutionell zu schützen, wird durch uneinheitliche Nutzung geschwächt; ein enger Kollege umgeht KORA durch Input-Manipulation und verursacht einen weiteren Schaden. Unter realem Kapazitätsdruck erreicht die Governance ihren Endzustand: Break-glass bleibt möglich, aber jede hochkonfidente Abweichung ist sichtbar und persönlich zurechenbar. Die finale Entscheidung spiegelt den Anfang, diesmal mit vollständiger Sicht auf beide Patienten.
+protagonist_arc_summary: Eva startet als evidenzorientierte Ärztin, die KORA gegen Technikfeindlichkeit verteidigt und zugleich menschliche Letztentscheidung für unverzichtbar hält. Nach einem lokal erfolgreichen, systemisch folgenreichen Override akzeptiert sie erste Governance-Schritte. Sie kämpft erst dann, als aus Qualitätssicherung individuelle Autoritätsbegrenzung wird. Der Midpoint zwingt sie anzuerkennen, dass gerade ihre eigenen hochkonfidenten Abweichungen schlechter abschneiden und dass ihre Erinnerung lokale Erfolge stärker gewichtet als unsichtbare Kosten. Im Finale bleibt ihr ein echter Notfall-Override, aber sie findet weder einen medizinischen Gegenbeleg noch einen nach der eigenen Wert-/Kontextregel zulässigen patientenspezifischen Ausnahmegrund; übrig bleibt ihre Nähe zum Patienten vor ihr. Sie nutzt den Override nicht. Formal behält sie die Entscheidungsmacht; innerlich hat sich die Beweislast umgekehrt.
+plot_architecture_summary: Achtzehn Makro-Bausteine führen von einem lokal erfolgreichen Override über die Entdeckung seiner unsichtbaren systemweiten Kosten, erste Governance-Schritte, einen zweiten Schaden, Widerstand und Datenprüfung bis zum Midpoint, an dem Evas eigene Abweichungsbilanz gegen sie spricht. Ein Versuch, wertbezogene Ausnahmen institutionell zu schützen, wird durch uneinheitliche Nutzung geschwächt und anschließend auf patientenspezifische, prüfbare Wert-/Kontextgründe begrenzt; ein enger Kollege umgeht KORA durch Input-/Zeitpunktmanipulation und verhindert in einem konkreten Schadensfall die eigentlich erforderliche Zweitfreigabe. Unter realem Kapazitätsdruck erreicht die Governance ihren Endzustand: Break-glass bleibt möglich, aber jede hochkonfidente Abweichung ist sichtbar und persönlich zurechenbar. Die finale Entscheidung spiegelt den Anfang, diesmal mit vollständiger Sicht auf beide Patienten.
 reversal_summary: Der zentrale Reversal ist keine Enthüllung eines KI-Fehlers. Eva erhält die bislang nur aggregiert betrachtete Abweichungsanalyse und erkennt, dass ihre eigene klinische Intuition in genau den Fällen, in denen sie KORA mit hoher Sicherheit widersprochen hat, schlechtere Outcome- und Ressourcenfolgen erzeugt. Der erste Override, den sie als Beweis menschlicher Überlegenheit erinnert, war nur lokal erfolgreich; seine systemische Gegenrechnung blieb für sie unsichtbar. Damit kippt ihr Konflikt von „System gegen ärztliche Erfahrung“ zu „Wer trägt die Kosten des Rechts, trotz besserer Evidenz anders zu entscheiden?“
 information_architecture_summary: Drei Informationsstränge werden getrennt geführt. O = Outcome/Performance: Wie belastbar ist KORAs tatsächlicher Vorteil und wo endet seine Aussagekraft? G = Governance/Macht: Welche formalen Regeln gelten für Overrides und wie verschiebt sich dadurch faktische Autorität? X = Externalität/Sichtbarkeit: Welche Folgen einer lokalen Entscheidung entstehen außerhalb des Sichtfelds des handelnden Arztes? Leser und Eva erhalten keine geheime KI-Perspektive. Spannung entsteht aus verzögert sichtbaren Folgen, nicht aus verborgenem Maschinenbewusstsein.
 character_functions_summary: Eva trägt POV und finale Entscheidung; Prof. Miriam Ahlers verkörpert legitime Patientensicherheits- und Governance-Logik; Dr. Felix Brandt verteidigt klinische Autonomie radikaler und überschreitet später die Grenze zur Manipulation; Dr. Nele Yilmaz ist Evas jüngere Kollegin und durchläuft den Gegenbogen von gelebter Override-Kultur zu evidenzbasierter Zurückhaltung; Dr. Jan Völker verantwortet Validierung und technische Grenzen von KORA und darf weder als kalter Technokrat noch als geheimer Strippenzieher funktionieren; Laura Berg macht die unsichtbare systemische Gegenrechnung des ersten Overrides menschlich sichtbar.
@@ -108,7 +108,7 @@ Felix, 47, ist leitender Intensivmediziner und Evas langjähriger klinischer Ver
 - Start: gegenseitiges Vertrauen in Erfahrungsmedizin.
 - Druck: Felix sieht jede zusätzliche Override-Hürde als Beginn fremder fachlicher Weisung.
 - Grenzüberschreitung: Er verändert Eingabe-/Zeitpunktlogik so, dass KORA eine von ihm gewünschte Entscheidung nicht mehr als hochkonfidente Abweichung erkennt.
-- Folge: Die Manipulation wird nach einem Schaden sichtbar. Eva meldet den Vorgang trotz Loyalität.
+- Folge: In einem konkreten Fall verhindert diese Umgehung die sonst erforderliche Zweitfreigabe; nach dem anschließenden schweren Schaden rekonstruiert das Audit die Kette und weitere gleichartige Muster. Eva meldet den Vorgang trotz Loyalität.
 - Funktion: Der Roman zeigt, dass eine schlecht gesetzte Governance nicht nur Gehorsam, sondern auch Umgehungsverhalten erzeugen kann – und dass dieses Umgehen wiederum strengere Governance plausibel macht.
 
 ### Eva ↔ Nele Yilmaz
@@ -118,7 +118,7 @@ Nele, 31, ist jüngere Fachärztin in Evas Notaufnahme.
 - Start: Sie lernt von Eva, Empfehlungen kritisch zu prüfen und bei Bedarf zu überstimmen.
 - früher Bruch: Ein eigener Override endet mit schwerem vermeidbarem Schaden.
 - Entwicklung: Nele wird nicht „maschinenhörig“, sondern strenger darin, zwischen konkretem Gegenbeleg und bloßem Bauchgefühl zu unterscheiden.
-- Finale: Sie ist die erforderliche zweite ärztliche Freigabe und verweigert Eva die Mitzeichnung, weil Eva keinen belastbaren patientenspezifischen Grund benennen kann, den KORA nicht bereits berücksichtigt.
+- Finale: Sie ist die erforderliche zweite ärztliche Freigabe und prüft zwei Wege: einen konkreten medizinischen Gegenbeleg oder einen nach der Wert-/Kontextregel zulässigen patientenspezifischen Ausnahmegrund. Eva kann keinen von beiden benennen; Nähe und behandelnde Beziehung allein sind innerhalb der gesetzten Ressourcenkategorie kein solcher Ausnahmegrund.
 
 ## Cold Open / Anfangsentscheidung
 
@@ -160,11 +160,22 @@ Der Versuch scheitert nicht, weil Werte irrelevant wären. Er scheitert teilweis
 
 Die Konsequenz ist keine Abschaffung der Kategorie, sondern zusätzliche Struktur und Review – erneut ein vernünftiger Schritt, der Freiheit in Verfahren übersetzt.
 
+### Verbindliche Grenze der Wert-/Kontextabweichung
+
+Für Falkenried gilt nach dem Review des Piloten:
+
+- Zulässig sind **patientenspezifische** Gründe, die nicht einfach behaupten, KORAs Prognose sei falsch, z. B. dokumentierter Patientenwille, Therapieziel, relevante Behandlungsbelastung oder ein anderer für die Entscheidung wesentlicher Kontextfaktor, den KORA im konkreten Fall nicht abbildet.
+- Der Grund muss benennbar und für die zweite ärztliche bzw. ethische Prüfung nachvollziehbar sein.
+- **Nicht ausreichend** sind allein räumliche Nähe, bestehende behandelnde Beziehung, emotionaler Handlungsdruck oder die allgemeine Pflicht gegenüber dem gerade sichtbaren Patienten. Diese Gründe würden im verbundweiten Ressourcenkonflikt genau den in B03/B09/B11 erkannten Sichtfeld-Bias erneut privilegieren.
+- Diese Grenze ist eine kanonische Governance-Entscheidung des fiktiven Verbunds, keine Behauptung einer allgemeinen realen Rechts- oder Ethikregel.
+
+Damit bleibt ein echter menschlicher Werteraum erhalten, ohne dass jede Intuition nachträglich als „Kontext“ etikettiert werden kann.
+
 ## Später Konflikt: Felix' Umgehung
 
-Felix will sich der wachsenden Zweitfreigabe nicht unterwerfen. Er manipuliert nicht KORA selbst, sondern verändert den Zeitpunkt bzw. die Klassifikation bestimmter Eingaben so, dass eine gewünschte Entscheidung formal nicht als hochkonfidente Abweichung erscheint.
+Felix will sich der wachsenden Zweitfreigabe nicht unterwerfen. Er manipuliert nicht KORA selbst, sondern verändert in einem konkreten Ressourcen-/Eskalationsfall den Zeitpunkt bzw. die Klassifikation entscheidungsrelevanter Eingaben so, dass KORAs Konflikt unter die für Zweitfreigabe relevante high-confidence Schwelle fällt.
 
-Nach einem ernsten Schaden zeigt das Audit den Zusammenhang.
+Dadurch wird die sonst erforderliche Mitzeichnung nicht ausgelöst; Felix entscheidet allein. Der Patient erleidet anschließend einen schweren Schaden. Das Audit rekonstruiert aus Zeitstempeln und den bereits vorhandenen klinischen Daten, dass der Fall bei regelgerechter Eingabe als high-confidence Konflikt behandelt worden wäre und eine Zweitfreigabe erforderlich gewesen wäre. Es zeigt zusätzlich weitere gleichartige Muster. Der Roman behauptet dabei nicht, dass die Zweitfreigabe den individuellen Ausgang mit Sicherheit verhindert hätte; kausal belegt ist die Umgehung der Schutzstufe.
 
 Eva muss zwischen Kollegialität und Patientensicherheit entscheiden und meldet Felix. Damit verliert sie ihren stärksten Verbündeten gegen die Governance und liefert der Institution zugleich den überzeugendsten Grund für manipulationssichere Inputs und strengere Override-Protokolle.
 
@@ -176,12 +187,13 @@ Diesmal ist die Situation gegenüber dem Cold Open verändert:
 
 - Eva sieht nicht nur ihren lokalen Patienten, sondern auch die wesentlichen Daten des konkurrierenden Falls,
 - KORA hat hohe Konfidenz,
-- keine entscheidende Information fehlt,
+- keine entscheidende medizinische Information fehlt,
 - es gibt keinen Technikfehler,
 - der medizinische erwartete Nutzen spricht klar für den anderen Patienten,
+- für keinen der beiden Fälle liegt ein patientenspezifischer Wert-/Kontextgrund vor, der die gesetzte Allokationslogik verändert,
 - Evas lokaler Patient erzeugt dennoch einen starken unmittelbaren ärztlichen Handlungsimpuls.
 
-Nach der geltenden Governance braucht die Abweichung eine zweite ärztliche Freigabe. Nele lehnt ab: Eva kann keinen medizinischen Gegenbeleg benennen, nur die Tatsache, dass der eine Patient vor ihr liegt und der andere nicht.
+Nach der geltenden Governance braucht die Abweichung eine zweite ärztliche Freigabe. Nele lehnt ab: Eva kann weder einen medizinischen Gegenbeleg noch einen zulässigen patientenspezifischen Wert-/Kontextgrund benennen. Ihr verbleibender Grund ist, dass der eine Patient vor ihr liegt und der andere nicht – genau die lokale Sichtverzerrung, die der Roman zuvor sichtbar gemacht hat.
 
 Ein **Break-glass-Override bleibt technisch und formal möglich**. Eva könnte ihn allein auslösen und müsste ihn anschließend persönlich verantworten.
 
