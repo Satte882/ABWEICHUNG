@@ -1,84 +1,86 @@
 # Prosa – S018
 
 scene_id: S018
-prose_status: full_manuscript_draft
+prose_status: full_manuscript_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-„Personenbezogen ist methodisch bequem und fachlich gefährlich.“
+Eva blieb länger im Büro als nötig.
 
-Eva schob das Override-Register in die Mitte des Tisches.
+Der Streit mit Miriam war vorbei. Der Satz daraus nicht.
 
-„Hier steht jede Abweichung sauber drin. Was man daraus später macht, ist eine andere Frage. Wenn ich KORA widerspreche und der Patient gut läuft, bleibt es ein Override. Wenn KORA recht hat, wird derselbe Eintrag plötzlich zum Beleg dafür, dass ich enger geführt werden sollte. Damit kannst du aus einem Arzt sehr schnell eine Kennzahl machen.“
+*Wenn wir einzelne Ärzte nach ihren Abweichungen beurteilen, müssen wir wenigstens wissen, ob diese Abweichungen tatsächlich schlechter waren.*
 
-Miriam hörte zu, ohne sie zu unterbrechen.
+Eva öffnete ihr eigenes Override-Register.
 
-Jan saß zwischen ihnen und scrollte durch die Übersicht.
+Die Liste war länger, als sie im Kopf gewesen war.
 
-Eva tippte auf mehrere ihrer eigenen Einträge. „Nimm meine Fälle.“
+Sie begann mit den Fällen, an die sie sich gern erinnerte.
 
-Jan hob den Kopf.
+Ein Patient, der sich nach ihrer Entscheidung stabilisiert hatte. Ein anderer, bei dem die spätere Entwicklung ihre Einschätzung bestätigt hatte. Entscheidungen, bei denen Kollegen im Review gesagt hatten: vertretbar, nachvollziehbar, guter klinischer Blick.
 
-„Alle?“
+Eva markierte drei davon.
 
-„Alle. Trenn high confidence vom Rest, bereinige den Fallmix und lass die Entscheidungsklassen sichtbar. Ich will nicht wissen, wie oft ich KORA widersprochen habe. Ich will wissen, ob meine Abweichungen in vergleichbaren Situationen tatsächlich schlechter waren.“
+Dann hielt sie inne.
 
-Für einen Moment sagte niemand etwas.
+Wenn sie Jan genau diese Fälle schickte, bewies sie gar nichts.
 
-Miriam legte die Hände auf den Tisch. „Das ist deine Gegenprobe?“
+Sie löschte die Markierungen.
 
-„Ja.“
+Stattdessen setzte sie den Filter auf die komplette relevante Fallgruppe.
 
-„Dann darf das Ergebnis auch gegen dich ausfallen.“
+High confidence getrennt vom Rest. Ressourcenentscheidungen separat. Eskalationen separat. Nur Fälle mit ausreichend vollständigen Daten zum damaligen Entscheidungszeitpunkt.
 
-Eva lehnte sich zurück. „Deshalb sitzt Jan hier und nicht jemand, der mir eine Folie baut.“
+Die Zahl wurde kleiner.
 
-Jan verzog den Mund. „Danke für das Vertrauen.“
+Unangenehm überschaubar.
 
-Er begann, die Filter anzulegen. Fallmix. Konfidenz. Entscheidungstyp. Vollständige Daten.
+Eva öffnete einen weiteren Fall, an den sie kaum gedacht hatte. Kein dramatischer Ausgang. Kein Gespräch, das im Gedächtnis geblieben war. Nur eine Abweichung, die damals vernünftig gewirkt hatte und später in der Routine verschwunden war.
 
-„Das wird keine hübsche kleine Tabelle“, sagte er.
+Genau solche Fälle würden entscheiden, ob ihre Erinnerung etwas taugte.
 
-„Muss es nicht.“
+Sie schrieb Jan eine Nachricht.
 
-Eva kannte die Fälle, die jetzt in seine Analyse wanderten. Patienten, bei denen sie gegen KORA gegangen war und recht behalten hatte. Verläufe, die sich stabilisiert hatten. Entscheidungen, die Kollegen im Nachhinein ausdrücklich bestätigt hatten.
+**Nimm meine komplette relevante Fallgruppe. Fallmixbereinigt. High confidence separat. Entscheidungsklassen sichtbar. Keine Auswahl durch mich.**
 
-Genau deshalb hielt sie die Gegenprobe für fair.
+Darunter setzte sie:
 
-Wenn die personenbezogene Logik gute Overrides einfach gegen sie rechnete, würde die Bereinigung das zeigen. Wenn ihre Erinnerung sich nur an die sichtbaren Erfolge klammerte, würde auch das sichtbar werden.
+**Ich will wissen, ob meine Abweichungen in vergleichbaren Situationen tatsächlich besser, gleichwertig oder schlechter waren.**
 
-Dieser zweite Gedanke gefiel ihr weniger.
+Eva las den Text noch einmal.
 
-Miriam bemerkte offenbar, dass Eva länger auf die entstehende Fallliste sah.
+Sie hätte ihn abschwächen können.
 
-„Ich will kein bestimmtes Ergebnis“, sagte sie.
+Tat sie nicht.
 
-Eva lächelte dünn. „Sehr großzügig.“
+Miriam setzte sie in Kopie.
 
-„Ich meine es ernst.“
+Dann drückte Eva auf Senden.
 
-„Ich auch.“
+Die Antwort von Miriam kam zuerst.
 
-Jan speicherte die Analysedefinition. „Dann ist klar, was ich rechne.“
+**Einverstanden. Keine Vorgabe ans Ergebnis.**
 
-Eva nahm ihre Unterlagen. „Gut.“
+Jan schrieb wenige Minuten später.
 
-Miriam lehnte sich zurück. „Du bist dir ziemlich sicher.“
+**Verstanden. Ich definiere die Kohorte transparent und schicke dir die Auswertung mit Grenzen, nicht nur die Kennzahl.**
 
-Eva blieb beim Aufstehen einen Moment stehen.
+Eva schloss das Register.
 
-„Ja.“
+Sie war sich ziemlich sicher, was die Analyse zeigen würde.
 
-„Das ist gut.“
+Das war der Grund, warum sie sie wollte.
 
-Diesmal fragte Eva nicht nach.
+Und zum ersten Mal auch der Grund, warum sie kurz davor zurückschreckte.
 
-Miriam sagte trotzdem: „Wenn dir die Antwort nicht gefällt, ist es wenigstens deine Frage gewesen.“
+Wenn ihre guten Overrides wirklich gut waren, würde die Bereinigung sie sichtbar machen.
 
-Eva steckte das Register ein.
+Wenn Eva nur die Erfolge besser erinnerte als die Folgen außerhalb ihres Blickfelds, würde auch das sichtbar werden.
 
-„Sie wird mir gefallen.“
+Sie nahm die Hand vom Touchpad.
 
-Jan begann bereits mit der Auswertung.
+Die Frage war jetzt gestellt.
+
+Und sie gehörte ihr.
