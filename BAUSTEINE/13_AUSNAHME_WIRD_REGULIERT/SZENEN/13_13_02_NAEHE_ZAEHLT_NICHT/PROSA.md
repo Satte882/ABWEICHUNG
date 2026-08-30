@@ -13,122 +13,70 @@ Der Satz stand seit zehn Minuten auf dem Bildschirm.
 
 Eva mochte jedes Wort daran und den ganzen Satz nicht.
 
-„Allein“, sagte sie.
+Sie markierte **allein**.
 
-Miriam sah zu ihr. „Ja.“
+„Das bleibt.“
 
-„Das Wort bleibt.“
+Miriam schob ihre Tastatur zu Eva. „War nie strittig.“
 
-„Natürlich.“
+Eva setzte den Cursor hinter *Behandlerbeziehung* und las den Satz noch einmal. Eine bestehende Beziehung konnte Wissen erzeugen, das KORA nicht hatte: einen dokumentierten Wunsch, ein Therapieziel, eine konkrete Belastung. Dann war dieses Wissen relevant. Die Beziehung selbst durfte nicht zum Grund werden.
 
-„Weil eine Behandlerbeziehung patientenspezifische Informationen liefern kann, die relevant sind.“
+„Wenn ich etwas Patientenspezifisches weiß, muss ich es benennen“, sagte sie. „Dann trägt diese Information die Abweichung. Nicht die Tatsache, dass ich den Patienten kenne.“
 
-„Wenn du sie benennst.“
+„Genau deshalb steht der Satz da.“
 
-„Dann ist die Information der Grund.“
+Darunter folgte die nächste Regel. Für bestimmte Hochrisikokonflikte sollte ein Ethik- oder Zweitreview hinzukommen, wenn die Wert-/Kontextabweichung nicht unmittelbar aus dokumentiertem Patientenwillen oder einem klaren Therapieziel hervorging.
 
-„Genau.“
+Eva las den Absatz vollständig.
 
-Eva las weiter.
+„Damit wird Abweichen in diesen Fällen aufwendiger als Folgen.“
 
-Für bestimmte Hochrisikokonflikte sollte ein Ethik- oder Zweitreview hinzukommen, wenn die Wert-/Kontextabweichung nicht unmittelbar aus dokumentiertem Patientenwillen oder einem klaren Therapieziel hervorging.
+Miriam wich dem Satz nicht aus. „Ja. Weil wir inzwischen wissen, dass die Ausnahmekategorie selbst ein Risiko erzeugt.“
 
-„Das wird langsam schwerer, abzuweichen als zu folgen.“
+Das war wenigstens keine semantische Verrenkung.
 
-„In den definierten Fällen ja.“
+Eva ging zurück zum zentralen Satz.
 
-Eva hob den Blick.
+„Mein Problem ist duty-to-care. Wenn der Patient vor mir liegt, bin ich für ihn verantwortlich. Das ist kein bloßes Gefühl.“
 
-Miriam wich nicht aus.
+Miriam drehte den Bildschirm ein Stück zu sich. „Die Verantwortung ist real. Aber sie beantwortet noch nicht die Frage, warum dieser Patient in einem verbundweiten Ressourcenkonflikt medizinisch oder aufgrund eines patientenspezifischen Werts Vorrang bekommen soll. Wenn allgemeine Zuständigkeit dafür reicht, haben wir die räumliche Nähe nur in eine offizielle Kategorie übersetzt.“
 
-„Du sagst es inzwischen wenigstens offen.“
-
-„Wir haben inzwischen mehr Daten.“
-
-„Und mehr Regeln.“
-
-„Auch.“
-
-Eva zeigte auf den zentralen Satz.
-
-„Duty-to-care?“
-
-„Nicht allein ausreichend.“
-
-„Wenn der Patient vor mir liegt, bin ich für ihn verantwortlich.“
-
-„Ja.“
-
-„Das ist keine Emotion.“
-
-„Nein.“
-
-„Und trotzdem soll es nicht reichen.“
-
-Miriam drehte ihren Stuhl zu Eva.
-
-„Erinnerst du dich, warum du die Wert-/Kontextkategorie vorgeschlagen hast?“
-
-„Natürlich.“
-
-„Weil Prognose und Wertentscheidung nicht dasselbe sind.“
-
-„Ja.“
-
-„Dann darf allgemeine Zuständigkeit nicht plötzlich zu einem patientenspezifischen Wert werden, nur weil sie sich stark anfühlt.“
-
-Eva sah wieder auf den Satz.
+Eva ließ die Erklärung stehen.
 
 Laura Berg kam ihr in den Kopf.
 
 *Für Sie aber nicht in dem Moment.*
 
-Eva hatte widersprechen wollen. Ihr Patient war medizinisch akut gewesen. Das blieb wahr.
+Ihr eigener Patient war medizinisch akut gewesen. Das blieb wahr. Zugleich hatte seine Nähe Gewicht erzeugt, das der entfernte Patient nicht erzeugen konnte.
 
-Aber Nähe hatte Gewicht erzeugt, das in keiner Tabelle stand.
+Wenn Falkenried genau diesen Effekt als Kontext akzeptierte, würde die neue Ausnahme den alten Bias höflicher beschreiben.
 
-Wenn Falkenried genau diesen Effekt als Kontext akzeptierte, würde die neue Kategorie den alten Bias nur höflicher beschreiben.
+Eva nahm die Tastatur.
 
-„Schreib noch Behandlerbindung dazu“, sagte Eva.
+Unter den Satz setzte sie eine weitere Zeile:
 
-Miriam tippte.
+**Allgemeines Verantwortungsgefühl gegenüber dem sichtbaren oder lokal behandelten Patienten ist allein kein patientenspezifischer Ausnahmegrund.**
 
-„Steht schon drin.“
+Miriam las sie.
 
-Eva las.
+„Das wird man dir vorhalten.“
 
-Sie lachte leise. „Natürlich.“
+„Sollen sie.“
 
-„Noch etwas?“
+„Du hast jahrelang genau mit dieser Verantwortung argumentiert.“
 
-Eva dachte nach.
+Eva speicherte die Änderung noch nicht.
 
-„Kein generisches Verantwortungsgefühl als eigener Ausnahmegrund.“
+Für einen Moment hörte sie nur das Klacken einer Tastatur aus dem Nebenraum.
 
-Miriam tippte weiter.
+Dann setzte sie den Cursor auf **Speichern**.
 
-„Das wird dir jemand vorhalten.“
+„Ich habe auch jahrelang nicht gesehen, was auf der anderen Seite derselben Entscheidung passiert.“
 
-„Mir?“
+Sie klickte.
 
-„Du hast jahrelang genau damit argumentiert.“
-
-Eva sah sie an.
-
-„Dann soll er.“
-
-Miriam stoppte.
-
-Für einen Moment war nur das leise Klacken der Tastatur aus dem Nebenraum zu hören.
-
-„Okay“, sagte sie.
-
-Sie speicherte den Entwurf.
-
-Eva wusste, was sie gerade getan hatte.
-
-Sie hatte eine Regel akzeptiert, die einem Arzt in einem künftigen Ressourcenkonflikt sagen würde: Dass der Patient vor dir liegt, reicht nicht.
+Der Entwurf war damit eindeutig genug für das, was später kommen würde: Nähe konnte relevante Informationen liefern. Nähe selbst reichte nicht.
 
 Der Satz war hart.
 
-Und nach allem, was sie inzwischen wusste, konnte sie ihn nicht mehr ehrlich streichen.
+Nach allem, was Eva inzwischen wusste, konnte sie ihn nicht mehr ehrlich streichen.
