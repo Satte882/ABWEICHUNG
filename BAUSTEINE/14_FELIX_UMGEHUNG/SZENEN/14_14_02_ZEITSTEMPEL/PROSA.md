@@ -11,7 +11,7 @@ Jan legte drei Zeitachsen übereinander.
 
 „Hier beginnt die Verschlechterung.“
 
-Eva sah auf die erste.
+Evas Blick folgte der ersten Linie.
 
 Klinische Werte.
 
@@ -27,7 +27,7 @@ Jan markierte eine Stelle.
 
 „Aus den vorhandenen Einträgen und Anordnungen lässt sich hier rekonstruieren, dass die Entscheidung getroffen war, den Patienten zunächst außerhalb der Intensivstation weiterzuführen.“
 
-Eva sah auf die zu diesem Zeitpunkt verfügbaren Werte.
+Die zu diesem Zeitpunkt verfügbaren Werte standen direkt daneben.
 
 „Und KORA?“
 
@@ -115,7 +115,7 @@ Eva zeigte auf die Musterfälle.
 
 Miriam sagte: „Dann hat er die Schutzstufe umgangen.“
 
-Eva sah sie an.
+Eva wandte den Kopf zu ihr.
 
 „Wir wissen noch nicht, warum.“
 
@@ -129,7 +129,7 @@ Das war der belegbare Satz.
 
 Mehr noch nicht.
 
-Eva sah auf den Schadensfall.
+Der Schadensfall blieb auf der ersten Zeitachse offen.
 
 „Können wir sagen, dass eine Zweitfreigabe den Schaden verhindert hätte?“
 
