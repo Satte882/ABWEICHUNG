@@ -35,11 +35,9 @@ Ein Monitoralarm schnitt durch den Raum.
 
 Die nächsten Minuten bestanden aus Arbeit. Atemweg sichern. Kreislauf halten. Übergabe vorbereiten. Niemand diskutierte über Governance.
 
-Erst später, als der Patient auf Intensiv lag, bekam Eva die vollständige Fallansicht.
+Der Patient wurde auf Intensiv übernommen. Im weiteren Verlauf wurde ein schwerer hypoxischer Schaden dokumentiert.
 
-Der schwere hypoxische Schaden war zu diesem Zeitpunkt bereits Teil der Dokumentation.
-
-Eva saß vor dem Bildschirm und ging zurück.
+Als Eva später die vollständige Fallansicht bekam, ging sie im Verlauf zurück.
 
 Früherer Verlauf. Zunehmender Sauerstoffbedarf. Steigende Atemarbeit. Nichtinvasive Unterstützung.
 
