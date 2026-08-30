@@ -1,53 +1,57 @@
 # G4 Review Request – Manuskript
 
-status: AWAITING_FRESH_CONTEXT_MANUSCRIPT_REREVIEW
+status: BLOCKED_BY_G2_REAPPROVAL
 human_gate: G4
-review_target: `1d717f47277d22381fdd97bd804e0e31cf09e10e`
-previous_review_result: `MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
+last_review_target: `1d717f47277d22381fdd97bd804e0e31cf09e10e`
+current_rework_target: `78222a7e99c80378c35379ad42684ee332a412a6`
+review_result: `MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
 
 ## Stand
 
 - G0 APPROVED
 - G1 APPROVED
-- G2 APPROVED
-- G3 APPROVED
+- ursprüngliches G2 APPROVED, aktueller Szenen-/Beat-Stand nach kontrolliertem Backtrack **reapproval required**
+- G3-Stilreferenz bleibt historisch APPROVED
 - 18/18 Bausteine
 - 54/54 Ereignisse
 - 40/40 Szenen
 - 253 Beats
 - 40/40 Szenen mit Prosa
-- erster Whole-Manuscript-Hardening-Pass abgeschlossen
-- unabhängiger Fresh-Context-Gesamtmanuskriptreview abgeschlossen
-- alter Review-Status: `CLEAN_FRESH_CONTEXT`
-- alte Findings: 6, davon 3 Major
-- daraus folgender tiefer zweiter Prosa-Rework abgeschlossen
-- kein G2-Backtrack erforderlich
 
-## Rework-Stand
+## Letzter Gesamtmanuskript-Review
 
-Die sechs Findings des ersten unabhängigen Gesamtmanuskript-Reviews wurden auf Prosaebene bearbeitet.
+Fresh-Context-Review gegen `1d717f...`:
 
-Schwerpunkte:
+- `CLEAN_FRESH_CONTEXT`
+- 5 Findings
+- 2 Major
+- `g4_readiness: REWORK_REQUIRED`
 
-1. Dialog-Pingpong in den Governance-/Analyse-Szenen reduziert,
-2. wiederkehrende Szenenchoreografie stärker differenziert,
-3. Mittelteil stärker über unterschiedliche Träger und klinische/konkrete Präsenz rhythmisiert,
-4. wiederkehrende Blickscharnier-Formeln reduziert,
-5. Erklärungsechos komprimiert,
-6. emotionalen Nachhall in S039 verstärkt, ohne S040 zu verändern.
+Die Majors betrafen erneut:
 
-Der neue feste Prosa-Zielstand lautet:
+1. manuskriptweite Scene-Repetition / Meeting-Governance-Choreografie,
+2. wiederkehrendes Dialogue-Pingpong.
 
-`1d717f47277d22381fdd97bd804e0e31cf09e10e`
+Da diese Befunde bereits nach einem reinen Prosa-Rework wiederkehrten, wurde bewusst ein kontrollierter G2-Backtrack ausgelöst.
 
-## Vor G4 noch erforderlich
+## Aktueller Backtrack
 
-Der neue Zielstand muss mit `MANUSCRIPT_FRESH_CONTEXT_TASK.md` erneut in einer unabhängigen, kontextfreien Session als **gesamtes Manuskript** gelesen werden.
+Szenen-/Beat-Träger wurden in S008, S014, S018, S020, S024 und S032 verändert. G1-Storywahrheit und Ereignisse bleiben unverändert. Die zugehörige Prosa wurde synchron angepasst.
 
-Die Findings des alten Zielstands gelten durch den Rework nicht automatisch als geschlossen.
+Reiner Rework-Target:
 
-Erst wenn der Re-Review keine offenen Blocker/Major-Findings mehr enthält, darf dieser Status auf `READY_FOR_HUMAN_G4` wechseln.
+`78222a7e99c80378c35379ad42684ee332a412a6`
+
+## Vor G4 erforderlich
+
+Reihenfolge zwingend:
+
+1. Fresh-Context-Szenen-/Beat-Re-Review über `SCENE_FRESH_CONTEXT_TASK.md`.
+2. Findings dispositionieren.
+3. Bei `READY_FOR_REAPPROVAL` erneuter Human-Token `G2-APPROVE`.
+4. Erst danach vollständiger Fresh-Context-Manuskript-Re-Review gegen `78222a7e99c80378c35379ad42684ee332a412a6`.
+5. Nur ohne offene Blocker/Major-Findings → `READY_FOR_HUMAN_G4`.
 
 ## G4-Bedeutung
 
-`G4-APPROVE` würde das vollständige Manuskript als kanonischen Manuskriptstand freigeben. Aktuell liegt noch **keine G4-Entscheidung** vor.
+`G4-APPROVE` würde das vollständige Manuskript als kanonischen Manuskriptstand freigeben. Aktuell liegt **keine G4-Entscheidung** vor.
