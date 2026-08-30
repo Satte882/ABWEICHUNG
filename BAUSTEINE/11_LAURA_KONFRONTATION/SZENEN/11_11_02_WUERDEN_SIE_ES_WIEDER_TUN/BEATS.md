@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/11_LAURA_KONFRONTATION/SZENEN/11_11_02_WUERDEN_SIE_ES_WIEDER_TUN/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 
