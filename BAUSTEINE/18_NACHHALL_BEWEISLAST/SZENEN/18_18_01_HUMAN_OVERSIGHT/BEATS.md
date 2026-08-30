@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/18_NACHHALL_BEWEISLAST/SZENEN/18_18_01_HUMAN_OVERSIGHT/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

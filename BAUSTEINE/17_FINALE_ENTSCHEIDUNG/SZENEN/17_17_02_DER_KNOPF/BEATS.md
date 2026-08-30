@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/17_FINALE_ENTSCHEIDUNG/SZENEN/17_17_02_DER_KNOPF/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

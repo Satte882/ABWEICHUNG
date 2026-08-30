@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/17_FINALE_ENTSCHEIDUNG/SZENEN/17_17_03_DER_LOKALE_AUSGANG/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 
