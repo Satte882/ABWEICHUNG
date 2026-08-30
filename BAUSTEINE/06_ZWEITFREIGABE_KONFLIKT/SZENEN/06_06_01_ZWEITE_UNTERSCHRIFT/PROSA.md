@@ -7,98 +7,90 @@ source_beats: `BEATS.md`
 
 ---
 
-„Nein.“
+Miriam legte nur eine Seite auf den Tisch.
 
-Eva sagte es, bevor Miriam die Folie gewechselt hatte.
+Oben stand: **Pilot Zweitfreigabe – Hochrisikoabweichungen.**
 
-„Du weißt noch nicht, wie eng wir es schneiden.“
+Darunter drei Bedingungen.
 
-„Zweite ärztliche Freigabe ist zweite ärztliche Freigabe.“
+Hohe KORA-Konfidenz.
 
-Miriam blieb ruhig.
+Hohe erwartete Schadensrelevanz.
 
-„Nur bei definierten high-confidence Hochrisikoabweichungen.“
+Definierte Entscheidungsgruppe.
 
-„Heute.“
+Eva las die Seite bis unten, nahm den Stift und schob ihn wieder weg.
 
-Felix, der schräg neben Eva saß, hob kurz den Kopf. Fast ein Lächeln.
+„Wenn das ein Doppelmandat für jede Abweichung werden soll, bin ich raus.“
 
-Eva ignorierte ihn.
+„Ist es nicht.“
 
-„Kein Doppelmandat für jede KORA-Abweichung.“
+Miriam zeigte auf die drei Bedingungen. Niedrige Konfidenz blieb außerhalb. Fehlende oder unvollständige Daten lösten durch einen Override allein keine Zweitfreigabe aus. Gewöhnliche Therapieentscheidungen außerhalb der definierten Hochrisikoklassen ebenfalls nicht.
 
-„Fordere ich nicht.“
+Der Entwurf war enger, als Eva gehofft hatte.
 
-Miriam blendete die Kriterien ein.
+Felix saß schräg gegenüber und las dieselben Zeilen.
 
-Hohe Modellkonfidenz. Hohe erwartete Schadensrelevanz. Definierte Entscheidungsklassen.
+„Die Logik bleibt“, sagte er. „Sobald KORA sicher genug ist und der Fall wichtig genug, braucht der Arzt jemanden, der mitzieht.“
 
-Eva las die Liste.
+Miriam antwortete ruhig: „Sobald die Kombination aus Evidenz und möglichem Schaden stark genug ist, reicht eine isolierte Entscheidung nicht mehr.“
 
-Sie wollte einen offensichtlichen Fehler darin finden.
+Eva hörte beide Sätze und mochte keinen von ihnen.
 
-Einen Punkt, der aus ärztlicher Vorsicht Bürokratie machte. Eine Schwelle, die den gewöhnlichen klinischen Alltag in ein Genehmigungssystem verwandelte.
+Sie zog Neles Fall zu sich. Die Timeline lag noch in der Anlage: hohe Konfidenz, vorübergehende Stabilisierung, Override, verlorene Zeit, späterer schwerer Verlauf.
 
-„Was passiert bei niedriger Konfidenz?“
+Eine zweite Person hätte den Ausgang nicht garantiert verändert. Das behauptete niemand.
 
-„Nichts Neues.“
+Aber Eva suchte nach einem Grund, warum Nele in genau dieser Lage unbedingt allein hätte entscheiden müssen.
 
-„Bei fehlenden Daten?“
+Sie fand keinen.
 
-„Keine Zweitfreigabe allein wegen des Overrides.“
+Das störte sie mehr als der Entwurf.
 
-„Bei normalen Therapieentscheidungen außerhalb der definierten Klassen?“
+Eva nahm den Stift wieder auf und kreiste die drei Bedingungen ein.
 
-„Auch nichts Neues.“
+„Nur diese Kombination.“
 
-Eva lehnte sich zurück.
+Miriam nickte.
 
-Felix sagte: „Dann ist die Logik trotzdem klar. Sobald die Maschine sicher genug ist, braucht der Arzt einen zweiten Arzt, um ihr zu widersprechen.“
+„Und nur dort, wo die zweite Person organisatorisch tatsächlich erreichbar ist. Keine Regel, die im akuten Fall erst selbst Schaden produziert.“
 
-„Sobald das Risiko groß genug ist“, sagte Miriam.
+„Kommt in den Pilot.“
 
-„Dasselbe mit freundlicherem Wort.“
+Eva schrieb an den Rand: **keine Ausweitung ohne neue Entscheidung.**
 
-Eva sah wieder auf Neles Fall, der als Referenz unten auf der Folie stand.
+Felix beobachtete sie.
 
-„Wie schnell muss die zweite Person erreichbar sein?“
+„Du machst die Regel gerade besser.“
 
-„So, dass der Prozess die Entscheidung nicht unvertretbar verzögert.“
+„Ich versuche, sie klein zu halten.“
 
-„Und wenn niemand erreichbar ist?“
+„Dasselbe Ergebnis.“
 
-„Für diesen Pilot definieren wir nur Situationen, in denen Zweitfreigabe organisatorisch realistisch ist.“
+Eva legte den Stift hin.
 
-Eva schwieg.
+„Nein. Das Ergebnis ist ein Pilot, den wir wieder auseinandernehmen können.“
 
-Das war der Moment, in dem sie hätte sagen können: Ärztliche Letztverantwortung ist unteilbar. Eine zusätzliche Unterschrift verschiebt nur Haftung. Ein zweiter Arzt kennt den Patienten schlechter.
+Sie blickte noch einmal auf Neles Timeline.
 
-Alles Gedanken, die sie ernst nahm.
+Der Widerstand war weiterhin da. Ärztliche Verantwortung fühlte sich für Eva nicht teilbar an. Eine zweite Unterschrift konnte Distanz schaffen, Haftung verteilen, einen Entscheider vorsichtiger machen, ohne einen Patienten besser zu verstehen.
 
-Keiner löste Neles Fall.
+All das blieb wahr.
 
-„Pilot“, sagte sie.
+Neles Fall blieb ebenfalls wahr.
 
-Miriam sah sie an.
+„Machen wir“, sagte Eva.
 
-„Eng begrenzt. Klare Schwellen. Keine schleichende Ausweitung ohne neue Entscheidung.“
+Miriam nahm die Seite zurück.
 
-„Einverstanden.“
+„Eng begrenzt“, fügte Eva hinzu. „Klare Schwellen. Pilot.“
 
-Felix drehte sich zu Eva.
+„So steht es da.“
 
-„Du stimmst dem wirklich zu?“
+Felix schüttelte den Kopf, sagte aber nichts mehr.
 
-„Ich stimme zu, dass wir nach einem klaren Fehl-Override nicht so tun können, als gäbe es kein Sicherheitsproblem.“
+Wenige Tage später ging die Zweitfreigabe live.
 
-„Und die Lösung ist eine zweite Unterschrift?“
+Der Override war nicht verschwunden.
 
-„Die Lösung wird getestet.“
-
-Felix schüttelte den Kopf.
-
-Eva sah noch einmal auf die Kriterien.
-
-Der Override blieb möglich.
-
-Nur nicht mehr immer allein.
+In einer kleinen, genau bezeichneten Gruppe von Fällen bekam er jetzt eine zweite Person.
