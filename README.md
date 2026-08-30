@@ -4,22 +4,22 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → PROSA FREIGEGEBEN**
+**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → G3-PROSA-STICHPROBE BEREIT**
 
 - 18 Bausteine
 - 54 Ereignisse
 - 40 Szenen
 - 253 Beats
+- 3 repräsentative Prosa-Szenen für G3
+- 37 Szenen bis G3 bewusst noch ohne Prosa
 - 6 plotrelevante Kernrollen
 - 3 Informationsstränge: Outcome / Governance / Externalität
 - R-06 medizinische Ankerfälle geschlossen
 - Fresh-Context-Szenenreview: `CLEAN_FRESH_CONTEXT`, 0 Findings
-- Same-Context-Beat-Review: 0 mandatory findings
-- Fresh-Context-Beat-Review: `CLEAN_FRESH_CONTEXT`, 1 Finding
-- BEAT-SR-001: bestätigt und auf Beat-Ebene korrigiert
+- Fresh-Context-Beat-Review: `CLEAN_FRESH_CONTEXT`, 1 Finding; bestätigt und korrigiert
 - offene Story-/Szenen-/Beat-Blocker: none
 - Human Gate G2 / Prose Ready: APPROVED
-- Prosa darf jetzt beginnen
+- aktueller Prüfpunkt: Human Gate G3 / Prosa-Stil
 
 ## Arbeitsprinzip
 
@@ -31,7 +31,15 @@ Dabei gilt:
 
 > Erst eine Ebene über das gesamte Buch ausreichend schließen, dann die nächste Ebene ableiten.
 
-Die Story ist jetzt bis auf Beat-Ebene horizontal geschlossen und freigegeben. Die Prosa ist die letzte Ebene und konkretisiert Sprache, Rhythmus, Dialog, Atmosphäre und Wahrnehmung. Sie darf keine neue relevante Storyentscheidung stillschweigend einführen.
+Die Story ist bis auf Beat-Ebene horizontal geschlossen und durch G2 freigegeben. Vor der Vollskalierung testet G3 einen kleinen repräsentativen Prosa-Batch. Erst nach G3-APPROVE wird die Prosa auf die übrigen Szenen skaliert.
+
+## Aktueller G3-Batch
+
+- `S001 – Die letzte Kapazität`: akuter medizinischer Druck
+- `S019 – Die Bilanz`: analytischer Midpoint
+- `S023 – Würden Sie es wieder tun?`: persönliche Konfrontation
+
+Nur diese drei Szenen tragen aktuell `prose_allowed: yes` und besitzen eine `PROSA.md`.
 
 ## Repo-Struktur
 
@@ -42,6 +50,7 @@ ABWEICHUNG/
 ├── CHARACTERS.md
 ├── RESEARCH_REGISTER.md
 ├── R06_MEDIZINISCHE_ANKERFAELLE.md
+├── G3_REVIEW_REQUEST.md
 ├── gates/
 └── BAUSTEINE/
     ├── 01_COLD_OPEN/
@@ -55,23 +64,28 @@ ABWEICHUNG/
     │       │   └── PROSA.md
     │       └── 01_01_02_DER_SICHTBARE_ERFOLG/
     │           ├── SZENE.md
-    │           ├── BEATS.md
-    │           └── PROSA.md
+    │           └── BEATS.md
     ├── 02_.../
     └── 18_.../
 ```
 
-`PROSA.md` wird erst jetzt nach G2 erzeugt.
+## Prosa-Regel
 
-## Nächste Ebene
+Prosa konkretisiert Sprache, Rhythmus, Dialog, Atmosphäre und Wahrnehmung. Sie darf keine neue relevante Storyentscheidung stillschweigend einführen.
 
-**Prosa.**
+Wenn beim Schreiben eine echte Storyänderung notwendig erscheint, muss sie explizit auf die betroffene vorgelagerte Ebene zurückgeführt werden.
 
-Die freigegebene Ableitungskette bleibt verbindlich:
+## Nächster Prüfpunkt
 
-`Baustein → Ereignisse → Szene → Beats → Prosa`
+Human Gate **G3 / Prosa-Stil** über `G3_REVIEW_REQUEST.md`.
 
-Wenn beim Schreiben eine echte Storyänderung notwendig erscheint, muss sie explizit auf die betroffene vorgelagerte Ebene zurückgeführt werden. Die Prosa darf die freigegebene Architektur nicht still umschreiben.
+Freigabetoken:
+
+- `G3-APPROVE`
+- `G3-REWORK`
+- `G3-STOP`
+
+Bis zur G3-Entscheidung wird keine weitere Szene in Prosa geschrieben.
 
 ## Reihengedanke
 
