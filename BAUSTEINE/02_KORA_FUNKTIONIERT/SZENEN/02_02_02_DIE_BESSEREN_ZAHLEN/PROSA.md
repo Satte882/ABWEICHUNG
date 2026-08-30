@@ -15,61 +15,33 @@ Eine große Zahl in der Mitte.
 
 Felix schnaubte leise. „Wenn die Zahl groß genug ist, können wir uns den Rest sparen?“
 
-Jan sah ihn an. „Nein.“
+Jan wechselte direkt zur nächsten Ansicht. Priorisierungsentscheidungen, akute Eskalationen, verbundweite Ressourcenkonflikte. Vergleich mit der früheren Praxis und mit Entscheidungen, bei denen KORA eingesetzt worden war.
 
-Er wechselte zur nächsten Ansicht.
+Eva ließ ihn ausreden.
 
-Jetzt kamen die Details. Priorisierungsentscheidungen, akute Eskalationen, verbundweite Ressourcenkonflikte. Vergleich mit der früheren Praxis und mit Entscheidungen, bei denen KORA eingesetzt worden war.
+Jan zeigte, wie sich der Effekt über die Standorte verteilte, was geschah, wenn Extremfälle herausgerechnet wurden, und wie die Auswertung aussah, wenn nur vollständig dokumentierte Entscheidungen einflossen. Die Unterschiede wurden kleiner. Die Richtung blieb.
 
-Eva ließ ihn zwei Minuten sprechen.
+Erst dann sagte Eva: „Ich wollte wissen, ob wir hier eine große Zahl aus ein paar spektakulären Fällen bauen.“
 
-Dann hob sie die Hand.
+„Tun wir nicht.“ Jan öffnete die letzte Aufschlüsselung. „Die Standorte unterscheiden sich. Einzelne Fälle ziehen. Beides erklärt den Gesamteffekt nicht.“
 
-„Wie viel davon hängt an wenigen extremen Fällen?“
+Eva las die Spalten noch einmal selbst.
 
-„Nicht genug, um die Richtung zu erklären.“
+Miriam kannte die Zahlen bereits. Felix offenbar nicht.
 
-„Standortunterschiede?“
+„Dann ist die Aussage belastbar genug“, sagte Eva. „KORA ist in dem definierten Bereich besser.“
 
-Jan öffnete die Aufschlüsselung.
+„Ja.“
 
-„Bleiben sichtbar. Der Effekt bleibt trotzdem.“
+Jan sagte es ohne Vorbehalt und ohne technischen Stolz. Das machte es leichter, ihm zu glauben.
 
-„Und wenn du die unklaren Fälle rausnimmst?“
+Felix verschränkte die Arme. „Besser in der Trefferquote und in euren Outcome-Kennzahlen. Einverstanden. Daraus folgt trotzdem keine fachliche Weisungsbefugnis.“
 
-„Habe ich gerechnet.“
-
-Er zeigte es ihr.
-
-Eva las die Spalten.
-
-Miriam saß neben Jan und sagte nichts. Sie kannte die Zahlen bereits. Felix offenbar nicht.
-
-„Also“, sagte Eva, „KORA ist in dem definierten Bereich besser.“
-
-Jan nickte. „Ja.“
-
-Kein Vorbehalt in der Stimme. Kein technischer Stolz.
-
-Das machte es leichter, ihm zu glauben.
-
-Felix verschränkte die Arme.
-
-„Besser in der Trefferquote.“
-
-„Und in den Outcome-Kennzahlen, die wir vereinbart haben“, sagte Jan.
-
-„Gut.“ Felix sah zu Miriam. „Dann lassen wir es laufen.“
-
-Miriam hob eine Augenbraue. „Das klang fast einfach.“
-
-„Ist es auch. Wenn wir aus besseren Zahlen nicht plötzlich Weisungsbefugnis machen.“
-
-„Davon hat niemand gesprochen.“
+Miriam hob eine Augenbraue. „Hat auch niemand behauptet.“
 
 „Noch nicht.“
 
-Eva sah wieder auf die Auswertung.
+Eva ließ den Blick auf der Auswertung liegen.
 
 Das war der Teil, den man später leicht umdeuten konnte. Als hätten die Ärzte KORA nur widerwillig akzeptiert. Als sei der Konflikt von Anfang an Technik gegen Medizin gewesen.
 
@@ -77,34 +49,24 @@ So war es nicht.
 
 Sie hatte das System mitgetragen, weil es funktionierte.
 
-„Ich sehe keinen Grund, den Pilot zu bremsen“, sagte sie.
+„Ich sehe keinen Grund, den Pilot zu bremsen“, sagte sie. „Die Evidenz reicht für die Fortführung. Die Overrides bleiben frei.“
 
-Felix drehte den Kopf zu ihr.
+Felix entspannte sich sichtbar.
 
-„Mit freien Overrides.“
+Miriam sagte: „Das steht nicht zur Debatte.“
 
-„Natürlich.“
-
-Miriam nickte. „Das steht nicht zur Debatte.“
-
-Jan schloss die Detailansicht und öffnete die letzte Folie. Grenzen der Auswertung. Bereiche mit schwächerer Evidenz. Unsicherheiten.
+Jan öffnete zum Schluss die Grenzen der Auswertung: Bereiche mit schwächerer Evidenz, Unsicherheiten, Entscheidungsklassen mit zu wenig Daten.
 
 Eva las auch die.
 
 Ein System, das besser war, musste seine Grenzen zeigen können. Sonst war die Zahl in der Mitte wertlos.
 
-Felix tippte mit einem Finger auf den Tisch.
+Felix tippte mit einem Finger auf den Tisch. „Dann haben wir ja tatsächlich mal etwas Vernünftiges gebaut.“
 
-„Dann haben wir ja tatsächlich mal etwas Vernünftiges gebaut.“
-
-Miriam lächelte kaum sichtbar.
-
-„Gewöhn dich nicht dran.“
+Miriam lächelte kaum sichtbar. „Gewöhn dich nicht dran.“
 
 Eva klappte ihren Laptop zu.
 
 Für den Moment gab es keinen Grund, sich zu streiten.
 
-KORA war besser.
-
-Und der Mensch entschied am Ende weiter selbst.
+KORA war besser. Der Mensch entschied am Ende weiter selbst.
