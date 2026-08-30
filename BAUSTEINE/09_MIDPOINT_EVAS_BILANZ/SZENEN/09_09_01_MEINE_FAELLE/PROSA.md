@@ -9,102 +9,76 @@ source_beats: `BEATS.md`
 
 „Personenbezogen ist methodisch bequem und fachlich gefährlich.“
 
-Miriam sah Eva über den Tisch hinweg an.
+Eva schob das Override-Register in die Mitte des Tisches.
 
-„Warum?“
+„Hier steht jede Abweichung sauber drin. Was man daraus später macht, ist eine andere Frage. Wenn ich KORA widerspreche und der Patient gut läuft, bleibt es ein Override. Wenn KORA recht hat, wird derselbe Eintrag plötzlich zum Beleg dafür, dass ich enger geführt werden sollte. Damit kannst du aus einem Arzt sehr schnell eine Kennzahl machen.“
 
-„Weil du aus einem Arzt eine Kennzahl machst.“
+Miriam hörte zu, ohne sie zu unterbrechen.
 
-„Noch machen wir gar nichts personenbezogen.“
+Jan saß zwischen ihnen und scrollte durch die Übersicht.
 
-„Wir diskutieren es.“
+Eva tippte auf mehrere ihrer eigenen Einträge. „Nimm meine Fälle.“
 
-Jan saß zwischen ihnen, sichtbar unglücklich über seine Sitzposition.
+Jan hob den Kopf.
 
-Eva tippte auf das Override-Register.
+„Alle?“
 
-„Gute Abweichungen verschwinden hier. Wenn ich KORA widerspreche und der Patient gut läuft, ist das ein dokumentierter Override. Wenn KORA recht hat, bekommt derselbe Eintrag rückblickend plötzlich Gewicht.“
+„Alle. Trenn high confidence vom Rest, bereinige den Fallmix und lass die Entscheidungsklassen sichtbar. Ich will nicht wissen, wie oft ich KORA widersprochen habe. Ich will wissen, ob meine Abweichungen in vergleichbaren Situationen tatsächlich schlechter waren.“
 
-„Dann prüf es“, sagte Miriam.
+Für einen Moment sagte niemand etwas.
 
-Eva hielt inne.
+Miriam legte die Hände auf den Tisch. „Das ist deine Gegenprobe?“
 
-„Was?“
+„Ja.“
 
-„Deine These.“
+„Dann darf das Ergebnis auch gegen dich ausfallen.“
 
-Miriam sah zu Jan.
+Eva lehnte sich zurück. „Deshalb sitzt Jan hier und nicht jemand, der mir eine Folie baut.“
 
-„Kannst du ihre Fälle getrennt auswerten?“
+Jan verzog den Mund. „Danke für das Vertrauen.“
 
-Jan sah zu Eva. „Fallmixbereinigt?“
+Er begann, die Filter anzulegen. Fallmix. Konfidenz. Entscheidungstyp. Vollständige Daten.
 
-„Natürlich.“
-
-„Nur high confidence?“
-
-Eva dachte nach.
-
-„Getrennt. Ich will sehen, wo der Unterschied liegt.“
-
-Jan nickte langsam.
-
-„Das wird keine hübsche kleine Tabelle.“
+„Das wird keine hübsche kleine Tabelle“, sagte er.
 
 „Muss es nicht.“
 
-Miriam legte die Hände auf den Tisch.
+Eva kannte die Fälle, die jetzt in seine Analyse wanderten. Patienten, bei denen sie gegen KORA gegangen war und recht behalten hatte. Verläufe, die sich stabilisiert hatten. Entscheidungen, die Kollegen im Nachhinein ausdrücklich bestätigt hatten.
 
-„Und nur damit das klar ist: Ich will kein bestimmtes Ergebnis.“
+Genau deshalb hielt sie die Gegenprobe für fair.
 
-Eva lächelte dünn.
+Wenn die personenbezogene Logik gute Overrides einfach gegen sie rechnete, würde die Bereinigung das zeigen. Wenn ihre Erinnerung sich nur an die sichtbaren Erfolge klammerte, würde auch das sichtbar werden.
 
-„Sehr großzügig.“
+Dieser zweite Gedanke gefiel ihr weniger.
 
-„Du hast die These aufgestellt.“
+Miriam bemerkte offenbar, dass Eva länger auf die entstehende Fallliste sah.
 
-„Ja.“
+„Ich will kein bestimmtes Ergebnis“, sagte sie.
 
-„Dann gib ihr die Chance, falsch zu sein.“
+Eva lächelte dünn. „Sehr großzügig.“
 
-Eva lehnte sich zurück.
+„Ich meine es ernst.“
 
-Genau deshalb hatte sie angefangen, mit Daten zu argumentieren. Weil ein sauberer Einwand mehr wert war als ein Gefühl, die Institution gehe zu weit.
+„Ich auch.“
 
-Ihre eigenen Fälle waren ein guter Test.
+Jan speicherte die Analysedefinition. „Dann ist klar, was ich rechne.“
 
-Sie kannte sie.
+Eva nahm ihre Unterlagen. „Gut.“
 
-Sie erinnerte sich an die Patienten, bei denen sie gegen KORA gegangen war und recht behalten hatte. An Verläufe, die sich stabilisiert hatten. An Entscheidungen, die Kollegen später ausdrücklich bestätigt hatten.
+Miriam lehnte sich zurück. „Du bist dir ziemlich sicher.“
 
-Wenn die personenbezogene Logik diese Fälle einfach als Abweichungen gegen sie rechnete, würde man es sehen.
-
-„Mach es“, sagte sie zu Jan.
-
-„Komplett?“
-
-„Komplett.“
-
-Jan öffnete eine neue Analyse.
-
-Eva stand auf.
-
-Miriam sagte: „Du bist dir ziemlich sicher.“
-
-Eva sah sie an.
+Eva blieb beim Aufstehen einen Moment stehen.
 
 „Ja.“
 
-„Gut.“
+„Das ist gut.“
 
-„Warum gut?“
+Diesmal fragte Eva nicht nach.
 
-„Weil es dann wenigstens deine Frage ist, wenn dir die Antwort nicht gefällt.“
+Miriam sagte trotzdem: „Wenn dir die Antwort nicht gefällt, ist es wenigstens deine Frage gewesen.“
 
-Eva nahm ihre Unterlagen.
+Eva steckte das Register ein.
 
 „Sie wird mir gefallen.“
 
-Miriam sagte nichts mehr.
-
-Jan begann bereits, die ersten Filter zu setzen.
+Jan begann bereits mit der Auswertung.
