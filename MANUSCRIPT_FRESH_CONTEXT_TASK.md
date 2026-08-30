@@ -1,6 +1,6 @@
 # Fresh-Context-Auftrag – Gesamtmanuskript ABWEICHUNG
 
-review_target: `1937fec17d283613a31e30e3346d4b521fc61176`
+review_target: `1d717f47277d22381fdd97bd804e0e31cf09e10e`
 review_scope: full manuscript S001–S040
 review_mode: independent semantic whole-manuscript review
 
@@ -28,7 +28,7 @@ Nutze keine Erinnerungen, frühere Chats oder außerhalb dieses Auftrags bekannt
 
 Prüfe ausschließlich den Repository-Stand des Commits:
 
-`1937fec17d283613a31e30e3346d4b521fc61176`
+`1d717f47277d22381fdd97bd804e0e31cf09e10e`
 
 Nicht den aktuellen Branch-Head, falls dieser inzwischen weitergelaufen ist.
 
@@ -145,7 +145,7 @@ Bevorzuge `prose`, wenn der Befund ohne Storyänderung behebbar ist. Fordere kei
 Wenn die Session sauber ist, beginne exakt mit:
 
 `review_status: CLEAN_FRESH_CONTEXT`
-`review_target: 1937fec17d283613a31e30e3346d4b521fc61176`
+`review_target: 1d717f47277d22381fdd97bd804e0e31cf09e10e`
 `finding_count: <n>`
 
 Danach pro Finding:
