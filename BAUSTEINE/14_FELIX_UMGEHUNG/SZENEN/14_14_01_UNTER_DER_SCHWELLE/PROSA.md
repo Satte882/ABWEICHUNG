@@ -21,7 +21,7 @@ Felix stand am Bett.
 
 Eva brauchte keine Erklärung.
 
-Sie ging an die andere Seite und sah auf die Werte. Der Verlauf war schlecht. Deutlich schlechter als das Bild, das sie aus der letzten Übergabe im Kopf hatte.
+Sie ging an die andere Seite und prüfte die Werte. Der Verlauf war schlecht. Deutlich schlechter als das Bild, das sie aus der letzten Übergabe im Kopf hatte.
 
 „Intensivplatz?“
 
@@ -29,17 +29,21 @@ Sie ging an die andere Seite und sah auf die Werte. Der Verlauf war schlecht. De
 
 „KORA?“
 
-Felix antwortete nicht sofort.
+Felix antwortete nicht.
 
 Ein Monitoralarm schnitt durch den Raum.
 
-Die nächsten Minuten bestanden aus Arbeit. Atemweg sichern. Kreislauf halten. Übergabe vorbereiten. Niemand diskutierte über Governance.
+Danach bestand die Welt für einige Minuten nur aus Arbeit. Atemweg sichern. Kreislauf halten. Medikamente, Hände, kurze Anweisungen. Die Übergabe an Intensiv vorbereiten.
 
-Der Patient wurde auf Intensiv übernommen. Im weiteren Verlauf wurde ein schwerer hypoxischer Schaden dokumentiert.
+Niemand sprach über Governance.
 
-Als Eva später die vollständige Fallansicht bekam, ging sie im Verlauf zurück.
+Der Patient wurde übernommen. Im weiteren Verlauf wurde ein schwerer hypoxischer Schaden dokumentiert.
 
-Früherer Verlauf. Zunehmender Sauerstoffbedarf. Steigende Atemarbeit. Nichtinvasive Unterstützung.
+Erst später öffnete Eva die vollständige Fallansicht.
+
+Sie ging zurück.
+
+Zunehmender Sauerstoffbedarf. Steigende Atemarbeit. Nichtinvasive Unterstützung.
 
 KORA hatte einen Konflikt angezeigt.
 
@@ -47,94 +51,58 @@ Knapp unter der high-confidence Schwelle.
 
 Keine Zweitfreigabe.
 
-Eva stoppte.
+Felix stand hinter ihr, als sie die Zeile erreichte.
 
-„Felix.“
+„Er hat unter der Unterstützung zunächst real reagiert“, sagte er. „Die Werte wurden besser. Wir konnten ihn eng überwachen, ohne sofort einen Intensivplatz zu binden. Das war in dem Moment klinisch vertretbar.“
 
-Er stand hinter ihr, die Arme vor der Brust.
+Eva drehte den Stuhl zu ihm.
 
-„Was?“
+Der Satz war plausibel. Genau das machte ihn schwierig.
 
-„Warum blieb er draußen?“
+„Wann war für dich entschieden, ihn draußen weiterzubehandeln?“
 
-„Weil er unter der Unterstützung zunächst reagiert hat.“
+Felix atmete hörbar aus.
 
-„KORA wollte eskalieren.“
+„Das war kein einzelner Knopfdruck. Wir haben interveniert, die Lage hat sich verändert, wir haben neu bewertet.“
 
-„KORA war unter der Schwelle.“
+Eva ließ den Verlauf noch einmal laufen.
 
-Eva sah ihn an.
+Sie kannte diese Erklärung. Felix hatte sie ihr schon gegeben, als seine high-confidence Konflikte auffällig selten gewesen waren.
 
-„Das war nicht meine Frage.“
+Damals hatte sie nur ein Muster gesehen.
 
-Felix zog einen Stuhl heran.
+Jetzt lag ein Patient mit schwerem Schaden auf Intensiv.
 
-„Er hatte eine reale Besserung. Wir hatten eine vertretbare Möglichkeit, ihn weiter eng zu überwachen, ohne sofort einen Intensivplatz zu binden.“
+Das machte den Verdacht ernster. Es machte ihn nicht automatisch wahr.
 
-„Und dann ist er eingebrochen.“
+Felix trat näher an den Bildschirm.
 
-„Ja.“
+„Wenn du aus jedem schlechten Verlauf im Nachhinein einen falschen Entscheidungszeitpunkt baust, kannst du klinische Dynamik gleich abschaffen.“
 
-„Mit schwerem Schaden.“
+Eva blickte auf die Stelle, an der KORA unter der Schwelle geblieben war.
 
-Felix' Gesicht wurde hart.
+„Deshalb entscheide ich das nicht aus diesem Gespräch.“
 
-„Ich war dabei.“
+Felix wurde still.
 
-Eva schwieg.
-
-Sie erinnerte sich an die personenbezogenen Daten. Zu wenige high-confidence Konflikte. Seine Erklärung. Spätere Neubewertung nach Interventionen.
-
-Damals hatte sie keinen Beleg gehabt.
-
-Jetzt hatte sie einen Schadensfall und dieselbe Frage.
-
-„Wann hast du entschieden, ihn nicht zu eskalieren?“
-
-Felix sah sie direkt an.
-
-„Das war ein Verlauf, keine einzelne Sekunde.“
-
-„Wann war die klinische Entscheidung?“
-
-„Eva.“
-
-„Wann?“
-
-Er atmete hörbar aus.
-
-„Wir haben interveniert, er wurde besser, wir haben neu bewertet.“
-
-Das konnte stimmen.
-
-Es war genau die Art Antwort, die klinisch plausibel blieb.
-
-Eva sah zurück auf die KORA-Zeile.
-
-Unter der Schwelle.
-
-Keine Zweitfreigabe.
-
-„Ich will ein vollständiges Audit.“
-
-Felix lachte kurz auf.
-
-„Weil ein Patient sich verschlechtert hat?“
-
-„Weil wir einen schweren Schaden haben und ich den Entscheidungszeitpunkt verstehen will.“
+„Ich lasse den kompletten Verlauf auditieren. Maßnahmen, Werte, Anordnungen, Dokumentation. Ich will wissen, wann die Entscheidung tatsächlich gefallen ist.“
 
 „Du weißt, was passiert ist.“
 
-„Dann wird das Audit es zeigen.“
+„Dann wird das Audit dasselbe zeigen.“
 
-Felix stand auf.
+Felix nahm die Arme von der Brust.
 
 „Mach, was du machen musst.“
 
-Er ging.
+Er ging zurück auf die Station.
 
 Eva blieb vor dem Verlauf sitzen.
 
-Sie wusste noch nicht, ob sie gerade einen Fehler, Pech oder etwas anderes ansah.
+Der Schaden war real.
 
-Diesmal wollte sie es nicht bei einem Eindruck belassen.
+Die KORA-Schwelle war real.
+
+Der Zusammenhang zwischen beidem war noch offen.
+
+Diesmal würde sie ihn nicht mit einem Eindruck schließen.
