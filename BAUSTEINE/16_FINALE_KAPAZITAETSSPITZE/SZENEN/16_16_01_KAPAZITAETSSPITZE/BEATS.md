@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/16_FINALE_KAPAZITAETSSPITZE/SZENEN/16_16_01_KAPAZITAETSSPITZE/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/15_ENDGOVERNANCE/SZENEN/15_15_02_BREAK_GLASS/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

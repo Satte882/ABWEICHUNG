@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/14_FELIX_UMGEHUNG/SZENEN/14_14_02_ZEITSTEMPEL/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 
