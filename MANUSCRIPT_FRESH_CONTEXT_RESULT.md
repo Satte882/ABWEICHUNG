@@ -55,16 +55,74 @@ Die emotionale Tragfähigkeit hängt stark an wenigen Hochpunkten. Zwischen Laur
 
 **Rework-Level:** Prosa.
 
-## Disposition
+## Disposition des Reviews
 
-- Alle sechs Findings werden als valide Review-Befunde angenommen.
-- Die drei Major-Findings MANUSCRIPT-FR-001, -002 und -004 blockieren G4.
-- Die Minor-Findings -003, -005 und -006 werden im selben Rework-Pass mitbearbeitet.
-- Der erste Rework-Versuch bleibt auf Prosaebene. Es erfolgt kein stiller G2-Backtrack.
-- Falls ausreichende Variation und Pacing innerhalb der freigegebenen Szenenfunktionen nicht erreichbar sind, muss ein bewusster Backtrack zu G2 separat entschieden werden.
+- Alle sechs Findings wurden als valide angenommen.
+- Die drei Major-Findings MANUSCRIPT-FR-001, -002 und -004 blockieren den alten Zielstand weiterhin für G4.
+- Die Minor-Findings -003, -005 und -006 wurden im selben Rework berücksichtigt.
+- Es erfolgte **kein G2-Backtrack**. Szenenkarten, Beats, Ereignisse und G1-Storywahrheit blieben unverändert.
 
-## Status
+## Durchgeführter Rework
 
-**REWORK_REQUIRED**
+Neuer reiner Prosa-Zielstand nach dem Rework:
 
-Human Gate G4 bleibt geschlossen.
+`1d717f47277d22381fdd97bd804e0e31cf09e10e`
+
+### Gegen MANUSCRIPT-FR-001 / dialogue_pattern
+
+Stärker neu rhythmisiert wurden:
+
+- **S009:** Einträge im Override-Register tragen die Erkenntnis; Rückfragekette weitgehend entfernt.
+- **S012:** enger Regelentwurf + Neles konkreter Schadensfall statt technischer Fragekatalog.
+- **S013:** erste Zweitfreigabe im laufenden Stationsalltag; Felix und Nele formulieren längere Gegenpositionen.
+- **S017:** Jan demonstriert die Zeitpunkt-Lücke an zwei Snapshots statt Interviewstruktur.
+- **S020:** personenbezogene Governance wird über Evas Regeltext und die spätere konkrete Anwendung vermittelt.
+- **S024:** Eva entwickelt die Wert-/Kontext-Gegenarchitektur am Whiteboard zusammenhängend; Miriam testet nur die zentrale Schwachstelle.
+- **S028:** klinische Eskalation bleibt dominant; das spätere Gespräch mit Felix wurde gestrafft.
+- **S032:** Break-glass wird als konkrete Designforderung aufgebaut statt als Ja/Nein-Verhandlung.
+
+### Gegen MANUSCRIPT-FR-002 / scene_repetition und MANUSCRIPT-FR-004 / pacing
+
+Zusätzlich zu den bereits im ersten Hardening veränderten S008, S014, S015, S018 und S027 wurden im zweiten Pass insbesondere S009, S012, S013, S017, S020, S024, S028, S031 und S032 unterschiedlich choreografiert.
+
+Die Informationsvermittlung nutzt damit stärker unterschiedliche Träger:
+
+- Fall-/Registereinträge,
+- Regelentwurf mit handschriftlicher Bearbeitung,
+- laufender Stationsbetrieb,
+- technische Demonstration,
+- konkrete persönliche Anwendung einer Regel,
+- Whiteboard-Entwicklung,
+- klinische Notfallhandlung,
+- komprimierter Vorstandsentscheid,
+- UI-/Designprüfung des Break-glass.
+
+S010/S011, S016, S021 und S028 bleiben bewusst als klinisch bzw. körperlichere Gegenpole im Mittelteil erhalten.
+
+### Gegen MANUSCRIPT-FR-003 / style_pattern
+
+- In den größeren Reworks wurden Scharnierformulierungen wie `Eva sah ...` mitreduziert.
+- **S019** wurde ausschließlich auf wiederholte Blickscharnier-Formulierungen nachbearbeitet; die G3-freigegebene Midpoint-Logik blieb unverändert.
+- **S029** wurde auf derselben Satzebene bereinigt; die Audit-Informationsgrenze bleibt unverändert.
+
+### Gegen MANUSCRIPT-FR-005 / exposition
+
+- Mehrere Governance-Szenen wurden von nachträglicher Zusammenfassung auf Handlung/Objekt/Demonstration umgestellt.
+- **S031** wurde deutlich komprimiert: Die drei bekannten Schadensmechanismen werden nicht erneut ausformuliert; Fokus ist die kumulative Machtverschiebung.
+
+### Gegen MANUSCRIPT-FR-006 / emotional_resonance
+
+- **S013** gibt Neles eigene Erfahrung mit der isolierten Fehlentscheidung mehr körperliche und persönliche Präsenz.
+- **S020** macht Evas Rollenwechsel vom Regelgestalter zur regulierten Entscheiderin in einem konkreten späteren Fall erfahrbar.
+- **S039** trägt den Nachhall des lokalen Todes stärker und reduziert gleichzeitig das argumentative Frage-Antwort-Echo.
+- **S040** wurde bewusst nicht verändert; der offene Schluss `Was sieht KORA nicht?` bleibt intakt.
+
+## Re-Review-Status
+
+Die alten Findings gelten durch den Rework **nicht automatisch als geschlossen**. Der neue Zielstand muss erneut unabhängig als gesamtes Manuskript gelesen werden.
+
+Aktueller Status:
+
+**REWORK_APPLIED_AWAITING_FRESH_CONTEXT_REREVIEW**
+
+Human Gate G4 bleibt geschlossen, bis ein unabhängiger Review des neuen Zielstands keine offenen Blocker/Major-Findings mehr meldet.
