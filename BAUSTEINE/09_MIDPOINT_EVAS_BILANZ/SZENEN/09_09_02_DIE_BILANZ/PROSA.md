@@ -17,17 +17,13 @@ Miriam saß schräg gegenüber, die Hände um einen Pappbecher gelegt. Seit Begi
 
 Eva zog den Laptop näher zu sich.
 
-Die erste Grafik zeigte drei Gruppen. Niedrige, mittlere und hohe KORA-Konfidenz. Daneben die Abweichungen der behandelnden Ärzte. Ihre eigenen waren farblich markiert.
+Die erste Grafik zeigte drei Gruppen. Niedrige, mittlere und hohe KORA-Konfidenz. Daneben die Abweichungen der behandelnden Ärzte. Ihre eigenen waren markiert.
 
 Eva überflog die Legende.
 
 „Fallmix?“
 
 „Bereinigt.“
-
-„Alter?“
-
-„Drin.“
 
 „Ausgangsschwere?“
 
@@ -39,29 +35,25 @@ Eva überflog die Legende.
 
 Sie scrollte zurück nach oben.
 
-„Und nur Entscheidungen, bei denen die Daten zum Zeitpunkt der Entscheidung vollständig waren?“
+„Und nur Entscheidungen, bei denen die Daten zum Entscheidungszeitpunkt vollständig waren?“
 
 Jan nickte. „Wie du es verlangt hast.“
 
-Eva lehnte sich zurück.
-
 „Zeig mir die Ressourcenfälle.“
 
-Jan klickte auf den Filter.
+Jan setzte den Filter.
 
 Die Tabelle wurde kürzer.
 
-Eva sah zuerst auf die Fallzahlen. Dann auf die Spalte daneben.
-
-Noch einmal auf die Fallzahlen.
+Eva sah zuerst auf die Fallzahlen. Dann auf die Ergebniszeile daneben.
 
 „Das kann so nicht stimmen.“
 
-Jan antwortete nicht sofort. „Was genau?“
+„Was genau?“
 
 Sie tippte auf den Bildschirm.
 
-„Die Outcome-Zuordnung. Wenn ein Patient nach einem Override lokal stabilisiert wurde, kann der Fall nicht in derselben Kategorie landen wie eine Fehlpriorisierung.“
+„Wenn ein Patient nach meinem Override lokal stabilisiert wurde, kann der Fall nicht einfach als schlechtere Entscheidung laufen.“
 
 „Tut er nicht.“
 
@@ -71,33 +63,27 @@ Jan beugte sich vor. „Das ist die lokale Folge.“
 
 Er bewegte den Cursor eine Spalte weiter.
 
-„Und das ist die Systemfolge.“
+„Und das die verbundweite.“
 
 Eva sah den Eintrag.
 
-Sie kannte die Fallnummer.
+Sie kannte die Fallkennung sofort.
 
-Cold Open.
+Ihr Patient war nach der invasiven Unterstützung stabilisiert worden. Daneben stand der zweite Verlauf: verzögerte definitive Intensivversorgung in Falkenried Nord, späterer Tod.
 
-Nicht so genannt, natürlich. In der Tabelle war es nur eine Kennung, Datum, Uhrzeit, Standort Zentral, Standort Nord.
-
-Ihr Patient: stabilisiert nach invasiver Unterstützung.
-
-Der andere Patient: verzögerte definitive Intensivversorgung, später verstorben.
-
-Darunter ein Vermerk zur Kausalität.
+Darunter der Vermerk, den sie inzwischen auswendig kannte.
 
 Verzögerung belegt. Individueller Gegenverlauf offen.
 
-Eva las die Zeile zweimal.
+Eva las trotzdem noch einmal.
 
 „Du wertest den Tod gegen meine Entscheidung.“
 
-Jan schüttelte den Kopf. „Ich werte die Ressourcenfolge gegen die Entscheidung. Der Tod ist separat ausgewiesen.“
+Jan schüttelte den Kopf. „Ich werte die belegte Ressourcenfolge. Der spätere Tod ist getrennt ausgewiesen.“
 
-„Das ist semantisch bequem.“
+„Das macht den Unterschied auf dem Bildschirm kleiner, als er ist.“
 
-„Es ist methodisch notwendig.“
+„Es verhindert, dass ich einen Gegenverlauf behaupte, den niemand kennt.“
 
 Miriam hob den Blick vom Becher.
 
@@ -111,75 +97,47 @@ Eva wandte sich wieder Jan zu.
 
 Jan tat es.
 
-Die Kurve änderte sich kaum.
+Die Grundtendenz blieb.
 
-Eva starrte auf den Bildschirm.
+Eva starrte auf die Kurve.
 
-„Noch einmal.“
+„Zeig den nächsten, den ich selbst als guten Override markiert habe.“
 
-„Welchen?“
+Jan öffnete die Fallansicht.
 
-Sie nannte eine Fallnummer aus dem Kopf.
+Eva erinnerte sich an die Entscheidung. Vor allem an das Ende: Ihr Patient hatte sich stabilisiert. Der Verlauf war für sie damals erledigt gewesen.
 
-Jan suchte sie.
+In der verbundweiten Ansicht stand mehr.
 
-Ein Mann mit rascher neurologischer Verschlechterung. Eva erinnerte sich an die Nacht, an die Diskussion, an den Moment, in dem KORA eine andere Priorität gesetzt hatte. Sie hatte widersprochen. Der Patient war am nächsten Morgen ansprechbar gewesen.
+Eine andere Versorgung hatte länger auf die knappe Kapazität warten müssen. Kein spektakulärer Ausgang. Kein Fall, wegen dem später jemand in Evas Büro gekommen war. Nur eine Folge, die außerhalb ihres Blickfelds entstanden war.
 
-Ein guter Override.
-
-So hatte sie ihn abgespeichert.
-
-Jan öffnete die verbundweite Folge.
-
-Am anderen Standort war eine geplante Übernahme verschoben worden. Kein Todesfall. Kein spektakulärer Schaden. Nur Stunden, die jemand anders verloren hatte, plus eine zusätzliche Eskalation, die in Evas Erinnerung nie vorgekommen war.
-
-„Der Patient bei mir wurde besser.“
+„Mein Patient wurde besser.“
 
 „Ja.“
 
-„Das steht da?“
+„Und trotzdem wertet das gegen den Override.“
 
-„Ja.“
+„In der Ressourcenbilanz, ja.“
 
-Eva las es selbst.
+Eva öffnete selbst den nächsten markierten Fall.
 
-Es stand da.
+Wieder erkannte sie zuerst den lokalen Ausgang.
 
-Sie nannte den nächsten Fall.
+Dann las sie die zweite Spalte.
 
-Jan öffnete ihn.
+Sie schob den Laptop ein Stück weg.
 
-Wieder ein lokaler Erfolg.
+„Wie viele von meinen guten Fällen sehen so aus?“
 
-Wieder eine zweite Spalte.
-
-Diesmal kein schwerer Ausgang. Eine verlegte Operation, weil Intensivkapazität länger gebunden war. Zusätzliche Überwachung. Verzögerung.
-
-Kleine Dinge.
-
-Klein genug, dass niemand Eva Monate später auf dem Flur dafür angesprochen hatte.
-
-„Wie viele?“ fragte sie.
-
-Jan verstand die Frage.
-
-„Von den Fällen, die du bei der ersten Sichtung selbst als gute Abweichungen markiert hast?“
-
-Eva nickte.
-
-Er nannte die Zahl.
+Jan nannte die Zahl.
 
 Sie wollte, dass sie kleiner war.
-
-War sie nicht.
-
-Eva schob den Laptop ein Stück weg.
 
 „Und low confidence?“
 
 Jan wechselte die Ansicht.
 
-Dort sah es anders aus. Keine klare Dominanz. In mehreren Gruppen lagen menschliche Abweichungen gleichauf oder besser. Genau der Bereich, den Eva erwartet hatte.
+Dort zerfiel das Bild. In mehreren Gruppen lagen menschliche Abweichungen gleichauf oder besser. Genau der Bereich, den Eva erwartet hatte.
 
 Sie zeigte darauf.
 
@@ -187,94 +145,64 @@ Sie zeigte darauf.
 
 „Ja.“
 
-„Also ist das Modell nicht generell überlegen.“
+„Also ist KORA nicht generell überlegen.“
 
-„Das hat niemand behauptet.“
+„Das habe ich nie gesagt.“
 
-„Miriam tut seit Wochen so.“
+Eva sah zu Miriam. „Aber wir bauen Regeln, als wäre es so.“
 
 Miriam stellte den Becher ab.
 
-„Nein.“
+„Wir bauen Regeln für die Bereiche, in denen der Unterschied belastbar groß ist.“
 
-Eva sah sie an.
+Eva zeigte auf die High-Confidence-Spalte. „Und wenn er groß genug ist, wird aus einer Empfehlung praktisch etwas anderes.“
 
-„Ich sage seit Wochen, dass wir die Bereiche behandeln müssen, in denen die Unterschiede groß sind.“
+„Darüber können wir reden.“
 
-Eva zeigte auf die High-Confidence-Spalte. „Und sobald die groß genug sind, wird aus einer Empfehlung eine Anweisung.“
-
-„Das ist eine andere Frage.“
-
-„Ist es das?“
-
-Miriam antwortete nicht.
+„Müssen wir.“
 
 Eva blickte wieder auf die Tabelle.
 
-Jan hatte nichts dramatisch formatiert. Keine rote Warnbox. Kein Satz über ärztliches Versagen.
+Jan hatte nichts dramatisch formatiert. Keine Warnbox, keinen Kommentar über ärztliches Versagen. Nur ihre Entscheidungen und die Folgen, soweit sie im Verbund sichtbar geworden waren.
 
-Nur ihre Entscheidungen, nebeneinander mit den Alternativen, die KORA damals vorgeschlagen hatte.
+Sie öffnete noch einen Fall.
 
-Sie zoomte in einen weiteren Fall.
+Wieder erkannte sie den Patienten, an den sie sich erinnert hatte.
 
-Sie erinnerte sich an den Patienten. An die Tochter, die später angerufen hatte. An den Kollegen, der ihr am nächsten Morgen gesagt hatte, dass es richtig gewesen sei, die Maschine zu ignorieren.
-
-Sie erinnerte sich nicht an die zwei anderen Patienten im Verbund, deren Wege sich dadurch verändert hatten.
-
-Nicht, weil sie sie vergessen hatte.
-
-Sie hatte sie nie gesehen.
+Die zweite Hälfte des Eintrags kannte sie nicht.
 
 Eva legte die Hand auf das Touchpad und zog sie wieder zurück.
 
 „Wie sicher bist du, dass die Tendenz hält?“
 
-Jan nannte ihr die Grenzen der Auswertung. Stichprobengröße. Konfidenzintervalle. Unterschiede zwischen Entscheidungsklassen.
+Jan nannte ihr die Grenzen der Auswertung. Stichprobengröße. Unsicherheit. Unterschiede zwischen den Entscheidungsklassen.
 
 Eva hörte zu.
 
-Normalerweise hätte sie an jedem Satz angesetzt.
-
-Diesmal fand sie keinen Hebel, der die Richtung der Daten verschwinden ließ.
+Normalerweise hätte sie an jedem Punkt angesetzt. Diesmal fand sie nichts, das die Richtung der High-Confidence-Fälle auflöste.
 
 „Dann ist meine Erfahrung falsch.“
 
-Jan verzog kaum sichtbar den Mund.
+Jan schüttelte den Kopf.
 
-„Nein.“
+„Deine Erfahrung ist das, was du erlebt hast.“
 
-Eva hob den Blick.
+Er deutete auf die verbundweite Ansicht.
 
-„Deine Erfahrung enthält das, was du erlebt hast.“
+„Hier steht, was davon außerhalb deines Blickfelds weiterging.“
 
-Er deutete auf die Tabelle.
+Eva sah auf die markierten Fälle.
 
-„Das hier enthält mehr davon.“
+Sie hatte ihre Entscheidungen nicht erfunden. Die Patienten vor ihr waren real besser geworden. Nur hatte sie diese Endpunkte behandelt, als wären sie die ganze Bilanz.
 
-Im Raum war es plötzlich sehr still.
+Miriam sagte noch immer nichts.
 
-Eva sah zu Miriam.
+Eva drehte den Bildschirm wieder zu sich.
 
-Kein Triumph. Das machte es schlimmer.
-
-„Was willst du jetzt von mir hören?“
-
-„Nichts“, sagte Miriam.
-
-Eva nickte einmal.
-
-Dann drehte sie den Bildschirm wieder zu sich.
-
-Die Frage war nicht mehr, ob sie KORA widerlegen konnte.
-
-Die Daten hatten ihr etwas Unangenehmeres genommen: die Gewissheit, dass ihre eigene Verantwortung automatisch der bessere Grund war.
-
-Sie sah auf ihre markierten Fälle.
-
-„Wenn das stimmt“, sagte sie, „müssen wir über etwas anderes reden.“
+„Wenn das hält“, sagte sie, „haben wir nicht mehr nur ein Kompetenzproblem.“
 
 Miriam wartete.
 
 Eva tippte auf die High-Confidence-Spalte.
 
-„Darüber, welches Recht ich habe, trotzdem anders zu entscheiden.“
+„Dann müssen wir darüber reden, welches Recht ich habe, trotzdem anders zu entscheiden.“
