@@ -1,10 +1,13 @@
 # G1 Review Request – ABWEICHUNG
 
-status: READY_FOR_HUMAN_G1
+status: APPROVED
 review_type: Human Gate G1 – Story-Architektur
-basis: `STORY_PACKAGE.md`; `BAUSTEINE/**/BAUSTEIN.md`; `BAUSTEINE/**/EREIGNISSE/EREIGNISSE.md`; `CHARACTERS.md`; `RESEARCH_REGISTER.md`; `G1_FRESH_CONTEXT_RESULT.md`
+decision: G1-APPROVE
+decided_by: human
+date: 2026-08-30
+gate_record: `gates/G1.md`
 
-## Architektur in Kurzform
+## Freigegebene Architektur
 
 - 18 Story-Bausteine
 - 54 Ereignisse
@@ -13,46 +16,40 @@ basis: `STORY_PACKAGE.md`; `BAUSTEINE/**/BAUSTEIN.md`; `BAUSTEINE/**/EREIGNISSE/
 - 3 zentrale Beziehungsbögen: Eva↔Miriam, Eva↔Felix, Eva↔Nele
 - Cold Open und Finale spiegeln denselben Ressourcenkonflikt mit unterschiedlicher Informationslage
 - Midpoint-Reversal: Evas eigene high-confidence Override-Bilanz ist schlechter als KORA; ihr lokaler Erfolgsbias wird sichtbar
-- Wert-/Kontextabweichungen bleiben legitimer menschlicher Entscheidungsraum, sind aber vor dem Finale auf benennbare patientenspezifische Gründe begrenzt; bloße Nähe/Behandlerbindung reicht im verbundweiten Ressourcenkonflikt nicht
-- Felix' Umgehung ist im konkreten Schadensfall kausal mit der ausgeschalteten Zweitfreigabe verbunden; kein sicherer kontrafaktischer Patientenausgang wird behauptet
-- Finale: echter Break-glass bleibt vorhanden, Eva nutzt ihn mangels medizinischen Gegenbelegs **und** mangels zulässigen patientenspezifischen Wert-/Kontextgrunds nicht
+- Wert-/Kontextabweichungen bleiben legitimer menschlicher Entscheidungsraum, sind aber vor dem Finale auf benennbare patientenspezifische Gründe begrenzt
+- Felix' Umgehung ist im konkreten Schadensfall kausal mit der ausgeschalteten Zweitfreigabe verbunden
+- Finale: echter Break-glass bleibt vorhanden; Eva nutzt ihn mangels zulässigem Gegenbeleg nicht
 - keine böse KI, kein Herstellerkomplott, kein späterer Technikfehler als Ausweg
 
 ## Struktur
 
-Die G1-Storywahrheit liegt jetzt hierarchisch unter `BAUSTEINE/`:
+Die freigegebene G1-Storywahrheit liegt hierarchisch unter `BAUSTEINE/`:
 
 `Baustein → Ereignisse → später Szene → Beats → Prosa`
 
-Szenen, Beats und Prosa existieren noch nicht. Sie werden erst nach G1 horizontal über das gesamte Buch abgeleitet.
+Basis:
+
+- `STORY_PACKAGE.md`
+- `BAUSTEINE/**/BAUSTEIN.md`
+- `BAUSTEINE/**/EREIGNISSE/EREIGNISSE.md`
+- `CHARACTERS.md`
+- `RESEARCH_REGISTER.md`
+- `G1_FRESH_CONTEXT_RESULT.md`
+
+## Review-Historie
+
+`SEMANTIC_G1_SELF_REVIEW.md` wurde durchgeführt, zählt aber nicht als unabhängiger Review.
+
+Der Fresh-Context-Review war `CLEAN_FRESH_CONTEXT` und lieferte zwei Findings. Beide wurden bestätigt und vor dem Human Gate korrigiert.
 
 ## Research-Status
 
 R-01 bis R-05: resolved / `blocking_now: no`.
 
-R-06 – konkrete medizinische Falldetails: open / `blocking_now: no` für G1. Vor medizinisch konkreten G2-Szenen/Beats wird R-06 blockierend geschlossen.
+R-06 – konkrete medizinische Falldetails – bleibt offen, war kein G1-Blocker und muss vor medizinisch konkreter Szenen-/Beat-Festlegung geschlossen werden.
 
-## Reviews
+## Ergebnis
 
-`SEMANTIC_G1_SELF_REVIEW.md` ist abgeschlossen, zählt aber ausdrücklich nicht als unabhängiger Review.
+Human `G1-APPROVE` erteilt.
 
-`G1_FRESH_CONTEXT_TASK.md` wurde in einem neuen Chat ausgeführt. Ergebnis: `CLEAN_FRESH_CONTEXT`, 2 Findings. Beide wurden in `G1_FRESH_CONTEXT_RESULT.md` bestätigt und korrigiert.
-
-## G1-Prüffragen für den Human Gate
-
-1. Trägt Eva Riedel als Protagonistin zwischen evidenzorientierter Medizin und ärztlicher Letztentscheidung?
-2. Trägt Miriam als legitime Gegenkraft, ohne zur autoritären Strohfrau zu werden?
-3. Trägt die Eskalation der Governance von freiem Override bis Break-glass als schrittweise Folge realer Probleme?
-4. Trägt der Midpoint, dass nicht KORA, sondern Evas eigene high-confidence Abweichungsbilanz ihr Selbstbild beschädigt?
-5. Ist die Wert-/Kontextausnahme ausreichend real, aber zugleich so begrenzt, dass das Finale nicht über ein spontanes Duty-to-care-Schlupfloch gelöst wird?
-6. Ist Felix' Grenzüberschreitung kausal genug, ohne ihn zum Bösewicht oder den Patientenausgang kontrafaktisch sicher zu machen?
-7. Trägt das Finale: Nele verweigert die Zweitfreigabe nach bereits gesetzten Kriterien; Eva könnte Break-glass nutzen, tut es aber nicht?
-8. Ist die zentrale Frage weiterhin unverändert sichtbar: **Wie lange darf ein Mensch eine schlechtere Entscheidung treffen, wenn eine Maschine nachweislich die bessere kennt?**
-
-## Human Gate
-
-- `G1-APPROVE` – Story-Architektur wird kanonisch; danach Szenen- und Beat-Ebene sowie G2-Vorbereitung.
-- `G1-REWORK` – Architektur vor G1-Freigabe weiter überarbeiten.
-- `G1-STOP` – Romanlauf stoppen.
-
-**Noch keine G1-Entscheidung wurde im Repository eingetragen.**
+Die nächste horizontale Arbeitsebene ist die **Szenenarchitektur über den gesamten Roman**. Beats und Prosa bleiben bis zum Abschluss ihrer jeweils vorgelagerten Ebene gesperrt.
