@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/12_WERT_KONTEXTAUSNAHME/SZENEN/12_12_02_DER_WERTERAUM/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

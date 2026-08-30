@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/12_WERT_KONTEXTAUSNAHME/SZENEN/12_12_01_ZWEI_ARTEN_VON_ABWEICHUNG/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

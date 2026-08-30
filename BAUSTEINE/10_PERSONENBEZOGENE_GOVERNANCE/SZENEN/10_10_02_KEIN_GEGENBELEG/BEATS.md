@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/10_PERSONENBEZOGENE_GOVERNANCE/SZENEN/10_10_02_KEIN_GEGENBELEG/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

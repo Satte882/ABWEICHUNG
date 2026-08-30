@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/13_AUSNAHME_WIRD_REGULIERT/SZENEN/13_13_02_NAEHE_ZAEHLT_NICHT/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

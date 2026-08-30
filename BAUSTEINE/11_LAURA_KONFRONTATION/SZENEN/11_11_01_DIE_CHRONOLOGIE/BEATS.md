@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/11_LAURA_KONFRONTATION/SZENEN/11_11_01_DIE_CHRONOLOGIE/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

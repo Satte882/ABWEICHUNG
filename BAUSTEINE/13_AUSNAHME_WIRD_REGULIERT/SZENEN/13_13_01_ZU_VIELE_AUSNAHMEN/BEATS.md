@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/13_AUSNAHME_WIRD_REGULIERT/SZENEN/13_13_01_ZU_VIELE_AUSNAHMEN/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 
