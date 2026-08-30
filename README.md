@@ -4,7 +4,7 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → READY_FOR_HUMAN_G2**
+**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → PROSA FREIGEGEBEN**
 
 - 18 Bausteine
 - 54 Ereignisse
@@ -18,7 +18,8 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 - Fresh-Context-Beat-Review: `CLEAN_FRESH_CONTEXT`, 1 Finding
 - BEAT-SR-001: bestätigt und auf Beat-Ebene korrigiert
 - offene Story-/Szenen-/Beat-Blocker: none
-- Prosa bewusst noch nicht begonnen
+- Human Gate G2 / Prose Ready: APPROVED
+- Prosa darf jetzt beginnen
 
 ## Arbeitsprinzip
 
@@ -30,7 +31,7 @@ Dabei gilt:
 
 > Erst eine Ebene über das gesamte Buch ausreichend schließen, dann die nächste Ebene ableiten.
 
-Prosa ist die letzte Ebene. Sie beginnt erst, wenn die Story bis auf Szenen- und Beat-Ebene so granular festgelegt und geprüft ist, dass beim Schreiben keine relevante Storyentscheidung mehr erfunden werden muss.
+Die Story ist jetzt bis auf Beat-Ebene horizontal geschlossen und freigegeben. Die Prosa ist die letzte Ebene und konkretisiert Sprache, Rhythmus, Dialog, Atmosphäre und Wahrnehmung. Sie darf keine neue relevante Storyentscheidung stillschweigend einführen.
 
 ## Repo-Struktur
 
@@ -50,25 +51,27 @@ ABWEICHUNG/
     │   └── SZENEN/
     │       ├── 01_01_01_DIE_LETZTE_KAPAZITAET/
     │       │   ├── SZENE.md
-    │       │   └── BEATS.md
+    │       │   ├── BEATS.md
+    │       │   └── PROSA.md
     │       └── 01_01_02_DER_SICHTBARE_ERFOLG/
     │           ├── SZENE.md
-    │           └── BEATS.md
+    │           ├── BEATS.md
+    │           └── PROSA.md
     ├── 02_.../
     └── 18_.../
 ```
 
-Die Storywahrheit ist damit bis auf Beat-Ebene horizontal über den gesamten Roman heruntergebrochen und unabhängig geprüft. `PROSA.md` wird weiterhin **nicht vorgezogen**.
+`PROSA.md` wird erst jetzt nach G2 erzeugt.
 
-## Nächster Prüfpunkt
+## Nächste Ebene
 
-Human Gate **G2 / Prose Ready**.
+**Prosa.**
 
-Freigabetoken:
+Die freigegebene Ableitungskette bleibt verbindlich:
 
-`G2-APPROVE`
+`Baustein → Ereignisse → Szene → Beats → Prosa`
 
-Erst nach G2 beginnt die Prosaebene.
+Wenn beim Schreiben eine echte Storyänderung notwendig erscheint, muss sie explizit auf die betroffene vorgelagerte Ebene zurückgeführt werden. Die Prosa darf die freigegebene Architektur nicht still umschreiben.
 
 ## Reihengedanke
 
