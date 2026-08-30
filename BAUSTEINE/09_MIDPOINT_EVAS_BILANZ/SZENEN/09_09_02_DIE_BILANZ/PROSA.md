@@ -45,7 +45,7 @@ Jan setzte den Filter.
 
 Die Tabelle wurde kürzer.
 
-Eva sah zuerst auf die Fallzahlen. Dann auf die Ergebniszeile daneben.
+Ihr Blick ging zuerst zu den Fallzahlen, dann zur Ergebniszeile daneben.
 
 „Das kann so nicht stimmen.“
 
@@ -65,7 +65,7 @@ Er bewegte den Cursor eine Spalte weiter.
 
 „Und das die verbundweite.“
 
-Eva sah den Eintrag.
+Eva blieb an dem Eintrag hängen.
 
 Sie kannte die Fallkennung sofort.
 
@@ -87,7 +87,7 @@ Jan schüttelte den Kopf. „Ich werte die belegte Ressourcenfolge. Der spätere
 
 Miriam hob den Blick vom Becher.
 
-Eva sah sie an. „Sagst du jetzt auch etwas?“
+Eva wandte sich zu ihr. „Sagst du jetzt auch etwas?“
 
 „Noch nicht.“
 
@@ -149,7 +149,7 @@ Sie zeigte darauf.
 
 „Das habe ich nie gesagt.“
 
-Eva sah zu Miriam. „Aber wir bauen Regeln, als wäre es so.“
+Eva drehte sich zu Miriam. „Aber wir bauen Regeln, als wäre es so.“
 
 Miriam stellte den Becher ab.
 
@@ -191,7 +191,7 @@ Er deutete auf die verbundweite Ansicht.
 
 „Hier steht, was davon außerhalb deines Blickfelds weiterging.“
 
-Eva sah auf die markierten Fälle.
+Die markierten Fälle standen weiter vor Eva.
 
 Sie hatte ihre Entscheidungen nicht erfunden. Die Patienten vor ihr waren real besser geworden. Nur hatte sie diese Endpunkte behandelt, als wären sie die ganze Bilanz.
 
