@@ -47,9 +47,7 @@ Sie mochte den Ton nicht.
 
 „Versorgt ist nicht dasselbe wie endgültig intensivmedizinisch aufgenommen.“
 
-Eva sah wieder auf die Zeitleiste.
-
-Der Engpass zog sich weiter, Eintrag für Eintrag. Kein dramatischer roter Balken. Nur Zeit.
+Die Zeitleiste zog sich weiter, Eintrag für Eintrag. Kein dramatischer roter Balken. Nur Zeit.
 
 Zeit, die ihr eigener Patient nicht hatte verlieren sollen.
 
@@ -65,11 +63,7 @@ Eva wartete.
 
 Miriam lehnte sich zurück.
 
-„Weil es beides ist.“
-
-„Was beides?“
-
-„Eine Erklärung für deine Entscheidung. Und ein Problem für das System.“
+„Weil es beides ist: eine Erklärung für deine Entscheidung und ein Problem für das System.“
 
 Eva schob den Stuhl näher an den Tisch.
 
@@ -83,11 +77,9 @@ Miriam zeigte auf die zwei parallelen Verläufe.
 
 „Deine klinische Realität endete an deiner Tür. Die Ressourcenentscheidung nicht.“
 
-Eva sagte nichts.
+Der Satz blieb zwischen ihnen stehen. Zu sauber, um ihn sofort zu akzeptieren.
 
-Der Satz war sauber. Zu sauber. Sie wollte ihn deshalb nicht sofort akzeptieren.
-
-Sie scrollte zurück.
+Eva scrollte zurück.
 
 Der lokale Verlauf blieb gut. Die Stabilisierung verschwand nicht, nur weil eine zweite Zeile darunterlag.
 
@@ -99,29 +91,21 @@ Der lokale Verlauf blieb gut. Die Stabilisierung verschwand nicht, nur weil eine
 
 „Nein. Aber vielleicht sieht es Dinge, die der Mensch am Bett zwangsläufig nicht sieht.“
 
-Eva blickte zu Miriam.
+Miriam hielt Evas Blick aus.
 
 Da war er zum ersten Mal, der Riss.
 
-Noch klein.
-
-Nicht zwischen Mensch und Maschine.
-
-Zwischen dem, was Verantwortung für Eva bedeutete, und dem, was Miriam inzwischen darunter verstand.
+Noch klein. Nicht zwischen Mensch und Maschine, eher zwischen dem, was Verantwortung für Eva bedeutete, und dem, was Miriam inzwischen darunter verstand.
 
 Miriam markierte den Fall für die vertiefte Qualitätsanalyse.
 
 „Ich will die gesamte Kette.“
 
-Eva sah auf den Eintrag.
+Der Eintrag blieb auf dem Bildschirm hervorgehoben.
 
 „Warum?“
 
-„Weil dein Patient stabilisiert wurde.“
-
-„Das wissen wir.“
-
-„Und weil ich wissen will, was dieselbe Entscheidung anderswo gekostet hat.“
+„Weil dein Patient stabilisiert wurde. Und weil ich wissen will, was dieselbe Entscheidung anderswo gekostet hat.“
 
 Eva antwortete nicht.
 
