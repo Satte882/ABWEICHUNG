@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/05_NELES_OVERRIDE_SCHADEN/SZENEN/05_05_02_ZU_SPAET/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

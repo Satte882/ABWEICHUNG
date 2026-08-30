@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/06_ZWEITFREIGABE_KONFLIKT/SZENEN/06_06_01_ZWEITE_UNTERSCHRIFT/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

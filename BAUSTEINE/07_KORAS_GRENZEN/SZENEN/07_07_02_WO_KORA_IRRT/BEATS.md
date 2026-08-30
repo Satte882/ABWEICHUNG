@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/07_KORAS_GRENZEN/SZENEN/07_07_02_WO_KORA_IRRT/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

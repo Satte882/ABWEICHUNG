@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/09_MIDPOINT_EVAS_BILANZ/SZENEN/09_09_01_MEINE_FAELLE/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 

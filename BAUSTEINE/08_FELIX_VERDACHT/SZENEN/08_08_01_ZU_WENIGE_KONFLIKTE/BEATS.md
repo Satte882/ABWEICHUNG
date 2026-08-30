@@ -2,7 +2,7 @@
 
 scene_ref: `BAUSTEINE/08_FELIX_VERDACHT/SZENEN/08_08_01_ZU_WENIGE_KONFLIKTE/SZENE.md`
 beat_status: draft
-prose_allowed: no
+prose_allowed: yes
 
 ## Sequenz
 
