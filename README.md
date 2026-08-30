@@ -4,37 +4,67 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → Szenenebene reviewt → Beat-Ebene reviewt → G2 APPROVED → G3 APPROVED → 40/40 PROSA → WHOLE-MANUSCRIPT REVIEW → REWORK APPLIED → AWAITING FRESH-CONTEXT REREVIEW**
+**G0 APPROVED → G1 APPROVED → ursprüngliches G2 APPROVED → G3 APPROVED → 40/40 PROSA → 2× WHOLE-MANUSCRIPT REVIEW → REPEATED MAJORS → CONTROLLED G2 BACKTRACK → AWAITING FRESH-CONTEXT SCENE-SHAPE REREVIEW**
 
 - 18 Bausteine
 - 54 Ereignisse
 - 40 Szenen
 - 253 Beats
 - 40/40 Szenen mit `PROSA.md`
-- 3 G3-Stilreferenz-Szenen freigegeben
-- 37 weitere Szenen vollständig ausformuliert
-- erster Whole-Manuscript-Hardening-Pass abgeschlossen
-- erster unabhängiger Gesamtmanuskript-Review: `CLEAN_FRESH_CONTEXT`, 6 Findings, davon 3 Major
-- tiefer zweiter Prosa-Rework gegen alle 6 Findings durchgeführt
-- kein G2-Backtrack erforderlich
-- neuer fester Prosa-Zielstand: `1d717f47277d22381fdd97bd804e0e31cf09e10e`
-- 6 plotrelevante Kernrollen
-- 3 Informationsstränge: Outcome / Governance / Externalität
-- R-06 medizinische Ankerfälle geschlossen
-- Fresh-Context-Szenenreview: `CLEAN_FRESH_CONTEXT`, 0 Findings
-- Fresh-Context-Beat-Review: `CLEAN_FRESH_CONTEXT`, 1 Finding; bestätigt und korrigiert
-- offene Story-/Szenen-/Beat-Blocker: none
-- Human Gate G2 / Prose Ready: APPROVED
-- Human Gate G3 / Prosa-Stil: APPROVED
-- Human Gate G4 / Manuskript: **noch nicht freigegeben**
+- G1-Storywahrheit unverändert
+- erster Gesamtmanuskript-Review: 6 Findings, 3 Major
+- reiner Prosa-Rework
+- zweiter Gesamtmanuskript-Review gegen `1d717f...`: 5 Findings, 2 Major
+- wiederholte Majors: Scene-Repetition + Dialogue-Pingpong
+- daraus bewusst kontrollierter G2-Backtrack ausgelöst
+- Scene-/Beat-Träger strukturell geändert in S008, S014, S018, S020, S024, S032
+- zugehörige Prosa synchron angepasst
+- reiner Rework-Zielstand: `78222a7e99c80378c35379ad42684ee332a412a6`
+- Lesson Learned dokumentiert in `LESSONS_LEARNED.md`
+- Framework-Transfer vorgemerkt als `Satte882/Buch-Framework` Issue #17; noch keine Framework-Dateien geändert
+- Human Gate G2: historisch APPROVED, **aktueller Rework-Stand requires reapproval**
+- Human Gate G3 / Prosa-Stil: historische Stilreferenz bleibt APPROVED
+- Human Gate G4 / Manuskript: **blockiert bis G2-Reapproval + neuer Gesamtmanuskript-Review**
 
 ## Arbeitsprinzip
 
-Die Story wurde konsequent **vom Groben ins Feine** aufgebaut:
+Die Story wurde konsequent vom Groben ins Feine aufgebaut:
 
 `Buchidee / Gesamtarchitektur → Baustein → Ereignisse → Szene → Beats → Prosa`
 
-Story, Szenen und Beats sind horizontal geschlossen. Die Prosa ist über alle 40 Szenen vorhanden. Der aktuelle Rework blieb vollständig auf Prosaebene.
+Der Pilot hat zusätzlich gezeigt: **Semantische Vollständigkeit allein reicht nicht.** Eine Szenenfolge kann in Kausalität, Information und Figurenverantwortung korrekt sein und trotzdem auf Whole-Book-Ebene monoton werden, wenn zu viele Storyfunktionen über denselben dramaturgischen Träger erzählt werden.
+
+Deshalb wurde nach wiederholten manuskriptweiten Majors nicht weiter nur Prosa poliert, sondern kontrolliert auf Szene/Beat zurückgesprungen.
+
+## Scene-Shape-Backtrack
+
+Die Storyursachen und Ereignisse bleiben gleich. Verändert wurde ausschließlich, **wie** ausgewählte Szenen ihre bereits freigegebene Storyfunktion tragen:
+
+| Szene | neuer dominanter Träger |
+|---|---|
+| S008 | erste Governance-Regel wird live im klinischen Workflow erlebt |
+| S014 | klinischer Low-Confidence-Fall löst den Analyseauftrag aus |
+| S018 | Eva führt allein die persönliche Gegenprobe auf ihre eigenen Fälle aus |
+| S020 | personenbezogene Governance erscheint als persönliche Einstufung / Statusverlust |
+| S024 | Eva entwickelt die Wert-/Kontext-Gegenarchitektur zuerst allein |
+| S032 | Solo-Break-glass wird in einem funktionalen Stresstest praktisch verifiziert |
+
+Damit bleibt jeweils nur dort ein klassischer Review-/Governance-Termin stehen, wo er dramaturgisch selbst die notwendige Handlung ist.
+
+## Lesson Learned
+
+`LESSONS_LEARNED.md` hält die Ursache und Prävention fest.
+
+Kernregeln für zukünftige Läufe:
+
+- Whole-Book Scene-Shape Review bereits vor G2,
+- dramaturgischen Primary Carrier pro Szene sichtbar machen,
+- nicht nur Einzel-Szenen, sondern Verteilung über Sequenzen prüfen,
+- G3 zusätzlich mit einem zusammenhängenden Mittelteil-Run testen,
+- globale Dialog-/Scene-Repetition-Muster statt nur lokale Scanner-Findings bewerten,
+- wiederholt derselbe Manuskript-Major nach Prosa-Rework → kontrollierter G2-Backtrack statt weiterer Satzpolitur.
+
+Der Transfer ins Framework ist als Issue #17 erfasst, wird aber erst nach erfolgreichem G4 dieses Piloten implementiert.
 
 ## Stilreferenz G3
 
@@ -42,53 +72,36 @@ Story, Szenen und Beats sind horizontal geschlossen. Die Prosa ist über alle 40
 - `S019 – Die Bilanz`: analytischer Midpoint
 - `S023 – Würden Sie es wieder tun?`: persönliche Konfrontation
 
-Diese drei Szenen bleiben die interne Kalibrierung für Direktheit, Rhythmus, Dialog, Informationsdichte und Evas POV.
-
-## Prosa-Regel
-
-Prosa konkretisiert Sprache, Rhythmus, Dialog, Atmosphäre und Wahrnehmung. Sie darf keine neue relevante Storyentscheidung stillschweigend einführen.
-
-Wenn beim Schreiben oder Rework eine echte Storyänderung notwendig erscheint, muss sie explizit auf die betroffene vorgelagerte Ebene zurückgeführt werden.
-
-## Manuskript-Rework nach unabhängiger Gesamtlektüre
-
-Der erste unabhängige Whole-Manuscript-Review identifizierte vor allem:
-
-- manuskriptweites Dialog-Pingpong,
-- Wiederholung des Szenentyps `Regel/Daten → Prüfungsfragen → Klärung`,
-- Pacing-/Erlebnisdichte im Mittelteil,
-- wiederkehrende Blickscharnier-Formulierungen,
-- Erklärungsechos,
-- zu punktuell konzentrierten emotionalen Nachhall.
-
-Der zweite Rework differenzierte insbesondere S009, S012, S013, S017, S020, S024, S028, S031 und S032 stärker über Registerarbeit, Regeltext, Stationsalltag, technische Demonstration, persönliche Regelanwendung, Whiteboard, Notfallhandlung, Vorstandsbeschluss und UI-/Designprüfung.
-
-S019 und S029 wurden zusätzlich auf wiederkehrende Blickscharnier-Formulierungen nachbearbeitet. S039 trägt den menschlichen Nachhall stärker. S040 blieb bewusst unverändert.
-
-Die vollständige Disposition des ersten Reviews steht in:
-
-`MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
+Diese Szenen bleiben die interne Stilkalibrierung. Der aktuelle Backtrack verändert deren freigegebene Kernfunktion nicht.
 
 ## Aktuelle Phase
 
-**Unabhängiger Gesamtmanuskript-Re-Review vor G4.**
+**G2-Re-Review des geänderten Szenen-/Beat-Stands.**
 
-Der Auftrag liegt in:
+Nächster Auftrag:
 
-`MANUSCRIPT_FRESH_CONTEXT_TASK.md`
+`SCENE_FRESH_CONTEXT_TASK.md`
 
-Er prüft ausschließlich den festen Prosa-Zielstand:
+Fester Zielstand:
 
-`1d717f47277d22381fdd97bd804e0e31cf09e10e`
+`78222a7e99c80378c35379ad42684ee332a412a6`
 
-Der Review muss erneut in einer wirklich kontextfreien Session erfolgen und das Manuskript S001–S040 als Ganzes lesen.
+Der Review prüft ohne Prosa:
 
-Danach:
+- G1-/Event-Treue,
+- Beat-Readiness,
+- Whole-Book Scene-Shape-Verteilung,
+- insbesondere, ob der wiederkehrende Meeting-/Review-Träger noch strukturell als Major angelegt ist.
 
-1. neue Findings dispositionieren,
-2. bei keinen offenen Blocker/Major-Findings → `READY_FOR_HUMAN_G4`,
-3. Human Gate **G4 – Manuskript**,
-4. danach erst Produktion / G5.
+Danach zwingende Reihenfolge:
+
+1. Fresh-Context-Szenen-/Beat-Re-Review,
+2. Findings dispositionieren,
+3. bei `READY_FOR_REAPPROVAL` erneuter Human-Token `G2-APPROVE`,
+4. danach `MANUSCRIPT_FRESH_CONTEXT_TASK.md` gegen denselben Rework-Target ausführen,
+5. nur ohne offene Blocker/Major-Findings → `READY_FOR_HUMAN_G4`,
+6. Human Gate **G4 – Manuskript**,
+7. danach Produktion / G5.
 
 ## Reihengedanke
 
