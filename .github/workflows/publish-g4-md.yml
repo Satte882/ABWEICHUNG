@@ -1,0 +1,55 @@
+name: Publish G4 manuscript Markdown
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish-g4-md.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build G4 manuscript Markdown
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/build_production.py \
+            --source-ref 19934e138422e72e7433bc8b9be0c96c1cdb1044 \
+            --out-dir /tmp/abweichung-g4
+          python scripts/build_final_manuscript.py \
+            --source /tmp/abweichung-g4/ABWEICHUNG_v01.md \
+            --output ABWEICHUNG_FINAL.md
+          python - <<'PY'
+          from pathlib import Path
+          text = Path('ABWEICHUNG_FINAL.md').read_text(encoding='utf-8')
+          assert text.count('\n## Kapitel ') == 40
+          assert 'Frau Dr. Riedel' in text
+          assert 'Frau Dr. König' not in text
+          assert 'high-confidence Ressourcen-/Eskalationsklasse' in text
+          assert 'Meine Bilanz in der Ressourcen-/Eskalationsklasse' in text
+          assert text.rstrip().endswith('Eva wartete.')
+          print('G4 Markdown validation OK')
+          PY
+
+      - name: Commit G4 manuscript Markdown
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add ABWEICHUNG_FINAL.md
+          if git diff --cached --quiet; then
+            echo 'No Markdown changes to commit.'
+            exit 0
+          fi
+          git commit -m 'production: publish G4-reworked manuscript markdown'
+          git pull --rebase origin main
+          git push origin HEAD:main
