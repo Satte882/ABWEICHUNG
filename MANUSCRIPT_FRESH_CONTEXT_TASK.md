@@ -1,9 +1,25 @@
 # Fresh-Context-Auftrag – Gesamtmanuskript ABWEICHUNG
 
+control_file_ref: `main`
 review_target: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
 review_scope: full manuscript S001–S040
 review_mode: independent semantic whole-manuscript review
 prerequisite: execute only in a genuinely clean context against the fixed expanded manuscript target
+
+## Wichtige Trennung: Auftrag vs. Prüfgegenstand
+
+Diese Datei `MANUSCRIPT_FRESH_CONTEXT_TASK.md` ist eine **Steuerdatei** und muss vom aktuellen Branch `main` gelesen werden.
+
+Der Wert `review_target` bezeichnet ausschließlich den **festen Manuskript-Snapshot**, aus dem die unten erlaubten fachlichen Produktionsquellen gelesen werden.
+
+**Nicht** `MANUSCRIPT_FRESH_CONTEXT_TASK.md` aus dem Commit `review_target` laden. An diesem älteren Manuskript-Commit kann eine frühere Version dieser Steuerdatei liegen.
+
+Vor Beginn müssen deshalb beide Bedingungen erfüllt sein:
+
+1. Steuerdatei gelesen von `main`.
+2. `review_target` in dieser Steuerdatei ist exakt `14563bc5ea63d2b77c10e63f1d23a751e136c617`.
+
+Wenn Bedingung 2 nicht erfüllt ist, Auftrag nicht ausführen.
 
 ## Clean-Room-Voraussetzung
 
@@ -27,15 +43,17 @@ Nutze keine Erinnerungen, frühere Chats oder außerhalb dieses Auftrags bekannt
 
 ## Verbindlicher Zielstand
 
-Prüfe ausschließlich den Repository-Stand des Commits:
+Prüfe ausschließlich die **fachlichen Produktionsquellen** des Repository-Stands am Commit:
 
 `14563bc5ea63d2b77c10e63f1d23a751e136c617`
 
-Nicht den aktuellen Branch-Head, falls dieser inzwischen weitergelaufen ist.
+Nicht den aktuellen Branch-Head für diese Produktionsquellen, falls dieser inzwischen weitergelaufen ist.
+
+Die einzige Datei, die ausdrücklich von `main` gelesen wird, ist diese Steuerdatei `MANUSCRIPT_FRESH_CONTEXT_TASK.md`.
 
 ## Erlaubte Quellen
 
-Lies für die Prüfung ausschließlich die fachlichen Produktionsquellen des Ziel-Commits:
+Lies für die Prüfung ausschließlich die folgenden fachlichen Produktionsquellen des Ziel-Commits `14563bc5ea63d2b77c10e63f1d23a751e136c617`:
 
 1. `BOOK_IDEA.md`
 2. `STORY_PACKAGE.md`
