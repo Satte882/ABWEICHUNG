@@ -106,6 +106,13 @@ def main() -> None:
         em_total += em_count
         body = body.replace("—", "–")
 
+        # One explicit wording correction introduced during the contextual finale pass.
+        # Keep the profile hard guard without replacing the word globally or blindly.
+        body = body.replace(
+            "Nicht nach einer Formulierung, die überzeugend klang, sondern nach etwas, das die Empfehlung tatsächlich verändern konnte:",
+            "Sie suchte keine Formulierung, die überzeugend klang. Sie brauchte etwas, das die Empfehlung tatsächlich verändern konnte:",
+        )
+
         paras = [p.strip() for p in re.split(r"\n\s*\n", body) if p.strip()]
         paras, merged = compact_staccato(paras)
         merged_total += merged
@@ -124,7 +131,6 @@ def main() -> None:
     if [n for n, *_ in scene_rows] != list(range(1, 41)):
         raise SystemExit(f"scene sequence invalid: {[sid for _, sid, *_ in scene_rows]}")
 
-    # Deterministic whole-book aggregation from the canonical scene prose sources.
     chapters = []
     for n, sid, path, _ in scene_rows:
         text = path.read_text(encoding="utf-8")
@@ -134,7 +140,6 @@ def main() -> None:
     final = FRONT + "\n\n".join(chapters).rstrip() + "\n"
     Path("ABWEICHUNG_FINAL.md").write_text(final, encoding="utf-8")
 
-    # Hard regression guards.
     if "—" in final:
         raise SystemExit("forbidden em dash remains")
     if re.search(r"\bsondern\b", final, re.I):
@@ -169,7 +174,7 @@ def main() -> None:
         "",
         "## Semantische Eingriffe",
         "",
-        "Vor diesem Whole-Book-Lauf wurden die stärksten bestätigten Rhythmus-/KI-Prosa-Hotspots bereits kontextuell überarbeitet, darunter Opening, frühe Governance-Passage, zentrale Ressourcen-Gegenrechnung und Finale/Nachhall. Der automatische Teil dieses Skripts verändert keine Satzwörter außer dem typografischen Hard Guard; er normalisiert nur nachweislich überhäufte vertikale Kurzabsatz-Runs.",
+        "Vor diesem Whole-Book-Lauf wurden die stärksten bestätigten Rhythmus-/KI-Prosa-Hotspots bereits kontextuell überarbeitet, darunter Opening, frühe Governance-Passage, zentrale Ressourcen-Gegenrechnung und Finale/Nachhall. Der automatische Teil dieses Skripts verändert keine Satzwörter außer den explizit dokumentierten Hard-Guard-Korrekturen; er normalisiert nur nachweislich überhäufte vertikale Kurzabsatz-Runs.",
         "",
         "## Gate-Folge",
         "",
