@@ -53,21 +53,13 @@ Felix sah zur Tür. Als er zurückblickte, war jede Leichtigkeit aus seinem Gesi
 
 „Ich lasse mir keine klinische Entscheidung von einer Schwelle wegnehmen, die aus einem Modellwert entsteht.“
 
-Der Satz kam ruhig.
-
-Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden.
-
-Felix beugte sich vor.
+Der Satz kam ruhig. Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden. Felix beugte sich vor.
 
 „Ihr nennt es zweite ärztliche Freigabe. Praktisch heißt es: Ich bin am Bett, ich sehe die Reaktion, ich trage das Risiko, und bevor ich eine Entscheidung weiterführe, muss jemand mit weniger Nähe zum Patienten meinen Grund akzeptieren. Ich halte das in dieser Form für fachlich falsch. Also habe ich den Verlauf so dokumentiert, wie ich ihn medizinisch erlebt habe: Intervention, neue Lage, nächste Entscheidung.“
 
 „Und du wusstest, dass die Schutzstufe dadurch nicht auslöst.“
 
-Felix antwortete nicht sofort.
-
-Dann nickte er einmal.
-
-Das genügte.
+Felix antwortete nicht sofort. Dann nickte er einmal. Das genügte.
 
 Eva stand auf und ging zum Fenster. Sie brauchte die Bewegung, nicht den Abstand.
 
@@ -171,11 +163,7 @@ Eva dachte an den Patienten, an die echte vorübergehende Verbesserung, an Felix
 
 „Es erklärt es. Das ist nicht dasselbe.“
 
-Felix öffnete die Tür.
-
-Diesmal sagte keiner von beiden noch etwas.
-
-Später verlor Felix seine Funktion.
+Felix öffnete die Tür. Diesmal sagte keiner von beiden noch etwas. Später verlor Felix seine Funktion.
 
 Die formalen Schritte verliefen geordnet: Anhörung, Bewertung, Entscheidung.
 

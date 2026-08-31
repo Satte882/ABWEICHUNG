@@ -79,21 +79,11 @@ Eva legte sie rechts.
 
 Bei der zweiten war kurz nach dem Systemstand ein neuer Befund entstanden. Die Empfehlung war auf einem Zustand gebaut, der wenige Minuten später nicht mehr vollständig galt.
 
-Diese Karte ging nach links.
-
-Die dritte blieb wieder rechts.
-
-Jan zog die Abdeckungen ab.
+Diese Karte ging nach links. Die dritte blieb wieder rechts. Jan zog die Abdeckungen ab.
 
 Eva hatte die Richtung der drei Fälle getroffen. Nicht weil sie KORA besser verstand als vorher. Die Gründe waren konkreter geworden.
 
-Neuer Befund.
-
-Geänderter Zustand.
-
-Oder eben kein solcher Unterschied.
-
-Jan schob die Karten zusammen.
+Neuer Befund. Geänderter Zustand. Oder eben kein solcher Unterschied. Jan schob die Karten zusammen.
 
 „Jetzt die Gruppen.“
 

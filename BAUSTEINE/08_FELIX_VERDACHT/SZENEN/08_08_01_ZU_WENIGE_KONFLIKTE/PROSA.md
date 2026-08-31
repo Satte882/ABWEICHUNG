@@ -141,11 +141,7 @@ Eva blieb vor der Scheibe stehen.
 
 Drinnen war Felix wieder vollständig Arzt. Keine Governance, keine Statistik, kein Machtkampf. Er beugte sich über den Patienten, hörte zu, gab eine Anweisung und wartete auf die Reaktion.
 
-Eva vertraute ihm in diesem Raum.
-
-Das machte die Zeile nicht weniger auffällig.
-
-Vielleicht war seine Erklärung vollständig.
+Eva vertraute ihm in diesem Raum. Das machte die Zeile nicht weniger auffällig. Vielleicht war seine Erklärung vollständig.
 
 Vielleicht lag genau in der klinisch plausiblen Reihenfolge die Stelle, an der sich eine Regel umgehen ließ, ohne einen einzigen falschen Wert einzutragen.
 

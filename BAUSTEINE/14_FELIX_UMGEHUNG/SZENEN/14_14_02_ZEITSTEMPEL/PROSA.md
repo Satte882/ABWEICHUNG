@@ -53,11 +53,7 @@ Die intensivierte Atemunterstützung begann. Die Werte besserten sich vorüberge
 
 Er markierte den späteren Zeitpunkt, den das System formal als Entscheidungspunkt verwendet hatte.
 
-KORA lag dort knapp unter der Schwelle.
-
-Keine Zweitfreigabe.
-
-Zwei Zeitpunkte. Zwei Governancefolgen.
+KORA lag dort knapp unter der Schwelle. Keine Zweitfreigabe. Zwei Zeitpunkte. Zwei Governancefolgen.
 
 Dazwischen eine reale Behandlung und reale bessere Werte.
 
@@ -67,11 +63,7 @@ Jan beantwortete die technische Frage, bevor sie daraus eine Verdachtsfrage mach
 
 „Die späteren Daten sind echt. Wir sehen keine manipulierten Werte und keine nachträgliche Änderung. Der Punkt ist nicht die Datenwahrheit. Der Punkt ist, dass der formale Entscheidungszeitpunkt später liegt als die faktische Weichenstellung.“
 
-Eva betrachtete die beiden Marker.
-
-Genau darin lag die Lücke.
-
-Man musste keine Zahl fälschen.
+Eva betrachtete die beiden Marker. Genau darin lag die Lücke. Man musste keine Zahl fälschen.
 
 Ein späterer Snapshot konnte medizinisch vollständig real sein und trotzdem die falsche Stelle markieren, an der die Governance hätte greifen müssen.
 
@@ -87,15 +79,7 @@ Klinischer Plan außerhalb Intensiv. Intervention. Vorübergehende Besserung. Fo
 
 Eva erkannte die Struktur, bevor sie den Namen sah.
 
-Felix.
-
-Sie öffnete einen Vergleichsfall.
-
-Der Patientenausgang war gut.
-
-Beim nächsten ebenfalls kein schwerer dokumentierter Schaden.
-
-Das war wichtig.
+Felix. Sie öffnete einen Vergleichsfall. Der Patientenausgang war gut. Beim nächsten ebenfalls kein schwerer dokumentierter Schaden. Das war wichtig.
 
 Der Mechanismus durfte nicht erst durch den schlechten Ausgang des aktuellen Falls problematisch werden.
 
@@ -115,11 +99,7 @@ Jan trat vom Bildschirm zurück.
 
 „Was wir sicher sagen können, ist enger. Zum rekonstruierbaren klinischen Entscheidungspunkt wäre die Einstufung in diesen Fällen high confidence gewesen. Damit hätte die Zweitfreigabe gegriffen. Der später dokumentierte Punkt lag nach einer realen Zustandsänderung unter der Schwelle. Dadurch wurde die Schutzstufe nicht ausgelöst.“
 
-Eva ließ die Formulierung stehen.
-
-Nicht: Felix hat manipuliert.
-
-Nicht: Felix hat den Schaden verursacht.
+Eva ließ die Formulierung stehen. Nicht: Felix hat manipuliert. Nicht: Felix hat den Schaden verursacht.
 
 Nur: Die Schutzstufe griff an der faktischen Weiche nicht.
 
@@ -129,11 +109,7 @@ Sie zeigte auf den aktuellen Schadensfall.
 
 Jan schüttelte den Kopf. „Die Zweitfreigabe hätte stattfinden müssen. Mehr können wir daraus nicht ableiten. Wir wissen nicht, ob ein zweiter Arzt widersprochen hätte. Wir wissen auch nicht, ob eine frühere Intensivaufnahme den schweren Schaden sicher verhindert hätte.“
 
-Eva atmete aus.
-
-Wieder dieselbe Grenze.
-
-Das Audit konnte keine alternative Vergangenheit bauen.
+Eva atmete aus. Wieder dieselbe Grenze. Das Audit konnte keine alternative Vergangenheit bauen.
 
 Es konnte zeigen, wo die vereinbarte Kontrolle hätte greifen müssen.
 
@@ -165,12 +141,6 @@ Jan beendete den Präsentationsmodus. Der Raum wurde heller.
 
 Auf den Ausdrucken stand alles, was Eva für das Gespräch brauchte.
 
-Nicht Felix' Motivation.
-
-Nicht die Schuld am Patientenausgang.
-
-Nur der Mechanismus.
-
-Diesmal war ihr Misstrauen kein Gefühl mehr.
+Nicht Felix' Motivation. Nicht die Schuld am Patientenausgang. Nur der Mechanismus. Diesmal war ihr Misstrauen kein Gefühl mehr.
 
 Die Absicht musste Felix selbst hinzufügen.

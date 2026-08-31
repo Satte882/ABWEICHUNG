@@ -129,21 +129,11 @@ Beim zweiten stand ausdrücklich, dass die medizinische Prognose akzeptiert werd
 
 Die Ethikärztin fügte Beispiele hinzu, keine abschließende Liste.
 
-Patientenwille.
-
-Therapieziel.
-
-Relevante Behandlungsbelastung.
-
-Nele kam zurück.
+Patientenwille. Therapieziel. Relevante Behandlungsbelastung. Nele kam zurück.
 
 „Er bleibt bei der Grenze.“
 
-Eva sah auf den Bildschirm.
-
-KORAs Empfehlung war noch immer plausibel.
-
-Die Entscheidung blieb trotzdem anders.
+Eva sah auf den Bildschirm. KORAs Empfehlung war noch immer plausibel. Die Entscheidung blieb trotzdem anders.
 
 Zum ersten Mal stand beides nebeneinander, ohne dass eine Seite die andere als Fehler behandeln musste.
 
@@ -165,11 +155,7 @@ Eva hob den Blick.
 
 Nele sah zur Zimmertür. „Nach meinem Fall finde ich es nicht schlimm, wenn ich sagen muss, was genau ich zu wissen glaube. Und hier will ich auch nicht so tun, als wäre KORA medizinisch falsch.“
 
-Das war keine Systemtreue.
-
-Es war eine präzisere Form von Verantwortung.
-
-Miriam speicherte den Entwurf.
+Das war keine Systemtreue. Es war eine präzisere Form von Verantwortung. Miriam speicherte den Entwurf.
 
 „Wir testen noch ein paar Grenzfälle, bevor das live geht.“
 

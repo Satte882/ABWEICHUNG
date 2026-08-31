@@ -117,15 +117,7 @@ Dann kamen die anderen.
 
 **Unmittelbares Verantwortungsgefühl vor Ort.**
 
-Eva scrollte weiter.
-
-Mehrere verschiedene Ärzte. Verschiedene Stationen. Derselbe Kern.
-
-Ich sehe ihn.
-
-Ich kenne ihn.
-
-Ich trage ihn.
+Eva scrollte weiter. Mehrere verschiedene Ärzte. Verschiedene Stationen. Derselbe Kern. Ich sehe ihn. Ich kenne ihn. Ich trage ihn.
 
 Laura Berg hatte ihr Monate zuvor die andere Hälfte dieses Satzes gezeigt.
 

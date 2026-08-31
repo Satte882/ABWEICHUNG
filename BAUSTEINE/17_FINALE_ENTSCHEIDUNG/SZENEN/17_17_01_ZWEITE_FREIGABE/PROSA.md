@@ -53,11 +53,7 @@ Nele wartete.
 
 Eva kannte den Rest der Liste. Patientenwille, Belastung, ein konkreter Wert oder Kontext, den KORA nicht als Entscheidungswert abbildete.
 
-Nichts davon passte.
-
-„Dann sag mir deinen Grund“, sagte Nele.
-
-Eva sah zum Bett.
+Nichts davon passte. „Dann sag mir deinen Grund“, sagte Nele. Eva sah zum Bett.
 
 Der Mann lag wenige Meter entfernt. Eine Hand hatte vorhin nach ihrer gegriffen. Sie wusste, wie seine Atmung klang, wie feucht seine Haut gewesen war, wie wenig Zeit sie ihm noch gab.
 
@@ -91,13 +87,7 @@ Nele antwortete leise: „Die hast du nicht.“
 
 Sie ging die Kriterien noch einmal durch. Nicht weil sie sie vergessen hatte. Weil sie wollte, dass irgendwo eine Information auftauchte, die den Druck im Raum in einen tragfähigen Grund verwandelte.
 
-Es gab keine.
-
-Übrig blieb der Patient vor ihr.
-
-Seine Atmung.
-
-Sein Blick.
+Es gab keine. Übrig blieb der Patient vor ihr. Seine Atmung. Sein Blick.
 
 Die Tatsache, dass Eva seinen Körper kannte, während Nord eine Kurve blieb.
 
@@ -149,13 +139,7 @@ Nele tat genau das.
 
 Sie versteckte sich nicht hinter KORA, nicht hinter Miriam, nicht hinter einem Pflichtfeld.
 
-Die Ablehnung war ihre.
-
-„Verstanden“, sagte Eva.
-
-Nele zögerte.
-
-Eva hob die Hand.
+Die Ablehnung war ihre. „Verstanden“, sagte Eva. Nele zögerte. Eva hob die Hand.
 
 „Du hast geprüft. Du hast entschieden. Das reicht.“
 
@@ -169,11 +153,7 @@ Darunter blieb eine Schaltfläche aktiv.
 
 **SOLO-BREAK-GLASS**
 
-Nele sah sie ebenfalls.
-
-Sie sagte nichts.
-
-Das war richtig.
+Nele sah sie ebenfalls. Sie sagte nichts. Das war richtig.
 
 Der Break-glass brauchte keine zweite Zustimmung. Genau dafür existierte er.
 
@@ -187,14 +167,6 @@ Eva suchte nach einem Satz, fand keinen, der nicht wie Dank, Vorwurf oder Entlas
 
 „Zurück an deine Arbeit.“
 
-Nele nickte knapp. Das Fenster schloss sich.
-
-Eva stand wieder allein vor der Entscheidung.
-
-Hinter ihr arbeitete das Team weiter.
-
-Vor ihr war der reguläre Weg geschlossen.
-
-Der letzte Weg war offen.
+Nele nickte knapp. Das Fenster schloss sich. Eva stand wieder allein vor der Entscheidung. Hinter ihr arbeitete das Team weiter. Vor ihr war der reguläre Weg geschlossen. Der letzte Weg war offen.
 
 Diesmal konnte sie niemandem mehr die Entscheidung zuschieben.

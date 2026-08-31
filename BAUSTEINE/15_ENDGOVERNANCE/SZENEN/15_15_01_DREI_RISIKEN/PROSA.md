@@ -41,11 +41,7 @@ Die dritte:
 
 **Umgangene Zweitfreigabe.**
 
-Felix.
-
-Niemand sagte die Namen.
-
-Sie standen trotzdem mit am Tresen.
+Felix. Niemand sagte die Namen. Sie standen trotzdem mit am Tresen.
 
 Das erste Vorstandsmitglied zeigte auf den Arbeitsplatz. „Fangen wir mit dem Zeitpunkt an.“
 
@@ -55,11 +51,7 @@ Ein einzelnes Signal entschied nichts.
 
 Mehrere zusammen konnten sichtbar machen, dass eine Weiche früher gestellt worden war als der spätere formale Eintrag.
 
-Eva klickte durch die Spur.
-
-Kein rotes Warnfeld.
-
-Keine automatische Schuldzuweisung.
+Eva klickte durch die Spur. Kein rotes Warnfeld. Keine automatische Schuldzuweisung.
 
 Nur eine Zeitachse, die sich schlechter nachträglich glattziehen ließ.
 
@@ -69,25 +61,11 @@ Eva sah auf die Spur.
 
 „Es hätte eine Frage früher sichtbar gemacht.“
 
-Miriam nickte. „Mehr behauptet die Regel nicht.“
-
-Sie gingen zum nächsten Arbeitsplatz.
-
-Nele öffnete im Trainingsmodus einen high-confidence Konflikt.
+Miriam nickte. „Mehr behauptet die Regel nicht.“ Sie gingen zum nächsten Arbeitsplatz. Nele öffnete im Trainingsmodus einen high-confidence Konflikt.
 
 KORA empfahl Eskalation. Die Abweichung führte zuerst in das Begründungsfeld, danach zur zweiten Freigabe.
 
-Nele wählte Eva als zweite Ärztin.
-
-Auf Evas Bildschirm erschien der Fall.
-
-Die wesentlichen Daten.
-
-KORAs Empfehlung.
-
-Die Begründung der ersten Ärztin.
-
-Der Zeitpunkt.
+Nele wählte Eva als zweite Ärztin. Auf Evas Bildschirm erschien der Fall. Die wesentlichen Daten. KORAs Empfehlung. Die Begründung der ersten Ärztin. Der Zeitpunkt.
 
 Kein zusätzlicher Kommentar von Nele, kein Telefonat im Hintergrund, das Eva auf die gewünschte Antwort lenkte.
 
@@ -111,17 +89,7 @@ Nele legte die Hände auf den Tresen.
 
 „Nicht weil die zweite Person automatisch recht hat. Aber ich muss meinen Grund jemandem zeigen, bevor ich weiterlaufe. Nach meinem Fall ist das für mich kein Angriff.“
 
-Eva nickte.
-
-Felix hätte denselben Ablauf als Abhängigkeit beschrieben.
-
-Beide Deutungen passten in dieselbe Oberfläche.
-
-Das war das Problem.
-
-Und vielleicht die Wahrheit.
-
-Miriam nahm die dritte Seite.
+Eva nickte. Felix hätte denselben Ablauf als Abhängigkeit beschrieben. Beide Deutungen passten in dieselbe Oberfläche. Das war das Problem. Und vielleicht die Wahrheit. Miriam nahm die dritte Seite.
 
 „Wenn wir die drei Mechanismen ernst nehmen, bleibt die Zweitfreigabe verbindlich. Die Prozesssignale bleiben. Der Wert-/Kontextweg bleibt unter den präzisierten Kriterien.“
 
@@ -169,11 +137,7 @@ Kein zweiter Name.
 
 Dafür ein klarer Hinweis: sofort wirksam, persönlich zugeordnet, automatisches Nachreview.
 
-Eva klickte bis zum letzten Schritt.
-
-Der Button blieb aktiv.
-
-Sie drückte nicht.
+Eva klickte bis zum letzten Schritt. Der Button blieb aktiv. Sie drückte nicht.
 
 „Keine versteckte Sperre?“
 
@@ -201,17 +165,7 @@ Das erste Vorstandsmitglied nahm die drei Seiten wieder auf.
 
 „Dann ist die Bedingung für mich erfüllt. Die Schutzstufen greifen, der Notfallweg bleibt real, und jede Nutzung ist prüfbar.“
 
-Miriam sah zum zweiten Mitglied.
-
-Auch dort kam ein Nicken.
-
-Keine Rede.
-
-Keine Folie mit **Beschluss**.
-
-Miriam setzte die finale Freigabe im Dokument.
-
-Die SOP war beschlossen.
+Miriam sah zum zweiten Mitglied. Auch dort kam ein Nicken. Keine Rede. Keine Folie mit **Beschluss**. Miriam setzte die finale Freigabe im Dokument. Die SOP war beschlossen.
 
 Der Rettungsdienst hinter ihnen schob inzwischen die Trage weiter. Nele schloss den Trainingsfall und ging zurück in die Versorgung.
 
@@ -225,12 +179,6 @@ Jede einzelne Reaktion ließ sich begründen.
 
 Zusammen veränderten sie trotzdem, was es praktisch bedeutete, am Bett die letzte Entscheidung zu haben.
 
-Eva sah noch einmal zur Dienstplantafel.
-
-Felix' Name blieb weg.
-
-Die Governance hatte nicht nur Formulare produziert.
-
-Sie hatte eine Beziehung gekostet.
+Eva sah noch einmal zur Dienstplantafel. Felix' Name blieb weg. Die Governance hatte nicht nur Formulare produziert. Sie hatte eine Beziehung gekostet.
 
 Und beim nächsten high-confidence Konflikt würden ihre Regeln trotzdem gleichzeitig im Raum sein.

@@ -2275,11 +2275,7 @@ Am Arbeitsplatz vor Raum zwölf blieb Eva stehen.
 
 Miriam öffnete auf dem Stationsrechner die Testansicht. Kein Foliensatz, keine Kennzahl. Vor ihnen lag Neles alter Fall in einer Trainingskopie, eingefroren am damaligen Entscheidungspunkt.
 
-KORA: hohe Konfidenz.
-
-Eskalation empfohlen.
-
-Neles damalige Abweichungsbegründung stand darunter.
+KORA: hohe Konfidenz. Eskalation empfohlen. Neles damalige Abweichungsbegründung stand darunter.
 
 Eva kannte den Verlauf. Gerade deshalb taugte er.
 
@@ -2801,21 +2797,11 @@ Eva legte sie rechts.
 
 Bei der zweiten war kurz nach dem Systemstand ein neuer Befund entstanden. Die Empfehlung war auf einem Zustand gebaut, der wenige Minuten später nicht mehr vollständig galt.
 
-Diese Karte ging nach links.
-
-Die dritte blieb wieder rechts.
-
-Jan zog die Abdeckungen ab.
+Diese Karte ging nach links. Die dritte blieb wieder rechts. Jan zog die Abdeckungen ab.
 
 Eva hatte die Richtung der drei Fälle getroffen. Nicht weil sie KORA besser verstand als vorher. Die Gründe waren konkreter geworden.
 
-Neuer Befund.
-
-Geänderter Zustand.
-
-Oder eben kein solcher Unterschied.
-
-Jan schob die Karten zusammen.
+Neuer Befund. Geänderter Zustand. Oder eben kein solcher Unterschied. Jan schob die Karten zusammen.
 
 „Jetzt die Gruppen.“
 
@@ -3041,11 +3027,7 @@ Eva blieb vor der Scheibe stehen.
 
 Drinnen war Felix wieder vollständig Arzt. Keine Governance, keine Statistik, kein Machtkampf. Er beugte sich über den Patienten, hörte zu, gab eine Anweisung und wartete auf die Reaktion.
 
-Eva vertraute ihm in diesem Raum.
-
-Das machte die Zeile nicht weniger auffällig.
-
-Vielleicht war seine Erklärung vollständig.
+Eva vertraute ihm in diesem Raum. Das machte die Zeile nicht weniger auffällig. Vielleicht war seine Erklärung vollständig.
 
 Vielleicht lag genau in der klinisch plausiblen Reihenfolge die Stelle, an der sich eine Regel umgehen ließ, ohne einen einzigen falschen Wert einzutragen.
 
@@ -3599,13 +3581,7 @@ Eva lehnte sich zurück.
 
 Der Impuls war trotzdem da. Wenn sie nicht schlechter als die anderen war, würde sich der Befund vielleicht weniger persönlich anfühlen.
 
-Genau deshalb war die Frage schlecht.
-
-„Lass es“, sagte sie.
-
-Jan schloss die Vergleichsfunktion.
-
-Eva stand kurz auf, setzte sich wieder.
+Genau deshalb war die Frage schlecht. „Lass es“, sagte sie. Jan schloss die Vergleichsfunktion. Eva stand kurz auf, setzte sich wieder.
 
 Die Energie, die sonst in einen Einwand gegangen wäre, hatte keinen Ort.
 
@@ -5053,21 +5029,11 @@ Beim zweiten stand ausdrücklich, dass die medizinische Prognose akzeptiert werd
 
 Die Ethikärztin fügte Beispiele hinzu, keine abschließende Liste.
 
-Patientenwille.
-
-Therapieziel.
-
-Relevante Behandlungsbelastung.
-
-Nele kam zurück.
+Patientenwille. Therapieziel. Relevante Behandlungsbelastung. Nele kam zurück.
 
 „Er bleibt bei der Grenze.“
 
-Eva sah auf den Bildschirm.
-
-KORAs Empfehlung war noch immer plausibel.
-
-Die Entscheidung blieb trotzdem anders.
+Eva sah auf den Bildschirm. KORAs Empfehlung war noch immer plausibel. Die Entscheidung blieb trotzdem anders.
 
 Zum ersten Mal stand beides nebeneinander, ohne dass eine Seite die andere als Fehler behandeln musste.
 
@@ -5089,11 +5055,7 @@ Eva hob den Blick.
 
 Nele sah zur Zimmertür. „Nach meinem Fall finde ich es nicht schlimm, wenn ich sagen muss, was genau ich zu wissen glaube. Und hier will ich auch nicht so tun, als wäre KORA medizinisch falsch.“
 
-Das war keine Systemtreue.
-
-Es war eine präzisere Form von Verantwortung.
-
-Miriam speicherte den Entwurf.
+Das war keine Systemtreue. Es war eine präzisere Form von Verantwortung. Miriam speicherte den Entwurf.
 
 „Wir testen noch ein paar Grenzfälle, bevor das live geht.“
 
@@ -5219,15 +5181,7 @@ Dann kamen die anderen.
 
 **Unmittelbares Verantwortungsgefühl vor Ort.**
 
-Eva scrollte weiter.
-
-Mehrere verschiedene Ärzte. Verschiedene Stationen. Derselbe Kern.
-
-Ich sehe ihn.
-
-Ich kenne ihn.
-
-Ich trage ihn.
+Eva scrollte weiter. Mehrere verschiedene Ärzte. Verschiedene Stationen. Derselbe Kern. Ich sehe ihn. Ich kenne ihn. Ich trage ihn.
 
 Laura Berg hatte ihr Monate zuvor die andere Hälfte dieses Satzes gezeigt.
 
@@ -5811,11 +5765,7 @@ Die intensivierte Atemunterstützung begann. Die Werte besserten sich vorüberge
 
 Er markierte den späteren Zeitpunkt, den das System formal als Entscheidungspunkt verwendet hatte.
 
-KORA lag dort knapp unter der Schwelle.
-
-Keine Zweitfreigabe.
-
-Zwei Zeitpunkte. Zwei Governancefolgen.
+KORA lag dort knapp unter der Schwelle. Keine Zweitfreigabe. Zwei Zeitpunkte. Zwei Governancefolgen.
 
 Dazwischen eine reale Behandlung und reale bessere Werte.
 
@@ -5825,11 +5775,7 @@ Jan beantwortete die technische Frage, bevor sie daraus eine Verdachtsfrage mach
 
 „Die späteren Daten sind echt. Wir sehen keine manipulierten Werte und keine nachträgliche Änderung. Der Punkt ist nicht die Datenwahrheit. Der Punkt ist, dass der formale Entscheidungszeitpunkt später liegt als die faktische Weichenstellung.“
 
-Eva betrachtete die beiden Marker.
-
-Genau darin lag die Lücke.
-
-Man musste keine Zahl fälschen.
+Eva betrachtete die beiden Marker. Genau darin lag die Lücke. Man musste keine Zahl fälschen.
 
 Ein späterer Snapshot konnte medizinisch vollständig real sein und trotzdem die falsche Stelle markieren, an der die Governance hätte greifen müssen.
 
@@ -5845,15 +5791,7 @@ Klinischer Plan außerhalb Intensiv. Intervention. Vorübergehende Besserung. Fo
 
 Eva erkannte die Struktur, bevor sie den Namen sah.
 
-Felix.
-
-Sie öffnete einen Vergleichsfall.
-
-Der Patientenausgang war gut.
-
-Beim nächsten ebenfalls kein schwerer dokumentierter Schaden.
-
-Das war wichtig.
+Felix. Sie öffnete einen Vergleichsfall. Der Patientenausgang war gut. Beim nächsten ebenfalls kein schwerer dokumentierter Schaden. Das war wichtig.
 
 Der Mechanismus durfte nicht erst durch den schlechten Ausgang des aktuellen Falls problematisch werden.
 
@@ -5873,11 +5811,7 @@ Jan trat vom Bildschirm zurück.
 
 „Was wir sicher sagen können, ist enger. Zum rekonstruierbaren klinischen Entscheidungspunkt wäre die Einstufung in diesen Fällen high confidence gewesen. Damit hätte die Zweitfreigabe gegriffen. Der später dokumentierte Punkt lag nach einer realen Zustandsänderung unter der Schwelle. Dadurch wurde die Schutzstufe nicht ausgelöst.“
 
-Eva ließ die Formulierung stehen.
-
-Nicht: Felix hat manipuliert.
-
-Nicht: Felix hat den Schaden verursacht.
+Eva ließ die Formulierung stehen. Nicht: Felix hat manipuliert. Nicht: Felix hat den Schaden verursacht.
 
 Nur: Die Schutzstufe griff an der faktischen Weiche nicht.
 
@@ -5887,11 +5821,7 @@ Sie zeigte auf den aktuellen Schadensfall.
 
 Jan schüttelte den Kopf. „Die Zweitfreigabe hätte stattfinden müssen. Mehr können wir daraus nicht ableiten. Wir wissen nicht, ob ein zweiter Arzt widersprochen hätte. Wir wissen auch nicht, ob eine frühere Intensivaufnahme den schweren Schaden sicher verhindert hätte.“
 
-Eva atmete aus.
-
-Wieder dieselbe Grenze.
-
-Das Audit konnte keine alternative Vergangenheit bauen.
+Eva atmete aus. Wieder dieselbe Grenze. Das Audit konnte keine alternative Vergangenheit bauen.
 
 Es konnte zeigen, wo die vereinbarte Kontrolle hätte greifen müssen.
 
@@ -5923,13 +5853,7 @@ Jan beendete den Präsentationsmodus. Der Raum wurde heller.
 
 Auf den Ausdrucken stand alles, was Eva für das Gespräch brauchte.
 
-Nicht Felix' Motivation.
-
-Nicht die Schuld am Patientenausgang.
-
-Nur der Mechanismus.
-
-Diesmal war ihr Misstrauen kein Gefühl mehr.
+Nicht Felix' Motivation. Nicht die Schuld am Patientenausgang. Nur der Mechanismus. Diesmal war ihr Misstrauen kein Gefühl mehr.
 
 Die Absicht musste Felix selbst hinzufügen.
 
@@ -5981,21 +5905,13 @@ Felix sah zur Tür. Als er zurückblickte, war jede Leichtigkeit aus seinem Gesi
 
 „Ich lasse mir keine klinische Entscheidung von einer Schwelle wegnehmen, die aus einem Modellwert entsteht.“
 
-Der Satz kam ruhig.
-
-Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden.
-
-Felix beugte sich vor.
+Der Satz kam ruhig. Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden. Felix beugte sich vor.
 
 „Ihr nennt es zweite ärztliche Freigabe. Praktisch heißt es: Ich bin am Bett, ich sehe die Reaktion, ich trage das Risiko, und bevor ich eine Entscheidung weiterführe, muss jemand mit weniger Nähe zum Patienten meinen Grund akzeptieren. Ich halte das in dieser Form für fachlich falsch. Also habe ich den Verlauf so dokumentiert, wie ich ihn medizinisch erlebt habe: Intervention, neue Lage, nächste Entscheidung.“
 
 „Und du wusstest, dass die Schutzstufe dadurch nicht auslöst.“
 
-Felix antwortete nicht sofort.
-
-Dann nickte er einmal.
-
-Das genügte.
+Felix antwortete nicht sofort. Dann nickte er einmal. Das genügte.
 
 Eva stand auf und ging zum Fenster. Sie brauchte die Bewegung, nicht den Abstand.
 
@@ -6099,11 +6015,7 @@ Eva dachte an den Patienten, an die echte vorübergehende Verbesserung, an Felix
 
 „Es erklärt es. Das ist nicht dasselbe.“
 
-Felix öffnete die Tür.
-
-Diesmal sagte keiner von beiden noch etwas.
-
-Später verlor Felix seine Funktion.
+Felix öffnete die Tür. Diesmal sagte keiner von beiden noch etwas. Später verlor Felix seine Funktion.
 
 Die formalen Schritte verliefen geordnet: Anhörung, Bewertung, Entscheidung.
 
@@ -6149,11 +6061,7 @@ Die dritte:
 
 **Umgangene Zweitfreigabe.**
 
-Felix.
-
-Niemand sagte die Namen.
-
-Sie standen trotzdem mit am Tresen.
+Felix. Niemand sagte die Namen. Sie standen trotzdem mit am Tresen.
 
 Das erste Vorstandsmitglied zeigte auf den Arbeitsplatz. „Fangen wir mit dem Zeitpunkt an.“
 
@@ -6163,11 +6071,7 @@ Ein einzelnes Signal entschied nichts.
 
 Mehrere zusammen konnten sichtbar machen, dass eine Weiche früher gestellt worden war als der spätere formale Eintrag.
 
-Eva klickte durch die Spur.
-
-Kein rotes Warnfeld.
-
-Keine automatische Schuldzuweisung.
+Eva klickte durch die Spur. Kein rotes Warnfeld. Keine automatische Schuldzuweisung.
 
 Nur eine Zeitachse, die sich schlechter nachträglich glattziehen ließ.
 
@@ -6177,25 +6081,11 @@ Eva sah auf die Spur.
 
 „Es hätte eine Frage früher sichtbar gemacht.“
 
-Miriam nickte. „Mehr behauptet die Regel nicht.“
-
-Sie gingen zum nächsten Arbeitsplatz.
-
-Nele öffnete im Trainingsmodus einen high-confidence Konflikt.
+Miriam nickte. „Mehr behauptet die Regel nicht.“ Sie gingen zum nächsten Arbeitsplatz. Nele öffnete im Trainingsmodus einen high-confidence Konflikt.
 
 KORA empfahl Eskalation. Die Abweichung führte zuerst in das Begründungsfeld, danach zur zweiten Freigabe.
 
-Nele wählte Eva als zweite Ärztin.
-
-Auf Evas Bildschirm erschien der Fall.
-
-Die wesentlichen Daten.
-
-KORAs Empfehlung.
-
-Die Begründung der ersten Ärztin.
-
-Der Zeitpunkt.
+Nele wählte Eva als zweite Ärztin. Auf Evas Bildschirm erschien der Fall. Die wesentlichen Daten. KORAs Empfehlung. Die Begründung der ersten Ärztin. Der Zeitpunkt.
 
 Kein zusätzlicher Kommentar von Nele, kein Telefonat im Hintergrund, das Eva auf die gewünschte Antwort lenkte.
 
@@ -6219,17 +6109,7 @@ Nele legte die Hände auf den Tresen.
 
 „Nicht weil die zweite Person automatisch recht hat. Aber ich muss meinen Grund jemandem zeigen, bevor ich weiterlaufe. Nach meinem Fall ist das für mich kein Angriff.“
 
-Eva nickte.
-
-Felix hätte denselben Ablauf als Abhängigkeit beschrieben.
-
-Beide Deutungen passten in dieselbe Oberfläche.
-
-Das war das Problem.
-
-Und vielleicht die Wahrheit.
-
-Miriam nahm die dritte Seite.
+Eva nickte. Felix hätte denselben Ablauf als Abhängigkeit beschrieben. Beide Deutungen passten in dieselbe Oberfläche. Das war das Problem. Und vielleicht die Wahrheit. Miriam nahm die dritte Seite.
 
 „Wenn wir die drei Mechanismen ernst nehmen, bleibt die Zweitfreigabe verbindlich. Die Prozesssignale bleiben. Der Wert-/Kontextweg bleibt unter den präzisierten Kriterien.“
 
@@ -6277,11 +6157,7 @@ Kein zweiter Name.
 
 Dafür ein klarer Hinweis: sofort wirksam, persönlich zugeordnet, automatisches Nachreview.
 
-Eva klickte bis zum letzten Schritt.
-
-Der Button blieb aktiv.
-
-Sie drückte nicht.
+Eva klickte bis zum letzten Schritt. Der Button blieb aktiv. Sie drückte nicht.
 
 „Keine versteckte Sperre?“
 
@@ -6309,17 +6185,7 @@ Das erste Vorstandsmitglied nahm die drei Seiten wieder auf.
 
 „Dann ist die Bedingung für mich erfüllt. Die Schutzstufen greifen, der Notfallweg bleibt real, und jede Nutzung ist prüfbar.“
 
-Miriam sah zum zweiten Mitglied.
-
-Auch dort kam ein Nicken.
-
-Keine Rede.
-
-Keine Folie mit **Beschluss**.
-
-Miriam setzte die finale Freigabe im Dokument.
-
-Die SOP war beschlossen.
+Miriam sah zum zweiten Mitglied. Auch dort kam ein Nicken. Keine Rede. Keine Folie mit **Beschluss**. Miriam setzte die finale Freigabe im Dokument. Die SOP war beschlossen.
 
 Der Rettungsdienst hinter ihnen schob inzwischen die Trage weiter. Nele schloss den Trainingsfall und ging zurück in die Versorgung.
 
@@ -6333,13 +6199,7 @@ Jede einzelne Reaktion ließ sich begründen.
 
 Zusammen veränderten sie trotzdem, was es praktisch bedeutete, am Bett die letzte Entscheidung zu haben.
 
-Eva sah noch einmal zur Dienstplantafel.
-
-Felix' Name blieb weg.
-
-Die Governance hatte nicht nur Formulare produziert.
-
-Sie hatte eine Beziehung gekostet.
+Eva sah noch einmal zur Dienstplantafel. Felix' Name blieb weg. Die Governance hatte nicht nur Formulare produziert. Sie hatte eine Beziehung gekostet.
 
 Und beim nächsten high-confidence Konflikt würden ihre Regeln trotzdem gleichzeitig im Raum sein.
 
@@ -6901,11 +6761,7 @@ Nele wartete.
 
 Eva kannte den Rest der Liste. Patientenwille, Belastung, ein konkreter Wert oder Kontext, den KORA nicht als Entscheidungswert abbildete.
 
-Nichts davon passte.
-
-„Dann sag mir deinen Grund“, sagte Nele.
-
-Eva sah zum Bett.
+Nichts davon passte. „Dann sag mir deinen Grund“, sagte Nele. Eva sah zum Bett.
 
 Der Mann lag wenige Meter entfernt. Eine Hand hatte vorhin nach ihrer gegriffen. Sie wusste, wie seine Atmung klang, wie feucht seine Haut gewesen war, wie wenig Zeit sie ihm noch gab.
 
@@ -6939,13 +6795,7 @@ Nele antwortete leise: „Die hast du nicht.“
 
 Sie ging die Kriterien noch einmal durch. Nicht weil sie sie vergessen hatte. Weil sie wollte, dass irgendwo eine Information auftauchte, die den Druck im Raum in einen tragfähigen Grund verwandelte.
 
-Es gab keine.
-
-Übrig blieb der Patient vor ihr.
-
-Seine Atmung.
-
-Sein Blick.
+Es gab keine. Übrig blieb der Patient vor ihr. Seine Atmung. Sein Blick.
 
 Die Tatsache, dass Eva seinen Körper kannte, während Nord eine Kurve blieb.
 
@@ -6997,13 +6847,7 @@ Nele tat genau das.
 
 Sie versteckte sich nicht hinter KORA, nicht hinter Miriam, nicht hinter einem Pflichtfeld.
 
-Die Ablehnung war ihre.
-
-„Verstanden“, sagte Eva.
-
-Nele zögerte.
-
-Eva hob die Hand.
+Die Ablehnung war ihre. „Verstanden“, sagte Eva. Nele zögerte. Eva hob die Hand.
 
 „Du hast geprüft. Du hast entschieden. Das reicht.“
 
@@ -7017,11 +6861,7 @@ Darunter blieb eine Schaltfläche aktiv.
 
 **SOLO-BREAK-GLASS**
 
-Nele sah sie ebenfalls.
-
-Sie sagte nichts.
-
-Das war richtig.
+Nele sah sie ebenfalls. Sie sagte nichts. Das war richtig.
 
 Der Break-glass brauchte keine zweite Zustimmung. Genau dafür existierte er.
 
@@ -7035,15 +6875,7 @@ Eva suchte nach einem Satz, fand keinen, der nicht wie Dank, Vorwurf oder Entlas
 
 „Zurück an deine Arbeit.“
 
-Nele nickte knapp. Das Fenster schloss sich.
-
-Eva stand wieder allein vor der Entscheidung.
-
-Hinter ihr arbeitete das Team weiter.
-
-Vor ihr war der reguläre Weg geschlossen.
-
-Der letzte Weg war offen.
+Nele nickte knapp. Das Fenster schloss sich. Eva stand wieder allein vor der Entscheidung. Hinter ihr arbeitete das Team weiter. Vor ihr war der reguläre Weg geschlossen. Der letzte Weg war offen.
 
 Diesmal konnte sie niemandem mehr die Entscheidung zuschieben.
 

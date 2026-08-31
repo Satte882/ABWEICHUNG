@@ -171,13 +171,7 @@ Eva lehnte sich zurück.
 
 Der Impuls war trotzdem da. Wenn sie nicht schlechter als die anderen war, würde sich der Befund vielleicht weniger persönlich anfühlen.
 
-Genau deshalb war die Frage schlecht.
-
-„Lass es“, sagte sie.
-
-Jan schloss die Vergleichsfunktion.
-
-Eva stand kurz auf, setzte sich wieder.
+Genau deshalb war die Frage schlecht. „Lass es“, sagte sie. Jan schloss die Vergleichsfunktion. Eva stand kurz auf, setzte sich wieder.
 
 Die Energie, die sonst in einen Einwand gegangen wäre, hatte keinen Ort.
 

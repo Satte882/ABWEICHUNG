@@ -29,11 +29,7 @@ Am Arbeitsplatz vor Raum zwölf blieb Eva stehen.
 
 Miriam öffnete auf dem Stationsrechner die Testansicht. Kein Foliensatz, keine Kennzahl. Vor ihnen lag Neles alter Fall in einer Trainingskopie, eingefroren am damaligen Entscheidungspunkt.
 
-KORA: hohe Konfidenz.
-
-Eskalation empfohlen.
-
-Neles damalige Abweichungsbegründung stand darunter.
+KORA: hohe Konfidenz. Eskalation empfohlen. Neles damalige Abweichungsbegründung stand darunter.
 
 Eva kannte den Verlauf. Gerade deshalb taugte er.
 
