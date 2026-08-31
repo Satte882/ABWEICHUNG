@@ -1,55 +1,49 @@
 # G5 Review Request – Produktion
 
-status: REWORK
+status: BUILD_PENDING
 human_gate: G5
-current_decision: REWORK
-current_decided_by: human
-current_date: 2026-08-31
 prior_gate: `gates/G4.md`
-source_manuscript: `78222a7e99c80378c35379ad42684ee332a412a6`
+source_manuscript: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
 build_manifest: `production/BUILD_MANIFEST.md`
-production_run: `33366125536`
+production_run: pending
 
-## Human-Entscheidung
+## Vorherige Entscheidung
 
-Human `G5-REWORK` vom 2026-08-31 lehnt den aktuellen Produktionsumfang als finalen Buchstand ab.
+Human `G5-REWORK` vom 2026-08-31 hatte den ersten Produktionsstand nicht freigegeben, weil der damalige G4-Stand nur 16.527 Wörter umfasste.
 
-Der technische Build selbst bleibt korrekt und reproduzierbar:
+Der technische Build selbst war korrekt und reproduzierbar; der Rework betraf den Produktumfang und die erzählerische Substanz.
 
-- 40/40 Prosaszenen: PASS
-- S001–S040 lückenlos: PASS
-- `sondern = 0`: PASS
-- Markdown-/HTML-Build: PASS
-- GitHub Actions Run `33366125536`: PASS
+## Neuer G4-freigegebener Stand
 
-Der Rework wird durch den **Produktumfang** ausgelöst:
+Der erweiterte Manuskript-Snapshot
 
-**16.527 Wörter bei 40 Szenen** sind für den beabsichtigten vollständigen Roman nicht als finaler Umfang akzeptiert.
+`14563bc5ea63d2b77c10e63f1d23a751e136c617`
 
-## Konsequenz
+ist jetzt Human-G4-REAPPROVED.
 
-Der Produktionsstand `ABWEICHUNG_v01` bleibt als technischer Nachweis erhalten, ist aber **nicht G5-freigegeben**.
+Nachweis:
 
-Das Manuskript wird kontrolliert wieder geöffnet. Ziel ist keine mechanische Wortzahlerhöhung, sondern substanzieller Ausbau von:
+- 40/40 Szenen,
+- 39.331 Wörter,
+- `sondern = 0`,
+- mechanischer Audit PASS,
+- unabhängiger Clean-Room-Gesamtmanuskript-Review: `g4_readiness: READY`,
+- 0 Blocker, 0 Majors, 2 akzeptierte Minors.
 
-- Erlebnisdichte,
-- Szenengewicht,
-- körperlicher/klinischer Präsenz,
-- Figuren- und Beziehungsdruck,
-- Konsequenz und Nachwirkung,
-- sinnvoll ausgespielten Entscheidungsprozessen.
+## Nächster Produktionsschritt
 
-Story- oder Szenenarchitektur wird nur dort geöffnet, wo die Ausbauanalyse zeigt, dass reine Prosa-Erweiterung nicht ausreicht.
+Der neue Produktionsbuild muss ausschließlich aus dem G4-freigegebenen Commit erzeugt werden.
 
-## Nächster Schritt
+Erforderliche G5-Prüfpunkte nach dem Build:
 
-1. Wortverteilung und Erlebnisdichte S001–S040 messen.
-2. Ausbaupotenzial je Szene gegen `SZENE.md` und `BEATS.md` prüfen.
-3. Rework-Ebene pro Abschnitt festlegen: `PROSA`, `BEAT`, `SZENE` oder bei echter Notwendigkeit upstream.
-4. Ausbau durchführen.
-5. betroffene Gates erneut prüfen; ein geändertes Gesamtmanuskript benötigt erneut G4.
-6. erst danach neuer Produktionsbuild und erneuter Human Gate G5.
+1. Build-Source = `14563bc5ea63d2b77c10e63f1d23a751e136c617`.
+2. 40/40 Prosaszenen und S001–S040 lückenlos.
+3. `sondern = 0`.
+4. Wortzahl im Build = 39.331.
+5. Markdown- und HTML-Artefakt erfolgreich erzeugt.
+6. Checksummen und Build-Metadaten dokumentiert.
+7. Danach erneute Human-G5-Entscheidung: `G5-APPROVE` oder `G5-REWORK`.
 
 Aktuell:
 
-**G5 REWORK → MANUSKRIPT-AUSBAUANALYSE**
+**G5 → BUILD_PENDING**
