@@ -1,171 +1,121 @@
 # Prosa – S039
 
 scene_id: S039
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Die Aufarbeitung brauchte vier Seiten für eine Entscheidung, die sich im Moment selbst wie wenige Sekunden angefühlt hatte. Eva saß mit Miriam in einem kleinen Sitzungsraum. Kein Vorstand. Keine große Runde. Auf dem Tisch lag die Rekonstruktion, daneben die technische Auswertung des Break-glass-Wegs.
+Die Aufarbeitung brauchte vier Seiten für eine Entscheidung, die sich im Moment selbst wie wenige Sekunden angefühlt hatte.
 
-Eva las die erste Seite. Zeitpunkt des Ressourcenkonflikts. Verfügbare klinische Daten. KORA-Priorisierung. Hohe Konfidenz für Nord. Sie blätterte weiter. Der Bericht bestätigte, dass die relevanten Daten verfügbar gewesen waren. Keine wesentliche nachträglich entdeckte Information, die Eva in diesem Moment nicht hätte kennen können.
+Eva saß mit Miriam in einem kleinen Sitzungsraum. Kein Vorstand, keine große Runde. Auf dem Tisch lagen die Rekonstruktion und die technische Auswertung des Break-glass-Wegs.
 
-Keine dokumentierte Datenlücke, die die Empfehlung erkennbar verzerrt hatte. Dann Evas Abweichungsantrag. Medizinischer Gegenbeleg: nicht ausreichend benennbar. Patientenspezifischer Wert-/Kontextgrund: nicht ausreichend benennbar. Zweitfreigabe durch Nele: verweigert. Begründung: geltende Kriterien nicht erfüllt. Eva las die Passage zweimal.
+Eva las die erste Seite: Zeitpunkt des Ressourcenkonflikts, verfügbare klinische Daten, KORA-Priorisierung, hohe Konfidenz für Nord. Der Bericht bestätigte, dass die relevanten Informationen verfügbar gewesen waren. Nachträglich war keine wesentliche Datenlücke gefunden worden, die Eva in diesem Moment nicht hätte kennen können.
 
-Neles Entscheidung wirkte auf Papier noch nüchterner als im Videofenster. Keine Mentorin. Keine jüngere Kollegin. Nur eine korrekt angewandte Schutzstufe. Eva blätterte weiter.
+Dann folgte ihr Abweichungsantrag. Medizinischer Gegenbeleg: nicht ausreichend benennbar. Patientenspezifischer Wert-/Kontextgrund: nicht ausreichend benennbar. Nele hatte die Zweitfreigabe verweigert, weil die geltenden Kriterien nicht erfüllt waren.
+
+Eva las die Passage zweimal.
+
+Neles Entscheidung wirkte auf Papier noch nüchterner als im Videofenster. Dort stand keine Mentorin und keine jüngere Kollegin, nur eine korrekt angewandte Schutzstufe.
+
+Auf der nächsten Seite hieß es:
 
 **Solo-Break-glass technisch verfügbar.**
 
-Darunter stand die Prüfung des Systems. Keine Sperre. Kein Timeout. Keine zusätzliche Freigabe. Eva hätte den Weg sofort nutzen können. Sie hatte ihn nicht genutzt. Auf der letzten Seite standen die Ausgänge. Lokaler Patient später verstorben.
+Keine Sperre, kein Timeout, keine zusätzliche Freigabe. Eva hätte den Weg sofort nutzen können und hatte es nicht getan.
 
-Entfernter Patient intensivmedizinisch aufgenommen, Kreislauf stabilisiert, lebend. Eva legte den Bericht flach auf den Tisch. Miriam saß ihr gegenüber.
+Auf der letzten Seite standen die Ausgänge. Der lokale Patient war später verstorben. Der Patient in Nord war intensivmedizinisch aufgenommen worden, sein Kreislauf hatte sich stabilisiert, er lebte.
 
-„Die formale Bewertung ist eindeutig“, sagte sie.
+Eva legte den Bericht flach auf den Tisch.
 
-Eva hob den Blick.
-
-„Human Oversight war gewährleistet. Du hattest die Informationen. Du konntest KORA prüfen. Du konntest eine Abweichung beantragen. Nele hat unabhängig geprüft. Und selbst nach ihrer Ablehnung hattest du einen technisch offenen Weg, sofort anders zu entscheiden.“
+„Die formale Bewertung ist eindeutig“, sagte Miriam. „Human Oversight war gewährleistet. Du hattest die Informationen, konntest KORA prüfen und eine Abweichung beantragen. Nele hat unabhängig geprüft. Selbst nach ihrer Ablehnung gab es einen technisch offenen Weg, sofort anders zu entscheiden.“
 
 „Mit automatischer persönlicher Nachprüfung.“
 
-„Ja.“
-
-Miriam wich dem Punkt nicht aus.
-
-„Der Weg war nicht kostenlos. Er war real.“
+„Ja. Der Weg war nicht kostenlos. Er war real.“
 
 Eva strich mit dem Daumen über die Zeile zum lokalen Ausgang.
 
 *Lokaler Patient später verstorben.*
 
-Faktisch korrekt. Vier Worte konnten den Raum nicht enthalten. Nicht die Atemunterstützung. Nicht das Team. Nicht das Ende des Alarmtons.
+Vier sachlich richtige Worte, in denen der Raum nicht vorkam: die Atemunterstützung, das Team, das Ende des Alarmtons.
 
 „Dann kann Falkenried schreiben, dass Freiheit erhalten und Sicherheit erhöht wurde.“
 
-Miriam lehnte sich zurück.
-
-„Falkenried kann schreiben, dass die Governance in diesem Fall so funktioniert hat, wie sie entworfen war.“
+Miriam lehnte sich zurück. „Falkenried kann schreiben, dass die Governance in diesem Fall so funktioniert hat, wie sie entworfen war.“
 
 „Das klingt vorsichtiger.“
 
 „Ist es auch.“
 
-Eva sah sie an.
+Eva hielt ihren Blick. „Aber die Überschrift wird trotzdem lauten: Human Oversight funktioniert.“
 
-„Aber das wird die Überschrift.“
+Miriam ließ sich mit der Antwort Zeit. „Wahrscheinlich.“
 
-„Welche?“
+Eva hatte keine Energie, sich darüber aufzuregen. Vielleicht war die Überschrift sogar korrekt. Vollständig war sie nicht.
 
-„Human Oversight funktioniert.“
+„Der lokale Patient ist tot, Nord lebt. Und jetzt sieht das System aus, als hätte es die richtige Entscheidung erzeugt.“
 
-Miriam antwortete nicht sofort.
-
-„Wahrscheinlich.“
-
-Eva nickte. Sie hatte keine Energie, sich darüber aufzuregen. Vielleicht war es sogar korrekt. Nur bedeutete korrekt nicht vollständig.
-
-„Der lokale Patient ist tot.“
-
-„Ja.“
-
-„Nord lebt.“
-
-„Ja.“
-
-„Und jetzt sieht das System aus, als hätte es die richtige Entscheidung erzeugt.“
-
-Miriam schüttelte den Kopf.
-
-„Nein.“
-
-Eva hob die Augenbrauen.
-
-„Die Empfehlung war ein Teil der Entscheidung. Die Governance ein anderer. Du hast entschieden.“
+Miriam schüttelte den Kopf. „Die Empfehlung war ein Teil der Entscheidung, die Governance ein anderer. Entschieden hast du.“
 
 „Indem ich nicht gedrückt habe.“
 
-„Auch Nicht-Nutzen eines offenen Wegs ist eine Entscheidung.“
+„Auch ein offener Weg, den man nicht nutzt, bleibt Teil der Entscheidung.“
 
-Eva sah auf den Bericht. Der Satz war sachlich. Er machte sie nicht wütend.
+Der Satz war sachlich. Er machte Eva nicht wütend.
 
-„Vielleicht war meine Entscheidung richtig.“
+„Vielleicht war meine Entscheidung richtig. Vielleicht sogar klar richtig.“
 
-„Möglich.“
+Miriam antwortete nicht.
 
-„Vielleicht sogar klar richtig.“
-
-Miriam sagte nichts. Eva wartete.
-
-„Du willst, dass ich widerspreche?“
+„Du willst, dass ich widerspreche?“ fragte sie schließlich.
 
 „Nein.“
 
-„Gut.“
-
-Eva schob den Bericht ein Stück von sich weg.
-
-„Und trotzdem sagt mir das nicht, dass die Ordnung richtig ist.“
+Eva schob den Bericht ein Stück von sich weg. „Und trotzdem beweist der Fall nicht, dass die Ordnung richtig ist.“
 
 „Nein.“
 
-Die Antwort kam ohne Zögern. Eva sah auf. Miriam fuhr fort.
+Die Antwort kam sofort.
 
-„Ein funktionierender Prozess ist kein moralischer Beweis.“
-
-Eva sagte nichts.
-
-„Das Überleben in Nord beweist nicht, dass KORA immer recht hat. Der Tod hier beweist nicht, dass du den Break-glass hättest benutzen müssen. Wir können prüfen, ob die Regeln eingehalten wurden. Wir können prüfen, ob du handeln konntest. Wir können prüfen, ob die Entscheidung auf der damals verfügbaren Grundlage tragfähig war.“
+Miriam beugte sich leicht vor. „Ein funktionierender Prozess ist kein moralischer Beweis. Das Überleben in Nord beweist nicht, dass KORA immer recht hat. Der Tod hier beweist auch nicht, dass du den Break-glass hättest benutzen müssen. Wir können prüfen, ob die Regeln eingehalten wurden, ob du handeln konntest und ob die Entscheidung auf der damals verfügbaren Grundlage tragfähig war.“
 
 „Und mehr?“
 
 „Mehr gibt uns dieser einzelne Fall nicht.“
 
-Eva lehnte sich zurück. Genau diese Begrenzung hatte sie früher selbst eingefordert. Wenn jemand aus einem guten Ausgang eine gute Entscheidung machen wollte. Wenn jemand aus einem schlechten Ausgang automatisch einen Fehler ableitete.
+Eva lehnte sich zurück. Genau diese Begrenzung hatte sie früher selbst eingefordert, wenn jemand aus einem guten Ausgang eine gute Entscheidung machen oder aus einem schlechten Ausgang automatisch einen Fehler ableiten wollte.
 
-Jetzt schützte dieselbe Logik eine Governance, die Eva noch immer als Machtverschiebung empfand.
+Jetzt schützte dieselbe Logik eine Governance, die sich für Eva noch immer wie eine Machtverschiebung anfühlte.
 
-„Ich hatte einen Knopf“, sagte sie.
+„Ich hatte einen Knopf und habe ihn nicht gedrückt. Damit ist bewiesen, dass ihr ihn mir gelassen habt.“
 
-„Ja.“
-
-„Und ich habe ihn nicht gedrückt.“
-
-„Ja.“
-
-„Damit ist bewiesen, dass ihr ihn mir gelassen habt.“
-
-Miriam sah kurz auf die technische Auswertung.
-
-„Technisch und formal: ja.“
+Miriam sah kurz auf die technische Auswertung. „Technisch und formal: ja.“
 
 „Und faktisch?“
 
-Miriam wartete. Eva merkte, dass die Frage größer war.
+Diesmal wartete Miriam.
 
-„Du konntest drücken“, sagte Miriam. „Aber natürlich war der Weg nicht neutral. Du wusstest, dass deine Entscheidung markiert und geprüft wird.“
+„Du konntest drücken. Aber der Weg war nicht neutral. Du wusstest, dass deine Entscheidung markiert und geprüft wird.“
 
 „Also beeinflusst die Governance.“
 
-„Ja.“
+„Natürlich.“
 
 „Dann ist die Freiheit nicht dieselbe wie vorher.“
 
-„Nein.“
-
-Eva sah sie an. Miriam blieb ruhig.
-
-„Das habe ich nie behauptet.“
+„Nein. Das habe ich nie behauptet.“
 
 „Institutionell klingt es oft so.“
 
 „Institutionen mögen klare Sätze.“
 
-Eva musste kurz lächeln. Es verschwand schnell. Miriam nahm den Bericht.
+Eva musste kurz lächeln. Es verschwand schnell.
 
-„Die Frage ist nicht, ob Governance Verhalten beeinflusst. Natürlich tut sie das. Die Frage ist, ob der Einfluss legitim, sichtbar und korrigierbar ist.“
+Miriam nahm den Bericht wieder an sich. „Die Frage ist nicht, ob Governance Verhalten beeinflusst. Das tut sie. Die Frage ist, ob dieser Einfluss legitim, sichtbar und korrigierbar ist.“
 
-Eva sagte: „Und wer entscheidet das?“
+„Und wer entscheidet das?“
 
 „Wir.“
 
@@ -173,43 +123,27 @@ Eva sagte: „Und wer entscheidet das?“
 
 „Sollte es auch nicht sein.“
 
-Für einen Moment war der Raum still. Eva sah wieder auf die beiden Ergebniszeilen. Nord lebte. Zentral nicht. Sie hätte gern eine Ordnung gehabt, in der daraus eine eindeutige Lehre folgte. Es gab keine.
+Für einen Moment war der Raum still. Eva betrachtete wieder die beiden Ergebniszeilen. Nord lebte, Zentral nicht. Sie hätte gern eine Ordnung gehabt, in der daraus eine eindeutige Lehre folgte. Die gab es nicht.
 
-„Was passiert mit KORA?“
+„Was ändert ihr jetzt?“
 
-„Nichts Grundsätzliches.“
+„Nichts Grundsätzliches. Zweitfreigabe, Wert-/Kontextweg und Break-glass bleiben.“
 
-„Mit der Zweitfreigabe?“
+Eva nickte. Keine neue Regel, keine letzte Verschärfung, aber auch kein Rückbau. Die Ordnung blieb dort stehen, wo sie im Finale funktioniert hatte – oder zumindest ihre eigene Funktionsprüfung bestanden hatte.
 
-„Bleibt.“
+Miriam schob Eva die letzte Seite hin. „Faktenrekonstruktion.“
 
-„Wert-/Kontextweg?“
+Die Abschlussformulierung stimmte. Eva unterschrieb. Unter der institutionellen Bewertung blieb ein optionales Kommentarfeld leer.
 
-„Bleibt.“
+„Nichts?“ fragte Miriam.
 
-„Break-glass?“
-
-„Bleibt.“
-
-Eva nickte. Keine neue Regel. Keine letzte Verschärfung. Auch kein Rückbau. Die Ordnung blieb dort stehen, wo sie im Finale funktioniert hatte. Oder zumindest dort, wo sie ihre eigene Funktionsprüfung bestanden hatte.
-
-Miriam schob Eva die letzte Seite hin.
-
-„Faktenrekonstruktion.“
-
-Eva las die Abschlussformulierung. Sie stimmte. Sie unterschrieb. Unter der institutionellen Bewertung stand ein optionales Kommentarfeld. Eva ließ es leer. Miriam sah darauf.
-
-„Nichts?“
-
-„Was soll ich schreiben?“
-
-„Wenn du etwas ergänzen willst.“
-
-Eva dachte an den Mann auf dem Bett. An Nord. An den Knopf. An Nele. An Laura.
+Eva dachte an den Mann auf dem Bett, an Nord, den Knopf, Nele und Laura.
 
 „Die Fakten reichen.“
 
-Miriam nahm die Seiten zusammen. Die Sitzung war beendet. Eva stand auf. An der Tür blieb sie kurz stehen.
+Miriam nahm die Seiten zusammen. Die Sitzung war beendet.
+
+An der Tür blieb Eva kurz stehen.
 
 „Miriam.“
 
@@ -217,8 +151,6 @@ Miriam nahm die Seiten zusammen. Die Sitzung war beendet. Eva stand auf. An der 
 
 „Wenn ihr daraus eine Erfolgsgeschichte macht, werde ich widersprechen.“
 
-Miriam nickte.
-
-„Dann sollten wir keine daraus machen.“
+Miriam nickte. „Dann sollten wir keine daraus machen.“
 
 Eva öffnete die Tür. Der Bericht war geschlossen. Der Patient, der vor ihr gestorben war, war es für sie nicht.
