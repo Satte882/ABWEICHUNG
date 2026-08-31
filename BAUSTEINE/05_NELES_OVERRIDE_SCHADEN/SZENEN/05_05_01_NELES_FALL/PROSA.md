@@ -153,7 +153,7 @@ Eva ging weiter.
 
 Es fühlte sich normal an.
 
-Genau so sollte Human Oversight funktionieren: KORA machte Druck. Ein Arzt prüfte. Ein Arzt konnte abweichen und trug den Grund sichtbar ein. Die Entscheidung blieb beim Menschen, nicht weil er KORA ignorierte, sondern weil eine Empfehlung auch bei hoher Konfidenz keine individuelle Zukunft war.
+Genau so sollte Human Oversight funktionieren: KORA machte Druck. Ein Arzt prüfte. Ein Arzt konnte abweichen und trug den Grund sichtbar ein. Die Entscheidung blieb beim Menschen. Ein begründeter Widerspruch ignorierte KORA nicht; eine Empfehlung war auch bei hoher Konfidenz keine individuelle Zukunft.
 
 Der Gedanke passte zu allem, was Eva in den letzten Wochen verteidigt hatte.
 
