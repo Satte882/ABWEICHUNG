@@ -1,7 +1,7 @@
 # Prosa – S009
 
 scene_id: S009
-prose_status: full_manuscript_draft
+prose_status: expansion_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -9,17 +9,43 @@ source_beats: `BEATS.md`
 
 Nach einigen Wochen war aus dem Freitextfeld eine Datenspur geworden.
 
-Miriam hatte vier anonymisierte Einträge nebeneinandergestellt. Keine Namen, keine Bewertungen, nur die damalige KORA-Empfehlung und der Satz, mit dem ein Arzt davon abgewichen war.
+Eva merkte es daran, dass sie die einzelnen Einträge nicht mehr als lästige Zusatzarbeit wahrnahm. Die Maske gehörte inzwischen zum Ablauf. Grundtyp wählen. Zwei oder drei Sätze. Bestätigen. Weiter.
 
-Eva las den ersten.
+Was beim einzelnen Fall kaum Zeit kostete, sah in der Summe anders aus.
+
+Miriam hatte vier anonymisierte Einträge nebeneinandergestellt. Keine Namen, keine Bewertung, keine Rangliste. Nur die damalige KORA-Empfehlung, der Grundtyp und der Satz, mit dem ein Arzt davon abgewichen war.
+
+„Nur lesen“, sagte Miriam.
+
+„Ich lese.“
+
+„Du hast schon den Stift in der Hand.“
+
+Eva sah auf den Stift, legte ihn aber nicht weg.
+
+Der erste Eintrag lautete:
 
 **Klinischer Verlauf passt nicht zur prognostizierten Verschlechterung. Aktuelle Untersuchung spricht gegen sofortige Eskalation.**
 
-Daneben stand ein konkreter Befund aus der Untersuchung.
+Darunter stand ein konkreter Untersuchungsbefund und der Zeitpunkt der erneuten Bewertung.
+
+Eva las den späteren Verlauf. Die Abweichung war nachvollziehbar geblieben.
+
+Sie zog eine Linie unter den Satz.
+
+„Der benennt etwas, das man prüfen kann.“
 
 Der zweite Eintrag war kürzer.
 
 **Patient wirkt stabiler als Modellbewertung.**
+
+Eva wartete auf den nächsten Satz.
+
+Es gab keinen.
+
+„Was heißt wirkt?“
+
+Miriam hob die Schultern. „Genau das steht dort.“
 
 Der dritte:
 
@@ -29,25 +55,69 @@ Der vierte:
 
 **Fachärztliche Entscheidung nach Gesamtbewertung.**
 
-Eva nahm den Stift, der neben dem Ausdruck lag, und zog unter dem ersten Satz eine Linie.
+Eva setzte den Stift auf das Papier und hielt inne.
 
-„Der benennt etwas, das man prüfen kann.“
+„Die beiden hier benennen vor allem den Entscheider.“
 
-Sie tippte auf die anderen drei.
+„Ja.“
 
-„Die hier benennen vor allem den Entscheider.“
+„Das ist keine Begründung.“
 
-Miriam ließ sie weiterlesen.
+„Es ist eine dokumentierte Begründung.“
 
-Weitere Einträge folgten. Ein fehlender Laborwert, der später ergänzt worden war. Ein neu aufgetretener klinischer Befund. Eine knappe Intuitionsformel. Ein Statusargument. Zwei Sätze, die professionell klangen und nach dem zweiten Lesen kaum mehr sagten als: *Ich halte es für richtig.*
+„Dann ist die Kategorie zu großzügig.“
 
-Eva hatte mit Unterschieden gerechnet. Ärzte beschrieben dieselbe Lage nie identisch. Was sie nicht erwartet hatte, war die Klarheit, mit der die Unterschiede plötzlich nebeneinanderstanden.
+Miriam zeigte auf den Bildschirm. „Oder wir sehen zum ersten Mal, wie unterschiedlich das, was Ärzte intern für einen Grund halten, nach außen aussieht.“
 
-Vor der Begründungspflicht war eine Abweichung eine Entscheidung gewesen.
+Eva blätterte weiter.
 
-Jetzt hinterließ sie zusätzlich einen Satz.
+Weitere Einträge folgten. Ein fehlender Laborwert, der später ergänzt worden war. Ein neu aufgetretener klinischer Befund. Eine begründete Abweichung vom Ressourcenpfad, weil eine patientenspezifische Information im System nicht abgebildet war. Eine knappe Intuitionsformel. Ein Statusargument.
 
-Und Sätze ließen sich vergleichen.
+Zwei Sätze klangen professionell und sagten nach dem zweiten Lesen kaum mehr als: *Ich halte es für richtig.*
+
+Andere wurden stärker, je länger Eva hinsah. Sie nannten konkrete Beobachtungen, Zeitpunkte, fehlende Daten oder eine klar benennbare klinische Gegenhypothese.
+
+„Zeig mir die Verläufe dazu.“
+
+Miriam öffnete sie nacheinander.
+
+Eva wollte wissen, ob gute Begründungen nur gut geschrieben waren. Ob jemand mit der Sprache eines Gutachtens einen schwachen Override sauberer aussehen lassen konnte als ein Kollege, der knapp, aber richtig entschieden hatte.
+
+Die Antwort war unbefriedigend.
+
+Manchmal ja.
+
+Manchmal nicht.
+
+Ein knapper Satz konnte einen starken konkreten Befund enthalten. Eine lange Begründung konnte sich als höflich formulierter Kreis herausstellen.
+
+„Das wird nie automatisch bewertbar“, sagte Eva.
+
+„Hoffentlich nicht.“
+
+Eva sah zu Miriam.
+
+„Das klingt fast beruhigend.“
+
+„Ich will keine Textanalyse, die entscheidet, ob ein Arzt recht hat.“
+
+„Was willst du dann?“
+
+Miriam zog einen weiteren Fall auf.
+
+„Dass wir beim Review nicht erst aus Erinnerung rekonstruieren, warum jemand vor drei Wochen eine Empfehlung überschrieben hat.“
+
+Eva las den Eintrag.
+
+Sie musste an ihren eigenen ersten Override denken. Damals hätte im System nur gestanden, dass sie anders entschieden hatte. Alles Weitere lebte in ihrer Erinnerung und in den klinischen Notizen.
+
+Bei Laura Bergs Fragen hatte genau das plötzlich wichtig gewirkt.
+
+Wer wusste was?
+
+Warum wurde abgewichen?
+
+Die neue Maske gab darauf keine vollständige Antwort. Aber sie zwang den Grund näher an den Entscheidungszeitpunkt.
 
 „Das ist nützlich“, sagte Eva.
 
@@ -61,13 +131,31 @@ Eva legte den Stift hin.
 
 „Deshalb bewerten wir hier keine Schreibkunst.“
 
-„Noch überhaupt irgendetwas?“
+„Bewertet ihr überhaupt irgendetwas?“
 
-Miriam schob den Ausdruck zurück in die Mappe.
+„Im Moment? Fälle. Keine Personen.“
 
-„Wir beobachten. Wir prüfen Fälle. Keine Sanktion, keine neue Schwelle, keine Verschärfung.“
+„Keine Schwellen?“
 
-Eva wartete einen Moment auf den Zusatz.
+„Nein.“
+
+„Keine Sanktionen?“
+
+„Nein.“
+
+„Keine automatische Kennzahl?“
+
+Miriam lehnte sich zurück.
+
+„Du klingst wie Felix.“
+
+„Das ist eine Beleidigung.“
+
+Miriam lächelte kurz.
+
+„Wir beobachten. Wir prüfen Fälle. Keine neue Verschärfung.“
+
+Eva wartete auf einen Zusatz.
 
 Er kam nicht.
 
@@ -77,18 +165,56 @@ Er kam nicht.
 
 Das gefiel ihr mehr, als sie erwartet hatte.
 
-Sie öffnete das Register noch einmal. Nicht wegen des vierten Eintrags. Wegen der guten Begründungen. Einige machten im Nachhinein sichtbar, was am Bett tatsächlich gegen die Empfehlung gesprochen hatte. Andere zeigten, dass eine Abweichung zwar vertretbar gewesen war, ihre ursprüngliche Erklärung aber dünner klang, als alle Beteiligten sie in Erinnerung hatten.
+Sie öffnete das Register noch einmal. Diesmal nicht wegen der schwachen Einträge. Wegen der guten.
 
-So konnte Qualitätssicherung aussehen, dachte Eva.
+Ein Arzt hatte einen unerwarteten Untersuchungsbefund dokumentiert und damit einen Override begründet, der im späteren Review medizinisch trug. Eine andere Ärztin hatte eine Datenlücke konkret benannt. Wieder jemand hatte einen Grund eingetragen, der im Rückblick viel weniger überzeugend war, als die Beteiligten ihn in Erinnerung gehabt hatten.
 
-Nicht als Urteil über den Arzt. Als bessere Erinnerung an den Fall.
+Das Register machte Entscheidungen nicht automatisch richtig oder falsch.
 
-Miriam schloss die Ansicht.
+Es machte einige von ihnen weniger bequem.
 
-Das kleine Symbol des Override-Registers blieb in der Seitenleiste stehen.
+Eva konnte damit leben.
 
-Eva nahm es in diesem Moment als Archiv wahr: Fälle, Gründe, Verläufe.
+Vielleicht war genau das gute Qualitätssicherung: nicht den Arzt durch ein Systemurteil ersetzen, vielmehr die damalige Entscheidung so festhalten, dass man sie später nicht unbemerkt schöner erzählen konnte.
 
-Dass dieselbe Spur irgendwann nicht nur Entscheidungen, auch Entscheidungsmuster einzelner Ärzte sichtbar machen konnte, lag bereits in den Daten.
+Miriam schloss die Detailansicht.
 
-Eva dachte trotzdem nicht daran.
+„Noch etwas?“
+
+Eva sah auf die Liste der Einträge.
+
+„Wer kann das Register sehen?“
+
+Miriam nannte die begrenzten Rollen im Qualitätsprozess.
+
+„Und personenbezogen?“
+
+„Im normalen Review sehen wir Fälle.“
+
+Eva registrierte die Formulierung.
+
+„Im normalen Review.“
+
+Miriam sah sie an.
+
+„Wenn es einen Patientensicherheitsgrund gibt, können Entscheidungen natürlich auf ihre Urheber zurückgeführt werden. Sonst wäre das keine verantwortliche Dokumentation.“
+
+Eva nickte.
+
+Das war logisch.
+
+Die Namen waren ohnehin im System. Niemand hatte je behauptet, Overrides seien anonym.
+
+Trotzdem blieb ihr Blick einen Moment auf der Liste liegen.
+
+Vor der Begründungspflicht war eine Abweichung eine Entscheidung gewesen.
+
+Jetzt hinterließ sie zusätzlich einen Satz.
+
+Sätze ließen sich vergleichen.
+
+Und wenn man genug davon hatte, konnte man irgendwann auch die Menschen dahinter vergleichen.
+
+Eva dachte den letzten Schritt nicht zu Ende.
+
+Noch nicht.
