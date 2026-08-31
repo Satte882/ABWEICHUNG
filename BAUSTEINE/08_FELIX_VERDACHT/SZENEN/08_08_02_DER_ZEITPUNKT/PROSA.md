@@ -1,212 +1,188 @@
 # Prosa – S017
 
 scene_id: S017
-prose_status: final_rhythm_rework
+prose_status: external_v2_scene_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Eva stellte Jan nur eine Frage.
+Die Zweitfreigabe verschwand, während Eva noch im Zimmer stand.
 
-„Was passiert mit KORAs Konfidenz, wenn nach einer Intervention neue reale Werte kommen?“
+Der Patient war mit Kreislaufinstabilität gekommen. Kein Felix-Fall, keine Auffälligkeit aus einem Register. Ein gewöhnlicher akuter Verlauf an einem gewöhnlichen Nachmittag.
 
-Jan sah sie kurz an.
+KORA hatte bei der Aufnahme eine Eskalation mit hoher Konfidenz empfohlen. Auf dem mobilen Arbeitsplatz vor dem Bett war deshalb die zusätzliche Freigabestufe sichtbar gewesen. Der Assistenzarzt hatte sie gesehen, Eva auch.
 
-„Du meinst allgemein?“
+Dann kam die Behandlung zuerst.
 
-„Ich meine genau das.“
+Flüssigkeit. Anpassung der Kreislaufunterstützung. Neue Messung. Noch eine.
 
-Sie saßen nicht in einer Reviewrunde. Eva hatte ihn zwischen zwei Terminen abgefangen. Auf seinem Bildschirm lag noch eine andere Auswertung, die er mit einem Klick schloss.
+Der Blutdruck zog an. Nicht gut, aber deutlich besser. Der Patient wurde wacher und antwortete wieder in ganzen Sätzen. Eine Pflegekraft sagte etwas zu den Händen, die eben noch kalt gewesen waren. Der Assistenzarzt untersuchte erneut.
 
-„Dann zeige ich dir lieber einen Verlauf.“
+Eva blieb nur, weil sie auf die Reaktion warten wollte.
 
-Er öffnete einen anonymisierten Fall.
+„Nochmal KORA“, sagte der Assistenzarzt.
 
-„Der ist sauber, weil beide Zustände gut dokumentiert sind.“
+Die neuen Werte liefen ein. Die Empfehlung zur Eskalation blieb bestehen, die Konfidenz sank. Aus rot wurde gelb.
 
-Jan setzte eine Markierung auf den ersten Zeitpunkt.
+Der Hinweis auf die Zweitfreigabe war weg.
 
-Der Patient war instabil. KORA empfahl eine Eskalation mit hoher Konfidenz. In der damals geltenden Risikoklasse hätte eine Abweichung eine Zweitfreigabe ausgelöst.
+Der Assistenzarzt bemerkte es ebenfalls.
 
-„Das ist Zustand eins“, sagte Jan.
+„Jetzt brauche ich keinen zweiten Namen mehr.“
 
-Er ließ Eva die Faktoren selbst lesen.
+Er sagte es ohne Erleichterung. Eher wie jemand, der feststellte, dass eine Ampel umgesprungen war.
 
-Mehrere gingen in dieselbe Richtung. Die Empfehlung war kein knapper Grenzfall.
+Eva sah zum Patienten.
 
-Dann schob Jan die Timeline weiter. Eine erste Intervention. Neue Messwerte. Reale Besserung.
+Der neue Zustand war real. Niemand hatte einen Wert verändert, um eine Regel zu umgehen. Die Therapie hatte gewirkt. Eine Entscheidung auf dieser Grundlage musste anders aussehen dürfen als eine Entscheidung zehn Minuten zuvor.
 
-Nicht Heilung. Nicht Entwarnung. Ein anderer klinischer Zustand.
+„Was willst du jetzt tun?“ fragte Eva.
 
-Jan setzte die zweite Markierung. KORA rechnete neu. Die Empfehlung blieb ähnlich, die Konfidenz sank.
+Der Assistenzarzt beschrieb seinen Plan ausführlicher, als es für Eva nötig gewesen wäre: engmaschige Weiterbehandlung, klare Eskalationstrigger, erneute Bewertung bei der kleinsten Verschlechterung. Er nannte auch, was ihm an dem besseren Blutdruck noch nicht gefiel.
 
-Am zweiten Zeitpunkt lag der Konflikt unter der Schwelle für die Zweitfreigabe.
+Eva hörte bis zum Ende zu.
 
-Eva zog den Bildschirm näher.
+„Und vor der Intervention?“
+
+Er sah sie an.
+
+„Da wusste ich noch nicht, ob er auf die Maßnahme reagiert.“
+
+„Hattest du da schon entschieden, ihn nicht zu eskalieren?“
+
+„Nein. Ich wollte sehen, ob wir überhaupt einen stabileren Zustand erreichen.“
+
+Die Antwort kam sofort.
+
+Eva glaubte ihm.
+
+Gerade deshalb blieb sie noch einen Moment.
+
+Am Bildschirm existierten zwei Zustände desselben Patienten.
 
 Vor der Intervention: hohe Konfidenz, Zweitfreigabe bei Abweichung.
 
-Danach: geringere Konfidenz, freie Abweichung.
+Danach: niedrigere Konfidenz, keine zusätzliche Freigabe.
 
-„Beide Ansichten sind medizinisch korrekt“, sagte Jan. „Sie beschreiben zwei unterschiedliche Zustände desselben Patienten.“
+Beide waren medizinisch wahr.
 
-Eva ließ die Timeline wieder an den Anfang springen.
+Der Assistenzarzt bestätigte seinen Plan. Keine Zweitfreigabe erschien. Eva sagte nichts dagegen.
 
-„Zeig es noch einmal.“
+„Passt?“ fragte er.
 
-Jan tat es. Erster Snapshot. Hohe Konfidenz. Intervention. Zweiter Snapshot. Niedrigere Konfidenz. Keine Zweitfreigabe.
+„Ja. Dokumentier den Zeitpunkt der Neubewertung sauber.“
 
-Der Unterschied war nicht durch einen Rechenfehler entstanden. Kein Wert war manipuliert. Der Patient hatte sich tatsächlich verändert.
+Er nickte und wandte sich wieder dem Patienten zu.
 
-„Dann hängt die Governance am Zeitpunkt.“
+Eva ging nicht zurück ins Büro. Sie lief zwei Stationen weiter zu Jan, der gerade mit einem Becher Automatenkaffee aus dem Aufzug kam.
 
-„Sie hängt am Entscheidungszustand.“
+„Fünf Minuten.“
 
-„Das ist dasselbe, wenn der Zeitpunkt sauber dokumentiert ist.“
+Jan sah auf den Becher. „Der Kaffee hat weniger.“
 
-Jan nickte langsam.
+„Dann drei.“
 
-„Genau.“
+Er folgte ihr bis zu einer freien Fensterbank am Ende des Flurs.
 
-Eva sah wieder auf die beiden Marker.
+Eva erzählte den Fall ohne Namen. Ausgangszustand, hohe Konfidenz, Intervention, reale Besserung, neue Bewertung, niedrigere Konfidenz, Wegfall der Zweitfreigabe.
 
-„Welcher zählt für die Abweichung?“
+Jan hörte zu und sagte erst am Ende etwas.
 
-„Der Zeitpunkt, an dem die klinische Entscheidung tatsächlich getroffen wird.“
+„Klingt korrekt.“
 
-Jan legte zwei Finger auf die Timeline.
+„Ist es auch.“
 
-„Wenn ein Arzt erst hier entscheidet“ – er zeigte auf den späteren Punkt – „ist der spätere Zustand die richtige Grundlage.“
+„Was stört dich?“
 
-Dann zurück zum ersten Marker.
+Eva mochte die Frage nicht, weil die Antwort bereits klar war.
 
-„Wenn die Entscheidung schon hier gefallen ist und erst später dokumentiert wird, stimmt die Prozessabbildung nicht mehr mit der Entscheidung überein.“
+„Dass dieselbe Reihenfolge auch anders entstehen kann.“
 
-Eva schwieg. Jan ließ ihr den Moment. Sie verstand die Lücke sofort.
+Jan stellte den Becher auf die Fensterbank.
 
-Die Daten konnten in beiden Momenten echt sein.
+Eva zeichnete mit dem Finger zwei Punkte auf die Fläche zwischen ihnen.
 
-Der spätere Snapshot konnte medizinisch völlig sauber sein.
+„Variante eins: Der Arzt entscheidet noch nichts. Er behandelt, sieht die Reaktion und entscheidet danach auf Basis des neuen Zustands. Sauber.“
 
-Und trotzdem konnte er eine frühere Entscheidung so aussehen lassen, als sei sie erst unter günstigeren Bedingungen getroffen worden.
+Dann setzte sie den Finger wieder an den ersten Punkt.
 
-„Kann KORA erkennen, wann ich mich innerlich entschieden habe?“
+„Variante zwei: Er entscheidet hier schon, dass er nicht eskaliert. Die Intervention läuft trotzdem. Nach der Besserung dokumentiert er die Entscheidung. Von außen sehe ich fast dieselbe Spur.“
 
-Jan schüttelte den Kopf.
-
-„Natürlich nicht.“
-
-„Kann es aus dem Ablauf ableiten, wann die relevante Entscheidung wahrscheinlich gefallen ist?“
-
-„Manchmal. Aber nicht zuverlässig genug, wenn die Dokumentation selbst den Entscheidungspunkt vorgibt.“
-
-„Beispiel.“
-
-Jan öffnete die Ereignisfolge.
-
-„Patient kommt instabil. Empfehlung zur Eskalation. Arzt beginnt zunächst eine Maßnahme, die auch bei geplanter Eskalation sinnvoll wäre. Der Patient bessert sich vorübergehend. Danach dokumentiert der Arzt: Wir bleiben außerhalb der Eskalation.“
-
-Eva nickte.
-
-„Kann sauber sein.“
+Jan antwortete nicht sofort. Er brauchte keine Grafik.
 
 „Ja.“
 
-„Und die andere Variante?“
+„Und KORA kann nicht wissen, wann der Entschluss gefallen ist.“
 
-Jan setzte die Ereignisse in derselben Reihenfolge.
+„Es kennt Datenstände und dokumentierte Prozessereignisse. Keine Gedanken.“
 
-„Arzt entscheidet schon vor der Maßnahme: Ich werde nicht eskalieren. Die Maßnahme dient nur noch dazu, den gewählten Weg zu stabilisieren. Dokumentiert wird die Entscheidung erst nach der Besserung. Dann sieht das System denselben späteren Snapshot, obwohl der relevante Entschluss früher gefallen ist.“
+Eva sah durch das Fenster auf den Innenhof. Unten schob jemand Sauerstoffflaschen auf einem Wagen über das Pflaster.
 
-Eva sah auf die identischen Datenpunkte.
+„Was kann man sehen?“
 
-„Von außen fast gleich.“
+Jan nahm seinen Kaffee wieder. „Anordnungen. Ressourcenreservierungen. dokumentierte Planwechsel. Kommunikation. Beginn einer Intervention. Manchmal ergibt sich daraus eine frühere Weiche. Manchmal nicht.“
 
-„In der Prozesswirkung nicht.“
+„Reicht das, um Absicht zu beweisen?“
 
-Jan schloss den Verlauf nicht.
+„Nein.“
 
-„Das wäre kein Modellfehler. Das wäre ein Problem der Prozesswahrheit.“
+Jan sagte es so klar, dass Eva die nächste Frage gar nicht erst stellen musste.
 
-Eva verzog das Gesicht.
+Neue reale Werte waren kein Beleg für Manipulation. Ein späterer Snapshot war kein Verdacht. Ein Arzt durfte nach einer Intervention anders entscheiden als davor.
 
-„Schreckliches Wort.“
+Das Problem lag an einer anderen Stelle.
 
-„Präzises Wort.“
+Wenn die Schutzstufe an dem Zustand hing, in dem die Entscheidung tatsächlich fiel, musste dieser Zeitpunkt halbwegs mit der Prozessspur übereinstimmen. Sonst konnte eine formal saubere Dokumentation eine frühere Weiche unsichtbar machen.
 
-„Leider.“
+Jan trank einen Schluck und verzog das Gesicht. Der Kaffee hatte offensichtlich verloren.
 
-Sie dachte an Felix.
+„Du denkst an Felix.“
 
-Er hatte ihr erklärt, dass er nach Interventionen neu bewertete. Klinisch war das plausibel. Jeder gute Arzt tat das. Neue Daten mussten eine neue Entscheidung ermöglichen.
+Eva antwortete nicht sofort.
 
-Genau deshalb war die Lücke gefährlich.
+„Ich denke an seine leere Zeile.“
 
-Dasselbe sichtbare Verhalten konnte völlig sauber sein oder eine relevante Schutzstufe umgehen. Der Unterschied lag nicht in den späteren Werten.
-
-Er lag darin, wann die eigentliche Entscheidung gefallen war.
-
-„Kann man das prüfen?“
-
-Jan drehte die Ansicht auf die Dokumentationsquellen.
-
-„Im Einzelfall manchmal. Zeitstempel. Anordnungen. Kommunikationslogs. Dokumentierte Zwischenschritte. Aber du wirst nicht aus jedem Ablauf einen inneren Entscheidungszeitpunkt rekonstruieren können.“
-
-„Brauche ich auch nicht.“
-
-Jan sah sie an.
-
-„Was brauchst du?“
-
-Eva dachte an Felix' fast leere Zeile.
-
-„Ich will wissen, ob ein systematisches Muster existiert, bei dem ein Konflikt vor einer Intervention hochkonfident ist und die formale Entscheidung regelmäßig erst nach einem günstigeren Snapshot auftaucht.“
-
-Jan schwieg einen Moment.
-
-„Das ist etwas anderes als zu fragen, wer wenige Konflikte hat.“
-
-„Ja.“
-
-„Und selbst wenn du das findest, hast du noch keinen Beleg für Absicht.“
+„Das ist noch kein Fall.“
 
 „Weiß ich.“
 
-„Neue reale Werte sind kein Beleg.“
+„Und die Erklärung, die er dir gegeben hat, ist klinisch möglich.“
 
 „Weiß ich auch.“
 
-Jan lehnte sich zurück.
+Jan hob den Becher leicht. „Dann sind wir uns ausnahmsweise schnell einig.“
 
-„Dann sag ich es trotzdem: Eine mögliche Prozesslücke ist noch kein Beleg gegen jemanden.“
+Eva ignorierte den Versuch.
 
-Eva stand auf.
+„Kannst du prüfen, ob dieses Muster überhaupt häufiger vorkommt? Nicht Felix. Erst die Sequenz.“
 
-„Ich suche keinen Schuldigen.“
+„High confidence vor Intervention, formale Abweichungsentscheidung erst nach einem günstigeren Snapshot?“
 
-Sie nahm ihre Unterlagen.
+Eva nickte.
 
-Jan hob eine Augenbraue.
+„Mit Vergleich zu Fällen, in denen die Entscheidung erkennbar erst danach fällt.“
 
-„Was suchst du dann?“
+Jan dachte kurz nach. „Ich kann Prozesssignale suchen. Ich kann dir nicht versprechen, dass daraus ein sauberer Entscheidungszeitpunkt wird.“
 
-Eva deutete auf die zwei Marker.
+„Musst du nicht.“
 
-„Ob wir den richtigen Zeitpunkt sehen.“
+„Und keine Personenliste als erster Output.“
 
-Sie ging zur Tür und blieb noch einmal stehen.
+„Genau.“
 
-„Und Jan?“
+Jan nahm seinen Kaffee und ging weiter zu seinem Termin.
 
-„Ja?“
+Eva blieb im Flur.
 
-„Keine personenbezogene Liste, bevor wir wissen, ob das Muster überhaupt real ist.“
+Ein paar Meter entfernt wurde ein Patient aus dem Aufzug geschoben. Zwei Pflegekräfte diskutierten im Gehen über einen Zugang, ein Telefon klingelte, eine Tür fiel ins Schloss.
 
-„Hatte ich nicht vor.“
+Der Fall von eben war sauber gewesen.
 
-„Gut.“
+Das beruhigte Eva nicht.
 
-Als Eva ging, hatte sie gegen Felix weiterhin nichts in der Hand.
+Er hatte ihr gezeigt, wie eine echte klinische Verbesserung und eine mögliche Umgehung von außen dieselbe Form annehmen konnten.
 
-Nur eine Frage, die sich später prüfen ließ.
+Der Unterschied lag in einem Zeitpunkt, den kein Modell direkt messen konnte.
+
+Zum ersten Mal wusste Eva, wonach sie suchen musste.
