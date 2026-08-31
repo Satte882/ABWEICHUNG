@@ -1,7 +1,7 @@
 # Prosa – S028
 
 scene_id: S028
-prose_status: full_manuscript_draft
+prose_status: expansion_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -11,9 +11,15 @@ Eva hörte den Ruf, bevor sie wusste, um wen es ging.
 
 „Wir brauchen dich sofort.“
 
-Sie folgte der Ärztin durch den Flur.
+Die Ärztin wartete nicht auf eine Antwort. Sie war bereits wieder unterwegs.
 
-Der Patient lag unter maximaler nichtinvasiver Atemunterstützung. Die Sauerstoffversorgung war eingebrochen, die Atemarbeit sichtbar erschöpft. Mehrere Hände arbeiteten bereits gleichzeitig.
+Eva folgte ihr durch den Flur.
+
+Noch vor der Tür hörte sie den hohen Luftstrom der nichtinvasiven Atemunterstützung und darüber einen Monitoralarm.
+
+Im Raum arbeiteten mehrere Menschen gleichzeitig.
+
+Der Patient lag halb aufgerichtet. Die Maske saß fest auf seinem Gesicht, trotzdem zog er sichtbar gegen die Unterstützung. Brustkorb und Schultern arbeiteten bei jedem Atemzug mit. Seine Augen waren geschlossen.
 
 Felix stand am Bett.
 
@@ -21,77 +27,251 @@ Felix stand am Bett.
 
 Eva brauchte keine Erklärung.
 
-Sie ging an die andere Seite und prüfte die Werte. Der Verlauf war schlecht. Deutlich schlechter als das Bild, das sie aus der letzten Übergabe im Kopf hatte.
+Sie trat an die andere Seite.
 
-„Intensivplatz?“
+„Seit wann so?“
+
+„Akute Verschlechterung in den letzten Minuten.“
+
+Die Pflegekraft nannte die Sättigung. Jemand bereitete Medikamente vor. Ein anderer Kollege kontrollierte den Zugang.
+
+Eva sah auf den Verlauf am Monitor.
+
+Schlecht.
+
+Deutlich schlechter als das Bild, das sie aus der letzten Übergabe im Kopf hatte.
+
+„Reagiert er?“
+
+Felix sprach den Patienten laut an.
+
+Eine verzögerte Bewegung. Kein sinnvoller Satz.
+
+„Intensivplatz?“ fragte Eva.
 
 „Wird frei gemacht.“
 
 „KORA?“
 
-Felix antwortete nicht.
+Felix antwortete nicht sofort.
 
-Ein Monitoralarm schnitt durch den Raum.
+Der Alarmton wechselte.
 
-Danach bestand die Welt für einige Minuten nur aus Arbeit. Atemweg sichern. Kreislauf halten. Medikamente, Hände, kurze Anweisungen. Die Übergabe an Intensiv vorbereiten.
+Eva sah ihn an.
 
-Niemand sprach über Governance.
+„Später“, sagte Felix. „Jetzt Atemweg.“
 
-Der Patient wurde übernommen. Im weiteren Verlauf wurde ein schwerer hypoxischer Schaden dokumentiert.
+Er hatte recht.
 
-Erst später öffnete Eva die vollständige Fallansicht.
+Danach bestand die Welt für einige Minuten nur aus Arbeit.
 
-Sie ging zurück.
+Eva stellte sich ans Kopfende. Die Maske wurde abgenommen. Der Patient versuchte noch einmal selbst Luft zu holen, ein flacher Zug, dann der nächste.
 
-Zunehmender Sauerstoffbedarf. Steigende Atemarbeit. Nichtinvasive Unterstützung.
+„Präoxygenierung läuft.“
 
-KORA hatte einen Konflikt angezeigt.
+„Medikamente bereit.“
 
-Knapp unter der high-confidence Schwelle.
+„Kreislauf?“
 
-Keine Zweitfreigabe.
+Die Werte kamen knapp zurück.
 
-Felix stand hinter ihr, als sie die Zeile erreichte.
+Eva hörte keine vollständigen Sätze mehr. Nur das, was für die nächsten Sekunden nötig war.
 
-„Er hat unter der Unterstützung zunächst real reagiert“, sagte er. „Die Werte wurden besser. Wir konnten ihn eng überwachen, ohne sofort einen Intensivplatz zu binden. Das war in dem Moment klinisch vertretbar.“
+Einleitung.
 
-Eva drehte den Stuhl zu ihm.
+Atemweg sichern.
 
-Der Satz war plausibel. Genau das machte ihn schwierig.
+Tubuslage prüfen.
 
-„Wann war für dich entschieden, ihn draußen weiterzubehandeln?“
+Kreislauf halten.
+
+Die erste Kurve besserte sich nicht so schnell, wie Eva gehofft hatte.
+
+„Noch mal Sättigung.“
+
+Die Pflegekraft nannte die Zahl.
+
+Eva sah auf den Monitor.
+
+„Weiter.“
+
+Sie meinte die Behandlung, nicht die Diskussion von vorher.
+
+Niemand sprach über KORA. Niemand sprach über Zweitfreigaben oder Schwellen. In diesem Moment war das alles nachgelagert.
+
+Der Patient wurde stabil genug für die Übernahme auf die Intensivstation.
+
+Als das Team ihn aus dem Raum schob, blieb das Bettzeug zerknittert zurück. Auf dem Boden lag eine geöffnete Verpackung. Eine Pflegekraft begann bereits aufzuräumen.
+
+Felix ging neben der Trage mit.
+
+Eva blieb einen Moment stehen.
+
+„Eva?“
+
+Die Ärztin vom Anfang stand noch an der Tür.
+
+„Was war vorher?“
+
+Sie sah in Richtung Flur, wo Felix verschwunden war.
+
+„Er war unter der Unterstützung erst besser.“
+
+„Wie viel besser?“
+
+„Genug, dass wir draußen weitergemacht haben.“
+
+Eva merkte sich den Satz.
+
+Nicht als Beweis.
+
+Nur als Frage.
+
+Später am selben Tag lag der Patient auf Intensiv.
+
+Eva öffnete die Akte zwischendurch mehrfach. Anfangs gab es nur den laufenden kritischen Verlauf. Später kamen weitere Befunde hinzu. Im weiteren Verlauf verdichtete sich die Dokumentation zu einem schweren hypoxischen Schaden.
+
+Eva las den Eintrag zweimal.
+
+Dann ging sie zurück in der Timeline.
+
+Nicht bis zum Absturz.
+
+Weiter.
+
+Zunehmender Sauerstoffbedarf.
+
+Steigende Atemarbeit.
+
+Nichtinvasive Unterstützung.
+
+KORA-Bewertungen dazwischen.
+
+An einer Stelle blieb Eva stehen.
+
+Ein Konflikt war angezeigt worden.
+
+Die Konfidenz lag knapp unter der Schwelle, ab der die neue Zweitfreigabe automatisch erforderlich wurde.
+
+Kein zweiter Arzt.
+
+Kein Review vor der Entscheidung.
+
+Nur die normale Override-Logik.
+
+Eva öffnete die zugehörigen Daten.
+
+Die Werte passten zu dem Zeitpunkt, der im System stand.
+
+Felix kam hinter ihr zum Arbeitsplatz.
+
+„Du gehst den Fall zurück.“
+
+Es war keine Frage.
+
+Eva drehte sich nicht um.
+
+„Ja.“
+
+„Warum?“
+
+„Weil ich verstehen will, was passiert ist.“
+
+Felix trat neben sie.
+
+„Er hat unter der Unterstützung zunächst real reagiert. Druck, Atmung, klinischer Eindruck. Wir konnten ihn eng überwachen, ohne sofort einen Intensivplatz zu binden.“
+
+Eva scrollte nicht weiter.
+
+„Und das war deine Entscheidung?“
+
+„Es war eine klinische Neubewertung.“
+
+„Wann?“
 
 Felix atmete hörbar aus.
 
-„Das war kein einzelner Knopfdruck. Wir haben interveniert, die Lage hat sich verändert, wir haben neu bewertet.“
+„Eva.“
 
-Eva ließ den Verlauf noch einmal laufen.
+„Wann war für dich entschieden, ihn außerhalb der Intensivstation weiterzubehandeln?“
 
-Sie kannte diese Erklärung. Felix hatte sie ihr schon gegeben, als seine high-confidence Konflikte auffällig selten gewesen waren.
+Er sah auf die Timeline.
 
-Damals hatte sie nur ein Muster gesehen.
+„Das war kein einzelner Knopfdruck. Wir haben interveniert. Die Lage hat sich verändert. Wir haben neu bewertet.“
+
+Der Satz war plausibel.
+
+Genau das machte ihn schwierig.
+
+Klinische Entscheidungen entstanden selten sauber in einer Sekunde. Ein Patient bekam Therapie. Werte änderten sich. Ein Plan wurde enger, dann weiter. Dokumentation folgte nicht immer im gleichen Takt wie das Denken.
+
+Eva wusste das.
+
+Sie kannte Felix' Erklärung ebenfalls.
+
+Er hatte ihr fast denselben Gedanken genannt, als seine Zahl an high-confidence Konflikten auffällig niedrig gewesen war.
+
+Damals hatte sie ein Muster gesehen und keine belastbare Erklärung dafür gehabt.
 
 Jetzt lag ein Patient mit schwerem Schaden auf Intensiv.
 
-Das machte den Verdacht ernster. Es machte ihn nicht automatisch wahr.
+Der Ausgang machte den Verdacht schwerer.
 
-Felix trat näher an den Bildschirm.
+Er machte ihn nicht wahrer.
 
-„Wenn du aus jedem schlechten Verlauf im Nachhinein einen falschen Entscheidungszeitpunkt baust, kannst du klinische Dynamik gleich abschaffen.“
+Eva öffnete die einzelnen Zeitpunkte.
 
-Eva blickte auf die Stelle, an der KORA unter der Schwelle geblieben war.
+„Hier ist die KORA-Einstufung unter der Schwelle.“
 
-„Deshalb entscheide ich das nicht aus diesem Gespräch.“
+„Ja.“
+
+„Und vorher?“
+
+„Vorher war die Lage instabiler.“
+
+„War zu diesem Zeitpunkt schon entschieden, dass er zunächst draußen bleibt?“
+
+Felix sah sie an.
+
+„Du machst aus einem dynamischen Verlauf gerade einen Verwaltungsakt.“
+
+„Ich frage nach der Entscheidung.“
+
+„Und ich sage dir, dass sie sich mit dem Patienten verändert hat.“
+
+Eva drehte den Stuhl zu ihm.
+
+„Kann sein.“
+
+Felix zog die Augenbrauen zusammen.
+
+„Kann sein?“
+
+„Ja. Genau deshalb entscheide ich das nicht aus diesem Gespräch.“
 
 Felix wurde still.
 
-„Ich lasse den kompletten Verlauf auditieren. Maßnahmen, Werte, Anordnungen, Dokumentation. Ich will wissen, wann die Entscheidung tatsächlich gefallen ist.“
+Eva sah wieder auf die Timeline.
+
+„Ich lasse den kompletten Verlauf auditieren. Maßnahmen. Werte. Anordnungen. Dokumentation. Zeitpunkte.“
 
 „Du weißt, was passiert ist.“
 
 „Dann wird das Audit dasselbe zeigen.“
 
-Felix nahm die Arme von der Brust.
+Felix nahm die Arme vor der Brust zusammen und löste sie wieder.
+
+„Und wenn es zeigt, dass der Patient real auf die Therapie reagiert hat?“
+
+„Dann gehört das zur Rekonstruktion.“
+
+„Und wenn die Entscheidung tatsächlich nicht in den Punkt passt, den eure Regel gern hätte?“
+
+Eva sah zu ihm.
+
+„Dann müssen wir auch das sehen.“
+
+Felix hielt ihren Blick.
 
 „Mach, was du machen musst.“
 
@@ -99,10 +279,16 @@ Er ging zurück auf die Station.
 
 Eva blieb vor dem Verlauf sitzen.
 
+Auf dem Bildschirm war der Fall bereits sauberer als im Raum wenige Stunden zuvor.
+
+Kurven. Zeitpunkte. Maßnahmen.
+
 Der Schaden war real.
 
 Die KORA-Schwelle war real.
 
-Der Zusammenhang zwischen beidem war noch offen.
+Der Zusammenhang zwischen dem Entscheidungszeitpunkt, der Schwelle und dem späteren Ausgang war offen.
 
-Diesmal würde sie ihn nicht mit einem Eindruck schließen.
+Eva kannte die Versuchung, diese Lücke mit einem Eindruck zu schließen.
+
+Diesmal tat sie es nicht.
