@@ -1,46 +1,95 @@
 # G4 Review Request – Manuskript
 
-status: AWAITING_FRESH_CONTEXT_MANUSCRIPT_REREVIEW
+status: READY_FOR_HUMAN_G4
 human_gate: G4
-current_review_target: `78222a7e99c80378c35379ad42684ee332a412a6`
-previous_review_target: `1d717f47277d22381fdd97bd804e0e31cf09e10e`
+review_target: `78222a7e99c80378c35379ad42684ee332a412a6`
+review_result: `MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
 
 ## Stand
 
 - G0 APPROVED
 - G1 APPROVED
 - G2 re-APPROVED am 2026-08-31 für `78222a7e99c80378c35379ad42684ee332a412a6`
-- G3-Stilreferenz bleibt APPROVED
+- G3-Stilreferenz APPROVED
 - 18/18 Bausteine
 - 54/54 Ereignisse
 - 40/40 Szenen
 - 253 Beats
 - 40/40 Szenen mit Prosa
 - Scene-/Beat-Re-Review des Backtracks: `CLEAN_FRESH_CONTEXT`, 0 Findings
+- dritter Whole-Manuscript-Fresh-Context-Review gegen den reworkten Stand abgeschlossen
 
-## Warum ein neuer Manuskript-Review erforderlich ist
+## Review-Historie
 
-Der vorherige Gesamtmanuskript-Review gegen `1d717f...` meldete erneut zwei Major-Findings:
+### Review 1
 
-1. Scene-Repetition / Meeting-Governance-Choreografie,
-2. Dialogue-Pingpong.
+- 6 Findings
+- 3 Major
+- Prosa-Rework ausgelöst
 
-Daraufhin wurde ein kontrollierter G2-Backtrack durchgeführt und sechs dramaturgische Trägerformen strukturell verändert. Dieser neue Scene-/Beat-Stand wurde inzwischen unabhängig mit 0 Findings geprüft und erneut durch Human `G2-APPROVE` freigegeben.
+### Review 2
 
-## Aktueller Review-Target
+- 5 Findings
+- 2 wiederholte Major
+- kontrollierter G2-Backtrack ausgelöst
 
-Der vollständige Roman muss nun erneut gegen den **reinen Rework-Commit** gelesen werden:
+### Review 3 gegen aktuellen Target
 
-`78222a7e99c80378c35379ad42684ee332a412a6`
+Rohurteil des Reviewers:
 
-Auftrag:
+- `review_status: CLEAN_FRESH_CONTEXT`
+- `finding_count: 2`
+- 1 als Major gemeldetes `scene_repetition`-Finding
+- 1 Minor zu wiederholter Beweislast-/Schlussrhetorik
+- raw `g4_readiness: REWORK_REQUIRED`
 
-`MANUSCRIPT_FRESH_CONTEXT_TASK.md`
+## Adjudikation
 
-Der Review muss das gesamte Manuskript S001–S040 in einem frischen Kontext prüfen, insbesondere Whole-Manuscript-Scene-Shape, Dialogmuster, Pacing, Exposition und emotionale Tragfähigkeit.
+Die Rohfindings wurden anschließend gegen den tatsächlich geprüften Target und den unmittelbar vorgeschalteten Scene-Shape-Re-Review dispositioniert.
 
-## G4-Regel
+### FR-001 / scene_repetition
 
-Nur wenn der neue Manuskript-Re-Review **keine offenen Blocker/Major-Findings** meldet, darf der Status auf `READY_FOR_HUMAN_G4` wechseln.
+**Nicht als Major bestätigt.**
 
-Aktuell liegt noch **keine G4-Entscheidung** vor.
+Mehrere als Beleg genannte Szenen sind am Target gerade strukturell verschieden:
+
+- S008 = Live-Anwendung im klinischen Workflow,
+- S014 = klinischer Low-Confidence-Fall + daraus entstehender Analyseauftrag,
+- S032 = funktionaler Break-glass-Stresstest,
+- S013 = Zweitfreigabe im laufenden Stationsbetrieb mit persönlichem Konflikt.
+
+Zusätzlich hatte der unabhängige Szenen-/Beat-Re-Review desselben Targets die Whole-Book-Scene-Shape-Verteilung explizit geprüft und 0 Findings gemeldet.
+
+Disposition:
+
+`NOT_SUSTAINED_AS_MAJOR / non-blocking residual risk`
+
+### FR-002 / style_pattern
+
+Die wiederholt explizite Formulierung der zentralen Beweislast-Umkehr wird als plausibler Minor akzeptiert.
+
+Disposition:
+
+`ACCEPTED_MINOR / non-blocking`
+
+## G4-Readiness
+
+Nach Disposition:
+
+- offene Blocker: 0
+- offene bestätigte Major-Findings: 0
+- dokumentierte Minor-/Residual-Risiken: 2
+
+**READY_FOR_HUMAN_G4**
+
+## Human Gate
+
+Der vollständige Manuskriptstand ist jetzt bereit für die menschliche G4-Entscheidung.
+
+Gültiger Approval-Token:
+
+`G4-APPROVE`
+
+`G4-APPROVE` akzeptiert den vollständigen Manuskriptstand `78222a7e99c80378c35379ad42684ee332a412a6` einschließlich der transparent dokumentierten nicht blockierenden Restrisiken als kanonisches Manuskript.
+
+Bis zu diesem Token liegt noch **keine G4-Freigabe** vor.
