@@ -1,58 +1,52 @@
 # G4 Review Request – Manuskript
 
-status: FRESH_CONTEXT_REVIEW_REQUIRED
+status: APPROVED
 human_gate: G4
-candidate_target: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
+human_decision: G4-REAPPROVE
+human_date: 2026-08-31
+approved_target: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
 review_task: `MANUSCRIPT_FRESH_CONTEXT_TASK.md`
-review_result: pending
+review_result: `MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
 gate_record: `gates/G4.md`
 
-## Aktueller Stand
+## Ergebnis
 
-Der durch Human `G5-REWORK` ausgelöste Manuskript-Ausbau ist abgeschlossen.
+Der durch `G5-REWORK` ausgelöste Manuskript-Ausbau ist abgeschlossen und unabhängig geprüft.
 
-Fester Review-Kandidat:
+Freigegebener Manuskript-Snapshot:
 
 `14563bc5ea63d2b77c10e63f1d23a751e136c617`
 
-Der automatisierte Expansion Audit gegen genau diesen Stand ist erfolgreich:
+Mechanischer Audit:
 
-- 40/40 Szenen vorhanden,
+- 40/40 Szenen,
 - S001–S040 vollständig,
-- 40/40 `prose_status: expansion_rework`,
 - 39.331 Wörter,
-- harter Guard `sondern = 0`,
-- Audit-Workflow Run `33373852372`: PASS.
+- `sondern = 0`,
+- Run `33373852372`: PASS.
 
-Diese mechanische Prüfung ist **keine G4-Qualitätsfreigabe**.
+Clean-Room-Gesamtmanuskript-Review gegen exakt denselben Commit:
 
-## Noch erforderliche Prüfung
+- `review_status: CLEAN_FRESH_CONTEXT`
+- `finding_count: 2`
+- 2 Minor-Findings
+- 0 Major-Findings
+- 0 Blocker
+- `g4_readiness: READY`
 
-Vor Human G4-Reapproval ist genau ein unabhängiger semantischer Gesamtmanuskript-Review erforderlich.
+## Akzeptierte Minor-Risiken
 
-Der verbindliche Clean-Room-Auftrag ist:
+1. Wiederkehrende Eva-Übergangs-/Blickformeln und kurze funktionale Dialog-Pingpong-Strukturen.
+2. Erkennbare Wiederholung des Szenenträgers `Daten/Regel → Prüfung/Klärung → Eva-Reaktion` in Teilen des mittleren Governance-/Review-Clusters.
 
-`MANUSCRIPT_FRESH_CONTEXT_TASK.md`
+Beide Findings sind `prose`-Level und nicht blockierend. Das Human-GO akzeptiert diese Restpunkte ausdrücklich; daraus wird keine neue automatische Rework-Schleife eröffnet.
 
-Er muss in einer wirklich kontextfreien Session gegen den festen Commit `14563bc5ea63d2b77c10e63f1d23a751e136c617` ausgeführt werden.
+## Human Gate
 
-Der aktuelle Arbeitskontext, in dem der Ausbau entstanden ist, ist dafür ausdrücklich **nicht unabhängig**.
+**G4-REAPPROVE**
 
-## Historische G4-Freigabe
+Der Commit `14563bc5ea63d2b77c10e63f1d23a751e136c617` ist damit das kanonische Manuskript für die nächste Produktionsphase.
 
-Der frühere Manuskriptstand
+## Nächster Schritt
 
-`78222a7e99c80378c35379ad42684ee332a412a6`
-
-war am 2026-08-31 Human-G4-APPROVED.
-
-Diese Freigabe bleibt historisch dokumentiert, deckt den substanziell erweiterten Text jedoch nicht ab.
-
-## Nächste Entscheidung
-
-Nach dem Clean-Room-Review gilt:
-
-- `g4_readiness: READY` → Human `G4-REAPPROVE` kann entscheiden.
-- `g4_readiness: REWORK_REQUIRED` → nur bestätigte relevante Findings dispositionieren; keine automatische weitere Ausbauschleife.
-
-Bis dahin bleibt G4 offen.
+Neuer deterministischer Produktionsbuild aus dem freigegebenen Commit, danach erneute Human-G5-Entscheidung.
