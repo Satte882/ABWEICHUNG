@@ -48,8 +48,10 @@ Der historische Stand bleibt nachvollziehbar, ist aber nicht mehr kanonisch für
 
 ## Nächster Schritt
 
-1. Clean-Room-Review gegen `c0bc7fc5...`.
+1. `EVIDENCE_BOUND_REVIEW` gegen `c0bc7fc5...`.
 2. Human `G4-REAPPROVE`, sofern `g4_readiness: READY`.
 3. Danach G5 für die bereits neu gebauten Produktionsdateien erneut prüfen und Human `G5-APPROVE` setzen.
+
+Ein vollständig kontextfreier Chat ist für Schritt 1 nicht erforderlich. Vorwissen ist zulässig, Finding-Evidenz muss jedoch ausschließlich aus dem fixierten Zielstand stammen.
 
 **G5 ist bis dahin STALE_PENDING_G4.**
