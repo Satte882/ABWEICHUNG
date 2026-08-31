@@ -1,0 +1,131 @@
+name: Rebuild final DOCX post rhythm
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rebuild-final-docx-post-rhythm-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install document tooling
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install python-docx pyphen
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libreoffice-writer python3-uno hyphen-de poppler-utils \
+            fonts-noto-core fonts-noto-extra fonts-dejavu fonts-dejavu-extra \
+            fonts-liberation fonts-linuxlibertine fonts-crosextra-caladea fonts-crosextra-carlito
+          fc-cache -f
+
+      - name: Validate post-rhythm manuscript source
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/final_prose_rhythm_audit.py --output /tmp/final-build-audit.md --status FINAL_BUILD_CHECK
+          grep -Fq 'Szenen: **40**' /tmp/final-build-audit.md
+          grep -Fq 'Wörter in Szenen-Prosa: **39042**' /tmp/final-build-audit.md
+          grep -Fq 'Geviertstrich `—`: **0**' /tmp/final-build-audit.md
+          grep -Fq '`sondern`: **0**' /tmp/final-build-audit.md
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('ABWEICHUNG_FINAL.md')
+          t = p.read_text(encoding='utf-8')
+          assert t.startswith('# ABWEICHUNG\n\n*Wenn die Maschine recht hat*')
+          assert 'Du darfst widersprechen.' in t
+          assert 'Die Beweislast liegt bei dir.' in t
+          assert len(re.findall(r'^## Kapitel \d+ – ', t, re.M)) == 40
+          assert '—' not in t
+          assert not re.search(r'\bsondern\b', t, re.I)
+          assert t.rstrip().endswith('Eva wartete.')
+          print('post-rhythm manuscript source OK')
+          PY
+
+      - name: Build DOCX
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/build_final_docx.py --source ABWEICHUNG_FINAL.md --output ABWEICHUNG_FINAL.docx
+          unzip -t ABWEICHUNG_FINAL.docx >/dev/null
+
+      - name: Materialize table of contents
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --depth 1 https://github.com/Satte882/Buch.git /tmp/Buch
+          /usr/bin/python3 /tmp/Buch/scripts/update_docx_toc.py ABWEICHUNG_FINAL.docx
+          unzip -t ABWEICHUNG_FINAL.docx >/dev/null
+
+      - name: Structural and render QA
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from docx import Document
+          from docx.oxml.ns import qn
+          doc = Document('ABWEICHUNG_FINAL.docx')
+          headings = [p.text for p in doc.paragraphs if p.style and p.style.name == 'Heading 1']
+          assert len(headings) == 40, len(headings)
+          assert headings[0] == 'Kapitel 1 – Die letzte Kapazität'
+          assert headings[-1] == 'Kapitel 40 – Was sieht KORA nicht?'
+          assert all(abs(s.page_width.cm - 12.85) < 0.02 for s in doc.sections)
+          assert all(abs(s.page_height.cm - 19.84) < 0.02 for s in doc.sections)
+          assert all(abs(s.top_margin.cm - 1.22) < 0.02 for s in doc.sections)
+          assert all(abs(s.bottom_margin.cm - 1.22) < 0.02 for s in doc.sections)
+          assert all(abs(s.left_margin.cm - 1.95) < 0.02 for s in doc.sections)
+          assert all(abs(s.right_margin.cm - 1.40) < 0.02 for s in doc.sections)
+          soft = sum(len(p._p.xpath('.//w:softHyphen')) for p in doc.paragraphs)
+          assert soft > 20000, soft
+          settings = doc.settings._element
+          for name in ('autoHyphenation', 'mirrorMargins', 'evenAndOddHeaders'):
+              assert settings.find(qn(f'w:{name}')) is not None, name
+          full = '\n'.join(p.text for p in doc.paragraphs)
+          assert '—' not in full
+          assert full.rstrip().endswith('Eva wartete.')
+          print(f'structural QA OK: headings={len(headings)} softHyphens={soft}')
+          PY
+
+          mkdir -p /tmp/qa
+          libreoffice --headless --convert-to pdf --outdir /tmp/qa ABWEICHUNG_FINAL.docx >/dev/null
+          PAGES=$(pdfinfo /tmp/qa/ABWEICHUNG_FINAL.pdf | awk '/^Pages:/ {print $2}')
+          test -n "$PAGES"
+          if [ "$PAGES" -lt 300 ] || [ "$PAGES" -gt 380 ]; then
+            echo "Unexpected page count: $PAGES"
+            exit 1
+          fi
+          pdftotext /tmp/qa/ABWEICHUNG_FINAL.pdf /tmp/qa/final.txt
+          grep -q 'ABWEICHUNG' /tmp/qa/final.txt
+          grep -q 'Wenn die Maschine recht hat' /tmp/qa/final.txt
+          grep -q 'Die Beweislast liegt bei dir' /tmp/qa/final.txt
+          grep -q 'Eva wartete.' /tmp/qa/final.txt
+          echo "render QA OK: $PAGES pages"
+
+      - name: Commit rebuilt final DOCX and self-clean
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/rebuild-final-docx-post-rhythm-once.yml
+          git add ABWEICHUNG_FINAL.md ABWEICHUNG_FINAL.docx
+          git commit -m 'production: rebuild final DOCX after prose rhythm pass'
+          git pull --rebase origin main
+          git push origin HEAD:main
