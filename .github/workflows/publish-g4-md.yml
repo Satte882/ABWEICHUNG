@@ -75,3 +75,5 @@ jobs:
           git commit -m 'production: publish final external-v2 scene rework'
           git pull --rebase origin main
           git push origin HEAD:main
+
+# external-v2-final-regression-trigger
