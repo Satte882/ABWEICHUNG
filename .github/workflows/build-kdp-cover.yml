@@ -48,7 +48,15 @@ jobs:
           height = float(box.height) / 72
           assert abs(width - 11.119916) < 0.001, (width, height)
           assert abs(height - 8.060) < 0.001, (width, height)
-          print('cover geometry OK', width, height)
+          text = reader.pages[0].extract_text() or ''
+          for required in (
+              'Zwischen Mensch und System',
+              'Du darfst widersprechen.',
+              'Die Beweislast liegt bei dir.',
+          ):
+              assert required in text, (required, text)
+          assert 'Wenn die Maschine recht hat' not in text, text
+          print('cover geometry/text OK', width, height)
           PY
           if pdffonts ABWEICHUNG_COVER.pdf | tail -n +3 | awk 'NF && $4 != "yes" {exit 1}'; then
             echo 'font embedding OK'
@@ -79,6 +87,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'No cover change.'
           else
-            git commit -m 'production: rebuild ABWEICHUNG cover with safe title fit'
+            git commit -m 'production: build approved ABWEICHUNG cover'
             git push
           fi

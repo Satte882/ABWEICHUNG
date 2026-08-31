@@ -10,7 +10,7 @@ language: Deutsch
 | Feld | Wert |
 |---|---|
 | Titel | `ABWEICHUNG` |
-| Untertitel | `Wenn die Maschine recht hat` |
+| Untertitel | `Zwischen Mensch und System` |
 | Reihe | keine |
 | Auflagennummer | leer |
 | Primärautor | **OPEN USER VALUE** – Veröffentlichungsname noch verbindlich festlegen |

@@ -10,12 +10,19 @@ date: 2026-08-31
 
 ## Untertitel
 
-**Wenn die Maschine recht hat**
+**Zwischen Mensch und System**
 
 ## Leitsatz / Tagline
 
 > **Du darfst widersprechen.**  
 > **Die Beweislast liegt bei dir.**
+
+## Cover-Hierarchie
+
+1. `ABWEICHUNG`
+2. kursiv: `Zwischen Mensch und System`
+3. Flatline mit Ausschlag
+4. `Du darfst widersprechen.` / `Die Beweislast liegt bei dir.`
 
 ## Status der Kapitelüberschriften
 

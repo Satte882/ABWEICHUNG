@@ -1,6 +1,6 @@
 # ABWEICHUNG
 
-**Wenn die Maschine recht hat**
+**Zwischen Mensch und System**
 
 Psychologischer Near-Future-Thriller über Ergebnisqualität, Verantwortung und die schleichende Verschiebung menschlicher Entscheidungsmacht.
 
@@ -42,7 +42,7 @@ Verbindliche Gate-Records liegen unter `gates/`.
 | operative Upload-/Submission-Checkliste | `KDP_SUBMISSION.md` |
 | verbindliche Cover-Spezifikation | `COVER_SPEC.md` |
 
-Das Cover ist für den aktuellen **333-Seiten-Stand, Schwarzweiß auf weißem Papier** erzeugt. Die Live-Seitenzahl im KDP-Previewer bleibt für die endgültige Rückenbreite maßgeblich. Ändert KDP die Seitenzahl, wird dasselbe Design mit `scripts/build_kdp_cover.py` neu erzeugt. Die Titelbreite wird dabei gegen eine feste Sicherheitszone geprüft; aus demselben PDF erzeugt der Workflow zusätzlich ein PNG-Preview.
+Das Cover ist für den aktuellen **333-Seiten-Stand, Schwarzweiß auf weißem Papier** erzeugt. Die Live-Seitenzahl im KDP-Previewer bleibt für die endgültige Rückenbreite maßgeblich. Ändert KDP die Seitenzahl, wird dasselbe Design mit `scripts/build_kdp_cover.py` neu erzeugt. Der Rücken enthält keinen Text; sein vertikales Linien-/Ausschlagmotiv ist exakt das um 90° gedrehte Vorderseitenmotiv und wird als ein durchgängiger Pfad erzeugt. Die Rückseite enthält ausschließlich eine gerade horizontale Flatline.
 
 ## Aktive Story-/Research-Quellen
 

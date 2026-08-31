@@ -1,35 +1,47 @@
 # KDP-Cover – ABWEICHUNG
 
-status: current-333-page-cover-candidate
+status: APPROVED-333-page-cover
+approved_by: human
+date: 2026-08-31
 
 ## Verbindliches Design
 
-Das Printcover ist bewusst minimalistisch. Es enthält **keinen Autorennamen, kein Genrelabel, keinen Rückseitentext und keine ISBN-/Barcode-Platzhaltergrafik**.
+Das Printcover ist minimalistisch, vollständig schwarz auf weiß und wird als **flaches Full-Wrap-Cover** produziert. Kein Buch-Mockup, keine 3D-Darstellung, keine Schatten-/Falzsimulation.
+
+Es enthält **keinen Autorennamen, kein Genrelabel, keinen Rückseitentext und keine ISBN-/Barcode-Platzhaltergrafik**.
 
 ### Vorderseite
 
-- Titel: `ABWEICHUNG`
-- der Titel wird innerhalb der beschnittenen Vorderseite zentriert
-- links und rechts bleiben jeweils mindestens **0,675 Zoll Sicherheitsabstand** innerhalb der Trim-Fläche
-- maximale Titelbreite damit: **3,710 Zoll**
-- Tracking: **1,5 pt**; die Schriftgröße wird im Build automatisch reduziert, bis die Sicherheitszone eingehalten wird
-- darunter eine horizontale Linie über die **komplette Breite der Vorderseite**
-- in der Linie ein einzelner Ausschlag
-- darunter ausschließlich der Untertitel: `Wenn die Maschine recht hat`
-- sonst nichts
+Von oben nach unten:
+
+1. Titel: `ABWEICHUNG`
+2. direkt darunter kursiv: `Zwischen Mensch und System`
+3. horizontale Linie über die komplette Breite der Vorderseite mit genau einem integrierten Ausschlag
+4. darunter zweizeilig:
+   - `Du darfst widersprechen.`
+   - `Die Beweislast liegt bei dir.`
+
+Titelregeln:
+
+- innerhalb der beschnittenen Vorderseite zentriert
+- links und rechts mindestens **0,675 Zoll Sicherheitsabstand** innerhalb der Trim-Fläche
+- maximale Titelbreite: **3,710 Zoll**
+- Tracking: **1,5 pt**; Schriftgröße wird im Build automatisch reduziert, bis die Sicherheitszone eingehalten wird
 
 ### Buchrücken
 
-- kein Titel
-- kein Text
-- exakt dasselbe Linien-/Ausschlagmotiv wie auf der Vorderseite, um 90 Grad gedreht
-- die vertikale Linie läuft über die **komplette Höhe des Buchrückens**
+- **kein Text**
+- **kein Titel**
+- ausschließlich eine schwarze vertikale Linie von ganz oben bis ganz unten
+- in diese Linie ist genau derselbe Ausschlag wie auf der Vorderseite integriert, lediglich um **90 Grad gedreht**
+- Linie und Ausschlag bilden **einen einzigen durchgängigen Pfad**; der Ausschlag darf nicht als separates Symbol neben oder auf der Linie erscheinen
 
 ### Rückseite
 
-- ausschließlich eine durchgehende horizontale Flatline über die komplette Rückseitenbreite
+- ausschließlich **eine gerade horizontale schwarze Linie** über die komplette Rückseitenbreite
+- **kein Ausschlag** auf der Rückseite
 - sonst vollständig leer
-- **kein Rahmen, kein ISBN-Feld, kein Barcode-Dummy, kein Platzhaltertext**
+- kein Rahmen, kein ISBN-Feld, kein Barcode-Dummy, kein Platzhaltertext
 - Amazon KDP setzt den Barcode selbst
 
 ## Aktuelle Produktionsgeometrie
@@ -49,12 +61,14 @@ KDP-Faktor für Schwarzweiß auf weißem Papier:
 - Gesamthöhe: `0,125 + 7,81 + 0,125 = 8,060"`
 - metrisch: ca. **282,446 × 204,724 mm**
 
-`ABWEICHUNG_COVER.pdf` wird aktuell exakt in dieser Größe erzeugt.
+`ABWEICHUNG_COVER.pdf` wird exakt in dieser Größe erzeugt.
 
 ## Technische Regeln
 
 - eine PDF-Seite
 - Full-Wrap: Rückseite | Rücken | Vorderseite
+- flache Produktionsgrafik, kein Mockup
+- ausschließlich Schwarz und Weiß
 - keine Crop Marks oder Hilfslinien
 - Fonts vollständig eingebettet
 - weißer Full-Bleed-Hintergrund
@@ -62,8 +76,8 @@ KDP-Faktor für Schwarzweiß auf weißem Papier:
 - keine Transparenz notwendig
 - keine Anmerkungen/Formfelder
 - Barcode-Bereich gestalterisch unberührt
-- der Cover-Build muss die Titelbreite gegen die definierte Sicherheitszone prüfen
-- aus demselben PDF wird im Workflow zusätzlich ein PNG-Preview erzeugt; PDF und Bild dürfen nicht getrennt gestaltet werden
+- Titelbreite wird gegen die definierte Sicherheitszone geprüft
+- PNG-Preview wird ausschließlich aus demselben Produktions-PDF gerendert
 
 Build:
 
@@ -73,12 +87,12 @@ python scripts/build_kdp_cover.py --pages 333 --paper white --output ABWEICHUNG_
 
 ## Live-KDP-Gate
 
-Die 333 Seiten stammen aus dem validierten Repository-/LibreOffice-Render. Für den finalen Upload ist trotzdem die im **KDP-Previewer** tatsächlich gemeldete Seitenzahl maßgeblich.
+Die 333 Seiten stammen aus dem validierten Repository-/LibreOffice-Render. Für den finalen Upload ist die im **KDP-Previewer** tatsächlich gemeldete Seitenzahl maßgeblich.
 
 Wenn KDP eine andere Seitenzahl meldet:
 
-1. keine Gestaltung verändern,
-2. nur die tatsächliche Seitenzahl in den Cover-Build übernehmen,
+1. Gestaltung unverändert lassen,
+2. tatsächliche Seitenzahl in den Cover-Build übernehmen,
 3. Rückenbreite und Gesamtbreite neu berechnen lassen,
 4. `ABWEICHUNG_COVER.pdf` neu erzeugen und preflighten,
 5. PNG-Preview aus genau diesem PDF rendern und visuell prüfen,

@@ -12,7 +12,7 @@ Diese Datei ist die operative Feld-für-Feld-Checkliste. Positionierung und Begr
 |---|---|
 | Sprache | Deutsch |
 | Buchtitel | `ABWEICHUNG` |
-| Untertitel | `Wenn die Maschine recht hat` |
+| Untertitel | `Zwischen Mensch und System` |
 | Reihe | leer |
 | Auflagennummer | leer |
 | Primärautor | **OPEN USER VALUE** |
@@ -102,19 +102,22 @@ Coverinhalt:
 ### Vorderseite
 
 - `ABWEICHUNG`
-- horizontale Linie über die komplette Vorderseitenbreite mit einem Ausschlag
-- darunter `Wenn die Maschine recht hat`
-- sonst nichts
+- kursiv darunter `Zwischen Mensch und System`
+- horizontale Linie über die komplette Vorderseitenbreite mit einem integrierten Ausschlag
+- darunter `Du darfst widersprechen.`
+- darunter `Die Beweislast liegt bei dir.`
 
 ### Buchrücken
 
 - kein Text
 - dieselbe Linie mit Ausschlag wie vorn, um 90° gedreht
+- Linie und Ausschlag sind ein einziger durchgängiger vertikaler Pfad
 - Linie läuft von oben bis unten über den vollständigen Rücken
 
 ### Rückseite
 
-- ausschließlich eine komplette horizontale Flatline
+- ausschließlich eine komplette gerade horizontale Flatline
+- kein Ausschlag
 - sonst leer
 - **kein Barcode-Rahmen, kein ISBN-Feld, kein Dummy, kein Rückseitentext**
 - Amazon KDP setzt den Barcode selbst

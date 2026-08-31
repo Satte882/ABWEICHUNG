@@ -39,13 +39,19 @@ def build(output: Path, pages: int, paper: str):
         "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
         "/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf",
     ])
+    italic = find_font([
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Oblique.ttf",
+        "/usr/share/fonts/truetype/liberation2/LiberationSans-Italic.ttf",
+    ])
     pdfmetrics.registerFont(TTFont("CoverTitle", bold))
-    pdfmetrics.registerFont(TTFont("CoverSub", regular))
+    pdfmetrics.registerFont(TTFont("CoverText", regular))
+    pdfmetrics.registerFont(TTFont("CoverItalic", italic))
 
     spine_left = (BLEED + TRIM_W) * inch
     spine_right = (BLEED + TRIM_W + spine) * inch
     front_trim_right = (BLEED + TRIM_W + spine + TRIM_W) * inch
     front_center = (spine_right + front_trim_right) / 2
+    spine_center = (spine_left + spine_right) / 2
 
     c = canvas.Canvas(
         str(output),
@@ -54,7 +60,7 @@ def build(output: Path, pages: int, paper: str):
         initialFontName="CoverTitle",
         initialFontSize=10,
     )
-    c.setTitle("ABWEICHUNG - KDP Paperback Cover")
+    c.setTitle("ABWEICHUNG - Zwischen Mensch und System - KDP Paperback Cover")
     c.setSubject(
         f"5.06 x 7.81 in; {pages} pages; B/W {paper} paper; "
         f"{cover_w:.6f} x {cover_h:.3f} in"
@@ -65,9 +71,11 @@ def build(output: Path, pages: int, paper: str):
     c.setStrokeColor(black)
     c.setLineWidth(1.2)
 
-    base_y = h * 0.515
+    base_y = h * 0.505
 
     def heartbeat(cx, cy):
+        # Canonical horizontal pulse motif. The spine uses this exact geometry,
+        # rotated 90 degrees, so both motifs are identical by construction.
         points = [
             (-0.23, 0.00),
             (-0.14, 0.00),
@@ -81,29 +89,27 @@ def build(output: Path, pages: int, paper: str):
         ]
         return [(cx + x * inch, cy + y * inch) for x, y in points]
 
-    def stroke_poly(points):
+    def stroke_path(points):
         path = c.beginPath()
         path.moveTo(*points[0])
         for point in points[1:]:
             path.lineTo(*point)
         c.drawPath(path, stroke=1, fill=0)
 
-    # Back cover: pure flatline, otherwise blank.
+    # Back cover: one straight horizontal flatline only.
     c.line(0, base_y, spine_left, base_y)
 
-    # Front cover: complete-width line with one pulse.
+    # Front cover: one continuous horizontal line with one integrated pulse.
     pulse = heartbeat(front_center, base_y)
-    c.line(spine_right, base_y, pulse[0][0], base_y)
-    stroke_poly(pulse)
-    c.line(pulse[-1][0], base_y, w, base_y)
+    front_line = [(spine_right, base_y), *pulse, (w, base_y)]
+    stroke_path(front_line)
 
-    # Spine: same motif rotated 90 degrees, full height, no text.
-    spine_center = (spine_left + spine_right) / 2
+    # Spine: the exact front-cover pulse rotated 90 degrees and integrated into
+    # a single continuous vertical path from bottom bleed edge to top bleed edge.
     raw = heartbeat(0, 0)
     rotated = [(spine_center - y, base_y + x) for x, y in raw]
-    c.line(spine_center, 0, spine_center, rotated[0][1])
-    stroke_poly(rotated)
-    c.line(spine_center, rotated[-1][1], spine_center, h)
+    spine_line = [(spine_center, 0), *rotated, (spine_center, h)]
+    stroke_path(spine_line)
 
     def tracked(text, font, size, tracking, cx, y):
         widths = [stringWidth(ch, font, size) for ch in text]
@@ -137,11 +143,15 @@ def build(output: Path, pages: int, paper: str):
         title_size,
         TITLE_TRACKING,
         front_center,
-        h * 0.675,
+        h * 0.700,
     )
 
-    c.setFont("CoverSub", 12.5)
-    c.drawCentredString(front_center, h * 0.392, "Wenn die Maschine recht hat")
+    c.setFont("CoverItalic", 13.0)
+    c.drawCentredString(front_center, h * 0.625, "Zwischen Mensch und System")
+
+    c.setFont("CoverText", 12.5)
+    c.drawCentredString(front_center, h * 0.375, "Du darfst widersprechen.")
+    c.drawCentredString(front_center, h * 0.340, "Die Beweislast liegt bei dir.")
 
     c.showPage()
     c.save()

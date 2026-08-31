@@ -20,7 +20,7 @@ Eva kämpft nicht gegen eine böse Maschine und nicht gegen einen offensichtlich
 
 **Wie lange darf ein Mensch eine schlechtere Entscheidung treffen, wenn eine Maschine nachweislich die bessere kennt?**
 
-*ABWEICHUNG – Wenn die Maschine recht hat* ist ein psychologischer Near-Future-Thriller über Verantwortung, Schuld, Evidenz und die Grenze zwischen menschlicher Letztentscheidung und messbar besseren Ergebnissen.
+*ABWEICHUNG – Zwischen Mensch und System* ist ein psychologischer Near-Future-Thriller über Verantwortung, Schuld, Evidenz und die Grenze zwischen menschlicher Letztentscheidung und messbar besseren Ergebnissen.
 
 ## KDP-HTML
 
@@ -32,7 +32,7 @@ Was danach geschieht, ist jedes Mal vernünftig: Abweichungen müssen begründet
 Und trotzdem wird aus Freiheit Schritt für Schritt eine begründungspflichtige Ausnahme.<br><br>
 Eva kämpft nicht gegen eine böse Maschine und nicht gegen einen offensichtlichen Fehler. Sie kämpft mit der Frage, die immer schwerer zu beantworten ist:<br><br>
 <b>Wie lange darf ein Mensch eine schlechtere Entscheidung treffen, wenn eine Maschine nachweislich die bessere kennt?</b><br><br>
-<i>ABWEICHUNG – Wenn die Maschine recht hat</i> ist ein psychologischer Near-Future-Thriller über Verantwortung, Schuld, Evidenz und die Grenze zwischen menschlicher Letztentscheidung und messbar besseren Ergebnissen.
+<i>ABWEICHUNG – Zwischen Mensch und System</i> ist ein psychologischer Near-Future-Thriller über Verantwortung, Schuld, Evidenz und die Grenze zwischen menschlicher Letztentscheidung und messbar besseren Ergebnissen.
 ```
 
 ## Regel
