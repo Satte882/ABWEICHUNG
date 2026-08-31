@@ -1,26 +1,26 @@
 # Szene S018 – Meine Fälle
 
 scene_id: S018
-scene_status: reworked_after_manuscript_review
+scene_status: reworked_external_v2
 block_id: B09
 event_refs: E025
 pov: Eva
 research_refs: R-05
 
 ## Funktion
-Eva selbst zum Gegenstand der Evidenz machen – auf ihre eigene Initiative und als persönliche Gegenprobe, nicht als weitere Besprechungsszene.
+Eva selbst zum Gegenstand der Evidenz machen, ohne erneut eine nächtliche Register-/Bildschirmanalyse als Hauptträger zu verwenden.
 
 ## Ausgangslage
-Nach dem Streit über personenbezogene Governance bleibt Eva mit dem Gedanken zurück, dass gute Overrides in Compliance-Daten zu bloßen Abweichungen verflachen könnten. Sie nimmt sich außerhalb einer Sitzung ihr eigenes Override-Register vor.
+Eva nennt aus dem Gedächtnis spontan drei vermeintlich gute Overrides. Neles einfache Nachfrage nach den übrigen Fällen macht die Selektivität dieser Erinnerung sichtbar.
 
 ## Konflikt / Entscheidung
-Eva wählt bewusst nicht nur ihre vermeintlich besten Fälle aus, sondern gibt ihre vollständige relevante Fallgruppe frei. Sie formuliert für Jan eine fallmixbereinigte Auswertung mit Trennung nach Konfidenz und Entscheidungsklasse und kopiert Miriam ein. Damit akzeptiert sie ausdrücklich das Risiko, dass ihre eigene Erinnerung widerlegt wird.
+Eva lässt sich nur die vollständige relevante Fallliste geben und markiert zunächst, welche Fälle sie aus eigener Erinnerung sofort mit Gesicht oder lokalem Ausgang verbindet. Die Verzerrung wird bereits in dieser physischen Auswahl sichtbar. Danach übergibt sie Jan bewusst die vollständige Kohorte: fallmixbereinigt, high confidence separat, Entscheidungsklassen sichtbar, ohne Auswahl durch Eva.
 
 ## Informationsverschiebung
-Evas Argument wird persönlich falsifizierbar. Die spätere Bilanz kann nicht als von außen aufgezwungene Prüfung abgetan werden.
+Evas Argument wird persönlich falsifizierbar. Zugleich wird konkret erfahrbar, warum klinische Erfahrung kein neutrales Archiv der verbundweiten Folgen ist.
 
 ## Figurenbewegung
-Professionelles Selbstvertrauen wird zu einer freiwilligen Wette gegen die eigene mögliche Verzerrung.
+Professionelles Selbstvertrauen wird zu einer freiwilligen Wette gegen die eigene mögliche Erinnerungsverzerrung.
 
 ## Konsequenz
-Jan beginnt die personenbezogene Bilanz; Miriam akzeptiert die Gegenprobe ohne Ergebnisvorgabe.
+Jan beginnt die personenbezogene Bilanz; Evas drei handverlesene „Beweise“ bleiben als Kontrast zur vollständigen Auswertung erhalten.
