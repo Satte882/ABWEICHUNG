@@ -23,20 +23,29 @@ jobs:
       - name: Build from G4-approved manuscript
         run: |
           python scripts/build_production.py \
-            --source-ref 78222a7e99c80378c35379ad42684ee332a412a6 \
+            --source-ref 14563bc5ea63d2b77c10e63f1d23a751e136c617 \
             --out-dir production_build
 
       - name: Verify deterministic source identity
         run: |
-          test "$(git rev-parse 78222a7e99c80378c35379ad42684ee332a412a6^{commit})" = "78222a7e99c80378c35379ad42684ee332a412a6"
+          test "$(git rev-parse 14563bc5ea63d2b77c10e63f1d23a751e136c617^{commit})" = "14563bc5ea63d2b77c10e63f1d23a751e136c617"
           test "$(find production_build -maxdepth 1 -type f | wc -l)" -eq 3
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          info = json.loads(Path('production_build/BUILD_INFO.json').read_text(encoding='utf-8'))
+          assert info['source_commit'] == '14563bc5ea63d2b77c10e63f1d23a751e136c617', info
+          assert info['scene_count'] == 40, info
+          assert info['word_count'] == 39331, info
+          assert info['hard_guard_sondern_count'] == 0, info
+          PY
           sha256sum production_build/ABWEICHUNG_v01.md production_build/ABWEICHUNG_v01.html
           cat production_build/BUILD_INFO.json
 
       - name: Upload production artifact
         uses: actions/upload-artifact@v4
         with:
-          name: abweichung-production-v01
+          name: abweichung-production-g5-rebuild
           path: production_build/
           if-no-files-found: error
           retention-days: 90
