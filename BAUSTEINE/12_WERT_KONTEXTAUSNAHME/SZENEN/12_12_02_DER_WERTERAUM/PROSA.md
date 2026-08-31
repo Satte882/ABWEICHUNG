@@ -1,234 +1,184 @@
 # Prosa – S025
 
 scene_id: S025
-prose_status: final_rhythm_rework
+prose_status: external_major_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Der erste Fall war einfach genug, dass niemand stritt.
+Der Patient hatte seine Grenze bereits gesetzt.
 
-Die Ärztin aus dem Ethikkonsil hatte ihn bewusst an den Anfang gesetzt.
+Nicht an diesem Morgen. Monate vorher.
 
-Dokumentierter Patientenwille. Eine medizinisch erfolgversprechendere Behandlung war verfügbar. Der Patient hatte sie nach Aufklärung abgelehnt.
+Eva stand mit Nele vor dem Rechner am Ende des Flurs und las den dokumentierten Therapievermerk zum zweiten Mal. Keine invasive Beatmung. Keine Eskalation über das festgelegte Therapieziel hinaus. Der Eintrag war mehrfach bestätigt, zuletzt bei der Aufnahme.
 
-Auf dem Bildschirm stand KORAs Prognose daneben. „Wert-/Kontextabweichung“, sagte die Ärztin. Eva nickte. Miriam ebenfalls. Nele schrieb mit.
+Daneben stand KORAs Empfehlung.
 
-„Und der Grund muss im Datensatz sichtbar sein“, sagte Miriam.
+**Eskalation medizinisch vorteilhaft.**
 
-„Der dokumentierte Wille“, sagte Eva. „Nicht nur der Satz, dass der Arzt abweicht.“
+Hohe Konfidenz.
 
-Die Ärztin aus dem Ethikkonsil wechselte zum nächsten Testfall.
+Nele sah vom Bildschirm zur halb geöffneten Zimmertür.
 
-Diesmal wurde es langsamer.
+„KORA liegt nicht falsch.“
 
-Das Therapieziel war begrenzt. Eine weitere Eskalation hätte medizinisch eine günstigere kurzfristige Prognose versprochen, zugleich aber eine Behandlungsintensität bedeutet, die dem dokumentierten Ziel nicht entsprach.
+„Nein.“
 
-Nele las die Fallbeschreibung zweimal.
+Im Zimmer sprach eine Pflegekraft leise mit dem Patienten. Seine Stimme war nicht zu verstehen.
 
-„KORA liegt hier nicht falsch.“
+Eva öffnete die Einflussfaktoren. KORA hatte den klinischen Zustand korrekt erfasst. Es sah die Verschlechterung, die Reserven, das Risiko.
 
-„Nein“, sagte Eva.
+Was es nicht als Ziel setzte, war die Grenze, die der Patient selbst gezogen hatte.
 
-„Dann akzeptieren wir die Prognose und treffen trotzdem eine andere Entscheidung.“
-
-„Ja.“
-
-Nele tippte mit dem Stift gegen ihr Notizbuch.
-
-„Dann muss das im System klar getrennt sein. Sonst sieht später niemand, ob jemand die Prognose bestritten hat oder eine Werteentscheidung getroffen hat.“
-
-Miriam sah zu Eva.
-
-„Genau deshalb sitzen wir hier.“
-
-Eva ignorierte den Ton.
-
-Die Ärztin aus dem Ethikkonsil schob den dritten Fall auf den Bildschirm.
-
-**Behandler kennt Patienten seit Jahren und hält die Empfehlung für unpassend.**
-
-Darunter keine weitere Information.
-
-Eva brauchte nicht lange.
-
-„Zu wenig.“
-
-Miriam hob eine Augenbraue.
-
-„Warum?“
-
-„Weil die Behandlerbeziehung noch keinen patientenspezifischen Grund liefert.“
-
-„Du kennst den Patienten seit Jahren“, sagte Nele. „Das kann doch relevant sein.“
-
-„Kann es.“ Eva zeigte auf die Fallbeschreibung. „Dann muss da stehen, was ich durch diese Beziehung weiß.“
-
-„Zum Beispiel?“
-
-„Ein dokumentierter Therapiewunsch. Ein wiederholt geäußerter Wille. Eine konkrete Belastung, die in der Empfehlung nicht als Entscheidungswert abgebildet ist.“
-
-Nele nickte langsam.
-
-„Dann trägt die Information die Abweichung.“
-
-„Genau.“
-
-Miriam ergänzte: „Die Beziehung erklärt, woher die Information kommt. Sie ist nicht automatisch der Grund.“
-
-Die Ärztin aus dem Ethikkonsil wechselte weiter.
-
-**Klinische Intuition.**
-
-Diesmal entstand für eine Sekunde fast etwas wie gemeinsames Unbehagen.
-
-Eva lehnte sich zurück.
-
-Das Wort war zu groß und zu klein zugleich. Es konnte hochentwickelte Mustererkennung meinen. Es konnte auch heißen, dass jemand keine Lust hatte, seinen Widerspruch genauer zu prüfen.
-
-Miriam brach die Stille.
-
-„Prognosewiderspruch.“
-
-Nele sah zu ihr.
-
-„Immer?“
-
-„Wenn die Intuition sagt, KORAs medizinische Einschätzung stimmt in diesem Fall nicht.“
+„Dann ist das kein Prognosefehler“, sagte Nele.
 
 Eva nickte.
 
-„Dann soll der Arzt benennen, was er sieht. Befund, Verlauf, fehlende Information. Irgendetwas, das die Prognose konkret betrifft.“
+Vor einigen Monaten hätte dieser Satz die Diskussion fast beendet. Wenn KORA medizinisch richtig lag, musste die Abweichung irgendwo gegen seine Bewertung argumentieren.
 
-„Und wenn er nichts benennen kann?“
+Jetzt war genau das das Problem.
 
-Eva sah auf das Wort auf dem Bildschirm.
+„Ruf Miriam an“, sagte Eva. „Und die Ethik.“
 
-„Dann ist Intuition kein eigener Werteweg.“
+Nele sah sie an. „Für den Fall?“
 
-Nele schrieb das nicht sofort auf.
+„Für die Regel. Der Fall ist die Regel.“
 
-„Das ist härter als früher.“
+Die Ärztin aus dem Ethikkonsil kam zuerst. Miriam wenige Minuten später. Niemand ging in einen Besprechungsraum. Sie blieben am Arbeitsplatz, während die Versorgung im Zimmer weiterlief.
+
+Eva zeigte nur drei Dinge: die Empfehlung, das dokumentierte Therapieziel, die aktuelle Situation.
+
+Die Ethikärztin brauchte keine lange Einordnung.
+
+„Die Prognose kann stimmen. Das Therapieziel kann trotzdem eine andere Entscheidung verlangen.“
+
+Miriam las den Vermerk vollständig.
+
+„Dann muss im System sichtbar sein, dass die Prognose akzeptiert wird.“
+
+Nele verschränkte die Arme. „Warum ist das wichtig?“
+
+Miriam deutete auf den Bildschirm. „Weil später sonst jeder Abweichung derselbe Fehler unterstellt wird. Entweder KORA habe medizinisch falsch gelegen oder der Arzt habe die Prognose ignoriert. Hier stimmt beides nicht.“
+
+Eva sah wieder ins Zimmer.
+
+Der Patient hatte keinen abstrakten Werteraum eröffnet. Er hatte eine konkrete Grenze gesetzt.
+
+„Dann brauchen wir zwei Wege“, sagte sie.
+
+Nele nahm einen Stift aus der Tasche und schrieb auf die Rückseite eines Ausdrucks.
+
+**Prognose bestreiten.**
+
+Darunter:
+
+**Prognose akzeptieren, Entscheidung trotzdem anders.**
+
+Sie hielt das Blatt hoch.
+
+„So?“
+
+„Fast“, sagte die Ethikärztin. „Beim zweiten muss der Grund patientenspezifisch sein. Kein allgemeines Unbehagen.“
+
+Eva ergänzte:
+
+**Patientenwille. Therapieziel. Relevante Behandlungsbelastung.**
+
+Miriam las mit.
+
+„Und Kontext, den KORA nicht als Entscheidungswert abbildet.“
+
+Nele setzte den Stift erneut an, stoppte aber.
+
+„Was ist mit: Ich kenne den Patienten seit zehn Jahren?“
+
+Eva dachte an Laura Berg. An den Mann, den sie damals nur als Daten gesehen hatte. Nähe konnte Information liefern. Nähe konnte auch bloß Nähe sein.
+
+„Dann muss da stehen, was du durch diese zehn Jahre weißt.“
+
+„Wenn ich nur schreibe, dass ich ihn kenne?“
+
+„Reicht nicht.“
+
+Die Ethikärztin nickte. „Die Beziehung kann Quelle einer relevanten Information sein. Sie ersetzt die Information nicht.“
+
+Nele schrieb weiter.
+
+Im Zimmer wurde die Tür ganz geöffnet. Die Pflegekraft kam heraus und sagte, dass der Patient noch einmal nach seinem Sohn gefragt habe. Nele ging hinein, um das weitere Vorgehen mit ihm zu besprechen.
+
+Eva blieb mit Miriam und der Ethikärztin am Rechner.
+
+Das war der Teil, den keine Statistik allein lösen konnte. Eine medizinisch bessere Prognose war nicht automatisch die einzige Größe, nach der ein Mensch behandelt werden wollte.
+
+Miriam öffnete den Entwurf für die neue Oberfläche.
+
+Bis dahin hatte jedes Override-Feld im Kern dieselbe Frage gestellt: Warum weichen Sie von der Empfehlung ab?
+
+Eva zeigte auf den Satz.
+
+„Der ist zu grob.“
+
+Miriam löschte ihn.
+
+Sie bauten zwei getrennte Auswahlwege in den Entwurf.
+
+Beim ersten musste der Arzt einen konkreten medizinischen Gegenbeleg benennen: neuer Befund, relevante Entwicklung, fehlende Information.
+
+Beim zweiten stand ausdrücklich, dass die medizinische Prognose akzeptiert werden konnte. Darunter wurde nach dem patientenspezifischen Wert oder Kontext gefragt, der die Entscheidung veränderte.
+
+Die Ethikärztin fügte Beispiele hinzu, keine abschließende Liste.
+
+Patientenwille.
+
+Therapieziel.
+
+Relevante Behandlungsbelastung.
+
+Nele kam zurück.
+
+„Er bleibt bei der Grenze.“
+
+Eva sah auf den Bildschirm.
+
+KORAs Empfehlung war noch immer plausibel.
+
+Die Entscheidung blieb trotzdem anders.
+
+Zum ersten Mal stand beides nebeneinander, ohne dass eine Seite die andere als Fehler behandeln musste.
+
+Nele las den Entwurf.
+
+„Das ist mehr Begründung als vorher.“
 
 „Ja.“
 
-„Auch für dich.“
-
-Eva sah sie an.
-
-„Vor allem deshalb ist es ernst gemeint.“
-
-Die Sitzung ging weiter.
-
-Der nächste Testfall enthielt einen klar dokumentierten Patientenwillen.
-
-Der danach eine relevante Behandlungsbelastung.
-
-Dann kam ein Fall, in dem der Arzt schrieb, der Patient sei *besonders verletzlich*, ohne zu erklären, was diese Verletzlichkeit für die konkrete Entscheidung bedeutete.
-
-Die Ärztin aus dem Ethikkonsil schüttelte den Kopf.
-
-„Das ist ein Etikett.“
-
-Miriam fragte: „Kann es patientenspezifisch gemacht werden?“
-
-Eva las die Falldetails.
-
-„Vielleicht. Aber dann muss der konkrete Zusammenhang rein. Nicht das Etikett.“
-
-Sie markierten den Fall als unzureichend begründet.
-
-Ein anderer Fall war schwieriger. Eine Patientin hatte keine formale Vorausverfügung, aber mehrfach gegenüber demselben Behandlungsteam ein enges Therapieziel geäußert. Die Dokumentation war vorhanden, nur verteilt.
-
-Nele sagte: „Wenn das zählt, darf KORA nicht nur nach einem einzelnen Formular suchen.“
-
-Miriam machte eine Notiz.
-
-„Technischer Punkt.“
-
-Eva sah auf die verstreuten Einträge.
-
-„Und Governance-Punkt. Ein echter Grund darf nicht verschwinden, nur weil er schlecht abgelegt ist.“
-
-Damit war der Raum plötzlich nicht mehr abstrakt.
-
-Die Kategorie musste zwei Dinge gleichzeitig können: schlechte Begründungen abweisen und reale patientenspezifische Gründe nicht an Formalien verlieren.
-
-Das machte sie komplizierter, aber auch glaubwürdiger.
-
-Gegen Mittag lagen die Fälle in drei Stapeln.
-
-Klarer Prognosewiderspruch. Klarer Wert-/Kontextgrund. Nicht ausreichend begründet. Die letzte Gruppe war die größte. Nele betrachtete sie.
-
-„Das wird in der Praxis nerven.“
-
-„Ja“, sagte Miriam.
-
-„Menschen werden irgendetwas reinschreiben, nur um weiterzukommen.“
-
-Eva sah auf die Beispiele.
-
-*Ich sehe das anders.*
-
-*Ich kenne solche Verläufe.*
-
-*Der Patient liegt bei uns.*
-
-Genau diese Sätze sollten nicht reichen.
-
-„Dann muss die Oberfläche den Unterschied erzwingen“, sagte sie.
-
-Miriam öffnete den Entwurf.
-
-Am Ende standen zwei getrennte Wege.
-
-**1. Prognose bestreiten – konkreten medizinischen Gegenbeleg dokumentieren.**
-
-**2. Prognose akzeptieren – konkreten patientenspezifischen Wert-/Kontextgrund dokumentieren.**
-
-Die Ärztin aus dem Ethikkonsil ergänzte unter dem zweiten Weg Beispiele, aber keine abschließende Liste.
-
-Patientenwille. Therapieziel. Relevante Behandlungsbelastung.
-
-Konkreter patientenspezifischer Kontext, den KORA nicht als Entscheidungswert abbildete.
-
-Nele las beide Wege.
-
-„Das ist ziemlich viel Begründung für eine menschliche Letztentscheidung.“
-
-Eva sah sie an.
+„Für beide Wege.“
 
 „Ja.“
 
-„Findest du das gut?“
+Nele steckte den Stift weg. „Gut.“
 
-Eva dachte an ihre eigene Bilanz. An Laura. An den Fall, bei dem sie vor einem leeren Gegenbelegfeld gesessen und keinen Satz gefunden hatte, der hielt.
+Eva hob den Blick.
 
-„Ich finde gut, dass die zweite Kategorie überhaupt existiert.“
+„Das kommt überraschend schnell.“
 
-Miriam hob den Blick vom Laptop.
+Nele sah zur Zimmertür. „Nach meinem Fall finde ich es nicht schlimm, wenn ich sagen muss, was genau ich zu wissen glaube. Und hier will ich auch nicht so tun, als wäre KORA medizinisch falsch.“
 
-„Das war keine Antwort.“
+Das war keine Systemtreue.
 
-„Mehr bekommst du heute nicht.“
+Es war eine präzisere Form von Verantwortung.
 
-Die Ärztin aus dem Ethikkonsil lächelte kurz. Nele schüttelte den Kopf und schrieb weiter. Der Pilot wurde beschlossen.
+Miriam speicherte den Entwurf.
 
-Einige Tage später öffnete Eva die neue Oberfläche selbst.
+„Wir testen noch ein paar Grenzfälle, bevor das live geht.“
 
-Die beiden Wege standen tatsächlich getrennt untereinander. Sie klickte den ersten an. Ein Feld verlangte den konkreten medizinischen Gegenbeleg. Sie ging zurück und öffnete den zweiten.
+Eva nickte. Ein paar reichten. Sie brauchte keine weitere Stunde mit zwanzig Varianten, um den Kern zu verstehen.
 
-Dort stand nicht die Frage, warum KORA falsch lag.
+Der Patient im Zimmer hatte ihn bereits gezeigt.
 
-Die Oberfläche akzeptierte ausdrücklich, dass die Prognose stimmen konnte.
+Die Maschine konnte medizinisch recht haben.
 
-Darunter wurde gefragt, welcher patientenspezifische Wert oder Kontext die Entscheidung trotzdem veränderte.
+Der Mensch konnte trotzdem einen legitimen Grund haben, anders zu handeln.
 
-Eva ließ das Fenster offen.
-
-Zum ersten Mal war im System vorgesehen, dass menschlicher Widerspruch nicht nur aus einem Prognosefehler bestehen musste.
-
-Das war der Raum, den sie hatte schützen wollen.
-
-Und genau dort würde sich zeigen, ob aus einem legitimen Ausnahmeweg wieder eine Ausweichspur wurde.
+Dieser Grund musste einen Namen bekommen.
