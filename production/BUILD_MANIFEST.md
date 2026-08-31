@@ -1,16 +1,17 @@
 # BUILD MANIFEST – ABWEICHUNG
 
-status: BUILD_PASS
+status: G5_APPROVED
 date: 2026-08-31
 format: consolidated Markdown + standalone HTML reading/print artifact
 artifact_name: `abweichung-production-g5-rebuild`
-human_gate: G5 pending
+human_gate: G5 APPROVED
 
 ## Freigegebene Quelle
 
 - G4-approved manuscript commit: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
 - source tree: `fbbe9704813f27251b1d5e9e77d89b1ba419ee02`
 - `gates/G4.md`: G4 REAPPROVED
+- `gates/G5.md`: G5 APPROVED
 - 40/40 `PROSA.md`
 - scene IDs: S001–S040 vollständig
 - hard guard `sondern`: 0
@@ -56,33 +57,25 @@ GitHub Actions:
 
 PASS:
 
-- G4-Source-Commit exakt bestätigt,
-- 40 `PROSA.md` gefunden,
-- S001–S040 exakt und lückenlos,
-- Build-Wortzahl exakt 39.331,
-- `sondern = 0`,
-- konsolidiertes Markdown erzeugt,
-- standalone HTML erzeugt,
-- Hashes erzeugt und geprüft,
-- GitHub-Actions-Artefakt erfolgreich hochgeladen.
+- G4-Source-Commit exakt bestätigt
+- 40 `PROSA.md` gefunden
+- S001–S040 exakt und lückenlos
+- Build-Wortzahl exakt 39.331
+- `sondern = 0`
+- konsolidiertes Markdown erzeugt
+- standalone HTML erzeugt
+- Hashes erzeugt und geprüft
+- GitHub-Actions-Artefakt erfolgreich hochgeladen
 
-## Produktumfang
+## Human Gate G5
 
-Der deterministische Build zählt im vollständigen G4-freigegebenen Manuskript:
+Human `G5-APPROVE` vom 2026-08-31 akzeptiert diesen Produktionsstand als kanonischen Produktstand.
 
-**39.331 Wörter**
+**G5 APPROVED**
 
-bei 40 Szenen.
+Der frühere Build aus `78222a7e99c80378c35379ad42684ee332a412a6` mit 16.527 Wörtern bleibt historischer technischer Nachweis und ist nicht mehr der aktuelle Produktionsstand.
 
-Der frühere G5-Rework-Auslöser von 16.527 Wörtern ist damit behoben. Die neue Wortzahl ist Ergebnis des freigegebenen inhaltlichen Ausbaus und kein künstliches Produktions-Padding.
-
-## Vorheriger Build
-
-Der erste Build aus `78222a7e99c80378c35379ad42684ee332a412a6` mit 16.527 Wörtern bleibt historischer technischer Nachweis, wurde durch Human `G5-REWORK` jedoch nicht als finaler Produktstand freigegeben.
-
-## Scope des aktuellen Artefakts
-
-Das aktuelle Produktionsformat ist bewusst minimal und reproduzierbar:
+## Scope des freigegebenen Artefakts
 
 - Lesen / Review / Drucken: ja
 - konsolidierte Manuskriptdatei: ja
@@ -93,4 +86,4 @@ Das aktuelle Produktionsformat ist bewusst minimal und reproduzierbar:
 - Cover: nein
 - ISBN/Impressum/Autor-Metadaten: nicht erfunden
 
-Diese weiteren Formate sind Folgeprodukte nach G5 und kein stillschweigender Bestandteil der Manuskriptfreigabe.
+Diese weiteren Formate sind Folgeprodukte nach G5 und kein Bestandteil dieser Freigabe.
