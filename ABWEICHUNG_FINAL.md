@@ -5939,353 +5939,175 @@ Felix kam ohne Laptop.
 
 Eva bemerkte es sofort.
 
-Er setzte sich auf den Stuhl vor ihrem Schreibtisch, nahm die Auditseite, die sie dort hingelegt hatte, und begann zu lesen.
-
-Eva ließ ihn.
-
-Auf dem Flur telefonierte jemand. Durch die geschlossene Tür drangen nur einzelne Worte. Station. Aufnahme. Rückruf.
-
-Felix las die erste Seite bis zum Ende.
-
-Dann die zweite.
-
-Bei der dritten verlangsamte sich sein Blick nicht.
+Er setzte sich auf den Stuhl vor ihrem Schreibtisch, nahm die Auditseite und las sie vollständig.
 
 Keine sichtbare Überraschung.
 
-Kein Griff zum Telefon, um einen Eintrag zu prüfen.
+Als er fertig war, legte er die Seiten zurück.
 
-Als er fertig war, legte er die Seiten auf Evas Schreibtisch.
+„Die Zeitpunkte stimmen“, sagte er. „Die Intervention kam vor dem formalen Eintrag. Die Werte danach waren besser. Das steht da richtig.“
 
-„Und?“
+Eva hatte mit Widerstand gerechnet. Stattdessen gab er ihr die Chronologie.
 
-Eva hatte auf einen anderen Einstieg gehofft. Vielleicht auf *Das stimmt so nicht.* Oder wenigstens auf eine Frage.
-
-„Du bestreitest die Zeitpunkte nicht?“
-
-„Nein.“
-
-„Die Entscheidung, den Patienten zunächst außerhalb der Intensivstation weiterzubehandeln, war vor dem später dokumentierten Snapshot gefallen.“
-
-„Ja.“
-
-Eva wartete.
+„Dann weißt du auch, dass die frühere Einstufung eine Zweitfreigabe ausgelöst hätte.“
 
 Felix lehnte sich zurück.
 
-„Was?“
+„Nach eurer Definition des Entscheidungspunkts.“
 
-„Die damalige KORA-Einstufung hätte eine Zweitfreigabe verlangt.“
+Da war der Konflikt.
 
-„Nach eurer Definition.“
+Eva legte die Hand auf die Auditseite. „Der Plan, außerhalb der Intensivstation weiterzubehandeln, war vor dem günstigeren Snapshot getroffen.“
 
-Eva spürte, wie sich etwas in ihr verschob.
+Felix' Blick blieb auf ihr.
 
-„Nach der Regel, die auf der Station galt.“
+„Ich habe keine Werte erfunden und nichts nachträglich geändert. Ich habe einen Patienten behandelt, eine reale Reaktion gesehen und danach mit einem neuen Zustand weitergearbeitet. Genau das macht ihr jetzt zu einer Prozessfrage.“
 
-„Die Regel war das Problem.“
+„Die Daten sind nicht der Vorwurf.“
 
-Da war die Antwort. Nicht in den Zeitachsen. Nicht in einer Logdatei. Jetzt. Eva legte die Hand auf die Auditseite.
+„Dann sag den Vorwurf.“
 
-„Du hast es absichtlich gemacht.“
+Eva tat es.
 
-Felix' Blick ging kurz zu ihrer Hand und zurück in ihr Gesicht.
-
-„Ich habe keine Werte erfunden.“
-
-„Das habe ich nicht gefragt.“
-
-„Ich habe reale Daten dokumentiert.“
-
-„Später.“
-
-„Nach einer realen Intervention.“
-
-„Nachdem du bereits entschieden hattest, nicht zu eskalieren.“
-
-Felix schob den Stuhl ein Stück zurück.
-
-„Weil medizinische Entscheidungen keine Verwaltungszeitstempel sind.“
-
-Seine Stimme war noch ruhig.
-
-„Ein Patient reagiert. Ich behandle. Ich bewerte neu. Die Lage nach einer Intervention ist nicht dieselbe wie davor.“
-
-„Das Audit bestreitet die neuen Werte nicht.“
-
-„Dann verstehe ich das Theater nicht.“
-
-Eva sah ihn an.
-
-„Der tatsächliche Entscheidungspunkt lag vorher.“
-
-„Der tatsächliche Entscheidungspunkt war Teil eines Verlaufs.“
-
-„Du hattest entschieden, draußen weiterzubehandeln.“
-
-„Unter der Bedingung, dass die Intervention wirkt.“
-
-„Und genau da hätte ein zweiter Arzt den Fall sehen müssen.“
-
-Felix schüttelte den Kopf.
-
-„Damit ein Kollege, der fünf Minuten auf einen Bildschirm schaut, meine klinische Entscheidung freigibt?“
-
-„Damit du sie nicht allein triffst, wenn KORA high confidence widerspricht.“
-
-„Für eure Governance.“
-
-„Ja.“
-
-„Nicht zwingend für die Medizin.“
-
-Eva stand auf.
-
-Nicht, um ihn einzuschüchtern. Sie konnte nicht mehr sitzen.
-
-Sie ging zum Fenster und wieder zurück.
-
-„Felix, du hast gewusst, dass der frühere Zeitpunkt die Zweitfreigabe auslöst.“
-
-Er antwortete nicht.
-
-Eva blieb vor dem Schreibtisch stehen.
-
-„Du hast gewusst, dass der spätere Snapshot sie nicht auslöst.“
-
-„Ich wusste, dass die spätere Lage eine andere war.“
-
-„Das ist keine Antwort.“
-
-Felix rieb mit zwei Fingern über die Kante der Auditseite.
-
-Eva erinnerte sich an Dienste, in denen sie beide nach Stunden kaum noch gerade hatten stehen können. An Entscheidungen, die sie einander ohne lange Erklärungen abgenommen hatten. An Felix, der ihr bei einem schwierigen Verlauf einmal nur einen Blick zugeworfen hatte, bevor beide gleichzeitig wussten, was als Nächstes zu tun war.
-
-Sie kannte seine klinische Arbeit.
-
-Vielleicht machte genau das dieses Gespräch so schwer.
-
-„Sag es“, sagte sie.
-
-Felix hob den Blick.
-
-„Was willst du hören?“
-
-„Warum du die Entscheidung erst nach der Intervention formalisiert hast.“
-
-„Weil die Lage nach der Intervention die Lage war, auf deren Basis ich weiterbehandelt habe.“
-
-„Und die Zweitfreigabe?“
+„Du wusstest, dass die frühere Lage high confidence war. Du wusstest, dass die Zweitfreigabe dann greift. Und du hast den formalen Entscheidungspunkt erst nach der Intervention gesetzt.“
 
 Felix schwieg.
 
-Eva wartete.
+Eva wartete nicht mit einer zweiten Frage.
 
-Er sah zur Tür, dann wieder zu ihr.
+„War das Absicht?“
+
+Felix sah zur Tür. Als er zurückblickte, war jede Leichtigkeit aus seinem Gesicht verschwunden.
 
 „Ich lasse mir keine klinische Entscheidung von einer Schwelle wegnehmen, die aus einem Modellwert entsteht.“
 
-Der Satz kam leise. Gerade deshalb war er endgültig. Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden.
+Der Satz kam ruhig.
 
-„Also ja.“
+Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden.
 
-Felix hob das Kinn.
+Felix beugte sich vor.
 
-„Wenn du es so nennen willst.“
+„Ihr nennt es zweite ärztliche Freigabe. Praktisch heißt es: Ich bin am Bett, ich sehe die Reaktion, ich trage das Risiko, und bevor ich eine Entscheidung weiterführe, muss jemand mit weniger Nähe zum Patienten meinen Grund akzeptieren. Ich halte das in dieser Form für fachlich falsch. Also habe ich den Verlauf so dokumentiert, wie ich ihn medizinisch erlebt habe: Intervention, neue Lage, nächste Entscheidung.“
 
-„Ich nenne es so, weil du gerade erklärst, warum du es getan hast.“
+„Und du wusstest, dass die Schutzstufe dadurch nicht auslöst.“
 
-„Ich habe verhindert, dass eine formale Regel aus einer Empfehlung eine Anweisung macht.“
+Felix antwortete nicht sofort.
 
-„Du hast verhindert, dass ein zweiter Arzt den Fall sieht.“
+Dann nickte er einmal.
 
-„Ein Arzt, der den Patienten schlechter kennt als ich.“
+Das genügte.
 
-„Darum geht es.“
+Eva stand auf und ging zum Fenster. Sie brauchte die Bewegung, nicht den Abstand.
 
-„Genau.“
+„Du hast damit verhindert, dass ein zweiter Arzt den Fall am früheren Punkt sieht.“
+
+„Ich habe verhindert, dass eine formale Schwelle aus einer Empfehlung praktisch eine Anweisung macht.“
+
+„Das ist dieselbe Handlung aus deiner Perspektive.“
+
+„Nein. Für mich ist der Unterschied der ganze Punkt.“
 
 Felix stand jetzt ebenfalls.
 
-Zwischen ihnen lag nur noch der Schreibtisch.
+„Ein Patient ist kein eingefrorener Snapshot. Ich behandle, er reagiert, ich bewerte neu. Wenn eure Governance nur funktioniert, indem sie den frühesten möglichen Konflikt festhält und alles danach als Umgehung betrachtet, dann baut ihr eine Medizin, in der jede Behandlung zuerst durch ihre Kontrollwirkung gelesen wird.“
 
-„Ich war bei dem Patienten. Ich habe gesehen, wie er reagiert. Ich habe die Unterstützung begonnen. Ich habe entschieden, dass wir vertretbar weiterarbeiten können.“
+Eva kannte den Einwand.
 
-„Und KORA war zu diesem Zeitpunkt high confidence.“
+Ein Teil davon war stark.
 
-„KORA war nicht am Bett.“
-
-Eva sah ihn an.
-
-Der Satz hätte früher von ihr kommen können.
-
-Vielleicht war er sogar gefallen, in irgendeiner Sitzung, in einer anderen Form.
-
-Der Arzt am Bett trägt die Verantwortung.
-
-Der Arzt am Bett muss entscheiden dürfen.
-
-Sie glaubte noch immer an den ersten Satz.
-
-Beim zweiten wusste sie inzwischen nicht mehr, wo das *dürfen* endete.
-
-„Die Zweitfreigabe nimmt dir die Entscheidung nicht weg.“
-
-Felix lachte kurz, ohne Freude.
-
-„Sie macht aus meiner Entscheidung eine Bitte.“
-
-„Sie zwingt dich, einen zweiten Arzt reinzunehmen.“
-
-„Weil ein Modell sagt, mein Risiko ist hoch.“
-
-„Weil wir nach Neles Fall entschieden haben, dass high-confidence Abweichungen in dieser Klasse ein zweites Paar Augen brauchen.“
-
-„Wir?“
-
-Felix zeigte auf Eva.
-
-„Du.“
-
-„Ich war beteiligt.“
-
-„Du warst nicht beteiligt. Du warst die Legitimation.“
-
-Eva spürte den Treffer.
-
-Felix fuhr fort.
-
-„Du sitzt in diesen Runden, sagst dreimal, dass ärztliche Verantwortung bleiben muss, und am Ende gibt es ein neues Pflichtfeld, einen neuen Review, eine neue Schwelle. Dann erzählst du dir, du hättest die Freiheit gerettet.“
-
-Eva sagte nichts.
-
-„Du hast angefangen wie ich“, sagte Felix. „Vielleicht erinnerst du dich daran.“
-
-„Tue ich.“
-
-„Offenbar nicht genug.“
-
-Eva nahm die Auditseite und drehte sie zu ihm.
+Ein anderer Teil war inzwischen nicht mehr theoretisch.
 
 „Der Patient hat einen schweren Schaden.“
 
-Felix' Gesicht veränderte sich sofort.
-
-Die Wut blieb, aber darunter lag etwas anderes.
+Felix' Gesicht veränderte sich.
 
 „Und du weißt nicht, ob eine zweite Unterschrift das verhindert hätte.“
 
 „Nein.“
 
-„Dann tu nicht so, als wäre das der Beweis.“
+„Dann benutz den Schaden nicht als Beweis dafür, dass meine medizinische Entscheidung falsch war.“
 
-„Ist es nicht.“
+„Tue ich nicht.“
 
-„Du stellst den Schaden hier hin, während du mir erklärst, ich hätte die Regel verletzt.“
+Eva zog die Auditseite zu sich.
 
-Eva nickte.
+„Der Schaden beweist keine falsche Medizin. Das Audit beweist etwas anderes: Für diesen Fall galt eine Schutzstufe. Sie hätte am tatsächlichen Entscheidungspunkt gegriffen. Du hast gewusst, dass sie existiert, und du hast den Prozess so geführt, dass sie nicht greift, weil du die Regel nicht akzeptierst.“
 
-„Weil beides Teil desselben Falls ist. Nicht weil das eine das andere beweist.“
+Felix sah auf die Seite.
 
-Felix sah weg.
-
-„Die Zweitfreigabe hätte stattfinden müssen“, sagte Eva. „Ob sie den Ausgang verändert hätte, wissen wir nicht.“
-
-„Dann ist das hier eine Prozessverletzung.“
+„Dann ist es eine Prozessverletzung.“
 
 „Ja.“
 
-„Keine medizinische.“
+„Keine bewiesene medizinische Fehlentscheidung.“
 
-„Das Audit beweist keine falsche medizinische Entscheidung.“
+„Richtig.“
 
-Felix sah sie wieder an. Für einen Moment wirkte er fast erleichtert. Eva setzte nach.
+Für einen Moment wirkte er erleichtert.
 
-„Es beweist, dass du die vereinbarte Schutzstufe ausgeschaltet hast. Und du sagst mir gerade, dass du es bewusst getan hast, weil du die Regel nicht akzeptierst.“
+Eva ließ ihm die Erleichterung nicht als Ausweg.
 
-Die Erleichterung verschwand.
+„Eine bewusst ausgeschaltete Schutzstufe bleibt eine Grenzüberschreitung, auch wenn die medizinische Entscheidung am Ende vertretbar gewesen sein könnte.“
 
-„Weil ich die Regel fachlich falsch finde.“
-
-„Dann bekämpfst du sie offen.“
-
-Felix lachte bitter.
-
-„So wie du?“
-
-Eva stand still.
-
-„Du lässt dir seit Monaten Stück für Stück die Entscheidung wegregulieren und nennst es Balance.“
-
-Der Satz traf stärker, weil Eva ihm nicht vollständig widersprechen konnte.
-
-„Vielleicht.“
-
-Felix wirkte kurz überrascht.
-
-„Vielleicht hast du recht, dass Macht verschoben wird“, sagte Eva. „Vielleicht habe ich zu spät verstanden, wie viel davon mit jeder Schutzregel passiert.“
-
-Felix sagte nichts.
-
-„Aber ich verändere nicht heimlich die Prozesswahrheit, damit eine Kontrolle verschwindet, die für alle anderen gilt.“
-
-„Prozesswahrheit.“
-
-Felix sprach das Wort aus, als schmecke es schlecht.
-
-„Ja.“
+Felix lachte kurz.
 
 „Hörst du dich eigentlich noch?“
 
 „Leider ziemlich gut.“
 
-Felix starrte sie an.
+„Du hast angefangen wie ich. Arzt am Bett, Verantwortung beim Menschen. Jetzt sitzt du hier und verteidigst Prozesswahrheit.“
 
-Dann nahm er die Auditseiten und ließ sie wieder auf den Tisch fallen.
+Eva antwortete nicht sofort.
+
+Er hatte den Satz schon einmal in anderer Form gesagt. Diesmal traf er härter, weil Eva einen Teil davon akzeptierte.
+
+„Vielleicht habe ich zu spät verstanden, wie viel Macht mit jeder Schutzregel verschoben wird. Aber ich ändere nicht heimlich den Prozess, damit eine Kontrolle verschwindet, die für alle anderen gilt.“
+
+„Heimlich.“
+
+Felix sprach das Wort leise.
+
+„Ich habe medizinisch dokumentiert.“
+
+„Und die Governancewirkung gekannt.“
+
+Er sah sie an.
+
+Da war nichts mehr zu klären.
 
 „Was jetzt?“
 
-Eva kannte die Antwort, seit Jan den dritten Vergleichsfall geöffnet hatte.
+Eva kannte die Antwort seit Jans Rekonstruktion.
 
-„Ich melde den Vorgang vollständig.“
+„Ich melde den Vorgang vollständig. Die Musterfälle, die Zeitachsen und dieses Gespräch.“
 
 Felix' Gesicht schloss sich.
 
 „Natürlich.“
 
-„Die Rekonstruktion. Die Musterfälle. Und dieses Gespräch.“
+„Wenn du die Regel fachlich falsch findest, bekämpfst du sie offen. Im Gremium, in der SOP, mit Daten. Nicht durch einen Ablauf, bei dem niemand merkt, dass die Schutzstufe verschwunden ist.“
 
-„Natürlich.“
-
-„Felix–“
-
-„Lass es.“
-
-Er ging zur Tür.
-
-Eva machte keinen Versuch, ihn aufzuhalten.
-
-Seine Hand lag bereits auf der Klinke, als er sich noch einmal umdrehte.
+Felix stand an der Tür.
 
 „Du weißt, warum ich es gemacht habe.“
 
-Eva dachte an den Patienten, an die echte vorübergehende Verbesserung, an die Regel, an Felix' Überzeugung, dass ein zweiter Arzt ihm klinische Verantwortung wegnehmen würde.
+Eva dachte an den Patienten, an die echte vorübergehende Verbesserung, an Felix' Überzeugung, dass ein zweiter Arzt seine klinische Verantwortung aushöhlte.
 
 „Ja.“
 
-„Und?“
+„Und es ändert nichts?“
 
-Eva antwortete leise.
+„Es erklärt es. Das ist nicht dasselbe.“
 
-„Das macht es nicht besser.“
+Felix öffnete die Tür.
 
-Felix öffnete die Tür. Diesmal sagte keiner von beiden noch etwas. Später verlor Felix seine Funktion.
+Diesmal sagte keiner von beiden noch etwas.
 
-Die formalen Schritte verliefen geordnet. Anhörung. Bewertung. Entscheidung.
+Später verlor Felix seine Funktion.
 
-Eva las die Mitteilung, als sie kam, und schloss sie wieder.
+Die formalen Schritte verliefen geordnet: Anhörung, Bewertung, Entscheidung.
 
-Zwischen ihr und Felix blieb danach nichts, das sich mit einem sachlichen Gespräch reparieren ließ.
+Zwischen ihnen blieb danach nichts, das sich mit einem sachlichen Gespräch reparieren ließ.
 
 Das war kein Prozesspunkt.
 
