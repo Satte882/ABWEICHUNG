@@ -1,26 +1,26 @@
 # Szene S017 – Der Zeitpunkt
 
 scene_id: S017
-scene_status: draft
+scene_status: reworked_external_v2
 block_id: B08
 event_refs: E024
 pov: Eva
 research_refs: R-02
 
 ## Funktion
-Die spätere Umgehung technisch plausibel machen, ohne schon Manipulation zu behaupten.
+Die spätere Umgehung technisch plausibel machen, ohne eine weitere reine Timeline-Lehrszene zu erzeugen und ohne schon Manipulation zu behaupten.
 
 ## Ausgangslage
-Eva fragt Jan, wie KORA mit späteren oder nach Intervention erhobenen Daten umgeht.
+Eva erlebt bei einem realen, unauffälligen Akutfall, wie eine medizinisch wirksame Intervention KORAs Konfidenz senkt und dadurch die Zweitfreigabe regelkonform verschwindet.
 
 ## Konflikt / Entscheidung
-Jan erklärt: Reale neue Werte dürfen eine Empfehlung verändern. Ein später Snapshot kann deshalb die Konfidenz formal senken. Das ist an sich kein Fehler und keine Manipulation – entscheidend ist, welcher Zeitpunkt für die eigentliche klinische Entscheidung dokumentiert wird.
+Der beobachtete Fall ist sauber: Die Entscheidung fällt tatsächlich erst nach dem neuen Zustand. Erst danach verifiziert Eva mit Jan knapp die Gegenvariante: Derselbe sichtbare Ablauf könnte eine frühere Entscheidung verdecken, wenn der formale Eintrag erst nach der Besserung erfolgt.
 
 ## Informationsverschiebung
-Der Leser versteht die Schutzlücke: Governance hängt nicht nur am Modell, sondern an sauberer Prozesswahrheit.
+Der Leser versteht die Schutzlücke aus Handlung heraus: Zwei echte Zustände können korrekt sein; Governance hängt trotzdem am tatsächlichen Entscheidungszeitpunkt und an hinreichender Prozesswahrheit.
 
 ## Figurenbewegung
-Eva wird misstrauischer, hat aber weiterhin keinen Beleg gegen Felix.
+Eva wird präziser misstrauisch, hat aber weiterhin keinen Beleg gegen Felix und schützt ausdrücklich die klinisch legitime Neubewertung.
 
 ## Konsequenz
-Die Frage bleibt offen und kann später auditierbar werden.
+Jan soll zunächst nur nach dem Prozessmuster suchen, nicht nach Personen. Die spätere Auditspur ist vorbereitet.
