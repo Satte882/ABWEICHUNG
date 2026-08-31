@@ -18,16 +18,14 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Build current G4 manuscript Markdown
+      - name: Compact safe vertical staccato and rebuild manuscript
         shell: bash
         run: |
           set -euo pipefail
-          python scripts/build_production.py \
-            --source-ref HEAD \
-            --out-dir /tmp/abweichung-g4
-          python scripts/build_final_manuscript.py \
-            --source /tmp/abweichung-g4/ABWEICHUNG_v01.md \
-            --output ABWEICHUNG_FINAL.md
+          python scripts/apply_final_prose_rhythm_pass.py
+          # The script also writes a historical gate report whose wording belongs to
+          # the earlier pass. Keep the current repository version unchanged here.
+          git restore FINAL_PROSE_RHYTHM_APPLIED.md
 
       - name: Run post-external-major prose audit
         shell: bash
@@ -35,7 +33,7 @@ jobs:
           set -euo pipefail
           python scripts/final_prose_rhythm_audit.py \
             --output FINAL_PROSE_RHYTHM_AUDIT_EXTERNAL_REWORK.md \
-            --status POST_EXTERNAL_MAJOR_REWORK
+            --status POST_EXTERNAL_MAJOR_REWORK_V2
 
       - name: Validate manuscript contract
         shell: bash
@@ -62,17 +60,17 @@ jobs:
           print('G4 external-major rebuild validation OK')
           PY
 
-      - name: Commit rebuilt manuscript and audit
+      - name: Commit reworked prose, manuscript and audit
         shell: bash
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add ABWEICHUNG_FINAL.md FINAL_PROSE_RHYTHM_AUDIT_EXTERNAL_REWORK.md
+          git add BAUSTEINE/**/SZENEN/**/PROSA.md ABWEICHUNG_FINAL.md FINAL_PROSE_RHYTHM_AUDIT_EXTERNAL_REWORK.md
           if git diff --cached --quiet; then
             echo 'No generated changes to commit.'
             exit 0
           fi
-          git commit -m 'production: rebuild after external-major G2 rework'
+          git commit -m 'production: compact and rebuild external-major rework'
           git pull --rebase origin main
           git push origin HEAD:main
