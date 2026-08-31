@@ -110,7 +110,7 @@ jobs:
 
           Path('ABWEICHUNG_FINAL.md').write_text(front + body, encoding='utf-8')
           PY
-          echo '1abe62812ad8040d296938cee878ccc3b2e9fbcc980c66d61c8d4c52c7d23c45  ABWEICHUNG_FINAL.md' | sha256sum -c -
+          echo 'e606d474351797634d8c57d9e2417f9969c98f126b71a85ce076596b2b23560d  ABWEICHUNG_FINAL.md' | sha256sum -c -
 
       - name: Build KDP DOCX from final Markdown
         shell: bash
@@ -395,7 +395,6 @@ jobs:
           scene.paragraph_format.space_after = Pt(8)
           scene.paragraph_format.keep_with_next = True
 
-          # Title page, matching the approved book treatment.
           for _ in range(4):
               doc.add_paragraph(style='Front Matter')
           p = doc.add_paragraph(style='Front Matter')
@@ -411,7 +410,6 @@ jobs:
           p.paragraph_format.space_after = Pt(0)
           r = p.add_run('Die Beweislast liegt bei dir.'); r.italic = True; set_run_font(r, 12)
 
-          # Intentional blank verso before the table of contents.
           doc.add_page_break()
           doc.add_page_break()
 
