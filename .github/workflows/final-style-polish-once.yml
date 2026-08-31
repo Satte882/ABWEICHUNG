@@ -1,0 +1,224 @@
+name: Final surgical style polish
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/final-style-polish-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  polish-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Baseline style audit
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/final_prose_rhythm_audit.py --output /tmp/STYLE_BEFORE.md --status PRE_GROK_STYLE_POLISH
+
+      - name: Apply surgical prose polish
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/apply_final_style_polish.py
+          python scripts/final_prose_rhythm_audit.py --output FINAL_STYLE_POLISH_AUDIT_POST.md --status POST_GROK_STYLE_POLISH
+
+      - name: Validate polish metrics and write report
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          before = Path('/tmp/STYLE_BEFORE.md').read_text(encoding='utf-8')
+          after = Path('FINAL_STYLE_POLISH_AUDIT_POST.md').read_text(encoding='utf-8')
+
+          def metric(text, label):
+              m = re.search(rf'- {re.escape(label)}: \*\*(\d+)\*\*', text)
+              assert m, label
+              return int(m.group(1))
+
+          labels = [
+              'Szenen',
+              'Wörter in Szenen-Prosa',
+              'Geviertstrich `—`',
+              '`sondern`',
+              'Dialog-Pingpong-Runs',
+              'Stakkato-Runs',
+              'kurze Negations-Runs',
+              'narrative Kurzabsätze ≤7 Wörter',
+              'heuristische Binary-/Negations-Kandidaten',
+              'heuristische Explanation-Echo-Kandidaten',
+          ]
+          b = {x: metric(before, x) for x in labels}
+          a = {x: metric(after, x) for x in labels}
+
+          assert a['Szenen'] == 40
+          assert a['Geviertstrich `—`'] == 0
+          assert a['`sondern`'] == 0
+          assert a['Dialog-Pingpong-Runs'] <= b['Dialog-Pingpong-Runs']
+          assert a['Stakkato-Runs'] <= b['Stakkato-Runs']
+          assert a['heuristische Binary-/Negations-Kandidaten'] < b['heuristische Binary-/Negations-Kandidaten']
+          assert a['heuristische Explanation-Echo-Kandidaten'] < b['heuristische Explanation-Echo-Kandidaten']
+
+          report = f'''# FINAL STYLE POLISH – ABWEICHUNG
+
+status: PASS
+scope: prose_only
+trigger: external random-sample style review
+
+## Ziel
+
+Letzter chirurgischer Prosa-Pass gegen vier bestätigte Minor-Muster:
+
+1. Erklär-Echos nach bereits verständlicher Handlung,
+2. wiederkehrende Prägnanz-/Kontrastschlüsse,
+3. sichtbar symmetrische Reihungen,
+4. formelhafte Mikro-/Display-Choreografie, soweit sie keine eigene Funktion trägt.
+
+Keine Story-, Beat-, Figuren- oder Kausalitätsänderung.
+
+## Umfang
+
+- gezielt bearbeitete Szenen: 13
+- Änderungen erfolgen ausschließlich in `PROSA.md`
+- Stilprofil `de_anti_ki_prosa_v1` bleibt erhalten
+
+## Regression
+
+| Metrik | Vorher | Nachher |
+|---|---:|---:|
+| Wörter | {b['Wörter in Szenen-Prosa']} | {a['Wörter in Szenen-Prosa']} |
+| Dialog-Pingpong-Runs | {b['Dialog-Pingpong-Runs']} | {a['Dialog-Pingpong-Runs']} |
+| Stakkato-Runs | {b['Stakkato-Runs']} | {a['Stakkato-Runs']} |
+| kurze Negations-Runs | {b['kurze Negations-Runs']} | {a['kurze Negations-Runs']} |
+| Kurzabsätze ≤7 Wörter | {b['narrative Kurzabsätze ≤7 Wörter']} | {a['narrative Kurzabsätze ≤7 Wörter']} |
+| Binary-/Negations-Kandidaten | {b['heuristische Binary-/Negations-Kandidaten']} | {a['heuristische Binary-/Negations-Kandidaten']} |
+| Explanation-Echo-Kandidaten | {b['heuristische Explanation-Echo-Kandidaten']} | {a['heuristische Explanation-Echo-Kandidaten']} |
+| Geviertstrich `—` | {b['Geviertstrich `—`']} | {a['Geviertstrich `—`']} |
+| `sondern` | {b['`sondern`']} | {a['`sondern`']} |
+
+Der Audit ist Kandidaten-Heuristik, kein Qualitätsautomat. Entscheidend war die semantische Auswahl der tatsächlich redundanten Stellen.
+'''
+          Path('FINAL_STYLE_POLISH_REPORT.md').write_text(report, encoding='utf-8')
+          print(report)
+
+      - name: Commit polished prose snapshot
+        id: source
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          rm .github/workflows/final-style-polish-once.yml
+          git add BAUSTEINE scripts/apply_final_style_polish.py FINAL_STYLE_POLISH_AUDIT_POST.md FINAL_STYLE_POLISH_REPORT.md .github/workflows/final-style-polish-once.yml
+          git commit -m 'style: apply final surgical prose polish'
+          echo "source_commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Install document tooling
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install python-docx pyphen
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            libreoffice-writer python3-uno hyphen-de poppler-utils \
+            fonts-noto-core fonts-noto-extra fonts-dejavu fonts-dejavu-extra \
+            fonts-liberation fonts-linuxlibertine fonts-crosextra-caladea fonts-crosextra-carlito
+          fc-cache -f
+
+      - name: Build final manuscript from polished snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          SOURCE='${{ steps.source.outputs.source_commit }}'
+          python scripts/build_production.py --source-ref "$SOURCE" --out-dir /tmp/abweichung-style-final
+          python scripts/build_final_manuscript.py \
+            --source /tmp/abweichung-style-final/ABWEICHUNG_v01.md \
+            --output ABWEICHUNG_FINAL.md
+          python scripts/build_final_docx.py \
+            --source ABWEICHUNG_FINAL.md \
+            --output ABWEICHUNG_FINAL.docx
+          unzip -t ABWEICHUNG_FINAL.docx >/dev/null
+
+      - name: Validate manuscript contract
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          text = Path('ABWEICHUNG_FINAL.md').read_text(encoding='utf-8')
+          assert text.count('\n## Kapitel ') == 40
+          assert 'Frau Dr. Riedel' in text
+          assert 'Frau Dr. König' not in text
+          assert 'high-confidence Ressourcen-/Eskalationsklasse' in text
+          assert '—' not in text
+          assert not re.search(r'\bsondern\b', text, flags=re.I)
+          assert text.rstrip().endswith('Eva wartete.')
+          print('manuscript contract OK')
+
+      - name: Validate DOCX and materialize TOC
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from docx import Document
+          from docx.oxml.ns import qn
+          doc = Document('ABWEICHUNG_FINAL.docx')
+          assert len(doc.sections) == 2
+          for s in doc.sections:
+              assert abs(s.page_width.cm - 12.85) < 0.02
+              assert abs(s.page_height.cm - 19.84) < 0.02
+              assert abs(s.top_margin.cm - 1.22) < 0.02
+              assert abs(s.bottom_margin.cm - 1.22) < 0.02
+              assert abs(s.left_margin.cm - 1.95) < 0.02
+              assert abs(s.right_margin.cm - 1.40) < 0.02
+          headings = [p.text for p in doc.paragraphs if p.style and p.style.name == 'Heading 1']
+          assert len(headings) == 40
+          assert headings[0] == 'Kapitel 1 – Die letzte Kapazität'
+          assert headings[-1] == 'Kapitel 40 – Was sieht KORA nicht?'
+          soft = sum(len(p._p.xpath('.//w:softHyphen')) for p in doc.paragraphs)
+          assert soft > 20000
+          settings = doc.settings._element
+          for name in ('autoHyphenation', 'mirrorMargins', 'evenAndOddHeaders'):
+              assert settings.find(qn(f'w:{name}')) is not None
+          print(f'pre-TOC DOCX OK: headings={len(headings)} softHyphens={soft}')
+          PY
+          git clone --depth 1 https://github.com/Satte882/Buch.git /tmp/Buch
+          /usr/bin/python3 /tmp/Buch/scripts/update_docx_toc.py ABWEICHUNG_FINAL.docx
+          unzip -t ABWEICHUNG_FINAL.docx >/dev/null
+
+      - name: Render smoke test
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/qa
+          libreoffice --headless --convert-to pdf --outdir /tmp/qa ABWEICHUNG_FINAL.docx >/dev/null
+          test -s /tmp/qa/ABWEICHUNG_FINAL.pdf
+          PAGES=$(pdfinfo /tmp/qa/ABWEICHUNG_FINAL.pdf | awk '/^Pages:/ {print $2}')
+          test -n "$PAGES"
+          test "$PAGES" -ge 325
+          test "$PAGES" -le 370
+          echo "render smoke test OK: $PAGES pages"
+
+      - name: Commit and push final artifacts
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add ABWEICHUNG_FINAL.md ABWEICHUNG_FINAL.docx
+          git commit -m 'production: rebuild after final style polish'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          echo "FINAL_SOURCE_COMMIT=${{ steps.source.outputs.source_commit }}"
+          echo "FINAL_PRODUCTION_COMMIT=$(git rev-parse HEAD)"
