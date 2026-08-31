@@ -1,226 +1,160 @@
 # Prosa – S012
 
 scene_id: S012
-prose_status: final_rhythm_rework
+prose_status: external_major_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Miriam legte nur eine Seite auf den Tisch.
+Miriam erwischte Eva zwischen Übergabe und erstem Kaffee.
 
-Kein Foliensatz. Keine Kennzahlen. Kein Anhang mit zwanzig Varianten.
+„Eine Seite“, sagte sie und hielt ihr tatsächlich nur eine hin.
 
-Oben stand:
+Eva nahm das Blatt im Gehen. Hinter ihnen schob ein Pfleger ein leeres Bett aus der Notaufnahme, vor ihnen stand ein Transportwagen quer im Flur. Eva wich zur Seite aus und las die Überschrift.
 
 **Pilot Zweitfreigabe – Hochrisikoabweichungen.**
 
-Darunter drei Bedingungen.
+Darunter standen drei Bedingungen: hohe KORA-Konfidenz, hohe erwartete Schadensrelevanz, definierte Entscheidungsgruppe.
 
-**Hohe KORA-Konfidenz.**
+„Wenn daraus jede zweite Entscheidung bei einem Kollegen landet, kannst du die Seite gleich wieder mitnehmen.“
 
-**Hohe erwartete Schadensrelevanz.**
+„Deshalb steht da eine Schnittmenge.“
 
-**Definierte Entscheidungsgruppe.**
+Miriam ging neben ihr her, ohne langsamer zu werden. Sie kannte Evas Abneigung gegen Regeln, die im Besprechungsraum elegant und auf Station unbrauchbar waren.
 
-Eva las die Seite bis unten.
+Am Arbeitsplatz vor Raum zwölf blieb Eva stehen.
 
-Der Entwurf war so kurz, dass sie ihn nicht hinter Komplexität verstecken konnte.
+„Zeig es mir.“
 
-Sie nahm den Stift, setzte ihn an den Rand und schob ihn wieder weg.
+Miriam öffnete auf dem Stationsrechner die Testansicht. Kein Foliensatz, keine Kennzahl. Vor ihnen lag Neles alter Fall in einer Trainingskopie, eingefroren am damaligen Entscheidungspunkt.
 
-„Wenn das ein Doppelmandat für jede Abweichung werden soll, bin ich raus.“
+KORA: hohe Konfidenz.
 
-Miriam saß ihr gegenüber. Felix schräg daneben. Jan war diesmal nur für die technische Schwellenlogik dazugekommen und hielt sich zurück.
+Eskalation empfohlen.
 
-„Ist es nicht“, sagte Miriam.
+Neles damalige Abweichungsbegründung stand darunter.
 
-Sie zeigte auf die drei Bedingungen.
+Eva kannte den Verlauf. Gerade deshalb taugte er.
 
-Niedrige Konfidenz blieb außerhalb. Fehlende oder unvollständige Daten lösten durch einen Override allein keine Zweitfreigabe aus. Gewöhnliche Therapieentscheidungen außerhalb der definierten Hochrisikoklassen ebenfalls nicht.
+Sie klickte auf **Abweichen**.
 
-Der Pilot zielte auf eine kleine Schnittmenge: KORA war in dieser Entscheidungsklasse gut validiert, die konkrete Empfehlung war hochkonfident, und eine Abweichung konnte bei einem Fehlurteil erheblichen Schaden verursachen.
+Ein neues Feld erschien. Erst die medizinische Begründung, dann die Auswahl einer zweiten ärztlichen Person. Rechts daneben stand, welche Informationen diese Person erhalten würde: KORA-Empfehlung, entscheidungsrelevante Daten, dokumentierte Begründung, Zeitstempel.
 
-Eva las den Absatz noch einmal.
+Eva las die Ansicht bis unten.
 
-„Wie klein?“
+Das System fragte nicht, ob sie sicher sei. Es verlangte jemanden.
 
-Jan nannte die erwartete Größenordnung auf Basis der bisherigen Fälle.
+Der Unterschied war klein genug, um auf einem Bildschirm banal auszusehen.
 
-Nicht häufig.
+Auf Station war er es nicht.
 
-Häufig genug, dass es mehr als ein theoretischer Mechanismus wäre.
+„Und wenn ich nachts um drei niemanden bekomme?“
 
-„Und wenn die zweite Person nicht erreichbar ist?“
+„Dann geht es nicht live“, sagte Miriam. „Für die Akutlage brauchen wir einen belastbaren Weg. Der ist noch nicht fertig.“
 
-„Dann brauchen wir eine Akutregel“, sagte Miriam. „Die ist noch nicht Teil dieses Piloten. Ohne praktikablen Notfallweg geht nichts live.“
+Eva sah sie an.
 
-Eva legte den Stift diesmal nicht weg.
+„Gut. Dann schreib genau das in die Freigabebedingung. Keine Regel, die erst im ersten echten Notfall merkt, dass nachts weniger Menschen im Haus sind.“
 
-Felix hatte bisher geschwiegen. Jetzt zog er die Seite zu sich.
+Miriam nahm den Stift aus ihrer Kitteltasche und schrieb an den Rand.
 
-„Die Logik bleibt dieselbe“, sagte er. „Sobald KORA sicher genug ist und der Fall wichtig genug, reicht der Arzt allein nicht mehr.“
+Felix kam aus Richtung Intensivstation. Er trug noch Handschuhe in einer Hand und warf sie im Vorbeigehen in den Abwurf.
 
-Miriam antwortete nicht sofort.
+„Was baut ihr jetzt?“
 
-Felix fuhr fort.
+Eva hielt ihm die Seite hin.
 
-„Ihr nennt es zweite Freigabe. Im Alltag heißt es: Ich habe einen Patienten vor mir, ich halte die Empfehlung für falsch, und bevor ich handeln darf, muss ich einen Kollegen finden, der bereit ist, denselben Konflikt mitzutragen. Das verändert die Entscheidung bereits, bevor irgendjemand Nein sagt.“
+Er las nicht lange. Sein Blick blieb bei **zweite ärztliche Freigabe** hängen.
+
+„Da ist sie also.“
+
+Miriam sagte nichts.
+
+Felix gab Eva das Blatt zurück. „Ihr könnt die drei Bedingungen noch so eng schreiben. Im Moment, in dem ich einen zweiten Arzt brauche, ist meine Entscheidung keine alleinige Letztentscheidung mehr. Ich muss meinen Fall in eine Form bringen, die jemand außerhalb des Zimmers akzeptiert. Vielleicht ist das manchmal vernünftig. Vielleicht verhindert es einen Fehler. Aber tut nicht so, als bliebe die Verantwortung dadurch unverändert.“
+
+Auf dem Monitor hinter ihm piepte ein Alarm, zweimal kurz. Felix drehte den Kopf, erkannte offenbar am Ton, dass er nicht zu seinem Patienten gehörte, und blieb.
+
+„Die zweite Person sieht dieselben Daten“, sagte Miriam.
+
+„Eben. Dieselben Daten, weniger Patient.“
+
+Felix deutete auf den Trainingsfall. „Nele war falsch. Das wissen wir im Rückblick besser als in dem Moment. Eine zweite Person hätte vielleicht widersprochen. Vielleicht hätte sie unterschrieben. Wenn sie unterschreibt und der Patient trotzdem Schaden nimmt, habt ihr zwei Namen und denselben Ausgang. Wenn sie ablehnt, obwohl der Arzt am Bett recht hat, habt ihr eine Kontrolle gebaut, die sich wie Medizin anfühlt, weil ein Arzt sie ausführt.“
 
 Eva hörte ihm zu.
 
-Das war Felix in seiner stärksten Form. Kein Gerede von Maschinenherrschaft. Keine Übertreibung. Nur die Frage, was eine zusätzliche Zustimmung mit Verantwortung machte.
+Das war kein Reflex gegen Technik. Felix beschrieb den Preis ziemlich genau.
 
-Miriam sagte: „Und in Neles Fall wäre genau diese Reibung möglicherweise hilfreich gewesen.“
+Sie klickte den Nele-Fall noch einmal auf Anfang.
 
-„Möglicherweise“, sagte Felix. „Oder eine zweite Person hätte zugestimmt und wir würden heute so tun, als sei ein Fehlurteil legitim, weil zwei Namen darunterstehen.“
+Vorübergehende Stabilisierung. Hohe Konfidenz. Anhaltende Risikosignale. Die Entscheidung, nicht zu eskalieren.
 
-„Das behauptet niemand.“
-
-„Dann verkauft die zweite Unterschrift nicht als medizinische Wahrheit.“
-
-Eva sah auf die Seite.
-
-„Tut sie nicht.“
-
-Felix drehte sich zu ihr.
-
-„Du verteidigst das?“
-
-„Ich lese es.“
-
-„Du hast vor ein paar Wochen noch gesagt, Letztentscheidung müsse bei dem Menschen bleiben, der den Patienten tatsächlich führt.“
-
-„Das sage ich immer noch.“
-
-„Dann streich die zweite Freigabe.“
-
-Eva zog Neles Timeline aus der Anlage zu sich.
-
-Der Verlauf lag inzwischen in einer Form vor, die sie fast auswendig kannte.
-
-Hohe KORA-Konfidenz. Vorübergehende Stabilisierung. Override. Anhaltende Risikosignale. Verlorene Zeit. Schwere Verschlechterung. Die frühere Eskalation wäre medizinisch vorzugswürdig gewesen.
-
-Eine zweite Person hätte den Ausgang nicht garantiert verändert. Sie hätte nicht automatisch erkannt, was Nele übersah. Sie hätte sogar zustimmen können.
-
-Das blieb wahr.
-
-Eva suchte trotzdem nach einem Grund, warum Nele in genau dieser Lage unbedingt allein hatte entscheiden müssen.
+Eva versuchte, einen medizinischen Grund dafür zu finden, dass Nele in genau diesem Moment zwingend allein hatte bleiben müssen.
 
 Sie fand keinen.
 
-Das störte sie mehr als der Entwurf.
+Nicht weil eine zweite Ärztin automatisch klüger gewesen wäre. Auch zwei Menschen konnten denselben Fehler machen.
 
-„Was genau muss die zweite Person tun?“ fragte Eva.
+Aber Nele hätte ihren Grund aussprechen müssen, bevor weitere Zeit verging.
 
-Jan öffnete die kurze technische Beschreibung.
+Eva öffnete die Sicht der zweiten Person. Die Begründung stand dort an erster Stelle.
 
-Kein kompletter Zweitbefund. Keine erneute Aufnahme. Die zweite Person bekam dieselben entscheidungsrelevanten Daten, KORAs Empfehlung, die dokumentierte Abweichungsbegründung und musste bestätigen, dass die Abweichung trotz hoher Konfidenz nachvollziehbar genug war, um umgesetzt zu werden.
+„Das bleibt“, sagte sie.
 
-„Also kein Ritualklick“, sagte Eva.
+Miriam sah auf den Bildschirm.
 
-„Soll es nicht sein“, sagte Miriam.
-
-„Dann muss der Grund sichtbar sein, bevor die zweite Person entscheidet.“
-
-Jan nickte.
-
-Eva schrieb an den Rand:
-
-**Begründung vor Zweitfreigabe vollständig sichtbar.**
-
-Sie las weiter.
-
-„Und nur diese Kombination.“
-
-Sie kreiste die drei Bedingungen ein.
-
-„High confidence allein reicht nicht. Hohe Schadensrelevanz allein auch nicht. Definierte Gruppe ebenfalls nicht.“
-
-„Richtig“, sagte Jan.
-
-„Wenn Daten fehlen?“
-
-„Dann ist das kein sauberer high-confidence Konflikt im Sinne des Piloten.“
-
-Eva schrieb einen zweiten Randvermerk.
-
-**Keine Zweitfreigabe nur wegen Datenlücke.**
-
-Felix beobachtete sie.
-
-„Du machst die Regel gerade besser.“
-
-„Ich versuche, sie klein zu halten.“
-
-„Dasselbe Ergebnis.“
-
-Eva legte den Stift hin.
-
-„Nein. Eine schlecht definierte Regel wächst durch Auslegung. Eine enge Regel muss für jede Erweiterung wieder auf den Tisch.“
-
-Sie schrieb noch einmal:
-
-**Keine Ausweitung ohne neue Entscheidung.**
-
-Miriam las den Satz.
+Eva tippte auf das Feld. „Die Begründung muss vollständig sichtbar sein, bevor jemand freigibt. Kein Ritualklick.“
 
 „Einverstanden.“
 
-Eva lehnte sich zurück.
+Eva zeigte auf die drei Bedingungen auf dem Papier. „Und nur diese Kombination. High confidence allein reicht nicht. Schadensrelevanz allein auch nicht. Keine Ausweitung über neue Auslegung.“
 
-Der Widerstand war weiterhin da.
+Miriam schrieb weiter.
 
-Ärztliche Verantwortung fühlte sich für sie nicht teilbar an. Wenn zwei Menschen unterschrieben, konnte daraus ein bequemes Dazwischen entstehen: keiner ganz allein verantwortlich, beide ein wenig abgesichert. Eine zusätzliche Person konnte Distanz schaffen, Haftung verteilen, einen Entscheider vorsichtiger machen, ohne den Patienten besser zu verstehen.
+Felix lehnte an der Wand. „Du machst die Regel gerade besser.“
 
-All das blieb wahr.
+„Ich mache sie kleiner.“
 
-Neles Fall blieb ebenfalls wahr.
+„Für den Anfang.“
 
-Eva erinnerte sich an den Satz aus dem Review.
+Eva kannte den Einwand. Er störte sie, weil er nicht falsch war.
 
-*Ich dachte, meine klinische Einschätzung reicht.*
+Sie drehte die Testansicht wieder zu sich. Im unteren Bereich stand der Status: **Zweitfreigabe ausstehend**.
 
-Vielleicht war genau dort die zusätzliche Reibung sinnvoll: nicht weil eine zweite Ärztin automatisch besser entschied, vielmehr weil ein eigener Grund manchmal erst dann seine Schwäche zeigte, wenn man ihn einer anderen Person aussprechen musste.
+Ein einziger zusätzlicher Mensch zwischen Entscheidung und Handlung.
 
-„Was ist das Erfolgskriterium des Piloten?“ fragte Eva.
+Das war Reibung. Gewollte Reibung.
 
-Miriam antwortete: nicht weniger Overrides um jeden Preis. Nicht höhere KORA-Compliance als Selbstzweck. Sie wollten prüfen, ob die definierte Hochrisikogruppe durch die zweite Freigabe besser begründete Entscheidungen bekam und ob schädliche, schwach begründete Abweichungen seltener wurden, ohne akute Versorgung zu blockieren.
+„Der Pilot darf nicht daran gemessen werden, ob Ärzte KORA öfter folgen“, sagte Eva. „Wenn am Ende nur die Abweichungsquote sinkt, habt ihr nichts bewiesen.“
 
-Eva nickte.
+Miriam nickte. „Gemessen werden Begründungsqualität, Fehlabweichungen und Verzögerungen. Auch die Verzögerungen, die wir durch die Regel selbst erzeugen.“
 
-Das war wichtig.
+Felix stieß sich von der Wand ab.
 
-„Wenn der Pilot nur zeigt, dass Ärzte seltener widersprechen, ist das kein Erfolg.“
+„Dann schreibt wenigstens dazu, dass ihr Macht verschiebt.“
 
-„Einverstanden.“
+Miriam antwortete diesmal direkt. „Tun wir.“
 
-Felix sah von einer zur anderen.
+Felix sah zu Eva.
 
-„Ihr merkt schon, dass ihr gerade eine Maschine baut, mit der wir beweisen sollen, dass unsere Abweichung gut genug ist.“
+Sie hätte gern etwas gesagt, das ihre alte Position vollständig rettete. Der Arzt am Bett trägt Verantwortung. Der Arzt am Bett muss entscheiden dürfen.
 
-Eva antwortete ruhig.
+Der erste Satz galt weiter.
 
-„Im Moment bauen wir eine zweite ärztliche Prüfung für eine eng definierte Risikogruppe.“
+Beim zweiten war aus dem absoluten Recht eine Grenze geworden.
 
-„Im Moment.“
+„Wir testen es“, sagte Eva. „Eng. Mit Akutweg. Mit eigener Messung. Jede Ausweitung kommt neu zur Entscheidung.“
 
-Wieder dieses Wort.
+Felix schüttelte den Kopf, aber er diskutierte nicht weiter. Ein Kollege rief seinen Namen vom anderen Ende des Flurs. Felix ging.
 
-Eva sah auf die eine Seite vor sich.
+Miriam nahm den Einseiter zurück.
 
-Sie mochte die Regel nicht. Das war kein Grund, sie abzulehnen. „Machen wir“, sagte sie. Felix schüttelte den Kopf. Miriam nahm die Seite noch nicht zurück.
+Eva blieb vor der Trainingsansicht stehen.
 
-„Eng begrenzt“, fügte Eva hinzu. „Klare Schwellen. Pilot. Erreichbarkeit muss funktionieren. Jede Ausweitung kommt neu zur Entscheidung.“
+Neles Fall war wieder nur Daten, sauber geordnet, ohne die Minuten, die damals verloren gegangen waren.
 
-„So geht es in den Entwurf.“
+Unter der Abweichung wartete jetzt ein zweiter Name.
 
-Eva schob Neles Timeline zurück in die Anlage.
+Eva mochte das nicht.
 
-Wenige Tage später ging die Zweitfreigabe live.
-
-Der Override war nicht verschwunden.
-
-In einer kleinen, genau bezeichneten Gruppe von Fällen bekam er jetzt eine zweite Person.
-
-Eva redete sich nicht ein, dass das nichts verändert hatte.
+Das reichte nicht mehr als Gegenargument.
