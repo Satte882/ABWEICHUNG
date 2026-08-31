@@ -1,45 +1,42 @@
-# Fresh-Context-Auftrag – Gesamtmanuskript ABWEICHUNG nach Final-Prosa-/Rhythmuspass
+# Review-Auftrag – Gesamtmanuskript ABWEICHUNG nach Final-Prosa-/Rhythmuspass
 
 control_file_ref: `main`
 review_target: `c0bc7fc5b23d29da60ed6784fd31ebdcd4f899fb`
 review_scope: full manuscript S001–S040
-review_mode: independent semantic whole-manuscript review
+review_mode: evidence-bound semantic whole-manuscript review
 result_file: `MANUSCRIPT_FRESH_CONTEXT_RESULT_POST_RHYTHM.md`
-prerequisite: execute only in a genuinely clean context against the fixed post-rhythm manuscript target
+prerequisite: review exactly the fixed post-rhythm manuscript target and derive every finding from target evidence
 
 ## Wichtige Trennung: Auftrag vs. Prüfgegenstand
 
 Diese Datei ist die Steuerdatei und muss vom aktuellen Branch `main` gelesen werden.
 
-Der Wert `review_target` bezeichnet ausschließlich den festen Manuskript-Snapshot, aus dem die unten erlaubten fachlichen Produktionsquellen gelesen werden.
+Der Wert `review_target` bezeichnet ausschließlich den festen Manuskript-Snapshot, aus dem die unten zugelassenen fachlichen Produktionsquellen gelesen werden.
 
 Vor Beginn müssen beide Bedingungen erfüllt sein:
 
 1. Steuerdatei gelesen von `main`.
 2. `review_target` ist exakt `c0bc7fc5b23d29da60ed6784fd31ebdcd4f899fb`.
 
-Wenn Bedingung 2 nicht erfüllt ist, Auftrag nicht ausführen.
+Wenn Bedingung 2 nicht erfüllt ist, Auftrag nicht ausführen und `review_status: REVIEW_INVALID_TARGET` ausgeben.
 
-## Clean-Room-Voraussetzung
+## Review-Modus: Evidence Bound
 
-Dieser Auftrag darf nur in einer wirklich kontextfreien Session ausgeführt werden, vorzugsweise in einem nicht personalisierten Temporary Chat.
+Dieser Review verlangt **keinen kontextfreien Chat**.
 
-Wenn du bereits Kenntnis hast von:
+Vorwissen über das Manuskript, frühere Diskussionen, frühere Findings oder den Prosa-/Rhythmuspass ist zulässig und macht den Review nicht ungültig.
 
-- der Entstehung dieses Manuskripts,
-- früheren Reviews oder Findings,
-- früheren Korrekturen/Reworks,
-- Diskussionen über konkrete Schwächen einzelner Szenen,
-- Bewertungen anderer Reviewer,
-- dem zuvor ausgeführten Final-Prosa-/Rhythmuspass,
+Verbindlich ist stattdessen:
 
-antworte ausschließlich:
+- Jedes Finding muss aus dem fixierten Zielstand **neu hergeleitet** werden.
+- Jedes Finding muss durch konkrete Evidenz aus den unten zugelassenen Quellen belegbar sein.
+- Frühere Reviews, Diffs, Chat-Erinnerungen, Lessons Learned oder bekannte Korrekturlisten dürfen nicht als Beweis verwendet werden.
+- Ein bereits bekanntes Problem zählt nur, wenn es im Zielstand weiterhin konkret nachweisbar ist.
+- Ein früher bekanntes Problem, das im Zielstand nicht mehr nachweisbar ist, ist kein Finding.
 
-`review_status: CONTAMINATED`
+Ein versehentlich eingesehener früherer Review führt **nicht** zu `CONTAMINATED`. Der Review wird fortgesetzt und die betreffende Frage ausschließlich am Zielstand neu geprüft.
 
-und beende den Auftrag.
-
-Nutze keine Erinnerungen, frühere Chats oder außerhalb dieses Auftrags bekannte Bewertungen des Manuskripts.
+`CONTAMINATED` ist für diesen produktiven Gate-Review kein zulässiger Status.
 
 ## Verbindlicher Zielstand
 
@@ -51,9 +48,9 @@ Nicht den aktuellen Branch-Head für diese Produktionsquellen, falls dieser inzw
 
 Die einzige Datei, die ausdrücklich von `main` gelesen wird, ist diese Steuerdatei.
 
-## Erlaubte Quellen
+## Zulässige Finding-Evidenz
 
-Lies für die Prüfung ausschließlich die folgenden fachlichen Produktionsquellen des Ziel-Commits:
+Lies für die Prüfung die folgenden fachlichen Produktionsquellen des Ziel-Commits:
 
 1. `BOOK_IDEA.md`
 2. `STORY_PACKAGE.md`
@@ -63,11 +60,11 @@ Lies für die Prüfung ausschließlich die folgenden fachlichen Produktionsquell
 6. alle `BAUSTEINE/**/BEATS.md`
 7. alle `BAUSTEINE/**/PROSA.md` von S001 bis S040
 
-`RESEARCH_REGISTER.md` darf nur konsultiert werden, wenn eine konkrete faktische Plausibilitätsfrage anders nicht beurteilbar ist.
+`RESEARCH_REGISTER.md` darf konsultiert werden, wenn eine konkrete faktische Plausibilitätsfrage anders nicht beurteilbar ist.
 
-## Verbotene Quellen
+## Nicht als Finding-Evidenz verwenden
 
-Nicht öffnen oder verwenden:
+Die folgenden Quellen dürfen nicht als Beweis für ein Finding dienen:
 
 - `LESSONS_LEARNED.md`
 - `FULL_MANUSCRIPT_SELF_REVIEW.md`
@@ -83,9 +80,9 @@ Nicht öffnen oder verwenden:
 - `gates/`
 - `MANUSCRIPT_EXPANSION_ANALYSIS.md`
 - Audit-Artefakte
-- Issues, Commit-Nachrichten oder PR-Diskussionen, die frühere Findings/Korrekturen verraten
+- Issues, Commit-Nachrichten oder PR-Diskussionen mit früheren Findings/Korrekturen
 
-Wenn du versehentlich eine solche Quelle inhaltlich gelesen hast, gilt der Review als kontaminiert. Gib dann nur `review_status: CONTAMINATED` aus.
+Falls solche Informationen bereits bekannt sind, ignorieren und die konkrete Frage am fixierten Zielstand neu prüfen.
 
 ## Kernauftrag
 
@@ -112,7 +109,7 @@ Lies S001–S040 vollständig. Lokale Auffälligkeiten sind nur dann Findings, w
 - Markiere erfundene Gewissheiten, falsche zeitliche Diagnostik oder unzulässige Kausalbehauptungen.
 - KORA darf nicht heimlich von probabilistischem System zu unfehlbarer Instanz werden.
 
-### D. Whole-Manuscript Pattern Review – besonders wichtig
+### D. Whole-Manuscript Pattern Review
 
 Beurteile Muster über alle 40 Szenen hinweg. Tracke sie während der Lektüre sinngemäß, statt jede Szene isoliert zu bewerten.
 
@@ -171,9 +168,9 @@ Bevorzuge `prose`, wenn der Befund ohne Storyänderung behebbar ist.
 
 ## Ausgabe
 
-Wenn die Session sauber ist, beginne exakt mit:
+Beginne exakt mit:
 
-`review_status: CLEAN_FRESH_CONTEXT`
+`review_status: EVIDENCE_BOUND_REVIEW`
 `review_target: c0bc7fc5b23d29da60ed6784fd31ebdcd4f899fb`
 `finding_count: <n>`
 
@@ -185,7 +182,7 @@ location: <Szene(n) / Bereich>
 finding_type: <architecture|information|character|medical|continuity|pacing|scene_repetition|dialogue_pattern|style_pattern|exposition|framework_leak|other>
 severity: <blocker|major|minor>
 problem: <konkret und prüfbar>
-evidence: <konkrete Stellen/Muster aus dem Manuskript>
+evidence: <konkrete Stellen/Muster aus dem Zielstand>
 impact: <warum es im Gesamtroman relevant ist>
 recommended_rework_level: <prose|scene|beat|upstream>
 ```
@@ -194,7 +191,7 @@ Priorisiere Findings. Fasse dasselbe manuskriptweite Muster in einem Finding zus
 
 Maximal 12 Findings. Keine kosmetische Vollständigkeitsliste.
 
-Wenn du nach vollständiger Lektüre keinen relevanten Befund findest, gib `finding_count: 0` aus.
+Wenn nach vollständiger Lektüre kein relevanter Befund vorliegt, `finding_count: 0` ausgeben.
 
 ## Abschlussurteil
 
@@ -212,4 +209,4 @@ Schreibe das vollständige Ergebnis nach:
 
 `MANUSCRIPT_FRESH_CONTEXT_RESULT_POST_RHYTHM.md`
 
-Verändere keine Prosa, keine Gates und keine Produktionsdateien.
+Verändere während dieses Review-Schritts keine Prosa, keine Gates und keine Produktionsdateien.
