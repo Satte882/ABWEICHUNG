@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/publish-g4-md.yml'
+      - 'BAUSTEINE/**/PROSA.md'
 
 permissions:
   contents: write
@@ -17,39 +18,61 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Build G4 manuscript Markdown
+      - name: Build current G4 manuscript Markdown
         shell: bash
         run: |
           set -euo pipefail
           python scripts/build_production.py \
-            --source-ref 19934e138422e72e7433bc8b9be0c96c1cdb1044 \
+            --source-ref HEAD \
             --out-dir /tmp/abweichung-g4
           python scripts/build_final_manuscript.py \
             --source /tmp/abweichung-g4/ABWEICHUNG_v01.md \
             --output ABWEICHUNG_FINAL.md
+
+      - name: Run post-external-major prose audit
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/final_prose_rhythm_audit.py \
+            --output FINAL_PROSE_RHYTHM_AUDIT_EXTERNAL_REWORK.md \
+            --status POST_EXTERNAL_MAJOR_REWORK
+
+      - name: Validate manuscript contract
+        shell: bash
+        run: |
+          set -euo pipefail
           python - <<'PY'
           from pathlib import Path
+          import re
+
           text = Path('ABWEICHUNG_FINAL.md').read_text(encoding='utf-8')
           assert text.count('\n## Kapitel ') == 40
           assert 'Frau Dr. Riedel' in text
           assert 'Frau Dr. König' not in text
           assert 'high-confidence Ressourcen-/Eskalationsklasse' in text
           assert 'Meine Bilanz in der Ressourcen-/Eskalationsklasse' in text
+          assert '—' not in text
+          assert not re.search(r'\bsondern\b', text, flags=re.I)
           assert text.rstrip().endswith('Eva wartete.')
-          print('G4 Markdown validation OK')
+
+          audit = Path('FINAL_PROSE_RHYTHM_AUDIT_EXTERNAL_REWORK.md').read_text(encoding='utf-8')
+          assert '- Szenen: **40**' in audit
+          assert '- Geviertstrich `—`: **0**' in audit
+          assert '- `sondern`: **0**' in audit
+          print('G4 external-major rebuild validation OK')
           PY
 
-      - name: Commit G4 manuscript Markdown
+      - name: Commit rebuilt manuscript and audit
         shell: bash
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add ABWEICHUNG_FINAL.md
+          git add ABWEICHUNG_FINAL.md FINAL_PROSE_RHYTHM_AUDIT_EXTERNAL_REWORK.md
           if git diff --cached --quiet; then
-            echo 'No Markdown changes to commit.'
+            echo 'No generated changes to commit.'
             exit 0
           fi
-          git commit -m 'production: publish G4-reworked manuscript markdown'
+          git commit -m 'production: rebuild after external-major G2 rework'
           git pull --rebase origin main
           git push origin HEAD:main
