@@ -1,26 +1,26 @@
 # Szene S025 – Der Werteraum
 
 scene_id: S025
-scene_status: draft
+scene_status: reworked_external_major
 block_id: B12
 event_refs: E035, E036
 pov: Eva
 research_refs: R-03, R-04
 
 ## Funktion
-Den legitimen nicht-prognostischen Entscheidungsraum konkret und später prüfbar machen.
+Den legitimen nicht-prognostischen Entscheidungsraum konkret und später prüfbar machen, ohne eine weitere reine Falllisten- oder Workshop-Szene zu bauen.
 
 ## Ausgangslage
-Eva, Miriam, Nele und ein Ethikkonsil prüfen Beispiele: dokumentierter Patientenwille, Therapieziel, relevante Behandlungsbelastung.
+Ein laufender klinischer Fall zwingt Eva und Nele, KORAs medizinisch plausible Empfehlung von einem dokumentierten patientenspezifischen Therapieziel zu trennen. Eine Ärztin aus dem Ethikkonsil und Miriam werden hinzugezogen, weil genau diese Trennung zur geplanten neuen Kategorie gehört.
 
 ## Konflikt / Entscheidung
-Falkenried führt einen Pilot ein, in dem der Arzt explizit markiert, ob er KORAs Prognose bestreitet oder trotz akzeptierter Prognose aus einem benennbaren patientenspezifischen Wert-/Kontextgrund abweicht.
+KORA liegt prognostisch nicht erkennbar falsch. Trotzdem wäre die medizinisch günstigere Eskalation nicht mit dem dokumentierten Therapieziel vereinbar. Am realen Fall wird sichtbar, dass menschlicher Widerspruch einen zweiten legitimen Grundtyp braucht. Anschließend testen die Beteiligten die entstehende Regel nur noch an wenigen Grenzbeispielen, insbesondere Intuition und Behandlerbindung.
 
 ## Informationsverschiebung
-Abweichungsgründe werden semantisch getrennt. Der Roman setzt damit vor dem Finale zwei legitime Wege.
+Falkenried trennt zwei dokumentierbare Wege: medizinischen Gegenbeleg gegen die Prognose oder Akzeptanz der Prognose bei einem benennbaren patientenspezifischen Wert-/Kontextgrund.
 
 ## Figurenbewegung
-Eva gewinnt echten Handlungsspielraum. Nele unterstützt die Trennung, ohne zu Evas alter Intuitionslogik zurückzukehren.
+Nele erkennt die Trennung aus der Versorgung heraus und unterstützt sie. Eva gewinnt echten Handlungsspielraum, akzeptiert dabei aber eine höhere Begründungslast.
 
 ## Konsequenz
-Der Pilot startet.
+Der Pilot der Wert-/Kontextkategorie startet.
