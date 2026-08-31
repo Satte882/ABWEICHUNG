@@ -42,7 +42,7 @@ Verbindliche Gate-Records liegen unter `gates/`.
 | operative Upload-/Submission-Checkliste | `KDP_SUBMISSION.md` |
 | verbindliche Cover-Spezifikation | `COVER_SPEC.md` |
 
-Das Cover ist für den aktuellen **333-Seiten-Stand, Schwarzweiß auf weißem Papier** erzeugt. Die Live-Seitenzahl im KDP-Previewer bleibt für die endgültige Rückenbreite maßgeblich. Ändert KDP die Seitenzahl, wird dasselbe Design mit `scripts/build_kdp_cover.py` neu erzeugt.
+Das Cover ist für den aktuellen **333-Seiten-Stand, Schwarzweiß auf weißem Papier** erzeugt. Die Live-Seitenzahl im KDP-Previewer bleibt für die endgültige Rückenbreite maßgeblich. Ändert KDP die Seitenzahl, wird dasselbe Design mit `scripts/build_kdp_cover.py` neu erzeugt. Die Titelbreite wird dabei gegen eine feste Sicherheitszone geprüft; aus demselben PDF erzeugt der Workflow zusätzlich ein PNG-Preview.
 
 ## Aktive Story-/Research-Quellen
 
@@ -54,24 +54,23 @@ Das Cover ist für den aktuellen **333-Seiten-Stand, Schwarzweiß auf weißem Pa
 - `R06_MEDIZINISCHE_ANKERFAELLE.md` – medizinische Ankerfälle
 - `BAUSTEINE/` – Bausteine, Ereignisse, Beats, Szenenkarten und kanonische Szenen-Prosa
 
-## Finale Qualitätsnachweise
+## Archivregel
 
-Diese vier Dateien bleiben bewusst im Root, weil die finalen Gate-Records darauf verweisen:
+Der Root enthält nur aktive Buch-, KDP-, Gate- und Build-Quellen. Abgeschlossene Task-, Review-, Rework-, Audit-, alte Produktions- und nicht mehr aktive Build-Artefakte liegen unter `ARCHIV/`.
 
-- `FINAL_STYLE_POLISH_REPORT.md`
-- `FINAL_STYLE_POLISH_AUDIT_POST.md`
-- `EXTERNAL_STYLE_RETEST_RESULT.md`
-- `EXTERNAL_STYLE_RETEST_ADJUDICATION.md`
+**Es wird für die Repo-Bereinigung nichts inhaltlich verworfen.** Dateien werden aus dem aktiven Bereich in das Archiv verschoben; historische Binär- und Textinhalte bleiben dort erhalten.
 
-Abgeschlossene Task-, Review-, Rework-, Gate-Request- und Zwischen-Audit-Artefakte liegen unter `ARCHIV/` und sind keine aktive Source of Truth.
+Die finalen Stil-QA-Nachweise liegen unter `ARCHIV/REVIEWS/`; `gates/G4.md` und `gates/G5.md` referenzieren die Archivpfade direkt.
 
-## Technik
+## Aktive Technik
 
 - `scripts/build_final_manuscript.py` – konsolidiert das finale Manuskript
 - `scripts/build_final_docx.py` – erzeugt die KDP-/Word-Ausgabe
-- `scripts/build_kdp_cover.py` – erzeugt das Full-Wrap-Cover
+- `scripts/build_kdp_cover.py` – erzeugt das Full-Wrap-Cover und erzwingt die Titel-Sicherheitszone
 - `.github/workflows/finalize-direct.yml` – finaler Manuskript-/DOCX-Build
-- `.github/workflows/build-kdp-cover.yml` – Cover-Build und PDF-Preflight
+- `.github/workflows/build-kdp-cover.yml` – Cover-Build, PDF-Preflight und PNG-Preview
+
+Historische Skripte, Workflows und Produktionsnachweise liegen unter `ARCHIV/SCRIPTS/`, `ARCHIV/WORKFLOWS/` und `ARCHIV/PRODUCTION/`.
 
 ## Arbeitsregel ab G5
 

@@ -9,6 +9,10 @@ Das Printcover ist bewusst minimalistisch. Es enthält **keinen Autorennamen, ke
 ### Vorderseite
 
 - Titel: `ABWEICHUNG`
+- der Titel wird innerhalb der beschnittenen Vorderseite zentriert
+- links und rechts bleiben jeweils mindestens **0,675 Zoll Sicherheitsabstand** innerhalb der Trim-Fläche
+- maximale Titelbreite damit: **3,710 Zoll**
+- Tracking: **1,5 pt**; die Schriftgröße wird im Build automatisch reduziert, bis die Sicherheitszone eingehalten wird
 - darunter eine horizontale Linie über die **komplette Breite der Vorderseite**
 - in der Linie ein einzelner Ausschlag
 - darunter ausschließlich der Untertitel: `Wenn die Maschine recht hat`
@@ -58,6 +62,8 @@ KDP-Faktor für Schwarzweiß auf weißem Papier:
 - keine Transparenz notwendig
 - keine Anmerkungen/Formfelder
 - Barcode-Bereich gestalterisch unberührt
+- der Cover-Build muss die Titelbreite gegen die definierte Sicherheitszone prüfen
+- aus demselben PDF wird im Workflow zusätzlich ein PNG-Preview erzeugt; PDF und Bild dürfen nicht getrennt gestaltet werden
 
 Build:
 
@@ -75,4 +81,5 @@ Wenn KDP eine andere Seitenzahl meldet:
 2. nur die tatsächliche Seitenzahl in den Cover-Build übernehmen,
 3. Rückenbreite und Gesamtbreite neu berechnen lassen,
 4. `ABWEICHUNG_COVER.pdf` neu erzeugen und preflighten,
-5. erst danach hochladen.
+5. PNG-Preview aus genau diesem PDF rendern und visuell prüfen,
+6. erst danach hochladen.

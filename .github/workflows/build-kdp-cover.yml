@@ -57,6 +57,20 @@ jobs:
             exit 1
           fi
 
+      - name: Render preview image
+        run: |
+          pdftoppm -png -singlefile -r 150 ABWEICHUNG_COVER.pdf ABWEICHUNG_COVER_PREVIEW
+
+      - name: Upload cover preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: abweichung-cover-preview
+          path: |
+            ABWEICHUNG_COVER.pdf
+            ABWEICHUNG_COVER_PREVIEW.png
+          if-no-files-found: error
+          retention-days: 30
+
       - name: Commit production PDF
         run: |
           git config user.name 'github-actions[bot]'
@@ -65,6 +79,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'No cover change.'
           else
-            git commit -m 'production: build ABWEICHUNG KDP cover'
+            git commit -m 'production: rebuild ABWEICHUNG cover with safe title fit'
             git push
           fi

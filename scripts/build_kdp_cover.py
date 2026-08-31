@@ -12,6 +12,10 @@ TRIM_W = 5.06
 TRIM_H = 7.81
 BLEED = 0.125
 SPINE_FACTORS = {"white": 0.002252, "cream": 0.0025}
+TITLE_SAFE_SIDE = 0.675
+TITLE_TRACKING = 1.5
+TITLE_MAX_SIZE = 38.0
+TITLE_MIN_SIZE = 24.0
 
 
 def find_font(candidates):
@@ -110,22 +114,42 @@ def build(output: Path, pages: int, paper: str):
             x += width + tracking
 
     title = "ABWEICHUNG"
-    title_size = 42
-    tracking = 2.5
-    max_title_width = (TRIM_W - 0.55) * inch
-    while (
-        sum(stringWidth(ch, "CoverTitle", title_size) for ch in title)
-        + tracking * (len(title) - 1)
-        > max_title_width
-    ):
+    title_size = TITLE_MAX_SIZE
+    max_title_width = (TRIM_W - 2 * TITLE_SAFE_SIDE) * inch
+
+    def title_width(size):
+        return (
+            sum(stringWidth(ch, "CoverTitle", size) for ch in title)
+            + TITLE_TRACKING * (len(title) - 1)
+        )
+
+    while title_width(title_size) > max_title_width:
         title_size -= 0.5
-    tracked(title, "CoverTitle", title_size, tracking, front_center, h * 0.675)
+
+    if title_size < TITLE_MIN_SIZE:
+        raise RuntimeError(
+            "Title had to be reduced below the minimum size; review cover typography"
+        )
+
+    tracked(
+        title,
+        "CoverTitle",
+        title_size,
+        TITLE_TRACKING,
+        front_center,
+        h * 0.675,
+    )
 
     c.setFont("CoverSub", 12.5)
     c.drawCentredString(front_center, h * 0.392, "Wenn die Maschine recht hat")
 
     c.showPage()
     c.save()
+    print(
+        f"title_size={title_size:.1f}pt "
+        f"title_width={title_width(title_size) / inch:.3f}in "
+        f"title_max_width={max_title_width / inch:.3f}in"
+    )
     print(
         f"pages={pages} paper={paper} spine={spine:.6f}in "
         f"cover={cover_w:.6f}x{cover_h:.3f}in"
