@@ -1,7 +1,7 @@
 # Prosa – S001
 
 scene_id: S001
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -9,21 +9,21 @@ source_beats: `BEATS.md`
 
 Der Alarm kam aus zwei Richtungen gleichzeitig.
 
-Eva stand am Fußende der Liege und sah zu, wie der Brustkorb des Mannes sich hob. Zu schnell. Zu flach. Bei jedem Atemzug spannten sich die Muskeln an seinem Hals. Die Maske beschlug, wurde klar, beschlug wieder.
+Eva stand am Fußende der Liege und sah zu, wie sich der Brustkorb des Mannes hob: zu schnell und zu flach. Bei jedem Atemzug spannten sich die Muskeln an seinem Hals. Die Maske beschlug, wurde klar, beschlug wieder.
 
 „Sättigung fällt.“
 
 Die Pflegekraft sagte es ruhig. Gerade deshalb klang die Zahl auf dem Monitor lauter, als sie war.
 
-Eva trat an die Seite der Liege. Der Patient hatte vor zehn Minuten noch versucht, die Maske wegzuschieben, weil sie ihn störte. Jetzt lag seine Hand offen auf der Decke. Die Finger bewegten sich kaum.
+Eva trat an die Seite der Liege. Vor zehn Minuten hatte der Patient noch versucht, die Maske wegzuschieben, weil sie ihn störte. Jetzt lag seine Hand offen auf der Decke, die Finger bewegten sich kaum.
 
-„Herr— schauen Sie mich an.“
+„Herr – schauen Sie mich an.“
 
 Seine Lider gingen auf.
 
 „Wissen Sie, wo Sie sind?“
 
-Er nickte einmal. Oder sein Kopf sank nur ein Stück zur Seite. Eva konnte es nicht sicher unterscheiden.
+Er nickte einmal. Vielleicht sank sein Kopf auch nur ein Stück zur Seite; Eva konnte es nicht sicher unterscheiden.
 
 „Noch einmal Blutgas.“
 
@@ -45,13 +45,13 @@ Eva hörte den kurzen Signalton, sah aber noch nicht hin.
 
 „Achtunddreißig.“
 
-Vier Atemzüge weniger waren hier keine Verbesserung. Nicht bei diesem Mann. Das Pfeifen, das vor einer halben Stunde noch über dem ganzen Oberkörper gelegen hatte, war dünner geworden. Eva beugte sich näher. Weniger Geräusch. Weniger Bewegung. Weniger Kraft.
+Vier Atemzüge weniger bedeuteten bei diesem Mann keine Verbesserung. Das Pfeifen, das vor einer halben Stunde noch über dem ganzen Oberkörper gelegen hatte, war dünner geworden. Eva beugte sich näher. Weniger Geräusch, weniger Bewegung. Ihm fehlte die Kraft.
 
 Sie legte die Hand auf seinen Oberarm.
 
 „Drücken Sie meine Hand.“
 
-Seine Finger schlossen sich um ihre. Schwach. Nach einer Sekunde ließen sie wieder los.
+Seine Finger schlossen sich schwach um ihre und ließen nach einer Sekunde wieder los.
 
 Er brauchte nicht mehr Luft. Er brauchte bald jemanden, der für ihn atmete.
 
@@ -63,7 +63,7 @@ Die Pflegekraft hob den Blick zum Display.
 
 Erst jetzt richtete Eva sich auf.
 
-Eine zweite Meldung lag unter dem roten Balken. Falkenried Nord. Septischer Schock. Persistierende Hypotonie. Laktat erhöht. Vasopressor läuft.
+Eine zweite Meldung lag unter dem roten Balken. Falkenried Nord. Septischer Schock, persistierende Hypotonie, Laktat erhöht, Vasopressor läuft.
 
 Sie öffnete die Detailansicht.
 
@@ -71,11 +71,9 @@ Sie öffnete die Detailansicht.
 
 **Konfidenz: hoch**
 
-Darunter standen die Gründe. Kreislaufversagen. Steigender Vasopressorbedarf. Verzögerungsrisiko. Erwarteter akuter Behandlungsnutzen.
+Darunter standen die Gründe: Kreislaufversagen, steigender Vasopressorbedarf, Verzögerungsrisiko und erwarteter akuter Behandlungsnutzen. Für ihren Patienten zeigte KORA ebenfalls ein hohes Risiko, nur niedriger.
 
-Für ihren Patienten zeigte KORA ebenfalls ein hohes Risiko. Nur niedriger.
-
-Eva scrollte nicht sofort weiter. Sie kannte die Logik des Systems. Sie hatte an Sitzungen gesessen, in denen genau solche Konflikte diskutiert worden waren: zwei Patienten, eine unmittelbar verfügbare Ressource, eine Entscheidung, die nicht durch die Schwere allein getroffen wurde. KORA sollte den erwarteten akuten Nutzen und das Risiko einer Verzögerung zusammenführen. Nicht den sichtbareren Patienten belohnen. Nicht den lauteren Standort.
+Eva scrollte nicht sofort weiter. Sie kannte die Logik des Systems. Sie hatte an Sitzungen gesessen, in denen genau solche Konflikte diskutiert worden waren: zwei Patienten, eine unmittelbar verfügbare Ressource, eine Entscheidung, die nicht durch die Schwere allein getroffen wurde. KORA sollte den erwarteten akuten Nutzen und das Risiko einer Verzögerung zusammenführen, ohne den sichtbareren Patienten oder den lauteren Standort zu bevorzugen.
 
 Jetzt stand die Theorie an der Wand, während hinter ihr ein Mann die Kraft zum Atmen verlor.
 
@@ -83,7 +81,7 @@ Jetzt stand die Theorie an der Wand, während hinter ihr ein Mann die Kraft zum 
 
 Jemand am Arbeitsplatz prüfte die Verbundübersicht.
 
-„Unklar. Keine bestätigte Entlassung. Kein freier Beatmungsplatz.“
+„Unklar. Keine bestätigte Entlassung, kein freier Beatmungsplatz.“
 
 „Andere Klinik?“
 
@@ -93,65 +91,43 @@ Jemand am Arbeitsplatz prüfte die Verbundübersicht.
 
 „Der Patient ist bereits dort. Die brauchen den Intensivplatz genauso wie wir.“
 
-Eva nickte knapp. Die Frage war überflüssig gewesen. Sie hatte nur gehofft, irgendwo in der Kette eine dritte Möglichkeit zu finden.
+Eva hatte gehofft, irgendwo in der Kette eine dritte Möglichkeit zu finden. Die Frage nach dem Transport war überflüssig gewesen; eine dritte Möglichkeit gab es nicht.
 
-Es gab keine.
-
-Sie ging zurück ans Bett.
-
-Der Mann atmete mit geöffnetem Mund gegen die Maske. Ein Atemzug. Eine Pause, die eine Spur zu lang war. Der nächste Atemzug kam flacher.
+Sie ging zurück ans Bett. Der Mann atmete mit geöffnetem Mund gegen die Maske. Nach einem Atemzug folgte eine Pause, die eine Spur zu lang war. Der nächste kam flacher.
 
 Eva nahm die Maske für einen Moment ab, nur weit genug, um sein Gesicht zu sehen.
 
-„Bleiben Sie bei mir.“
-
-Sein Blick suchte sie.
-
-„Können Sie mich hören?“
+„Bleiben Sie bei mir. Können Sie mich hören?“
 
 Ein kaum sichtbares Nicken.
 
 „Wir helfen Ihnen gleich mehr beim Atmen.“
 
-Er versuchte etwas zu sagen. Es kam kein verständliches Wort.
+Er versuchte etwas zu sagen. Es kam kein verständliches Wort. Die Maske war wieder auf seinem Gesicht, bevor er die Kraft für einen zweiten Versuch fand.
 
-Die Maske war wieder auf seinem Gesicht, bevor er die Kraft für einen zweiten Versuch fand.
-
-Eva sah zur Pflegekraft.
+Eva wandte sich an die Pflegekraft.
 
 „Intubationsmaterial vollständig vorbereiten. Wir warten nicht auf den Absturz.“
 
-Die Pflegekraft nickte und wandte sich ab.
+Die Pflegekraft nickte und ging zum Materialwagen.
 
-Am Display hatte KORA inzwischen die beiden Verläufe nebeneinander gestellt. Links Zentral. Rechts Nord.
-
-Eva öffnete die Ansicht selbst.
+Am Display hatte KORA inzwischen die beiden Verläufe nebeneinander gestellt: links Zentral, rechts Nord. Eva öffnete die Ansicht selbst.
 
 Der Patient in Nord war schlechter.
 
-Die Erkenntnis kam ohne Widerstand. Seine Kreislaufwerte waren bedrohlicher, sein Vasopressorbedarf stieg, die Übergangsstabilisierung hielt ihn, ersetzte aber keine definitive Intensivaufnahme. KORA hatte keine Daten übersehen, die Eva im System nachtragen musste. Keine Fehlermeldung. Keine erkennbare Lücke. Keine falsche Zuordnung.
+Die Erkenntnis kam ohne Widerstand. Seine Kreislaufwerte waren bedrohlicher, der Vasopressorbedarf stieg, die Übergangsstabilisierung hielt ihn, ersetzte aber keine definitive Intensivaufnahme. KORA hatte weder eine Fehlermeldung noch eine erkennbare Datenlücke oder falsche Zuordnung produziert.
 
-Sie wechselte zurück zum lokalen Verlauf.
+Eva wechselte zurück zum lokalen Verlauf. Atemfrequenz, Sauerstoffbedarf, Blutgase, Erschöpfungszeichen und Reaktion auf die bisherige Therapie waren ebenfalls vollständig erfasst.
 
-Atemfrequenz. Sauerstoffbedarf. Blutgase. Erschöpfungszeichen. Reaktion auf die bisherige Therapie.
-
-Auch das war vollständig erfasst.
-
-KORA sah ihren Patienten.
-
-Es setzte ihn nur auf Platz zwei.
+KORA sah ihren Patienten und setzte ihn trotzdem auf Platz zwei.
 
 „Neue Blutgase.“
 
-Die Pflegekraft nannte die Werte.
-
-Eva wiederholte einen davon, mehr für sich als für das Team.
+Die Pflegekraft nannte die Werte. Eva wiederholte einen davon, mehr für sich als für das Team.
 
 „Und klinisch?“ fragte der Arzt neben ihr.
 
-Eva sah zum Bett.
-
-„Erschöpfter. Weniger Atemgeräusch. Reaktion verzögert.“
+Eva deutete zum Bett. „Erschöpfter. Weniger Atemgeräusch. Reaktion verzögert.“
 
 „Dann intubieren wir.“
 
@@ -161,11 +137,9 @@ Er schaute zum roten Balken.
 
 „Mit welchem Bett?“
 
-Niemand antwortete für einen Moment.
+Für einen Moment antwortete niemand.
 
-Der Monitor piepte schneller. Der Patient griff nach der Maske. Nicht kräftig. Seine Hand hob sich nur bis zur Hälfte, blieb dort und sank wieder ab.
-
-Eva legte ihre Hand über seine.
+Der Monitor piepte schneller. Der Patient griff nach der Maske, brachte die Hand aber nur bis zur Hälfte hoch, bevor sie wieder sank. Eva legte ihre Hand über seine.
 
 „Lassen Sie die drauf.“
 
@@ -173,7 +147,7 @@ Seine Augen öffneten sich.
 
 „Noch kurz.“
 
-Sie wusste, dass das Wort gelogen klang. Kurz konnte fünf Minuten heißen oder dreißig. Kurz konnte der Zeitraum sein, in dem ein Mensch von erschöpft zu nicht mehr ansprechbar wurde.
+Das Wort klang selbst in ihren Ohren falsch. Kurz konnte fünf Minuten heißen oder dreißig; in der Notaufnahme konnte es genau der Zeitraum sein, in dem ein Mensch von erschöpft zu nicht mehr ansprechbar wurde.
 
 Der Arzt neben ihr sagte leiser: „Wenn wir den Platz nehmen, bleibt Nord in der Übergangsversorgung.“
 
@@ -185,33 +159,17 @@ Der Arzt neben ihr sagte leiser: „Wenn wir den Platz nehmen, bleibt Nord in de
 
 „Und wenn wir warten?“
 
-Eva antwortete nicht sofort.
+Eva ging die Möglichkeiten noch einmal durch, obwohl keine neue auftauchen würde: nichtinvasive Unterstützung weiterführen, intubieren und außerhalb einer regulären Intensivkapazität überbrücken, auf eine Freigabe hoffen, die niemand zusagen konnte, oder den letzten Platz nach Nord geben und den Mann vor ihr provisorisch weiter stabilisieren.
 
-Sie ging die Möglichkeiten noch einmal durch, obwohl sie wusste, dass keine neue auftauchen würde. Nichtinvasive Unterstützung weiterführen. Intubieren und außerhalb einer regulären Intensivkapazität überbrücken. Auf eine Freigabe hoffen, die niemand zusagen konnte. Den letzten Platz nach Nord geben und den Mann vor ihr in einem provisorischen Setting weiter stabilisieren.
+Jede Variante war medizinisch möglich, bis sie es nicht mehr war. Das war das Problem mit Zeit in der Notaufnahme: Oft erkannte man erst rückblickend, welche Minute die letzte vernünftige gewesen war.
 
-Jede Variante war medizinisch möglich, bis sie es nicht mehr war.
+Eva öffnete KORAs Ressourcenansicht erneut. Nord blieb dort als Werte und Warnhinweise stehen, ein Mensch, den sie nicht sah. Ein Team, das wahrscheinlich gerade dieselben Wörter benutzte wie ihres: Blutdruck, Laktat, Dosis, noch ein Versuch, noch fünf Minuten.
 
-Das war das Problem mit Zeit in der Notaufnahme. Man erkannte oft erst rückblickend, welche Minute die letzte vernünftige gewesen war.
+Für einen Moment stellte sie sich vor, dort zu stehen. Der Versuch änderte nichts. Vor ihr lag ein Mann, dessen Atemzüge bereits kleiner wurden.
 
-Eva öffnete KORAs Ressourcenansicht erneut.
+KORA konnte mit der Priorisierung recht haben, und Eva wusste es. Gerade deshalb wurde ihre Entscheidung schwerer.
 
-Nord blieb dort als Werte und Warnhinweise stehen. Ein Mensch, den sie nicht sah. Ein Team, das wahrscheinlich gerade dieselben Sätze sprach wie ihres. Blutdruck. Laktat. Dosis. Noch ein Versuch. Noch fünf Minuten.
-
-Sie stellte sich für einen Moment vor, dort zu stehen.
-
-Es half nicht.
-
-Vor ihr lag ein Mann, dessen Atemzüge bereits kleiner wurden.
-
-KORA konnte mit der Priorisierung recht haben.
-
-Eva wusste das.
-
-Das machte die Entscheidung nicht leichter. Es machte sie schwerer.
-
-Noch vor wenigen Monaten hätte sie einem System misstraut, das ihr aus der Ferne erklärte, welchen Patienten sie warten lassen sollte. KORA war nicht dieses System. Die Validierung war gut. Die Grenzen waren dokumentiert. Die Empfehlung war nachvollziehbar.
-
-Sie hatte selbst dafür argumentiert, es im Verbund einzusetzen.
+Noch vor wenigen Monaten hätte sie einem System misstraut, das ihr aus der Ferne erklärte, welchen Patienten sie warten lassen sollte. KORA war nicht dieses System. Die Validierung war gut, die Grenzen waren dokumentiert, die Empfehlung nachvollziehbar. Eva hatte selbst dafür argumentiert, es im Verbund einzusetzen.
 
 „Eva?“
 
@@ -221,23 +179,17 @@ Sie öffnete das Override-Feld.
 
 **Empfehlung überschreiben?**
 
-Noch gab es keine Begründungspflicht. Kein zweites Paar Augen. Kein Pflichtfeld, in dem sie erklären musste, warum ihre Wahrnehmung am Bett stärker wog als KORAs verbundweite Rechnung.
+Noch gab es keine Begründungspflicht, kein zweites Paar Augen und kein Pflichtfeld, in dem sie erklären musste, warum ihre Wahrnehmung am Bett stärker wog als KORAs verbundweite Rechnung.
 
 Nur die Entscheidung.
 
-Ihr Finger blieb über der Bestätigung.
+Ihr Finger blieb über der Bestätigung. Sie hätte KORA folgen können. Niemand hätte ihr später vorwerfen können, die bessere validierte Empfehlung ignoriert zu haben.
 
-Sie hätte KORA folgen können. Niemand hätte ihr später vorwerfen können, die bessere validierte Empfehlung ignoriert zu haben.
+Der Gedanke erschreckte sie fast mehr als die Empfehlung selbst. Verantwortung durfte nicht darin bestehen, den sichersten Satz für die spätere Akte zu wählen.
 
-Der Gedanke erschreckte sie fast mehr als die Empfehlung selbst.
+Am Bett waren die Augen des Patienten geschlossen. Die Maske hob sich mit jedem unterstützten Atemzug. Die Pflegekraft hielt bereits das Material für die Atemwegssicherung bereit.
 
-Verantwortung durfte nicht darin bestehen, den sichersten Satz für die spätere Akte zu wählen.
-
-Sie sah zum Patienten.
-
-Seine Augen waren geschlossen. Die Maske hob sich mit jedem unterstützten Atemzug. Die Pflegekraft hielt bereits das Material für die Atemwegssicherung bereit.
-
-Eva sah den Kollegen an.
+Eva wandte sich an den Kollegen.
 
 „Wir nehmen den Platz.“
 
@@ -247,29 +199,21 @@ Er nickte einmal.
 
 „Das läuft auf mich.“
 
-Niemand widersprach.
-
-Eva bestätigte.
+Niemand widersprach. Eva bestätigte.
 
 Das Display wechselte sofort.
 
 **INTENSIVKAPAZITÄT – FALKENRIED ZENTRAL ZUGEWIESEN**
 
-Darunter verschwand der Konflikthinweis nicht. Er veränderte nur seine Richtung.
-
-Für Nord erschien ein neuer Status.
+Der Konflikthinweis verschwand nicht, er wechselte nur die Richtung. Für Nord erschien ein neuer Status.
 
 **Übergangsstabilisierung fortsetzen.**
 
-Eva las die Zeile.
-
-Eine Sekunde länger, als nötig gewesen wäre.
-
-Dann drehte sie sich um.
+Eva las die Zeile eine Sekunde länger als nötig und drehte sich dann um.
 
 „Intubationsbereitschaft. Wir gehen jetzt.“
 
-Der Raum setzte sich in Bewegung. Verpackungen wurden geöffnet. Medikamente vorbereitet. Ein Beatmungsgerät wurde nähergezogen. Jemand kontrollierte den Zugang. Die Pflegekraft nannte die nächste Sättigung. Der Anästhesist wiederholte die geplanten Schritte.
+Der Raum setzte sich in Bewegung. Verpackungen wurden geöffnet, Medikamente vorbereitet, ein Beatmungsgerät nähergezogen. Jemand kontrollierte den Zugang. Die Pflegekraft nannte die nächste Sättigung, der Anästhesist wiederholte die geplanten Schritte.
 
 Eva stand am Kopfende und hielt den Blick des Patienten, solange er ihn noch halten konnte.
 
@@ -277,7 +221,7 @@ Eva stand am Kopfende und hielt den Blick des Patienten, solange er ihn noch hal
 
 Er blinzelte.
 
-Sie erklärte den nächsten Schritt in zwei kurzen Sätzen. Nicht weil er alles noch aufnehmen konnte. Weil er ein Mensch war, der wissen sollte, was gleich mit ihm geschah.
+Sie erklärte den nächsten Schritt in zwei kurzen Sätzen. Ob er noch alles aufnehmen konnte, war zweitrangig; er sollte wissen, was gleich mit ihm geschah.
 
 Seine Hand bewegte sich unter der Decke. Eva legte ihre Finger kurz darauf.
 
@@ -287,7 +231,7 @@ Dann begann die Einleitung.
 
 Der Raum wurde enger. Stimmen wurden kürzer. Zahlen wichtiger.
 
-Eva konzentrierte sich auf den Atemweg, auf den Monitor, auf die Reaktion des Kreislaufs. Für einige Minuten existierte nur noch dieser Patient.
+Eva konzentrierte sich auf den Atemweg, den Monitor und die Reaktion des Kreislaufs. Für einige Minuten existierte nur noch dieser Patient.
 
 Als der Tubus lag und die ersten kontrollierten Atemzüge die Kurve veränderten, löste sich die Spannung im Raum nicht. Sie verlagerte sich.
 
@@ -297,12 +241,6 @@ Als der Tubus lag und die ersten kontrollierten Atemzüge die Kurve veränderten
 
 Eva nickte.
 
-Auf dem Wanddisplay blieb Falkenried Nord sichtbar.
+Auf dem Wanddisplay blieb Falkenried Nord sichtbar. Der Status hatte sich nicht verändert: Übergangsstabilisierung.
 
-Der Status hatte sich nicht verändert.
-
-Übergangsstabilisierung.
-
-Eva las ihn aus dem Augenwinkel.
-
-Dann sah sie nicht mehr hin.
+Eva las ihn aus dem Augenwinkel und sah dann nicht mehr hin.
