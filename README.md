@@ -4,7 +4,7 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → ursprüngliches G2 APPROVED → G3 APPROVED → 40/40 PROSA → 2× WHOLE-MANUSCRIPT REVIEW → REPEATED MAJORS → CONTROLLED G2 BACKTRACK → CLEAN SCENE-SHAPE REREVIEW → READY_FOR_HUMAN_G2**
+**G0 APPROVED → G1 APPROVED → G2 APPROVED → G3 APPROVED → 40/40 PROSA → 2× WHOLE-MANUSCRIPT REVIEW → REPEATED MAJORS → CONTROLLED G2 BACKTRACK → CLEAN SCENE-SHAPE REREVIEW → G2 RE-APPROVED → AWAITING FRESH-CONTEXT MANUSCRIPT REREVIEW**
 
 - 18 Bausteine
 - 54 Ereignisse
@@ -21,12 +21,11 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 - zugehörige Prosa synchron angepasst
 - reiner Rework-Zielstand: `78222a7e99c80378c35379ad42684ee332a412a6`
 - Fresh-Context-Szenen-/Beat-Re-Review gegen diesen Stand: `CLEAN_FRESH_CONTEXT`, 0 Findings
-- `g2_readiness: READY_FOR_REAPPROVAL`
+- Human `G2-APPROVE` am 2026-08-31: aktueller Rework-Stand erneut **G2 / Prose Ready**
 - Lesson Learned dokumentiert in `LESSONS_LEARNED.md`
 - Framework-Transfer vorgemerkt als `Satte882/Buch-Framework` Issue #17; noch keine Framework-Dateien geändert
-- Human Gate G2: **READY_FOR_HUMAN_G2 – erneuter `G2-APPROVE` erforderlich**
-- Human Gate G3 / Prosa-Stil: historische Stilreferenz bleibt APPROVED
-- Human Gate G4 / Manuskript: **blockiert bis G2-Reapproval + neuer Gesamtmanuskript-Review**
+- Human Gate G3 / Prosa-Stil: Stilreferenz bleibt APPROVED
+- Human Gate G4 / Manuskript: **noch nicht freigegeben; neuer Gesamtmanuskript-Re-Review ausstehend**
 
 ## Arbeitsprinzip
 
@@ -51,7 +50,7 @@ Die Storyursachen und Ereignisse bleiben gleich. Verändert wurde ausschließlic
 | S024 | Eva entwickelt die Wert-/Kontext-Gegenarchitektur zuerst allein |
 | S032 | Solo-Break-glass wird in einem funktionalen Stresstest praktisch verifiziert |
 
-Der unabhängige Re-Review der vollständigen Szenen-/Beat-Verteilung meldete danach keine Findings und bestätigte `READY_FOR_REAPPROVAL`.
+Der unabhängige Re-Review der vollständigen Szenen-/Beat-Verteilung meldete danach keine Findings und bestätigte `READY_FOR_REAPPROVAL`. Der Stand wurde anschließend erneut durch Human `G2-APPROVE` freigegeben.
 
 ## Lesson Learned
 
@@ -74,33 +73,28 @@ Der Transfer ins Framework ist als Issue #17 erfasst, wird aber erst nach erfolg
 - `S019 – Die Bilanz`: analytischer Midpoint
 - `S023 – Würden Sie es wieder tun?`: persönliche Konfrontation
 
-Diese Szenen bleiben die interne Stilkalibrierung. Der aktuelle Backtrack verändert deren freigegebene Kernfunktion nicht.
+Diese Szenen bleiben die interne Stilkalibrierung.
 
 ## Aktuelle Phase
 
-**Human Gate G2 – Reapproval.**
+**Unabhängiger Gesamtmanuskript-Re-Review vor G4.**
 
-Der kontrollierte Scene-/Beat-Backtrack wurde unabhängig gegen den festen Zielstand
+Der Auftrag liegt in:
+
+`MANUSCRIPT_FRESH_CONTEXT_TASK.md`
+
+Fester Zielstand:
 
 `78222a7e99c80378c35379ad42684ee332a412a6`
 
-geprüft mit:
-
-- `review_status: CLEAN_FRESH_CONTEXT`
-- `finding_count: 0`
-- `g2_readiness: READY_FOR_REAPPROVAL`
-
-Erforderlicher nächster Schritt:
-
-`G2-APPROVE`
+Der Review muss S001–S040 vollständig als Roman lesen und insbesondere prüfen, ob die früheren manuskriptweiten Probleme nach dem Scene-Shape-Backtrack tatsächlich verschwunden sind.
 
 Danach:
 
-1. G2-Reapproval im Gate dokumentieren,
-2. `MANUSCRIPT_FRESH_CONTEXT_TASK.md` auf den reworked Stand ausführen,
-3. nur ohne offene Blocker/Major-Findings → `READY_FOR_HUMAN_G4`,
-4. Human Gate **G4 – Manuskript**,
-5. danach Produktion / G5.
+1. neue Findings dispositionieren,
+2. bei keinen offenen Blocker/Major-Findings → `READY_FOR_HUMAN_G4`,
+3. Human Gate **G4 – Manuskript**,
+4. danach Produktion / G5.
 
 ## Reihengedanke
 
