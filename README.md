@@ -4,87 +4,86 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → G2 APPROVED → G3 APPROVED → 40/40 PROSA → 3× WHOLE-MANUSCRIPT REVIEW → CONTROLLED G2 BACKTRACK → CLEAN SCENE-SHAPE REREVIEW → G2 RE-APPROVED → REVIEW ADJUDICATED → G4 APPROVED → PRODUKTION / G5**
+**G0 APPROVED → G1 APPROVED → G2 APPROVED → G3 APPROVED → 40/40 PROSA → MANUSKRIPT-REWORK/ADJUDIKATION → G4 APPROVED → PRODUCTION BUILD PASS → READY_FOR_HUMAN_G5**
 
 - 18 Bausteine
 - 54 Ereignisse
 - 40 Szenen
 - 253 Beats
 - 40/40 Szenen mit `PROSA.md`
-- G1-Storywahrheit unverändert
-- kanonischer Manuskriptstand: `78222a7e99c80378c35379ad42684ee332a412a6`
-- Fresh-Context-Szenen-/Beat-Re-Review des Backtracks: `CLEAN_FRESH_CONTEXT`, 0 Findings
-- Human `G2-APPROVE` am 2026-08-31: Rework-Stand erneut G2 / Prose Ready
-- dritter Gesamtmanuskript-Review: 2 Raw-Findings; nach Adjudikation 0 bestätigte Blocker/Majors
-- Human `G4-APPROVE` am 2026-08-31: vollständiges Manuskript **APPROVED**
-- nicht blockierende Residual-/Minor-Risiken: 2
-- Lessons Learned dokumentiert in `LESSONS_LEARNED.md`
-- Framework-Transfer aus dem Pilot wird nach G4 umgesetzt
-- aktueller nächster Gate: **G5 / Produktion**
-
-## Arbeitsprinzip
-
-Die Story wurde konsequent vom Groben ins Feine aufgebaut:
-
-`Buchidee / Gesamtarchitektur → Baustein → Ereignisse → Szene → Beats → Prosa`
-
-Der Pilot hat zwei zusätzliche Qualitätsprinzipien bestätigt:
-
-1. **Semantische Vollständigkeit allein reicht nicht.** Die Verteilung dramaturgischer Szenenformen muss bereits vor Vollprosa über das ganze Buch geprüft werden.
-2. **Fresh-Context-Reviews brauchen Adjudikation.** Ein Review liefert Findings; erst die Prüfung von Evidenz, Severity und kleinster sinnvoller Rework-Ebene entscheidet, ob ein Finding das nächste Human Gate blockiert.
-
-## Scene-Shape-Backtrack
-
-Die Storyursachen und Ereignisse blieben gleich. Verändert wurde ausschließlich, wie ausgewählte Szenen ihre freigegebene Storyfunktion tragen:
-
-| Szene | neuer dominanter Träger |
-|---|---|
-| S008 | erste Governance-Regel wird live im klinischen Workflow erlebt |
-| S014 | klinischer Low-Confidence-Fall löst den Analyseauftrag aus |
-| S018 | Eva führt allein die persönliche Gegenprobe auf ihre eigenen Fälle aus |
-| S020 | personenbezogene Governance erscheint als persönliche Einstufung / Statusverlust |
-| S024 | Eva entwickelt die Wert-/Kontext-Gegenarchitektur zuerst allein |
-| S032 | Solo-Break-glass wird in einem funktionalen Stresstest praktisch verifiziert |
+- kanonischer G4-Manuskriptstand: `78222a7e99c80378c35379ad42684ee332a412a6`
+- offene bestätigte G4-Blocker/Majors: 0
+- nicht blockierende G4-Residual-/Minor-Risiken: 2
+- Human `G4-APPROVE`: 2026-08-31
+- `main` enthält den vollständigen G4-Stand
+- Framework-Lessons-Learned aus Issue #17 umgesetzt; Issue #17 geschlossen
+- Production Build Run #1 / ID `33366125536`: **PASS**
+- Produktionsartefakt: `abweichung-production-v01`
+- konsolidierte Fassung: `ABWEICHUNG_v01.md` + `ABWEICHUNG_v01.html`
+- vollständiger G4-Umfang: **16.527 Wörter**
+- Human Gate G5: **READY_FOR_HUMAN_G5 – Produktumfang muss bewusst entschieden werden**
 
 ## G4
 
-Human `G4-APPROVE` vom 2026-08-31 akzeptiert den vollständigen Manuskriptstand
+Human `G4-APPROVE` akzeptiert den vollständigen Manuskriptstand
 
 `78222a7e99c80378c35379ad42684ee332a412a6`
 
 als kanonisches Manuskript.
 
-Gate-Record:
+Gate-Record: `gates/G4.md`
 
-`gates/G4.md`
+Weitere Änderungen am Roman nach G4 dürfen keine neue Storyentscheidung stillschweigend einführen.
 
-Weitere Änderungen nach G4 dürfen keine neue Storyentscheidung stillschweigend einführen. Verbleibende Arbeit gehört zu Produktion, Lektorat und Endpolish.
+## Produktion
+
+Der Produktionsbuilder `scripts/build_production.py` liest ausschließlich den festen G4-Commit und erzeugt deterministisch:
+
+1. `ABWEICHUNG_v01.md` – konsolidierte Manuskriptfassung
+2. `ABWEICHUNG_v01.html` – standalone Lese-/Druckfassung
+3. `BUILD_INFO.json` – Quellen-/Hashnachweis
+
+Kanonischer Build:
+
+- Workflow: `Production Build`
+- Run #1 / ID: `33366125536`
+- Ergebnis: PASS
+- Artifact-ID: `9748335150`
+- ZIP SHA-256: `b6d6fde371e14d9f2f03b5e4a5839ff1e85e72f03345ab508c31373bb3e0d765`
+- Markdown SHA-256: `9c00cb0632b0729f43bf0d74f565573d52a794de4d6227eac06a3cf966ff478d`
+- HTML SHA-256: `debc8a08023ca793c4ab4b35c2e5c428d3eb94f4d9ce97dcbd6bdfe3e12b4be4`
+- 40/40 Szenen, S001–S040 lückenlos
+- `sondern = 0`
+
+Details: `production/BUILD_MANIFEST.md`
+
+## Produktumfang vor G5
+
+Der Produktionsbuild hat erstmals den vollständigen Umfang exakt gemessen:
+
+**16.527 Wörter bei 40 Szenen.**
+
+Vor G4 war kein verbindlicher Ziel-Wortumfang definiert. Deshalb wird die Zahl nicht rückwirkend als automatischer G4-Fehler behandelt.
+
+G5 muss den Produkt-Scope nun bewusst entscheiden:
+
+- `G5-APPROVE` – aktuellen Umfang und Produktionsstand akzeptieren,
+- `G5-REWORK` – Manuskript/Product Scope wieder öffnen,
+- `G5-STOP` – Produktion stoppen.
+
+Gate-Anforderung: `G5_REVIEW_REQUEST.md`
 
 ## Lessons Learned
 
-`LESSONS_LEARNED.md` enthält die bestätigten Pilot-Erkenntnisse zu:
+Der Pilot hat insbesondere bestätigt:
 
-- Whole-Book Scene-Shape-Verteilung vor G2,
-- zusammenhängendem Mittelteil-Run in G3,
-- globalen statt nur lokalen Wiederholungsmustern,
-- kontrolliertem G2-Backtrack bei wiederholten Manuskript-Majors,
-- Review-Adjudikation und Schutz vor Reviewer-Overfitting.
+- Whole-Book Scene-Shape-Verteilung vor G2 prüfen,
+- G3 zusätzlich mit zusammenhängendem Mittelteil-Run prüfen,
+- globale statt nur lokale Wiederholungsmuster bewerten,
+- bei wiederholtem bestätigtem Manuskript-Major kontrolliert upstream backtracken,
+- Raw-Reviews vor Rework evidenzbasiert adjudizieren.
 
-Der Framework-Transfer wird nach G4 über `Satte882/Buch-Framework` Issue #17 umgesetzt.
-
-## Aktuelle Phase
-
-**Produktion / G5.**
-
-Ziel dieser Phase ist nicht mehr Storyentwicklung, sondern der produktionsfähige Buchstand: konsolidiertes Manuskript, Endpolish/Lektorat, Front-/Backmatter, Formatierung und finale Produktionsprüfung.
-
-G5 bleibt ein Human Gate.
-
-## Reihengedanke
-
-Die Bücher sind keine klassische Fortsetzungsreihe mit denselben Figuren. Gemeinsam ist die dramaturgische Denkmaschine:
-
-> Ein gesellschaftlich nachvollziehbares Problem trifft auf eine zunächst vernünftige Lösung. Die Lösung funktioniert. Gerade ihr Erfolg verschiebt schrittweise eine Grenze, bis etwas normal oder legitim erscheint, das zu Beginn kaum akzeptabel gewesen wäre.
+Diese Punkte wurden nach G4 in `Satte882/Buch-Framework` umgesetzt.
 
 ## Thematischer Kern
 
