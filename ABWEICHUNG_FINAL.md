@@ -5769,277 +5769,167 @@ Jan hatte den Raum abgedunkelt, damit die Zeitachsen auf dem großen Bildschirm 
 
 Drei Linien lagen übereinander.
 
-„Hier beginnt die Verschlechterung.“
+Oben die klinischen Werte. Darunter Maßnahmen und neue Befunde. Auf der dritten Linie Dokumentation, KORA-Bewertungen und der formal erfasste Entscheidungspunkt.
 
-Eva trat näher.
+Miriam stand hinter ihnen mit einer ausgedruckten Ereignisliste.
 
-Die oberste Achse zeigte klinische Werte. Sauerstoffbedarf. Atemfrequenz. weitere Messungen in kurzen Abständen.
+„Ich gehe langsam“, sagte Jan. „Wir trennen zuerst, was passiert ist, von dem, was wir daraus schließen.“
 
-Darunter lagen Maßnahmen und neue Befunde.
+Eva nickte.
 
-Die dritte Linie enthielt Dokumentation, KORA-Bewertungen und die formal erfasste Entscheidung.
-
-Miriam stand hinter ihnen und blätterte durch eine ausgedruckte Ereignisliste.
-
-Jan bewegte den Cursor zurück zum Anfang.
-
-„Ich gehe absichtlich langsam.“
-
-„Gut“, sagte Eva.
-
-Sie wollte keine Schlussfolie.
-
-Sie wollte sehen, an welcher Stelle aus klinischer Dynamik eine Regelverletzung wurde, falls es eine gab.
+Sie wollte keine Schlussfolie. Sie wollte sehen, an welcher Stelle aus klinischer Dynamik eine Regelverletzung wurde, falls es eine gab.
 
 Jan startete die Rekonstruktion.
 
 Die ersten Minuten waren unauffällig. Der Patient verschlechterte sich, bekam zusätzliche Unterstützung, wurde engmaschiger überwacht.
 
-Dann erschien eine ärztliche Anordnung.
+Dann erschien eine ärztliche Anordnung:
+
+**Weitere Behandlung außerhalb Intensivstation unter intensivierter nichtinvasiver Unterstützung und engmaschiger Kontrolle.**
 
 Jan stoppte.
 
-„Hier.“
-
-Eva las die Zeile.
-
-Weitere Behandlung außerhalb Intensivstation unter intensivierter nichtinvasiver Unterstützung und engmaschiger Kontrolle.
-
-„Das ist der Plan“, sagte Miriam.
-
-Jan nickte.
-
-„Zusammen mit den nachfolgenden Einträgen und der Ressourcendisposition lässt sich daraus rekonstruieren, dass die Entscheidung zu diesem Zeitpunkt gefallen war, zunächst nicht zu eskalieren.“
+„Zusammen mit der Ressourcendisposition und den nachfolgenden Einträgen ist das der früheste Punkt, an dem wir belastbar sagen können: Der Plan war zunächst keine Intensiveskalation.“
 
 Eva sah auf die klinischen Werte daneben.
 
-„Und KORA?“
+Jan öffnete die gespeicherte Informationslage für genau diesen Zeitpunkt, noch bevor sie fragen musste.
 
-Jan öffnete die gespeicherte Informationslage exakt für diesen Zeitpunkt.
+„Keine späteren Daten. Nur das, was damals vorhanden war.“
 
-„Keine späteren Daten.“
-
-„Nur das, was damals verfügbar war?“
-
-„Ja.“
-
-Er ließ die Bewertung rekonstruieren.
-
-Die Anzeige wechselte.
+Er ließ KORA auf dieser Grundlage rekonstruieren.
 
 **Konfidenz: hoch.**
-
-Darunter erschien der Hinweis:
 
 **Zweitfreigabe erforderlich.**
 
 Eva sagte nichts.
 
-Jan schob die Zeitleiste einige Minuten weiter.
+Jan schob die Zeitleiste weiter.
 
-„Dann beginnt die intensivierte Atemunterstützung.“
+Die intensivierte Atemunterstützung begann. Die Werte besserten sich vorübergehend. Sauerstoffversorgung höher, Atemarbeit geringer, ein Snapshot deutlich günstiger als der vorherige.
 
-Die Werte besserten sich.
+Er markierte den späteren Zeitpunkt, den das System formal als Entscheidungspunkt verwendet hatte.
 
-Nicht dramatisch. Aber sichtbar.
+KORA lag dort knapp unter der Schwelle.
 
-Sauerstoffversorgung höher. Atemarbeit vorübergehend geringer. Eine Messung sah deutlich günstiger aus als die davor.
+Keine Zweitfreigabe.
 
-Jan markierte die Stelle, an der im Datensatz die eigentliche formale Entscheidung dokumentiert wurde.
-
-„Und hier steht der Zeitpunkt, den das System als Entscheidungspunkt verwendet hat.“
-
-Er ließ KORA erneut mit der jeweils damaligen Datenlage rechnen.
-
-Die Konfidenz lag jetzt niedriger. Knapp unter der Schwelle. Kein Zweitreview. Eva trat noch näher an den Bildschirm. Zwei Zeitpunkte. Zwei unterschiedliche Governancefolgen.
+Zwei Zeitpunkte. Zwei Governancefolgen.
 
 Dazwischen eine reale Behandlung und reale bessere Werte.
 
 Miriam legte die Ereignisliste auf den Tisch.
 
-„Sind die späteren Daten echt?“
+Jan beantwortete die technische Frage, bevor sie daraus eine Verdachtsfrage machte.
 
-Jan sah zu ihr.
+„Die späteren Daten sind echt. Wir sehen keine manipulierten Werte und keine nachträgliche Änderung. Der Punkt ist nicht die Datenwahrheit. Der Punkt ist, dass der formale Entscheidungszeitpunkt später liegt als die faktische Weichenstellung.“
 
-„Ja.“
+Eva betrachtete die beiden Marker.
 
-„Manipulierte Werte?“
-
-„Nicht, was wir sehen.“
-
-„Nachträglich geändert?“
-
-„Keine Evidenz dafür.“
-
-Eva blickte auf die beiden Marker.
-
-Das war genau die Art Schutzlücke, über die Jan früher abstrakt gesprochen hatte.
+Genau darin lag die Lücke.
 
 Man musste keine Zahl fälschen.
 
-Es genügte, wenn die formale Abbildung der Entscheidung später lag als die tatsächliche Entscheidung.
+Ein späterer Snapshot konnte medizinisch vollständig real sein und trotzdem die falsche Stelle markieren, an der die Governance hätte greifen müssen.
 
-Der spätere Snapshot konnte medizinisch real sein.
+„Bei einem einzelnen Fall könnte das normaler Dokumentationsverzug sein“, sagte Eva.
 
-Und trotzdem die falsche Stelle darstellen, an der die Governance hätte greifen müssen.
+„Ja“, sagte Jan. „Deshalb habe ich Vergleichsfälle.“
 
-„Kann das Dokumentationsverzug sein?“ fragte Eva.
+Er öffnete die zweite Ansicht.
 
-Jan drehte sich vom Bildschirm zu ihr.
+Mehrere Verläufe lagen untereinander.
 
-„In einem einzelnen Fall? Natürlich.“
+Klinischer Plan außerhalb Intensiv. Intervention. Vorübergehende Besserung. Formale Entscheidung nach dem günstigeren Snapshot. KORA später unterhalb der Schwelle. Keine Zweitfreigabe.
 
-„Wie oft passiert so etwas ohne Absicht?“
+Eva erkannte die Struktur, bevor sie den Namen sah.
 
-„Oft genug, dass ein einzelner Zeitstempel nichts beweist.“
+Felix.
 
-Miriam fragte: „Und deshalb die Vergleichsfälle?“ Jan nickte. Er öffnete eine zweite Ansicht. Mehrere Verläufe erschienen untereinander. Nicht viele. Genug.
+Sie öffnete einen Vergleichsfall.
 
-Eva erkannte das Muster, bevor Jan es erklärte.
+Der Patientenausgang war gut.
 
-Klinischer Plan außerhalb Intensiv. Intervention. Vorübergehende Besserung. Formale Entscheidung erst nach dem günstigeren Snapshot.
-
-KORA zu diesem späteren Zeitpunkt unterhalb der Schwelle.
-
-Keine Zweitfreigabe. „Gleicher Arzt“, sagte Miriam. Eva sah auf den Namen. Felix. Sie klickte einen der Vergleichsfälle an.
-
-„Hier war der Patientenausgang gut.“
-
-„Ja“, sagte Jan.
-
-„Und hier?“
-
-„Ebenfalls ohne schweren dokumentierten Schaden.“
-
-Eva nickte.
+Beim nächsten ebenfalls kein schwerer dokumentierter Schaden.
 
 Das war wichtig.
 
-Der Mechanismus durfte nicht nur deshalb problematisch wirken, weil der aktuelle Patient schlecht ausgegangen war.
+Der Mechanismus durfte nicht erst durch den schlechten Ausgang des aktuellen Falls problematisch werden.
 
-Sie öffnete den nächsten Fall.
+Eva ging weiter.
 
-Wieder dieselbe zeitliche Struktur.
-
-„Was können wir sicher sagen?“
-
-Jan verstand sofort, warum sie die Frage so formulierte.
-
-Er trat vom Bildschirm zurück.
-
-„Zum rekonstruierbaren klinischen Entscheidungspunkt wäre die KORA-Einstufung in diesen Fällen high confidence gewesen.“
-
-„Damit wäre die Zweitfreigabe erforderlich.“
-
-„Ja.“
-
-„Sie wurde nicht ausgelöst.“
-
-„Richtig.“
-
-„Weil der formale Entscheidungspunkt später lag.“
-
-„Ja.“
-
-Eva zeigte auf den aktuellen Schadensfall.
-
-„Und dort gilt dasselbe.“
-
-„Ja.“
+Gleicher Arzt. Mehrfach dieselbe zeitliche Struktur. Immer mit derselben Governancefolge.
 
 Miriam verschränkte die Arme.
 
-„Dann hat er die Schutzstufe umgangen.“
+„Das ist mehr als Verzug.“
 
-Eva drehte den Kopf.
+Eva blieb vorsichtiger.
 
-„Die Schutzstufe wurde umgangen.“
+„Es ist mehr als ein einzelner Zufall. Seine Absicht kennen wir erst, wenn wir ihn fragen.“
 
-Miriam sah sie an.
+Jan trat vom Bildschirm zurück.
 
-Eva blieb bei der Formulierung.
+„Was wir sicher sagen können, ist enger. Zum rekonstruierbaren klinischen Entscheidungspunkt wäre die Einstufung in diesen Fällen high confidence gewesen. Damit hätte die Zweitfreigabe gegriffen. Der später dokumentierte Punkt lag nach einer realen Zustandsänderung unter der Schwelle. Dadurch wurde die Schutzstufe nicht ausgelöst.“
 
-„Seine Absicht kennen wir noch nicht.“
+Eva ließ die Formulierung stehen.
 
-„Das Muster ist mehrfach.“
+Nicht: Felix hat manipuliert.
 
-„Ja.“
+Nicht: Felix hat den Schaden verursacht.
 
-„Gleicher Arzt.“
+Nur: Die Schutzstufe griff an der faktischen Weiche nicht.
 
-„Ja.“
+Sie zeigte auf den aktuellen Schadensfall.
 
-„Immer mit demselben Effekt.“
+„Und die Kausalität zum Ausgang?“
 
-Eva nickte.
+Jan schüttelte den Kopf. „Die Zweitfreigabe hätte stattfinden müssen. Mehr können wir daraus nicht ableiten. Wir wissen nicht, ob ein zweiter Arzt widersprochen hätte. Wir wissen auch nicht, ob eine frühere Intensivaufnahme den schweren Schaden sicher verhindert hätte.“
 
-„Und trotzdem frage ich ihn.“
+Eva atmete aus.
 
-Miriam sagte nichts mehr.
-
-Jan wechselte zurück zum ersten Fall.
-
-Der schwere Schaden stand dort nicht als großer roter Block. Nur als späterer Verlauf, getrennt von der eigentlichen Governance-Rekonstruktion.
-
-Eva zeigte darauf.
-
-„Können wir sagen, dass die Zweitfreigabe den Schaden verhindert hätte?“
-
-Jan schüttelte den Kopf.
-
-„Nein.“
-
-„Kann man sagen, dass eine frühere Intensivaufnahme ihn sicher verhindert hätte?“
-
-„Auch nicht.“
-
-„Was können wir sagen?“
-
-„Dass die Entscheidung einem zweiten Arzt hätte vorgelegt werden müssen.“
-
-Eva ließ den Satz stehen.
+Wieder dieselbe Grenze.
 
 Das Audit konnte keine alternative Vergangenheit bauen.
 
-Es konnte den Patienten nicht zurück in den Moment bringen, an dem eine andere Entscheidung möglich gewesen wäre.
+Es konnte zeigen, wo die vereinbarte Kontrolle hätte greifen müssen.
 
-Aber es konnte zeigen, dass die vereinbarte Schutzstufe genau an dieser Stelle hätte greifen sollen.
+Jan öffnete eine technische Ansicht.
 
-Jan öffnete noch eine technische Ansicht.
+„Wenn ihr das künftig robuster machen wollt, reicht ein manuell gesetzter Entscheidungspunkt nicht. Wir brauchen mehrere Prozesssignale: Anordnungen, Ressourcenreservierung, relevante Therapieentscheidung, dokumentierter Planwechsel. Kein einzelnes Signal entscheidet. Zusammen können sie eine frühere faktische Weiche sichtbar machen.“
 
-„Wenn ihr das künftig robust machen wollt, reicht der manuelle Entscheidungszeitpunkt nicht.“
+Miriam nahm ihren Stift, hielt dann inne.
 
-Miriam nahm ihren Stift.
-
-„Was brauchst du?“
-
-„Prozesssignale. Anordnungen. Ressourcenreservierung. relevante Therapieentscheidung. Mehrere Marker, die zusammen zeigen, wann die Weiche faktisch gestellt wurde.“
-
-Eva sah zu Miriam.
+Eva sah zu ihr.
 
 „Später.“
 
-Miriam legte den Stift wieder hin.
+Miriam legte den Stift zurück.
 
-„Gut.“
+„Du redest zuerst mit Felix.“
 
-Eva schloss die Vergleichsansicht.
+„Ja.“
 
-„Ich rede zuerst mit Felix.“
+„Allein?“
 
-„Nicht allein, wenn du–“
+Eva nahm die drei Ausdrucke vom Tisch.
 
-„Doch.“
+„Ja.“
 
-Miriam brach ab.
+Miriam widersprach nicht weiter.
 
-Eva stand auf.
+Jan beendete den Präsentationsmodus. Der Raum wurde heller.
 
-Der Raum wurde wieder heller, als Jan den Bildschirm aus dem Präsentationsmodus nahm.
+Auf den Ausdrucken stand alles, was Eva für das Gespräch brauchte.
 
-Auf dem Tisch lagen drei Ausdrucke, die alles belegten, was Eva für das Gespräch brauchte.
+Nicht Felix' Motivation.
 
-Nicht seine Motivation. Nicht die Schuld am Patientenausgang. Nur den Mechanismus. Diesmal war ihr Misstrauen kein Gefühl mehr.
+Nicht die Schuld am Patientenausgang.
+
+Nur der Mechanismus.
+
+Diesmal war ihr Misstrauen kein Gefühl mehr.
 
 Die Absicht musste Felix selbst hinzufügen.
 
