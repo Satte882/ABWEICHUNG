@@ -1,44 +1,42 @@
-name: Finalize final manuscript files
+name: Finalize ABWEICHUNG manuscript
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
-      - '.tmp_final_upload/READY'
+      - '.github/workflows/finalize-final-files.yml'
 
 permissions:
   contents: write
-  actions: read
 
 jobs:
   finalize:
     runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ github.token }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout full history
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Reconstruct final DOCX
-        shell: bash
-        run: |
-          set -euo pipefail
-          cat .tmp_final_upload/chunk-*.b64 > /tmp/ABWEICHUNG_FINAL.docx.xz.b64
-          base64 -d /tmp/ABWEICHUNG_FINAL.docx.xz.b64 > /tmp/ABWEICHUNG_FINAL.docx.xz
-          echo '7d276d612ae20c38069fa779dce5e48fd0cf3e0732f689638dada3d7d537645b  /tmp/ABWEICHUNG_FINAL.docx.xz' | sha256sum -c -
-          xz -d /tmp/ABWEICHUNG_FINAL.docx.xz
-          cp /tmp/ABWEICHUNG_FINAL.docx ./ABWEICHUNG_FINAL.docx
-          echo '7a5d20595627edbad938bcbcdca4b5a7cbc25d8a2760266cccab794bd7424ac7  ABWEICHUNG_FINAL.docx' | sha256sum -c -
-          unzip -t ABWEICHUNG_FINAL.docx >/dev/null
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-      - name: Reconstruct final Markdown from approved G5 artifact
+      - name: Install document dependencies
+        run: |
+          python -m pip install python-docx pyphen
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno hyphen-de poppler-utils
+
+      - name: Generate final Markdown from approved G5 source
         shell: bash
         run: |
           set -euo pipefail
-          gh api /repos/${GITHUB_REPOSITORY}/actions/artifacts/9752446466/zip > /tmp/g5.zip
-          mkdir -p /tmp/g5
-          unzip -q /tmp/g5.zip -d /tmp/g5
+          python scripts/build_production.py \
+            --source-ref 14563bc5ea63d2b77c10e63f1d23a751e136c617 \
+            --out-dir /tmp/abweichung-prod
           python - <<'PY'
           from pathlib import Path
           import re
@@ -86,7 +84,7 @@ jobs:
               'Was sieht KORA nicht?',
           ]
 
-          src = Path('/tmp/g5/ABWEICHUNG_v01.md').read_text(encoding='utf-8')
+          src = Path('/tmp/abweichung-prod/ABWEICHUNG_v01.md').read_text(encoding='utf-8')
           if not src.startswith('# ABWEICHUNG\n'):
               raise SystemExit('unexpected G5 source title')
 
@@ -97,12 +95,12 @@ jobs:
               '> Die Beweislast liegt bei dir.\n\n'
           )
           body = src[len('# ABWEICHUNG\n'):].lstrip('\n')
-
           seen = []
-          def repl(m):
-              n = int(m.group(1))
-              if not 1 <= n <= len(titles):
-                  raise SystemExit(f'unexpected chapter number {n}')
+
+          def repl(match):
+              n = int(match.group(1))
+              if not 1 <= n <= 40:
+                  raise SystemExit(f'unexpected chapter {n}')
               seen.append(n)
               return f'## Kapitel {n} – {titles[n-1]}'
 
@@ -114,14 +112,468 @@ jobs:
           PY
           echo '1abe62812ad8040d296938cee878ccc3b2e9fbcc980c66d61c8d4c52c7d23c45  ABWEICHUNG_FINAL.md' | sha256sum -c -
 
-      - name: Commit final files and remove staging material
+      - name: Build KDP DOCX from final Markdown
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat > /tmp/build_abweichung_final.py <<'PY'
+          from pathlib import Path
+          import re
+          import pyphen
+          from docx import Document
+          from docx.enum.section import WD_SECTION
+          from docx.enum.style import WD_STYLE_TYPE
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+          from docx.oxml import OxmlElement
+          from docx.oxml.ns import qn
+          from docx.shared import Cm, Pt, RGBColor
+
+          SRC = Path('ABWEICHUNG_FINAL.md')
+          OUT = Path('ABWEICHUNG_FINAL.docx')
+          INLINE_RE = re.compile(r'(\*\*\*.+?\*\*\*|\*\*.+?\*\*|(?<!\*)\*[^*]+?\*(?!\*))')
+          CH_RE = re.compile(r'^##\s+Kapitel\s+(\d+)\s+–\s+(.+?)\s*$')
+          WORD_RE = re.compile(r'[A-Za-zÄÖÜäöüß]{7,}')
+          HYPH = pyphen.Pyphen(lang='de_DE')
+
+          def setting_bool(doc, tag, enabled=True):
+              settings = doc.settings._element
+              node = settings.find(qn(f'w:{tag}'))
+              if enabled:
+                  if node is None:
+                      node = OxmlElement(f'w:{tag}')
+                      settings.append(node)
+                  node.set(qn('w:val'), 'true')
+              elif node is not None:
+                  settings.remove(node)
+
+          def setting_value(doc, tag, value):
+              settings = doc.settings._element
+              node = settings.find(qn(f'w:{tag}'))
+              if node is None:
+                  node = OxmlElement(f'w:{tag}')
+                  settings.append(node)
+              node.set(qn('w:val'), str(value))
+
+          def set_run_font(run, size=12.5):
+              run.font.name = 'Garamond'
+              run.font.size = Pt(size)
+              rpr = run._element.get_or_add_rPr()
+              rfonts = rpr.rFonts
+              if rfonts is None:
+                  rfonts = OxmlElement('w:rFonts')
+                  rpr.insert(0, rfonts)
+              for attr in ('ascii', 'hAnsi', 'eastAsia', 'cs'):
+                  rfonts.set(qn(f'w:{attr}'), 'Garamond')
+              lang = rpr.find(qn('w:lang'))
+              if lang is None:
+                  lang = OxmlElement('w:lang')
+                  rpr.append(lang)
+              for attr in ('val', 'eastAsia', 'bidi'):
+                  lang.set(qn(f'w:{attr}'), 'de-DE')
+
+          def set_style_font(style, size, bold=None):
+              style.font.name = 'Garamond'
+              style.font.size = Pt(size)
+              if bold is not None:
+                  style.font.bold = bold
+              rpr = style.element.get_or_add_rPr()
+              rfonts = rpr.rFonts
+              if rfonts is None:
+                  rfonts = OxmlElement('w:rFonts')
+                  rpr.insert(0, rfonts)
+              for attr in ('ascii', 'hAnsi', 'eastAsia', 'cs'):
+                  rfonts.set(qn(f'w:{attr}'), 'Garamond')
+
+          def configure_section(section):
+              section.page_width = Cm(12.85)
+              section.page_height = Cm(19.84)
+              section.top_margin = Cm(1.22)
+              section.bottom_margin = Cm(1.22)
+              section.left_margin = Cm(1.95)
+              section.right_margin = Cm(1.40)
+              section.header_distance = Cm(0.75)
+              section.footer_distance = Cm(0.75)
+
+          def add_page_field(paragraph, alignment):
+              paragraph.clear()
+              paragraph.alignment = alignment
+              paragraph.paragraph_format.space_before = Pt(0)
+              paragraph.paragraph_format.space_after = Pt(0)
+              field = OxmlElement('w:fldSimple')
+              field.set(qn('w:instr'), ' PAGE ')
+              run = OxmlElement('w:r')
+              rpr = OxmlElement('w:rPr')
+              fonts = OxmlElement('w:rFonts')
+              for attr in ('ascii', 'hAnsi', 'eastAsia', 'cs'):
+                  fonts.set(qn(f'w:{attr}'), 'Garamond')
+              size = OxmlElement('w:sz')
+              size.set(qn('w:val'), '18')
+              rpr.extend([fonts, size])
+              run.append(rpr)
+              text = OxmlElement('w:t')
+              text.text = '1'
+              run.append(text)
+              field.append(run)
+              paragraph._p.append(field)
+
+          def set_page_start(section, number=1):
+              sect = section._sectPr
+              node = sect.find(qn('w:pgNumType'))
+              if node is None:
+                  node = OxmlElement('w:pgNumType')
+                  sect.append(node)
+              node.set(qn('w:start'), str(number))
+
+          def add_toc_field(paragraph):
+              run = paragraph.add_run()
+              begin = OxmlElement('w:fldChar'); begin.set(qn('w:fldCharType'), 'begin')
+              instr = OxmlElement('w:instrText'); instr.set(qn('xml:space'), 'preserve')
+              instr.text = ' TOC \\o "1-1" \\h \\z \\u '
+              separate = OxmlElement('w:fldChar'); separate.set(qn('w:fldCharType'), 'separate')
+              cached = OxmlElement('w:t'); cached.text = 'Inhaltsverzeichnis aktualisieren.'
+              end = OxmlElement('w:fldChar'); end.set(qn('w:fldCharType'), 'end')
+              run._r.extend([begin, instr, separate, cached, end])
+
+          def append_text(run_element, text):
+              if not text:
+                  return
+              node = OxmlElement('w:t')
+              if text[0].isspace() or text[-1].isspace():
+                  node.set(qn('xml:space'), 'preserve')
+              node.text = text
+              run_element.append(node)
+
+          def soft_hyphenate(run):
+              text = run.text.replace('\u00ad', '')
+              element = run._r
+              for child in list(element):
+                  if child.tag != qn('w:rPr'):
+                      element.remove(child)
+              pos = 0
+              for match in WORD_RE.finditer(text):
+                  append_text(element, text[pos:match.start()])
+                  word = match.group(0)
+                  positions = [] if word.isupper() else HYPH.positions(word)
+                  last = 0
+                  for split in positions:
+                      append_text(element, word[last:split])
+                      element.append(OxmlElement('w:softHyphen'))
+                      last = split
+                  append_text(element, word[last:])
+                  pos = match.end()
+              append_text(element, text[pos:])
+
+          def normalize(text):
+              return text.replace('„', '»').replace('“', '«').replace('—', '–')
+
+          def add_inline(paragraph, text):
+              text = normalize(text)
+              cursor = 0
+              for match in INLINE_RE.finditer(text):
+                  if match.start() > cursor:
+                      run = paragraph.add_run(text[cursor:match.start()])
+                      set_run_font(run)
+                  token = match.group(0)
+                  run = paragraph.add_run()
+                  if token.startswith('***') and token.endswith('***'):
+                      run.text = token[3:-3]
+                      run.bold = True
+                      run.italic = True
+                  elif token.startswith('**') and token.endswith('**'):
+                      run.text = token[2:-2]
+                      run.bold = True
+                  else:
+                      run.text = token[1:-1]
+                      run.italic = True
+                  set_run_font(run)
+                  cursor = match.end()
+              if cursor < len(text):
+                  run = paragraph.add_run(text[cursor:])
+                  set_run_font(run)
+              for run in paragraph.runs:
+                  soft_hyphenate(run)
+
+          def parse(text):
+              chapters = []
+              current = None
+              blocks = []
+              paragraph_lines = []
+
+              def flush_paragraph():
+                  nonlocal paragraph_lines
+                  if current is not None and paragraph_lines:
+                      value = ' '.join(line.strip() for line in paragraph_lines if line.strip()).strip()
+                      if value:
+                          blocks.append(('paragraph', value))
+                  paragraph_lines = []
+
+              def flush_chapter():
+                  nonlocal current, blocks
+                  flush_paragraph()
+                  if current is not None:
+                      chapters.append((current, blocks))
+                  blocks = []
+
+              for raw in text.splitlines():
+                  stripped = raw.strip()
+                  match = CH_RE.match(stripped)
+                  if match:
+                      flush_chapter()
+                      current = (int(match.group(1)), match.group(2))
+                      continue
+                  if current is None:
+                      continue
+                  if not stripped:
+                      flush_paragraph()
+                      continue
+                  if stripped == '---':
+                      flush_paragraph()
+                      if not blocks or blocks[-1][0] != 'scene_break':
+                          blocks.append(('scene_break', '*'))
+                      continue
+                  if stripped.startswith('#'):
+                      continue
+                  paragraph_lines.append(raw)
+
+              flush_chapter()
+              numbers = [meta[0] for meta, _ in chapters]
+              if numbers != list(range(1, 41)):
+                  raise SystemExit(f'chapter sequence mismatch: {numbers}')
+              return chapters
+
+          chapters = parse(SRC.read_text(encoding='utf-8'))
+          doc = Document()
+          doc.core_properties.title = 'ABWEICHUNG'
+          doc.core_properties.subject = 'ABWEICHUNG – KDP Paperback 5.06 x 7.81 in'
+          doc.core_properties.author = ''
+          doc.core_properties.keywords = ''
+          doc.core_properties.comments = ''
+
+          setting_bool(doc, 'updateFields', True)
+          setting_bool(doc, 'autoHyphenation', True)
+          setting_bool(doc, 'doNotHyphenateCaps', True)
+          setting_value(doc, 'hyphenationZone', 230)
+          setting_value(doc, 'consecutiveHyphenLimit', 2)
+          setting_bool(doc, 'mirrorMargins', True)
+          setting_bool(doc, 'evenAndOddHeaders', True)
+
+          first = doc.sections[0]
+          configure_section(first)
+          first.different_first_page_header_footer = True
+
+          normal = doc.styles['Normal']
+          set_style_font(normal, 12.5)
+          normal.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+          normal.paragraph_format.line_spacing = 1.12
+          normal.paragraph_format.space_before = Pt(0)
+          normal.paragraph_format.space_after = Pt(0)
+          normal.paragraph_format.first_line_indent = Cm(0)
+          normal.paragraph_format.widow_control = False
+
+          heading = doc.styles['Heading 1']
+          set_style_font(heading, 14.5, bold=True)
+          heading.font.color.rgb = RGBColor(0, 0, 0)
+          heading.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+          heading.paragraph_format.first_line_indent = Cm(0)
+          heading.paragraph_format.space_before = Pt(0)
+          heading.paragraph_format.space_after = Pt(14)
+          heading.paragraph_format.keep_with_next = True
+          heading.paragraph_format.keep_together = True
+          heading.paragraph_format.page_break_before = True
+
+          names = [style.name for style in doc.styles]
+          front = doc.styles.add_style('Front Matter', WD_STYLE_TYPE.PARAGRAPH) if 'Front Matter' not in names else doc.styles['Front Matter']
+          set_style_font(front, 12.5)
+          front.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+          front.paragraph_format.first_line_indent = Cm(0)
+
+          scene = doc.styles.add_style('Scene Break', WD_STYLE_TYPE.PARAGRAPH) if 'Scene Break' not in names else doc.styles['Scene Break']
+          set_style_font(scene, 11.5)
+          scene.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+          scene.paragraph_format.first_line_indent = Cm(0)
+          scene.paragraph_format.space_before = Pt(8)
+          scene.paragraph_format.space_after = Pt(8)
+          scene.paragraph_format.keep_with_next = True
+
+          # Title page, matching the approved book treatment.
+          for _ in range(4):
+              doc.add_paragraph(style='Front Matter')
+          p = doc.add_paragraph(style='Front Matter')
+          p.paragraph_format.space_after = Pt(10)
+          r = p.add_run('ABWEICHUNG'); r.bold = True; set_run_font(r, 24)
+          p = doc.add_paragraph(style='Front Matter')
+          p.paragraph_format.space_after = Pt(24)
+          r = p.add_run('Wenn die Maschine recht hat'); r.italic = True; set_run_font(r, 13)
+          p = doc.add_paragraph(style='Front Matter')
+          p.paragraph_format.space_after = Pt(0)
+          r = p.add_run('Du darfst widersprechen.'); r.italic = True; set_run_font(r, 12)
+          p = doc.add_paragraph(style='Front Matter')
+          p.paragraph_format.space_after = Pt(0)
+          r = p.add_run('Die Beweislast liegt bei dir.'); r.italic = True; set_run_font(r, 12)
+
+          # Intentional blank verso before the table of contents.
+          doc.add_page_break()
+          doc.add_page_break()
+
+          p = doc.add_paragraph(style='Front Matter')
+          p.paragraph_format.space_after = Pt(20)
+          r = p.add_run('INHALT'); r.bold = True; set_run_font(r, 18)
+          toc = doc.add_paragraph(style='Front Matter')
+          toc.alignment = WD_ALIGN_PARAGRAPH.LEFT
+          add_toc_field(toc)
+
+          story = doc.add_section(WD_SECTION.NEW_PAGE)
+          configure_section(story)
+          story.different_first_page_header_footer = False
+          story.footer.is_linked_to_previous = False
+          story.even_page_footer.is_linked_to_previous = False
+          story.first_page_footer.is_linked_to_previous = False
+          set_page_start(story, 1)
+          add_page_field(story.footer.paragraphs[0], WD_ALIGN_PARAGRAPH.RIGHT)
+          add_page_field(story.even_page_footer.paragraphs[0], WD_ALIGN_PARAGRAPH.LEFT)
+
+          for (number, title), blocks in chapters:
+              p = doc.add_paragraph(style='Heading 1')
+              r = p.add_run(f'Kapitel {number} – {title}')
+              r.bold = True
+              set_run_font(r, 14.5)
+              for kind, value in blocks:
+                  if kind == 'scene_break':
+                      p = doc.add_paragraph(style='Scene Break')
+                      r = p.add_run('*')
+                      set_run_font(r, 11.5)
+                  else:
+                      p = doc.add_paragraph(style='Normal')
+                      add_inline(p, value)
+
+          doc.save(OUT)
+          if OUT.stat().st_size < 180000:
+              raise SystemExit(f'DOCX unexpectedly small: {OUT.stat().st_size}')
+          print(f'Built {OUT}: {OUT.stat().st_size} bytes')
+          PY
+          python /tmp/build_abweichung_final.py
+          unzip -t ABWEICHUNG_FINAL.docx >/dev/null
+
+      - name: Materialize TOC with canonical Buch routine
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --depth 1 https://github.com/Satte882/Buch.git /tmp/Buch
+          /usr/bin/python3 /tmp/Buch/scripts/update_docx_toc.py ABWEICHUNG_FINAL.docx
+          unzip -t ABWEICHUNG_FINAL.docx >/dev/null
+
+      - name: Validate final DOCX and render QA PDF
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from docx import Document
+          from docx.enum.text import WD_ALIGN_PARAGRAPH
+          from docx.oxml.ns import qn
+
+          expected_titles = [
+              'Die letzte Kapazität', 'Der sichtbare Erfolg', 'Am Morgen danach', 'Die besseren Zahlen',
+              'Die Bettenkette', 'Was Eva nicht sah', 'Laura Berg', 'Ein Grund', 'Freitext',
+              'Neles Entscheidung', 'Zu spät', 'Zweite Unterschrift', 'Schutz oder Gehorsam',
+              'Getrennte Daten', 'Wo KORA irrt', 'Zu wenig Widerspruch', 'Der Zeitpunkt', 'Meine Fälle',
+              'Die Bilanz', 'Die neue Schwelle', 'Kein Gegenbeleg', 'Die Chronologie',
+              'Würden Sie es wieder tun?', 'Zwei Wege', 'Was nicht in den Daten steht',
+              'Zu viele Ausnahmen', 'Nähe zählt nicht', 'Unter der Schwelle', 'Zeitstempel', 'Felix',
+              'Drei Risiken', 'Break Glass', 'Alles belegt', 'Beide Patienten', 'Du siehst ihn nicht',
+              'Der Knopf', 'Vor ihr', 'Der andere Patient', 'Human Oversight', 'Was sieht KORA nicht?'
+          ]
+          doc = Document('ABWEICHUNG_FINAL.docx')
+          assert len(doc.sections) == 2
+          for section in doc.sections:
+              assert abs(section.page_width.cm - 12.85) < 0.02
+              assert abs(section.page_height.cm - 19.84) < 0.02
+              assert abs(section.top_margin.cm - 1.22) < 0.02
+              assert abs(section.bottom_margin.cm - 1.22) < 0.02
+              assert abs(section.left_margin.cm - 1.95) < 0.02
+              assert abs(section.right_margin.cm - 1.40) < 0.02
+              assert abs(section.footer_distance.cm - 0.75) < 0.02
+
+          headings = [p.text for p in doc.paragraphs if p.style is not None and p.style.name == 'Heading 1']
+          assert headings == [f'Kapitel {i} – {title}' for i, title in enumerate(expected_titles, 1)]
+
+          body = []
+          story_started = False
+          soft = 0
+          for p in doc.paragraphs:
+              soft += len(p._p.xpath('.//w:softHyphen'))
+              if p.style is not None and p.style.name == 'Heading 1':
+                  story_started = True
+                  assert p.paragraph_format.page_break_before is True
+                  continue
+              if story_started and p.style is not None and p.style.name == 'Normal' and p.text.strip():
+                  body.append(p)
+
+          assert len(body) > 4500, len(body)
+          assert soft > 20000, soft
+          assert all(p.alignment == WD_ALIGN_PARAGRAPH.JUSTIFY for p in body[:100])
+          assert all(abs(float(p.paragraph_format.line_spacing) - 1.12) < 0.01 for p in body[:100])
+          assert all('—' not in p.text for p in doc.paragraphs)
+          assert all('„' not in p.text and '“' not in p.text for p in body)
+
+          settings = doc.settings._element
+          for name in ('autoHyphenation', 'doNotHyphenateCaps', 'hyphenationZone', 'consecutiveHyphenLimit', 'mirrorMargins', 'evenAndOddHeaders'):
+              assert settings.find(qn(f'w:{name}')) is not None, name
+
+          print(f'Validated final DOCX: headings={len(headings)}, body={len(body)}, softHyphens={soft}')
+          PY
+
+          mkdir -p /tmp/qa
+          libreoffice --headless --convert-to pdf --outdir /tmp/qa ABWEICHUNG_FINAL.docx >/dev/null
+          PAGES=$(pdfinfo /tmp/qa/ABWEICHUNG_FINAL.pdf | awk '/^Pages:/ {print $2}')
+          test -n "$PAGES"
+          if [ "$PAGES" -lt 369 ] || [ "$PAGES" -gt 373 ]; then
+            echo "Unexpected page count: $PAGES"
+            exit 1
+          fi
+          echo "Final rendered page count: $PAGES"
+
+      - name: Record approved chapter-title state
+        shell: python
+        run: |
+          from pathlib import Path
+          text = Path('TITLE_DECISION.md').read_text(encoding='utf-8')
+          marker = '## Status der Kapitelüberschriften'
+          prefix = text.split(marker, 1)[0].rstrip()
+          titles = [
+              'Die letzte Kapazität', 'Der sichtbare Erfolg', 'Am Morgen danach', 'Die besseren Zahlen',
+              'Die Bettenkette', 'Was Eva nicht sah', 'Laura Berg', 'Ein Grund', 'Freitext',
+              'Neles Entscheidung', 'Zu spät', 'Zweite Unterschrift', 'Schutz oder Gehorsam',
+              'Getrennte Daten', 'Wo KORA irrt', 'Zu wenig Widerspruch', 'Der Zeitpunkt', 'Meine Fälle',
+              'Die Bilanz', 'Die neue Schwelle', 'Kein Gegenbeleg', 'Die Chronologie',
+              'Würden Sie es wieder tun?', 'Zwei Wege', 'Was nicht in den Daten steht',
+              'Zu viele Ausnahmen', 'Nähe zählt nicht', 'Unter der Schwelle', 'Zeitstempel', 'Felix',
+              'Drei Risiken', 'Break Glass', 'Alles belegt', 'Beide Patienten', 'Du siehst ihn nicht',
+              'Der Knopf', 'Vor ihr', 'Der andere Patient', 'Human Oversight', 'Was sieht KORA nicht?'
+          ]
+          lines = [prefix, '', marker, '', 'status: APPROVED', 'approved_by: human', '', 'Finale Kapitelmatrix:']
+          lines += [f'{i}. **{title}**' for i, title in enumerate(titles, 1)]
+          lines += ['', 'Die kanonische Prosa wurde durch die Titelarbeit nicht verändert.', '']
+          Path('TITLE_DECISION.md').write_text('\n'.join(lines), encoding='utf-8')
+
+      - name: Upload QA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: abweichung-final-qa
+          path: |
+            ABWEICHUNG_FINAL.md
+            ABWEICHUNG_FINAL.docx
+            /tmp/qa/ABWEICHUNG_FINAL.pdf
+          retention-days: 7
+
+      - name: Commit final files and clean staging
         shell: bash
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add ABWEICHUNG_FINAL.md ABWEICHUNG_FINAL.docx
-          git rm -r .tmp_final_upload
-          git rm .github/workflows/finalize-final-files.yml
+          git rm -r --ignore-unmatch .tmp_final_upload
+          git rm --ignore-unmatch .github/workflows/finalize-final-files.yml
+          git add ABWEICHUNG_FINAL.md ABWEICHUNG_FINAL.docx TITLE_DECISION.md
           git commit -m 'production: add final ABWEICHUNG manuscript files'
+          git pull --rebase origin main
           git push origin HEAD:main
