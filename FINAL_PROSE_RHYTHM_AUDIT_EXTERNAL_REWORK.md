@@ -1,6 +1,6 @@
 # FINAL_PROSE_RHYTHM_AUDIT – ABWEICHUNG
 
-Status: **POST_EXTERNAL_MAJOR_REWORK_FINAL**
+Status: **POST_EXTERNAL_V2_FINAL_REWORK**
 
 Automatischer Kandidaten-Audit nach `Buch-Framework/FINAL_PROSE_RHYTHM_PASS.md`. Die semantischen Treffer sind Review-Kandidaten, keine automatischen Änderungsbefehle.
 
