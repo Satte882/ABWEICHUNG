@@ -1,9 +1,9 @@
 # Fresh-Context-Auftrag – Gesamtmanuskript ABWEICHUNG
 
-review_target: `78222a7e99c80378c35379ad42684ee332a412a6`
+review_target: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
 review_scope: full manuscript S001–S040
 review_mode: independent semantic whole-manuscript review
-prerequisite: execute only after the reworked scene/beat layer has been independently reviewed and human G2 re-approved
+prerequisite: execute only in a genuinely clean context against the fixed expanded manuscript target
 
 ## Clean-Room-Voraussetzung
 
@@ -29,7 +29,7 @@ Nutze keine Erinnerungen, frühere Chats oder außerhalb dieses Auftrags bekannt
 
 Prüfe ausschließlich den Repository-Stand des Commits:
 
-`78222a7e99c80378c35379ad42684ee332a412a6`
+`14563bc5ea63d2b77c10e63f1d23a751e136c617`
 
 Nicht den aktuellen Branch-Head, falls dieser inzwischen weitergelaufen ist.
 
@@ -57,13 +57,15 @@ Nicht öffnen oder verwenden:
 - sonstige `*_REVIEW_*`-Dateien
 - `*_FRESH_CONTEXT_*`-Dateien oder frühere Review-Ergebnisse
 - `gates/`
+- `MANUSCRIPT_EXPANSION_ANALYSIS.md`
+- `expansion_audit/` oder andere Audit-Artefakte
 - Issues, Commit-Nachrichten oder PR-Diskussionen, die frühere Findings/Korrekturen verraten
 
 Wenn du versehentlich eine solche Quelle inhaltlich gelesen hast, gilt der Review als kontaminiert. Gib dann nur `review_status: CONTAMINATED` aus.
 
 ## Kernauftrag
 
-Bewerte das **gesamte Manuskript als Roman**, nicht als Sammlung einzelner Szenen.
+Bewerte das **gesamte Manuskript als Roman**, nicht als Sammlung einzelner Szenen und nicht als Erfüllung einer Zielwortzahl.
 
 Lies S001–S040 vollständig. Lokale Auffälligkeiten sind nur dann Findings, wenn sie selbst relevant sind oder sich zu einem manuskriptweiten Muster verdichten.
 
@@ -90,7 +92,7 @@ Prüfe insbesondere:
 
 ### D. Whole-Manuscript Pattern Review – besonders wichtig
 
-Beurteile Muster **über alle 40 Szenen hinweg**. Zähle/tracke sie während der Lektüre sinngemäß, statt jede Szene isoliert zu bewerten.
+Beurteile Muster **über alle 40 Szenen hinweg**. Tracke sie während der Lektüre sinngemäß, statt jede Szene isoliert zu bewerten.
 
 Achte besonders auf:
 
@@ -102,6 +104,7 @@ Achte besonders auf:
 - Negationsketten und rhetorische Dreier-/Parallelstrukturen,
 - Erklärungsechos: Prosa erklärt nach einem Dialog noch einmal, was der Dialog bereits gezeigt hat,
 - wiederkehrende Schlussmechaniken oder Absatzrhythmen,
+- künstliche Stakkato-Häufung bzw. übermäßige Kurzabsatzmechanik,
 - interne Produktions-/Architekturlabels im Romantext.
 
 Entscheidend ist die **Verteilung und Ermüdungswirkung im Gesamtroman**, nicht die bloße Existenz eines Stilmittels.
@@ -112,6 +115,7 @@ Entscheidend ist die **Verteilung und Ermüdungswirkung im Gesamtroman**, nicht 
 - Gibt es ausreichende Variation von Handlung, Konfliktträger, körperlicher Präsenz und Informationsvermittlung?
 - Gibt es Strecken, die wie Architektur-Abarbeitung statt erzählte Geschichte wirken?
 - Sind Übergänge und Eskalation bis Midpoint, Felix und Finale ausreichend dynamisch?
+- Wirkt der Ausbau organisch oder gibt es Szenen, die erkennbar nur verlängert wurden, ohne zusätzliche erzählerische Substanz zu gewinnen?
 
 ### F. Exposition und Lesbarkeit
 
@@ -140,14 +144,14 @@ Ordne jeden Finding der kleinsten nötigen Rework-Ebene zu:
 - `beat` – Beat-Reihenfolge/-Logik muss geändert werden
 - `upstream` – Ereignis/G1-Storywahrheit müsste geändert werden
 
-Bevorzuge `prose`, wenn der Befund ohne Storyänderung behebbar ist. Fordere keinen Upstream-Rework nur zur Stilvariation.
+Bevorzuge `prose`, wenn der Befund ohne Storyänderung behebbar ist. Fordere keinen Upstream-Rework nur zur Stilvariation oder zur Erhöhung der Wortzahl.
 
 ## Ausgabe
 
 Wenn die Session sauber ist, beginne exakt mit:
 
 `review_status: CLEAN_FRESH_CONTEXT`
-`review_target: 78222a7e99c80378c35379ad42684ee332a412a6`
+`review_target: 14563bc5ea63d2b77c10e63f1d23a751e136c617`
 `finding_count: <n>`
 
 Danach pro Finding:
