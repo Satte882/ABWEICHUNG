@@ -173,13 +173,7 @@ Er kam aus einem Zimmer, zog die Handschuhe aus und gab einer Pflegekraft zwei k
 
 Diesmal blieb er stehen, als er sie sah.
 
-Zwischen ihnen lagen vielleicht drei Meter.
-
-„Die Anhörung ist Freitag“, sagte er.
-
-Eva nickte. „Ich weiß.“
-
-Felix schob die Hände in die Kitteltaschen.
+Zwischen ihnen lagen vielleicht drei Meter. „Die Anhörung ist Freitag“, sagte er. Eva nickte. „Ich weiß.“ Felix schob die Hände in die Kitteltaschen.
 
 „Ich werde den Ablauf nicht bestreiten.“
 
@@ -201,20 +195,12 @@ Eva verstand trotzdem, was fehlte.
 
 Kein *schau selbst drauf*. Kein *was meinst du*. Keine Einladung in den Teil seiner Arbeit, den er früher mit ihr geteilt hatte, gerade weil sie sich stritten.
 
-„Ich bin noch hier“, sagte sie.
-
-Felix nickte und ging.
-
-Am Freitag verlor er die leitende Funktion.
+„Ich bin noch hier“, sagte sie. Felix nickte und ging. Am Freitag verlor er die leitende Funktion.
 
 Die formalen Schritte verliefen geordnet: Anhörung, Bewertung, Entscheidung. Eva konnte jeden Satz der Begründung nachvollziehen.
 
 Als sie später an der Intensivstation vorbeikam, stand sein Name noch im Dienstplan. Nur nicht mehr in der Zeile darüber.
 
-Sie blieb diesmal stehen.
-
-Nicht lange.
-
-Die Governance hatte einen Prozessverstoß beantwortet.
+Sie blieb diesmal stehen. Nicht lange. Die Governance hatte einen Prozessverstoß beantwortet.
 
 Was zwischen ihr und Felix verloren gegangen war, hatte keinen Statuscode.

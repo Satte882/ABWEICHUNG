@@ -127,11 +127,7 @@ Das war für Eva der entscheidende Unterschied.
 
 Die beiden Vorstandsmitglieder berieten sich nicht lange. Die Bedingungen waren nicht elegant, aber prüfbar: Schutzstufen für definierte Risikoklassen, ein enger Wert-/Kontextweg, Prozesssignale gegen nachträgliche Glättung und ein realer Akutweg.
 
-Miriam setzte die finale Freigabe im Dokument.
-
-Keine Folie mit **Beschluss**.
-
-Nur eine neue Versionsnummer und zwei Unterschriften.
+Miriam setzte die finale Freigabe im Dokument. Keine Folie mit **Beschluss**. Nur eine neue Versionsnummer und zwei Unterschriften.
 
 Nele schloss den Trainingsfall und wurde sofort von einer Pflegekraft in die Versorgung gezogen. Der freie Platz neben ihr blieb leer.
 

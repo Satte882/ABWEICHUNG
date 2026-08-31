@@ -27,19 +27,11 @@ Eva sah auf den Hinweis rechts oben.
 
 **Individuelle Zweitfreigabeschwelle aktiv.**
 
-Darunter ihr Name.
-
-Dr. Eva Riedel.
-
-Für eine Sekunde sagte niemand etwas.
+Darunter ihr Name. Dr. Eva Riedel. Für eine Sekunde sagte niemand etwas.
 
 Einer der jüngeren Ärzte sah weg, als hätte er versehentlich etwas Persönliches gelesen. Der andere blieb auf den Fall konzentriert, vielleicht aus Höflichkeit, vielleicht weil er die Bedeutung nicht verstand.
 
-Eva beendete den Trainingsfall.
-
-„Weiter“, sagte sie.
-
-Nele bewegte sich nicht.
+Eva beendete den Trainingsfall. „Weiter“, sagte sie. Nele bewegte sich nicht.
 
 „Seit wann?“
 

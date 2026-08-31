@@ -77,11 +77,7 @@ Zwischen vielen anderen.
 
 Die Liste war länger, als sich ihre eigene Geschichte über ihre Entscheidungen angefühlt hatte.
 
-Eva legte das Übergabeblatt daneben.
-
-Drei aus einer viel größeren Gruppe.
-
-Sie begann oben.
+Eva legte das Übergabeblatt daneben. Drei aus einer viel größeren Gruppe. Sie begann oben.
 
 Bei manchen Kennungen kam sofort ein Bild. Ein Patient, der nach einer Eskalationsentscheidung ruhiger geatmet hatte. Eine Frau, deren Verlauf sich genau in die Richtung entwickelt hatte, die Eva erwartet hatte. Ein Ressourcenfall, bei dem das Team ihr später gedankt hatte, weil sie die Kapazität lokal gehalten hatte.
 
@@ -97,11 +93,7 @@ Am Ende waren die Punkte ungleich verteilt.
 
 Fast alle lagen bei Fällen mit sichtbarem lokalen Ausgang.
 
-Der Cold-Open-Fall bekam natürlich einen Punkt.
-
-Eva sah die Kennung lange an.
-
-Ihr Patient. Respiratorische Erschöpfung. Intensivaufnahme. Stabilisierung.
+Der Cold-Open-Fall bekam natürlich einen Punkt. Eva sah die Kennung lange an. Ihr Patient. Respiratorische Erschöpfung. Intensivaufnahme. Stabilisierung.
 
 Dann Laura Bergs Vater. Nicht als eigene Kennung in Evas Erinnerung, weil Eva ihn in jener Nacht nicht als Person erlebt hatte. Seine Verzögerung hatte erst später einen Namen bekommen.
 
@@ -113,11 +105,7 @@ Dann ging sie die anderen markierten Ressourcenfälle durch.
 
 Bei mehreren wusste sie sofort, was mit dem Patienten vor ihr passiert war. Was dieselbe Entscheidung im Verbund ausgelöst hatte, wusste sie nicht aus dem Kopf.
 
-Vielleicht war dort nichts Relevantes gewesen.
-
-Vielleicht doch.
-
-Genau das war die Frage.
+Vielleicht war dort nichts Relevantes gewesen. Vielleicht doch. Genau das war die Frage.
 
 Eva rief Jan nicht an. Sie ging in die Diagnostik, wo er noch an einem Besprechungstisch saß und Unterlagen zusammenpackte.
 

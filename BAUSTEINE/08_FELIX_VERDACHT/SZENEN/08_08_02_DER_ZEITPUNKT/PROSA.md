@@ -53,13 +53,7 @@ Er sah sie an.
 
 „Nein. Ich wollte sehen, ob wir überhaupt einen stabileren Zustand erreichen.“
 
-Die Antwort kam sofort.
-
-Eva glaubte ihm.
-
-Gerade deshalb blieb sie noch einen Moment.
-
-Am Bildschirm existierten zwei Zustände desselben Patienten.
+Die Antwort kam sofort. Eva glaubte ihm. Gerade deshalb blieb sie noch einen Moment. Am Bildschirm existierten zwei Zustände desselben Patienten.
 
 Vor der Intervention: hohe Konfidenz, Zweitfreigabe bei Abweichung.
 
