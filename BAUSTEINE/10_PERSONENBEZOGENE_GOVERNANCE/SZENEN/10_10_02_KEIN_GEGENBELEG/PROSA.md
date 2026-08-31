@@ -19,7 +19,7 @@ KORA empfahl trotzdem die nächste Eskalationsstufe.
 
 **Konfidenz: hoch.**
 
-Eva stand einen Moment am Arbeitsplatz und sah nicht auf die Empfehlung, sondern auf den Patienten durch die geöffnete Tür.
+Eva stand einen Moment am Arbeitsplatz. Ihr Blick ging durch die geöffnete Tür zum Patienten.
 
 Er sprach mit der Pflegekraft. Kein sichtbarer Zusammenbruch. Keine hektische Bewegung im Raum. Ein Bild, das Evas Erfahrung sofort in eine Richtung zog: noch beobachten, noch nicht eskalieren.
 
