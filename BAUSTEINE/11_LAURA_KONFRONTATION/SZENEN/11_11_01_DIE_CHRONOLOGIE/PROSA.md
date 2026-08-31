@@ -25,7 +25,7 @@ Laura war jünger, als Eva sie sich nach den Schreiben vorgestellt hatte. Oder v
 
 „Frau Berg.“
 
-„Frau Dr. König.“
+„Frau Dr. Riedel.“
 
 Sie gaben sich nicht die Hand.
 
