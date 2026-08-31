@@ -1,7 +1,7 @@
 # Prosa – S003
 
 scene_id: S003
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -127,11 +127,7 @@ Am Ende stand auf dem Bogen:
 
 Die Formulierung gefiel Eva mehr, als sie sollte.
 
-Nicht „richtig“. Nicht „KORA falsch“. Nur vertretbar.
-
-Sie konnte damit leben.
-
-Nele las die Zeile ebenfalls.
+Nicht „richtig“. Nicht „KORA falsch“. Nur vertretbar. Sie konnte damit leben. Nele las die Zeile ebenfalls.
 
 „Das ist doch genau der Punkt“, sagte sie.
 
@@ -141,11 +137,7 @@ Eva schloss den Fall noch nicht.
 
 „Dass das System uns besser machen soll. Nicht dass wir aufhören zu entscheiden.“
 
-Eva sah sie einen Moment an.
-
-Das war fast ihr eigener Satz.
-
-Vielleicht hatte Nele ihn von ihr.
+Eva sah sie einen Moment an. Das war fast ihr eigener Satz. Vielleicht hatte Nele ihn von ihr.
 
 „Du darfst aus diesem Fall nicht lernen, KORA zu ignorieren.“
 

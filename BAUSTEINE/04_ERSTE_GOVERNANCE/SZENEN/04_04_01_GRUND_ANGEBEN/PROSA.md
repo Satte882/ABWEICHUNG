@@ -1,7 +1,7 @@
 # Prosa – S008
 
 scene_id: S008
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -89,13 +89,7 @@ Neue klinische Information?
 
 Nicht wirklich. KORA hatte die relevante Veränderung im Verlauf bereits aufgenommen.
 
-Patientenbezogener Kontext?
-
-Nein.
-
-Sie wählte **Abweichende klinische Gewichtung**.
-
-Das Freitextfeld blieb leer und wartete.
+Patientenbezogener Kontext? Nein. Sie wählte **Abweichende klinische Gewichtung**. Das Freitextfeld blieb leer und wartete.
 
 Eva legte die Hände kurz von der Tastatur.
 
@@ -103,13 +97,7 @@ Der Grund war klar gewesen, solange er nur in ihrem Kopf existierte. Jetzt musst
 
 Sie schrieb den konkreten Befund, auf den sie ihre Entscheidung stützte. Keine allgemeine Formulierung wie „klinischer Eindruck“. Keine Floskel über ärztliche Erfahrung. Sie nannte, was sich verändert hatte und warum sie daraus eine andere Dringlichkeit ableitete.
 
-Sie las den Text einmal.
-
-Dann bestätigte sie.
-
-Der Override lief durch.
-
-Keine Verzögerung. Kein Rückruf. Keine zweite Person.
+Sie las den Text einmal. Dann bestätigte sie. Der Override lief durch. Keine Verzögerung. Kein Rückruf. Keine zweite Person.
 
 Die Oberfläche sprang zurück in den Fall, als wäre nichts Besonderes passiert.
 
@@ -205,11 +193,7 @@ Eva sprach kurz mit dem Patienten, prüfte den Verlauf und ging zurück.
 
 Auf dem Bildschirm stand die Begründung weiterhin in der Seitenleiste.
 
-Sie konnte abweichen.
-
-Niemand musste zustimmen.
-
-Niemand hatte die Entscheidung an sich gezogen.
+Sie konnte abweichen. Niemand musste zustimmen. Niemand hatte die Entscheidung an sich gezogen.
 
 Nur der Grund verschwand nicht mehr mit dem Moment.
 
@@ -217,21 +201,11 @@ Am Ende der Schicht öffnete Eva die Mitteilung aus dem Morgen doch noch vollst�
 
 Patientensicherheit begründete die Änderung mit der späteren Nachvollziehbarkeit von Entscheidungen. Zunächst keine automatische Bewertung. Keine zusätzliche Genehmigung. Fallanalyse im Qualitätsprozess. Die Kategorien sollten helfen, unterschiedliche Arten von Abweichungen nicht in einem einzigen Freitext zu verlieren.
 
-Eva las die Passage zweimal.
-
-Sie dachte an Laura Bergs Fragen.
-
-Wer wusste was?
-
-Warum wurde anders entschieden?
+Eva las die Passage zweimal. Sie dachte an Laura Bergs Fragen. Wer wusste was? Warum wurde anders entschieden?
 
 Eine verpflichtende Begründung hätte Lauras Vater nicht automatisch einen anderen Ausgang gegeben. Aber sie hätte die Entscheidungskette präziser gemacht.
 
-Eva schloss die Nachricht.
-
-Die Maßnahme war klein.
-
-Sie war nachvollziehbar.
+Eva schloss die Nachricht. Die Maßnahme war klein. Sie war nachvollziehbar.
 
 Und vernünftig genug, dass Eva keinen guten Grund fand, gegen sie zu sein.
 

@@ -1,7 +1,7 @@
 # Prosa – S015
 
 scene_id: S015
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -93,19 +93,11 @@ Das war wichtig.
 
 Sie wollte keinen neuen Automatismus, nur in die andere Richtung.
 
-Miriam sagte bisher nichts.
-
-Jan wechselte zu high confidence.
-
-Die Kurven lagen weiter auseinander.
+Miriam sagte bisher nichts. Jan wechselte zu high confidence. Die Kurven lagen weiter auseinander.
 
 Eva spürte die Veränderung, bevor Jan etwas erklärte.
 
-Das Bild war ruhiger.
-
-Nicht perfekt.
-
-Deutlich.
+Das Bild war ruhiger. Nicht perfekt. Deutlich.
 
 Jan ging zuerst durch die Kontrollen, als wollte er verhindern, dass jemand aus der Grafik schneller eine Wahrheit machte, als die Daten hergaben. Fallmix berücksichtigt. Entscheidungstypen getrennt. Unvollständige Datensätze separat. Standorte geprüft. Keine einzelne große Teilgruppe, die das Ergebnis allein trug.
 
@@ -131,11 +123,7 @@ Er zeigte auf die Kalibrierung.
 
 Jan nannte ihr die Größenordnung in der Auswertung, ohne daraus ein persönliches Risiko für den nächsten Fall zu machen.
 
-Eva sah wieder auf die Kurven.
-
-KORA konnte irren.
-
-Der Satz blieb wahr.
+Eva sah wieder auf die Kurven. KORA konnte irren. Der Satz blieb wahr.
 
 Er war nur nicht mehr stark genug, um jede Abweichung gleich zu schützen.
 
@@ -149,11 +137,7 @@ Eva deutete auf high confidence.
 
 „Und hier ist mein pauschales Fehlbarkeitsargument zu schwach.“
 
-Jan antwortete nicht sofort.
-
-Er musste es nicht für sie formulieren.
-
-Eva setzte sich wieder.
+Jan antwortete nicht sofort. Er musste es nicht für sie formulieren. Eva setzte sich wieder.
 
 „Zeig mir die Fälle, in denen Menschen high confidence schlagen.“
 
@@ -163,15 +147,7 @@ Es gab welche.
 
 Ein konkreter neuer Befund, der kurz nach dem letzten Systemstand entstanden war. Eine besondere Konstellation, in der die dokumentierte Datenlage formal vollständig, klinisch aber bereits im Wandel gewesen war. Ein Fall, in dem die menschliche Abweichung im späteren Review besser getragen hatte.
 
-Eva las jeden davon.
-
-Sie suchte nach einer gemeinsamen Regel.
-
-Sie fand keine, die ihr gefiel.
-
-Es waren konkrete Gründe.
-
-Keine allgemeine Lizenz für Intuition.
+Eva las jeden davon. Sie suchte nach einer gemeinsamen Regel. Sie fand keine, die ihr gefiel. Es waren konkrete Gründe. Keine allgemeine Lizenz für Intuition.
 
 „Das ist der Unterschied“, sagte sie mehr zu sich selbst.
 

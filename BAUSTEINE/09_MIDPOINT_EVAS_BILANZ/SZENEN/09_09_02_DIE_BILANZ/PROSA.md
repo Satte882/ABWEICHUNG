@@ -1,7 +1,7 @@
 # Prosa – S019
 
 scene_id: S019
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -73,17 +73,7 @@ Er bewegte den Cursor eine Spalte weiter.
 
 „Und das die verbundweite.“
 
-Eva blieb an dem Eintrag hängen.
-
-Sie kannte die Fallkennung sofort.
-
-Ihr Patient aus jener Nacht.
-
-Respiratorische Erschöpfung. Intensivkapazität an Zentral. Intubation. Stabilisierung.
-
-Daneben Nord.
-
-Verzögerte definitive Intensivversorgung. Späterer Tod.
+Eva blieb an dem Eintrag hängen. Sie kannte die Fallkennung sofort. Ihr Patient aus jener Nacht. Respiratorische Erschöpfung. Intensivkapazität an Zentral. Intubation. Stabilisierung. Daneben Nord. Verzögerte definitive Intensivversorgung. Späterer Tod.
 
 Der Zusatz darunter stand inzwischen in einer Form, die Eva auswendig kannte:
 
@@ -111,11 +101,7 @@ Eva folgte jedem Schritt.
 
 „Wenn du den ganzen Fall rausnimmst?“
 
-Jan tat es.
-
-Die Grundtendenz blieb.
-
-Eva legte die Hände auf den Tisch.
+Jan tat es. Die Grundtendenz blieb. Eva legte die Hände auf den Tisch.
 
 Miriam hob den Blick vom Becher, sagte aber noch nichts.
 
@@ -129,11 +115,7 @@ In der verbundweiten Ansicht stand mehr.
 
 Eine andere Versorgung hatte länger auf dieselbe knappe Kapazität warten müssen. Kein spektakulärer Ausgang. Kein Todesfall. Kein Ereignis, wegen dem später jemand in Evas Büro gekommen war.
 
-Nur Zeit.
-
-Zusätzliche Überbrückung.
-
-Ein späterer Transfer.
+Nur Zeit. Zusätzliche Überbrückung. Ein späterer Transfer.
 
 „Mein Patient wurde besser.“
 
@@ -147,25 +129,11 @@ Ein späterer Transfer.
 
 „Weil die Gesamtfolge gegenüber der KORA-Priorisierung ungünstiger war.“
 
-Eva öffnete selbst den nächsten markierten Fall.
-
-Wieder erkannte sie zuerst den lokalen Ausgang.
-
-Dann die zweite Spalte.
-
-Sie schob den Laptop ein Stück weg.
+Eva öffnete selbst den nächsten markierten Fall. Wieder erkannte sie zuerst den lokalen Ausgang. Dann die zweite Spalte. Sie schob den Laptop ein Stück weg.
 
 „Wie viele von meinen guten Fällen sehen so aus?“
 
-Jan nannte die Zahl.
-
-Eva bat ihn, sie zu zeigen.
-
-Einen nach dem anderen.
-
-Jan tat es.
-
-Das dauerte länger, als Eva erwartet hatte.
+Jan nannte die Zahl. Eva bat ihn, sie zu zeigen. Einen nach dem anderen. Jan tat es. Das dauerte länger, als Eva erwartet hatte.
 
 Bei einem Fall hatte sie eine knappe Ressource lokal behalten. Der lokale Patient war stabiler geworden. An einem anderen Standort war dadurch eine geplante, aber zeitkritische Versorgung nach hinten gerutscht. Kein katastrophaler Ausgang. Nur eine nachweisbare Verschlechterung der Prozessfolge.
 
@@ -177,27 +145,13 @@ Wieder ein lokaler Erfolg, der in Evas Erinnerung als Bestätigung geblieben war
 
 „Und die Fälle, bei denen ich wirklich besser lag?“
 
-Jan öffnete sie ebenfalls.
-
-Es gab sie.
-
-Einige klare.
-
-Einige mit Grenzen.
+Jan öffnete sie ebenfalls. Es gab sie. Einige klare. Einige mit Grenzen.
 
 Eva fühlte Erleichterung, als wäre sie auf etwas Persönliches angewiesen.
 
 Dann merkte sie, dass auch diese Erleichterung Teil des Problems sein konnte.
 
-Sie wollte gute Fälle finden.
-
-Jan wollte nur die Verteilung zeigen.
-
-„Low confidence“, sagte Eva.
-
-Jan wechselte die Ansicht.
-
-Dort zerfiel das Bild.
+Sie wollte gute Fälle finden. Jan wollte nur die Verteilung zeigen. „Low confidence“, sagte Eva. Jan wechselte die Ansicht. Dort zerfiel das Bild.
 
 In mehreren Gruppen lagen menschliche Abweichungen gleichauf oder besser. Andere waren unentschieden. Genau der Bereich, den Eva erwartet hatte.
 
@@ -255,11 +209,7 @@ Die Richtung blieb.
 
 „Wenn du nur Ressourcenentscheidungen nimmst?“
 
-Jan wechselte zurück.
-
-Deutlicher.
-
-Eva atmete langsam aus.
+Jan wechselte zurück. Deutlicher. Eva atmete langsam aus.
 
 Normalerweise hätte sie an jedem methodischen Punkt angesetzt. Nicht um Jan zu widerlegen. Um zu wissen, wie viel Gewicht eine Zahl tragen durfte.
 
@@ -325,11 +275,7 @@ Eva sah zu ihr.
 
 „Weil du gerade eine Frage über deine eigene Entscheidungsgüte gestellt hast. Mach daraus nicht sofort eine Rangliste.“
 
-Eva lehnte sich zurück.
-
-Miriam hatte recht.
-
-Schon wieder.
+Eva lehnte sich zurück. Miriam hatte recht. Schon wieder.
 
 „Okay.“
 

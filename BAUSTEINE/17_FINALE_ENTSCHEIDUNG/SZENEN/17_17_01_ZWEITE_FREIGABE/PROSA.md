@@ -1,7 +1,7 @@
 # Prosa – S035
 
 scene_id: S035
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -127,11 +127,7 @@ Eva antwortete nicht. Die Pflegekraft rief ihren Namen. Eva hob die Hand.
 
 „Eine Minute.“
 
-Dann sah sie wieder zu Nele.
-
-„Es gibt keine Minute“, sagte Nele leise.
-
-Eva spürte einen kurzen Stich von Ärger.
+Dann sah sie wieder zu Nele. „Es gibt keine Minute“, sagte Nele leise. Eva spürte einen kurzen Stich von Ärger.
 
 „Das weiß ich.“
 
@@ -173,7 +169,7 @@ Eva spürte, wie sich etwas in ihr gegen die Aussage stemmte.
 
 „Ja.“
 
-„Und wenn ich keinen Platz habe—“
+„Und wenn ich keinen Platz habe–“
 
 „Eva.“
 
@@ -201,7 +197,7 @@ Eva atmete einmal langsam aus.
 
 Nele zögerte.
 
-„Eva—“
+„Eva–“
 
 „Nein.“
 

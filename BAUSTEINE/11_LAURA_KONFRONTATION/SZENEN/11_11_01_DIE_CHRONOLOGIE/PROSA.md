@@ -1,7 +1,7 @@
 # Prosa – S022
 
 scene_id: S022
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -69,11 +69,7 @@ Die erste Seite zeigte zwei Standorte. Zentral links, Nord rechts. Zeitpunkte un
 
 Eva bemerkte, dass Laura zunächst nur die rechte Seite las.
 
-Nord.
-
-Ihr Vater.
-
-Eva begann mit der Ausgangslage in Zentral.
+Nord. Ihr Vater. Eva begann mit der Ausgangslage in Zentral.
 
 „Bei uns lag ein Patient mit einer schweren respiratorischen Verschlechterung. Die nichtinvasive Unterstützung reichte zunehmend nicht mehr aus. Er zeigte Erschöpfungszeichen. Wir mussten damit rechnen, ihn zu intubieren und intensivmedizinisch weiterzubehandeln.“
 
@@ -231,11 +227,7 @@ Laura presste die Lippen kurz zusammen.
 
 „Ja.“
 
-Sie blätterte weiter.
-
-Eva wusste, welche Zeile als Nächstes kam.
-
-Laura las sie schweigend.
+Sie blätterte weiter. Eva wusste, welche Zeile als Nächstes kam. Laura las sie schweigend.
 
 Dann sagte sie: „Und danach ist er gestorben.“
 
@@ -323,7 +315,7 @@ Eva spürte die Erinnerung an die feuchte Haut unter ihrer Hand, bevor sie antwo
 
 „Ja.“
 
-Die Patientenfürsprache setzte an. „Frau Berg, wir sollten—“
+Die Patientenfürsprache setzte an. „Frau Berg, wir sollten–“
 
 Laura hob die Hand.
 
@@ -341,21 +333,7 @@ Die Papiere machten die Nacht sauberer, als sie gewesen war. Jede Zeile hatte ei
 
 In Wirklichkeit hatte ein Patient nach Luft gerungen. Ein Team hatte auf sie gewartet. Ein anderer Patient war weit entfernt gewesen. KORA hatte eine Priorität genannt, die Eva verstanden und trotzdem verworfen hatte.
 
-„Das versuche ich inzwischen auch“, sagte sie.
-
-Laura zog die letzte Seite zu sich.
-
-Sie las den dokumentierten Ausgang in Zentral.
-
-Intensivaufnahme. Stabilisierung.
-
-Dann Nord.
-
-Verzögerte definitive Intensivversorgung. Weiterer Verlauf. Tod.
-
-Sie blieb lange auf der Seite.
-
-Eva erklärte nichts mehr.
+„Das versuche ich inzwischen auch“, sagte sie. Laura zog die letzte Seite zu sich. Sie las den dokumentierten Ausgang in Zentral. Intensivaufnahme. Stabilisierung. Dann Nord. Verzögerte definitive Intensivversorgung. Weiterer Verlauf. Tod. Sie blieb lange auf der Seite. Eva erklärte nichts mehr.
 
 Keine Ergänzung zur Unsicherheit. Keine Erinnerung daran, dass der lokale Patient ebenfalls hätte sterben können. Keine Verteidigung des damaligen Zeitdrucks.
 
@@ -365,13 +343,7 @@ Evas Patient hatte die Kapazität erhalten und sich stabilisiert.
 
 Lauras Vater hatte gewartet und war später gestorben.
 
-Die Verzögerung war real.
-
-Der andere mögliche Verlauf blieb unbekannt.
-
-Laura schob die Seite nicht weg.
-
-Sie sah Eva an.
+Die Verzögerung war real. Der andere mögliche Verlauf blieb unbekannt. Laura schob die Seite nicht weg. Sie sah Eva an.
 
 „Dann habe ich noch eine Frage.“
 

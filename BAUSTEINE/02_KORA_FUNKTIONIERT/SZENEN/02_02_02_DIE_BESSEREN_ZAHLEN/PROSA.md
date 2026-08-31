@@ -1,7 +1,7 @@
 # Prosa – S004
 
 scene_id: S004
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -33,13 +33,7 @@ Die Richtung blieb.
 
 Er beschränkte die Auswertung auf vollständig dokumentierte Entscheidungen.
 
-Wieder kleiner.
-
-Wieder dieselbe Richtung.
-
-„Und wenn du Zentral rausnimmst?“ fragte Felix.
-
-Jan klickte auf die vorbereitete Ansicht.
+Wieder kleiner. Wieder dieselbe Richtung. „Und wenn du Zentral rausnimmst?“ fragte Felix. Jan klickte auf die vorbereitete Ansicht.
 
 „Bleibt bestehen.“
 
@@ -93,13 +87,7 @@ Jan zeigte noch einmal die Sensitivitätsanalyse. „Die Standorte unterscheiden
 
 „Stärkerer Effekt.“
 
-Felix hob den Kopf.
-
-Jan öffnete die Ansicht.
-
-Dort war die Trennung deutlicher.
-
-Eva ließ sich Zeit.
+Felix hob den Kopf. Jan öffnete die Ansicht. Dort war die Trennung deutlicher. Eva ließ sich Zeit.
 
 Sie suchte nach dem Punkt, an dem sie innerlich hätte sagen können: nette Statistik, klinisch nicht überzeugend. Sie fand ihn nicht.
 

@@ -1,7 +1,7 @@
 # Prosa – S007
 
 scene_id: S007
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -17,17 +17,7 @@ Dazwischen stand:
 
 **Angehörigenanfrage zum Ressourcenkonflikt Falkenried Nord / Zentral.**
 
-Eva bewegte den Cursor weiter.
-
-Dann wieder zurück.
-
-Sie öffnete die Nachricht.
-
-Laura Berg.
-
-Tochter des verstorbenen Patienten.
-
-Eva las den Namen zweimal.
+Eva bewegte den Cursor weiter. Dann wieder zurück. Sie öffnete die Nachricht. Laura Berg. Tochter des verstorbenen Patienten. Eva las den Namen zweimal.
 
 Bis dahin hatte der Mann in ihrem Kopf keinen Namen getragen. Er war Nord gewesen. Der septische Patient. Der zweite Verlauf unter ihrer eigenen Zeitleiste. Der Mensch hinter einem KORA-Feld, den sie in jener Nacht nicht gesehen hatte.
 
@@ -37,21 +27,11 @@ Die Anfrage war über die Patientenfürsprache weitergeleitet worden. Sachlich f
 
 Laura Berg wollte wissen, wer entschieden hatte, nach welchen Informationen entschieden worden war und warum die letzte verfügbare Intensivkapazität nach Zentral ging, obwohl KORA ihren Vater priorisiert hatte.
 
-Eva las langsamer.
-
-Die Fragen waren nummeriert.
-
-Wer hatte die Empfehlung gesehen?
-
-Welche klinischen Daten lagen vor?
+Eva las langsamer. Die Fragen waren nummeriert. Wer hatte die Empfehlung gesehen? Welche klinischen Daten lagen vor?
 
 War bekannt gewesen, dass ihr Vater in Nord auf die Intensivaufnahme wartete?
 
-Wer durfte die Empfehlung überschreiben?
-
-Wer hatte das getan?
-
-Eva kannte die Antworten.
+Wer durfte die Empfehlung überschreiben? Wer hatte das getan? Eva kannte die Antworten.
 
 Bei der letzten Frage musste sie nicht einmal in die Chronologie schauen.
 
@@ -103,13 +83,7 @@ Nicht als Disziplinarfall. Nicht als Vorwurf. Als Frage einer Tochter.
 
 Eva las die Anfrage erneut und bemerkte erst jetzt, wie oft Laura das Wort „Zeitpunkt“ benutzt hatte.
 
-Wann war die Entscheidung gefallen?
-
-Wann war die Kapazität gebunden worden?
-
-Wann hatte ihr Vater die Intensivstation erreicht?
-
-Wann hatte sich sein Zustand weiter verschlechtert?
+Wann war die Entscheidung gefallen? Wann war die Kapazität gebunden worden? Wann hatte ihr Vater die Intensivstation erreicht? Wann hatte sich sein Zustand weiter verschlechtert?
 
 Laura wollte keine medizinische Theorie. Sie wollte eine Reihenfolge.
 
@@ -121,13 +95,7 @@ Wer wusste was?
 
 An welcher Stelle hätte etwas anders laufen können?
 
-Eva öffnete die Entscheidungsansicht aus jener Nacht.
-
-KORA: Priorität Nord. Hohe Konfidenz.
-
-Override: Zentral.
-
-Ihr Name.
+Eva öffnete die Entscheidungsansicht aus jener Nacht. KORA: Priorität Nord. Hohe Konfidenz. Override: Zentral. Ihr Name.
 
 Sie erinnerte sich an den Mann vor ihr. Die schwache Hand. Die Maske. Das leiser werdende Atemgeräusch.
 
@@ -201,25 +169,11 @@ Sie blieb noch vor der geöffneten Anfrage sitzen.
 
 Ihr erster Impuls war, die Chronologie noch einmal vollständig zu lesen. Als könnte sie durch eine weitere Prüfung eine Formulierung finden, die für Laura eindeutig und für Eva erträglich war.
 
-Sie tat es nicht.
-
-Stattdessen las sie nur die Fragen.
-
-Wer entschied?
-
-Welche Informationen lagen vor?
-
-Warum wich die Entscheidung von KORA ab?
-
-Könnte mein Vater noch leben?
+Sie tat es nicht. Stattdessen las sie nur die Fragen. Wer entschied? Welche Informationen lagen vor? Warum wich die Entscheidung von KORA ab? Könnte mein Vater noch leben?
 
 Bei den ersten drei Fragen konnte Eva Verantwortung in Sätzen ausdrücken.
 
-Bei der letzten blieb nur Unsicherheit.
-
-Das war schwerer auszuhalten als Schuld.
-
-Schuld hätte eine Richtung gehabt.
+Bei der letzten blieb nur Unsicherheit. Das war schwerer auszuhalten als Schuld. Schuld hätte eine Richtung gehabt.
 
 Sie schloss die Chronologie und ließ die Anfrage offen.
 

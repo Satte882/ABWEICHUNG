@@ -69,7 +69,7 @@ Sie löste ihre Hand vorsichtig aus dem Griff und ging zurück.
 
 „Ich weiß.“
 
-Eva öffnete erneut den lokalen Verlauf und suchte ausdrücklich nach einem medizinischen Gegenbeleg. Nicht nach einer Formulierung, die überzeugend klang, sondern nach etwas, das die Empfehlung tatsächlich verändern konnte: ein Messwert, den KORA nicht hatte, eine relevante Therapiewirkung, eine Kontraindikation auf der anderen Seite, eine neue Information hier.
+Eva öffnete erneut den lokalen Verlauf und suchte ausdrücklich nach einem medizinischen Gegenbeleg. Sie suchte keine Formulierung, die überzeugend klang. Sie brauchte etwas, das die Empfehlung tatsächlich verändern konnte: ein Messwert, den KORA nicht hatte, eine relevante Therapiewirkung, eine Kontraindikation auf der anderen Seite, eine neue Information hier.
 
 Sie fand nichts. Auch auf der Fernseite gab es keine offensichtliche Lücke. Die Empfehlung blieb hochkonfident.
 
@@ -91,11 +91,7 @@ Eva brauchte einen Moment. „Dass beide die Kapazität brauchen.“
 
 „Auch das.“
 
-Er blickte zum Bett. „Und?“
-
-Eva öffnete die Abweichungsmaske.
-
-Zwei Wege erschienen.
+Er blickte zum Bett. „Und?“ Eva öffnete die Abweichungsmaske. Zwei Wege erschienen.
 
 **Medizinischen Gegenbeleg dokumentieren.**
 

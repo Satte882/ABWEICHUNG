@@ -1,7 +1,7 @@
 # Prosa – S012
 
 scene_id: S012
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -99,19 +99,7 @@ Eva zog Neles Timeline aus der Anlage zu sich.
 
 Der Verlauf lag inzwischen in einer Form vor, die sie fast auswendig kannte.
 
-Hohe KORA-Konfidenz.
-
-Vorübergehende Stabilisierung.
-
-Override.
-
-Anhaltende Risikosignale.
-
-Verlorene Zeit.
-
-Schwere Verschlechterung.
-
-Die frühere Eskalation wäre medizinisch vorzugswürdig gewesen.
+Hohe KORA-Konfidenz. Vorübergehende Stabilisierung. Override. Anhaltende Risikosignale. Verlorene Zeit. Schwere Verschlechterung. Die frühere Eskalation wäre medizinisch vorzugswürdig gewesen.
 
 Eine zweite Person hätte den Ausgang nicht garantiert verändert. Sie hätte nicht automatisch erkannt, was Nele übersah. Sie hätte sogar zustimmen können.
 
@@ -221,15 +209,7 @@ Wieder dieses Wort.
 
 Eva sah auf die eine Seite vor sich.
 
-Sie mochte die Regel nicht.
-
-Das war kein Grund, sie abzulehnen.
-
-„Machen wir“, sagte sie.
-
-Felix schüttelte den Kopf.
-
-Miriam nahm die Seite noch nicht zurück.
+Sie mochte die Regel nicht. Das war kein Grund, sie abzulehnen. „Machen wir“, sagte sie. Felix schüttelte den Kopf. Miriam nahm die Seite noch nicht zurück.
 
 „Eng begrenzt“, fügte Eva hinzu. „Klare Schwellen. Pilot. Erreichbarkeit muss funktionieren. Jede Ausweitung kommt neu zur Entscheidung.“
 

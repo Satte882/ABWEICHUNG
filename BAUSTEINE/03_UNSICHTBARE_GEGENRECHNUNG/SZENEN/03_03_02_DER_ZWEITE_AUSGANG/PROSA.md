@@ -1,7 +1,7 @@
 # Prosa – S006
 
 scene_id: S006
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -13,11 +13,7 @@ Sie öffnete zuerst den weiteren Verlauf aus Falkenried Nord.
 
 Eva kannte die ersten Stunden inzwischen. Kreislaufinstabilität. Vasopressor. Übergangsstabilisierung. Warten auf definitive Intensivkapazität.
 
-Diesmal ging die Zeitleiste weiter.
-
-Ein weiterer Druckabfall.
-
-Mehr Unterstützung.
+Diesmal ging die Zeitleiste weiter. Ein weiterer Druckabfall. Mehr Unterstützung.
 
 Eine Phase, in der die Werte sich kurz fingen.
 
@@ -25,23 +21,11 @@ Dann wieder Verschlechterung.
 
 Eva las die Einträge ohne zu fragen. Sie erkannte das Muster, bevor sie die letzte Zeile sah. Nicht weil der Verlauf zwingend gewesen wäre. Weil Akten eine bestimmte Sprache bekamen, wenn hinter jedem neuen Eintrag weniger Möglichkeiten übrigblieben.
 
-Miriam scrollte ein Stück.
-
-Da stand der Tod.
-
-Eva spürte zuerst nichts.
+Miriam scrollte ein Stück. Da stand der Tod. Eva spürte zuerst nichts.
 
 Der Satz war zu klein für das, was er bedeutete.
 
-Verstorben.
-
-Eine Uhrzeit.
-
-Ein dokumentierter Abschluss.
-
-Sie las die Zeile ein zweites Mal.
-
-Dann ein drittes.
+Verstorben. Eine Uhrzeit. Ein dokumentierter Abschluss. Sie las die Zeile ein zweites Mal. Dann ein drittes.
 
 „Wann?“
 
@@ -193,11 +177,7 @@ Eva setzte sich wieder.
 
 Sie mochte, wie Miriam die Sätze trennte. Vielleicht weil Eva spürte, dass genau darin etwas lag, das sie selbst bisher zusammengehalten hatte.
 
-Entscheidung und Ausgang.
-
-Verantwortung und Schuld.
-
-Begründung und Wirkung.
+Entscheidung und Ausgang. Verantwortung und Schuld. Begründung und Wirkung.
 
 In der Nacht hatte sie nur eine Frage gehabt: Welcher Patient braucht den Platz jetzt?
 
@@ -241,13 +221,7 @@ Miriam sah sie kurz an.
 
 Für einen Moment war zwischen ihnen etwas von der alten Selbstverständlichkeit zurück. Dann fiel Evas Blick wieder auf die Todeszeile.
 
-„Wie hieß er?“ fragte sie.
-
-Miriam schwieg einen Moment.
-
-Dann nannte sie den Namen des Patienten.
-
-Eva wiederholte ihn nicht.
+„Wie hieß er?“ fragte sie. Miriam schwieg einen Moment. Dann nannte sie den Namen des Patienten. Eva wiederholte ihn nicht.
 
 Sie hatte ihn in der Akte schon gesehen. Bisher war er nur nicht hängen geblieben.
 

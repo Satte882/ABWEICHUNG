@@ -1,7 +1,7 @@
 # Prosa – S025
 
 scene_id: S025
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -13,15 +13,7 @@ Die Ärztin aus dem Ethikkonsil hatte ihn bewusst an den Anfang gesetzt.
 
 Dokumentierter Patientenwille. Eine medizinisch erfolgversprechendere Behandlung war verfügbar. Der Patient hatte sie nach Aufklärung abgelehnt.
 
-Auf dem Bildschirm stand KORAs Prognose daneben.
-
-„Wert-/Kontextabweichung“, sagte die Ärztin.
-
-Eva nickte.
-
-Miriam ebenfalls.
-
-Nele schrieb mit.
+Auf dem Bildschirm stand KORAs Prognose daneben. „Wert-/Kontextabweichung“, sagte die Ärztin. Eva nickte. Miriam ebenfalls. Nele schrieb mit.
 
 „Und der Grund muss im Datensatz sichtbar sein“, sagte Miriam.
 
@@ -167,15 +159,7 @@ Das machte sie komplizierter, aber auch glaubwürdiger.
 
 Gegen Mittag lagen die Fälle in drei Stapeln.
 
-Klarer Prognosewiderspruch.
-
-Klarer Wert-/Kontextgrund.
-
-Nicht ausreichend begründet.
-
-Die letzte Gruppe war die größte.
-
-Nele betrachtete sie.
+Klarer Prognosewiderspruch. Klarer Wert-/Kontextgrund. Nicht ausreichend begründet. Die letzte Gruppe war die größte. Nele betrachtete sie.
 
 „Das wird in der Praxis nerven.“
 
@@ -205,11 +189,7 @@ Am Ende standen zwei getrennte Wege.
 
 Die Ärztin aus dem Ethikkonsil ergänzte unter dem zweiten Weg Beispiele, aber keine abschließende Liste.
 
-Patientenwille.
-
-Therapieziel.
-
-Relevante Behandlungsbelastung.
+Patientenwille. Therapieziel. Relevante Behandlungsbelastung.
 
 Konkreter patientenspezifischer Kontext, den KORA nicht als Entscheidungswert abbildete.
 
@@ -233,21 +213,11 @@ Miriam hob den Blick vom Laptop.
 
 „Mehr bekommst du heute nicht.“
 
-Die Ärztin aus dem Ethikkonsil lächelte kurz.
-
-Nele schüttelte den Kopf und schrieb weiter.
-
-Der Pilot wurde beschlossen.
+Die Ärztin aus dem Ethikkonsil lächelte kurz. Nele schüttelte den Kopf und schrieb weiter. Der Pilot wurde beschlossen.
 
 Einige Tage später öffnete Eva die neue Oberfläche selbst.
 
-Die beiden Wege standen tatsächlich getrennt untereinander.
-
-Sie klickte den ersten an.
-
-Ein Feld verlangte den konkreten medizinischen Gegenbeleg.
-
-Sie ging zurück und öffnete den zweiten.
+Die beiden Wege standen tatsächlich getrennt untereinander. Sie klickte den ersten an. Ein Feld verlangte den konkreten medizinischen Gegenbeleg. Sie ging zurück und öffnete den zweiten.
 
 Dort stand nicht die Frage, warum KORA falsch lag.
 

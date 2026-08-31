@@ -1,25 +1,17 @@
 # Prosa – S032
 
 scene_id: S032
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Der Patient auf dem Bildschirm existierte nicht.
-
-Das machte die Entscheidung leichter.
-
-Nur nicht harmlos.
+Der Patient auf dem Bildschirm existierte nicht. Das machte die Entscheidung leichter. Nur nicht harmlos.
 
 Jan hatte den Testfall so gebaut, dass die neue Governance an ihrer engsten Stelle geprüft wurde.
 
-High confidence.
-
-Hohe Schadensrelevanz.
-
-Zweitfreigabe erforderlich.
+High confidence. Hohe Schadensrelevanz. Zweitfreigabe erforderlich.
 
 Und im Szenario war keine zweite Person rechtzeitig verfügbar.
 
@@ -49,15 +41,7 @@ Eva öffnete den regulären Override-Weg.
 
 **Zweitfreigabe erforderlich.**
 
-Darunter begann die Erreichbarkeitsprüfung.
-
-Erster Name.
-
-Nicht verfügbar.
-
-Zweiter Name.
-
-Keine Antwort innerhalb des simulierten Zeitfensters.
+Darunter begann die Erreichbarkeitsprüfung. Erster Name. Nicht verfügbar. Zweiter Name. Keine Antwort innerhalb des simulierten Zeitfensters.
 
 Dritter möglicher Zweitentscheider war bereits in einem anderen Notfall gebunden.
 
@@ -89,15 +73,7 @@ Unterhalb des regulären Wegs erschien die Option.
 
 **SOLO-BREAK-GLASS – unmittelbare Abweichung mit automatischem Review**
 
-Eva öffnete die Erklärung.
-
-Der Text war kurz.
-
-Die Abweichung wurde sofort wirksam.
-
-Keine vorherige Bestätigung durch eine zweite Person.
-
-Automatische Kennzeichnung als persönlicher Reviewfall.
+Eva öffnete die Erklärung. Der Text war kurz. Die Abweichung wurde sofort wirksam. Keine vorherige Bestätigung durch eine zweite Person. Automatische Kennzeichnung als persönlicher Reviewfall.
 
 Vollständige Protokollierung der verfügbaren Daten und des dokumentierten Grunds.
 
@@ -131,37 +107,11 @@ Darunter das Begründungsfeld.
 
 Eva trug den für den Testfall vorgesehenen klinischen Grund ein.
 
-Dann bestätigte sie.
-
-Der Behandlungspfad wechselte sofort.
-
-Kein Ladesymbol.
-
-Kein weiterer Name.
-
-Kein zweiter Dialog.
-
-Die Abweichung war wirksam.
-
-Fast gleichzeitig erschien rechts ein neuer Eintrag.
+Dann bestätigte sie. Der Behandlungspfad wechselte sofort. Kein Ladesymbol. Kein weiterer Name. Kein zweiter Dialog. Die Abweichung war wirksam. Fast gleichzeitig erschien rechts ein neuer Eintrag.
 
 **Persönlicher Reviewfall erstellt.**
 
-Darunter stand Evas Name.
-
-Zeitpunkt.
-
-Fallklasse.
-
-KORA-Konfidenz.
-
-Dokumentierter Grund.
-
-Die ursprüngliche Empfehlung.
-
-Der Zustand der Erreichbarkeitsprüfung.
-
-Eva öffnete den Reviewfall.
+Darunter stand Evas Name. Zeitpunkt. Fallklasse. KORA-Konfidenz. Dokumentierter Grund. Die ursprüngliche Empfehlung. Der Zustand der Erreichbarkeitsprüfung. Eva öffnete den Reviewfall.
 
 „Kann irgendjemand meine Abweichung rückwirkend so behandeln, als wäre sie bis zur Prüfung nur vorläufig?“
 
@@ -221,15 +171,7 @@ Jan setzte die Simulation zurück.
 
 Beim zweiten Durchlauf änderte er die Reihenfolge der verfügbaren Zweitentscheider. Eine Person war zunächst sichtbar, fiel dann während der Prüfung aus dem Zeitfenster.
 
-Eva ging wieder den regulären Weg.
-
-Zweitfreigabe erforderlich.
-
-Erreichbarkeitsprüfung.
-
-Keine rechtzeitige Freigabe.
-
-Solo-Break-glass.
+Eva ging wieder den regulären Weg. Zweitfreigabe erforderlich. Erreichbarkeitsprüfung. Keine rechtzeitige Freigabe. Solo-Break-glass.
 
 Diesmal wartete Eva absichtlich einige Sekunden vor dem Klick.
 
@@ -247,15 +189,7 @@ Eva nickte.
 
 „Gut.“
 
-Sie bestätigte erneut.
-
-Sofortige Abweichung.
-
-Sofortiger Reviewfall.
-
-Gleicher Mechanismus.
-
-Jan nahm die Hände von der Tastatur.
+Sie bestätigte erneut. Sofortige Abweichung. Sofortiger Reviewfall. Gleicher Mechanismus. Jan nahm die Hände von der Tastatur.
 
 „Dritter?“
 
@@ -281,12 +215,6 @@ Warum war dein Grund stark genug, allein abzuweichen?
 
 Eva sah noch einmal auf die Stelle, an der die Break-glass-Schaltfläche eben gestanden hatte.
 
-Der Knopf war da.
-
-Er war schnell.
-
-Er war echt.
-
-Das reichte ihr.
+Der Knopf war da. Er war schnell. Er war echt. Das reichte ihr.
 
 Fast.

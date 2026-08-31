@@ -1,7 +1,7 @@
 # Prosa – S028
 
 scene_id: S028
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -43,21 +43,13 @@ Deutlich schlechter als das Bild, das sie aus der letzten Übergabe im Kopf hatt
 
 „Reagiert er?“
 
-Felix sprach den Patienten laut an.
-
-Eine verzögerte Bewegung. Kein sinnvoller Satz.
-
-„Intensivplatz?“ fragte Eva.
+Felix sprach den Patienten laut an. Eine verzögerte Bewegung. Kein sinnvoller Satz. „Intensivplatz?“ fragte Eva.
 
 „Wird frei gemacht.“
 
 „KORA?“
 
-Felix antwortete nicht sofort.
-
-Der Alarmton wechselte.
-
-Eva sah ihn an.
+Felix antwortete nicht sofort. Der Alarmton wechselte. Eva sah ihn an.
 
 „Später“, sagte Felix. „Jetzt Atemweg.“
 
@@ -77,13 +69,7 @@ Die Werte kamen knapp zurück.
 
 Eva hörte keine vollständigen Sätze mehr. Nur das, was für die nächsten Sekunden nötig war.
 
-Einleitung.
-
-Atemweg sichern.
-
-Tubuslage prüfen.
-
-Kreislauf halten.
+Einleitung. Atemweg sichern. Tubuslage prüfen. Kreislauf halten.
 
 Die erste Kurve besserte sich nicht so schnell, wie Eva gehofft hatte.
 
@@ -121,45 +107,17 @@ Sie sah in Richtung Flur, wo Felix verschwunden war.
 
 „Genug, dass wir draußen weitergemacht haben.“
 
-Eva merkte sich den Satz.
-
-Nicht als Beweis.
-
-Nur als Frage.
+Eva merkte sich den Satz. Nicht als Beweis. Nur als Frage.
 
 Später am selben Tag lag der Patient auf Intensiv.
 
 Eva öffnete die Akte zwischendurch mehrfach. Anfangs gab es nur den laufenden kritischen Verlauf. Später kamen weitere Befunde hinzu. Im weiteren Verlauf verdichtete sich die Dokumentation zu einem schweren hypoxischen Schaden.
 
-Eva las den Eintrag zweimal.
-
-Dann ging sie zurück in der Timeline.
-
-Nicht bis zum Absturz.
-
-Weiter.
-
-Zunehmender Sauerstoffbedarf.
-
-Steigende Atemarbeit.
-
-Nichtinvasive Unterstützung.
-
-KORA-Bewertungen dazwischen.
-
-An einer Stelle blieb Eva stehen.
-
-Ein Konflikt war angezeigt worden.
+Eva las den Eintrag zweimal. Dann ging sie zurück in der Timeline. Nicht bis zum Absturz. Weiter. Zunehmender Sauerstoffbedarf. Steigende Atemarbeit. Nichtinvasive Unterstützung. KORA-Bewertungen dazwischen. An einer Stelle blieb Eva stehen. Ein Konflikt war angezeigt worden.
 
 Die Konfidenz lag knapp unter der Schwelle, ab der die neue Zweitfreigabe automatisch erforderlich wurde.
 
-Kein zweiter Arzt.
-
-Kein Review vor der Entscheidung.
-
-Nur die normale Override-Logik.
-
-Eva öffnete die zugehörigen Daten.
+Kein zweiter Arzt. Kein Review vor der Entscheidung. Nur die normale Override-Logik. Eva öffnete die zugehörigen Daten.
 
 Die Werte passten zu dem Zeitpunkt, der im System stand.
 
@@ -215,11 +173,7 @@ Damals hatte sie ein Muster gesehen und keine belastbare Erklärung dafür gehab
 
 Jetzt lag ein Patient mit schwerem Schaden auf Intensiv.
 
-Der Ausgang machte den Verdacht schwerer.
-
-Er machte ihn nicht wahrer.
-
-Eva öffnete die einzelnen Zeitpunkte.
+Der Ausgang machte den Verdacht schwerer. Er machte ihn nicht wahrer. Eva öffnete die einzelnen Zeitpunkte.
 
 „Hier ist die KORA-Einstufung unter der Schwelle.“
 
@@ -281,11 +235,7 @@ Eva blieb vor dem Verlauf sitzen.
 
 Auf dem Bildschirm war der Fall bereits sauberer als im Raum wenige Stunden zuvor.
 
-Kurven. Zeitpunkte. Maßnahmen.
-
-Der Schaden war real.
-
-Die KORA-Schwelle war real.
+Kurven. Zeitpunkte. Maßnahmen. Der Schaden war real. Die KORA-Schwelle war real.
 
 Der Zusammenhang zwischen dem Entscheidungszeitpunkt, der Schwelle und dem späteren Ausgang war offen.
 

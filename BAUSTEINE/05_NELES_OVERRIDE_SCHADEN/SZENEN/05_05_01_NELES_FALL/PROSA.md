@@ -1,7 +1,7 @@
 # Prosa – S010
 
 scene_id: S010
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -147,11 +147,7 @@ Nele verzog leicht den Mund.
 
 „Gut.“
 
-Damit war das Gespräch beendet.
-
-Eva ging weiter.
-
-Es fühlte sich normal an.
+Damit war das Gespräch beendet. Eva ging weiter. Es fühlte sich normal an.
 
 Genau so sollte Human Oversight funktionieren: KORA machte Druck. Ein Arzt prüfte. Ein Arzt konnte abweichen und trug den Grund sichtbar ein. Die Entscheidung blieb beim Menschen. Ein begründeter Widerspruch ignorierte KORA nicht; eine Empfehlung war auch bei hoher Konfidenz keine individuelle Zukunft.
 

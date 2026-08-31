@@ -1,17 +1,13 @@
 # Prosa – S024
 
 scene_id: S024
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Eva fand den kleinen Besprechungsraum leer.
-
-Gut.
-
-Sie wollte zunächst niemanden überzeugen.
+Eva fand den kleinen Besprechungsraum leer. Gut. Sie wollte zunächst niemanden überzeugen.
 
 Auf dem Tisch lagen noch Ausdrucke einer anderen Sitzung. Budgetzahlen. Ein halb leerer Kaffeebecher. Jemand hatte auf dem Whiteboard eine Frist notiert und nur halb weggewischt.
 
@@ -135,11 +131,7 @@ Eva schrieb stattdessen:
 
 **Was betrifft den Patienten – was betrifft den Entscheider?**
 
-Diesmal ließ sie den Satz stehen.
-
-Die Tür ging auf.
-
-Miriam blieb im Eingang stehen.
+Diesmal ließ sie den Satz stehen. Die Tür ging auf. Miriam blieb im Eingang stehen.
 
 „Du bist also doch schon angefangen.“
 
@@ -251,13 +243,7 @@ Miriam fotografierte das Whiteboard nicht. Sie schrieb auch noch nichts in ihre 
 
 „Gut.“
 
-Sie ging zur Tür.
-
-Eva blickte auf **Intuition?**.
-
-„Lass das stehen“, sagte sie.
-
-Miriam drehte sich um.
+Sie ging zur Tür. Eva blickte auf **Intuition?**. „Lass das stehen“, sagte sie. Miriam drehte sich um.
 
 „War nicht mein Plan, es wegzuwischen.“
 

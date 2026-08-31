@@ -1,7 +1,7 @@
 # Prosa – S011
 
 scene_id: S011
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -145,21 +145,7 @@ Danach Neles Begründung:
 
 **Vorübergehende hämodynamische Stabilisierung. Klinisch aktuell ausreichend stabil für engmaschige Weiterbehandlung außerhalb Intensivstation.**
 
-Dann die Zeit außerhalb der Intensivstation.
-
-Neue Werte.
-
-Anhaltende Risikosignale.
-
-Spätere Verschlechterung.
-
-Schock.
-
-Intensivaufnahme.
-
-Schwerer weiterer Verlauf.
-
-Miriam ließ die Zeitleiste stehen.
+Dann die Zeit außerhalb der Intensivstation. Neue Werte. Anhaltende Risikosignale. Spätere Verschlechterung. Schock. Intensivaufnahme. Schwerer weiterer Verlauf. Miriam ließ die Zeitleiste stehen.
 
 Eine Ärztin aus der Qualitätsrunde formulierte den Befund ohne Schärfe.
 
@@ -175,7 +161,7 @@ Eva drehte sich zu ihr.
 
 Nele hob sofort den Kopf.
 
-„Aber—“
+„Aber–“
 
 „Wir wissen, dass die frühere Eskalation besser gewesen wäre. Wir wissen, dass Zeit verloren ging. Wir wissen nicht, welchen vollständigen Verlauf er bei früherer Aufnahme genommen hätte.“
 
@@ -225,15 +211,7 @@ Nele schüttelte den Kopf.
 
 „Nein.“
 
-Miriam sagte nichts mehr.
-
-Die Stille war schlimmer als ein Vorwurf.
-
-Nele sah zu Eva.
-
-Nicht anklagend.
-
-Das war für Eva schwerer auszuhalten.
+Miriam sagte nichts mehr. Die Stille war schlimmer als ein Vorwurf. Nele sah zu Eva. Nicht anklagend. Das war für Eva schwerer auszuhalten.
 
 „Ich dachte, meine klinische Einschätzung reicht.“
 
@@ -243,11 +221,7 @@ Nicht weil sie Nele zu dieser konkreten Entscheidung gedrängt hatte. Das hatte 
 
 Aber Nele benutzte eine Haltung, die Eva im Team immer wieder verteidigt hatte.
 
-Empfehlung ernst nehmen.
-
-Selbst hinsehen.
-
-Verantwortung nicht abgeben.
+Empfehlung ernst nehmen. Selbst hinsehen. Verantwortung nicht abgeben.
 
 Eva hatte den Satz oft bis dort gesagt.
 
@@ -305,13 +279,7 @@ Eva las den Satz.
 
 Vor einigen Wochen hätte sie ihn reflexhaft abgelehnt.
 
-Jetzt lag Neles Fall daneben.
-
-Nele sah den Entwurf ebenfalls.
-
-„Das ist wegen mir?“ fragte sie.
-
-Miriam antwortete ruhig.
+Jetzt lag Neles Fall daneben. Nele sah den Entwurf ebenfalls. „Das ist wegen mir?“ fragte sie. Miriam antwortete ruhig.
 
 „Dein Fall ist ein Anlass. Nicht die einzige Begründung.“
 

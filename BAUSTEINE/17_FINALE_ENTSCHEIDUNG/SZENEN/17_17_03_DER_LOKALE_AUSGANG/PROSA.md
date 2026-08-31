@@ -1,7 +1,7 @@
 # Prosa – S037
 
 scene_id: S037
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 

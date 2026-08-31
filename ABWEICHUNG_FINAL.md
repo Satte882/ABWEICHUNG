@@ -9,21 +9,21 @@
 
 Der Alarm kam aus zwei Richtungen gleichzeitig.
 
-Eva stand am Fußende der Liege und sah zu, wie der Brustkorb des Mannes sich hob. Zu schnell. Zu flach. Bei jedem Atemzug spannten sich die Muskeln an seinem Hals. Die Maske beschlug, wurde klar, beschlug wieder.
+Eva stand am Fußende der Liege und sah zu, wie sich der Brustkorb des Mannes hob: zu schnell und zu flach. Bei jedem Atemzug spannten sich die Muskeln an seinem Hals. Die Maske beschlug, wurde klar, beschlug wieder.
 
 „Sättigung fällt.“
 
 Die Pflegekraft sagte es ruhig. Gerade deshalb klang die Zahl auf dem Monitor lauter, als sie war.
 
-Eva trat an die Seite der Liege. Der Patient hatte vor zehn Minuten noch versucht, die Maske wegzuschieben, weil sie ihn störte. Jetzt lag seine Hand offen auf der Decke. Die Finger bewegten sich kaum.
+Eva trat an die Seite der Liege. Vor zehn Minuten hatte der Patient noch versucht, die Maske wegzuschieben, weil sie ihn störte. Jetzt lag seine Hand offen auf der Decke, die Finger bewegten sich kaum.
 
-„Herr— schauen Sie mich an.“
+„Herr – schauen Sie mich an.“
 
 Seine Lider gingen auf.
 
 „Wissen Sie, wo Sie sind?“
 
-Er nickte einmal. Oder sein Kopf sank nur ein Stück zur Seite. Eva konnte es nicht sicher unterscheiden.
+Er nickte einmal. Vielleicht sank sein Kopf auch nur ein Stück zur Seite; Eva konnte es nicht sicher unterscheiden.
 
 „Noch einmal Blutgas.“
 
@@ -45,13 +45,13 @@ Eva hörte den kurzen Signalton, sah aber noch nicht hin.
 
 „Achtunddreißig.“
 
-Vier Atemzüge weniger waren hier keine Verbesserung. Nicht bei diesem Mann. Das Pfeifen, das vor einer halben Stunde noch über dem ganzen Oberkörper gelegen hatte, war dünner geworden. Eva beugte sich näher. Weniger Geräusch. Weniger Bewegung. Weniger Kraft.
+Vier Atemzüge weniger bedeuteten bei diesem Mann keine Verbesserung. Das Pfeifen, das vor einer halben Stunde noch über dem ganzen Oberkörper gelegen hatte, war dünner geworden. Eva beugte sich näher. Weniger Geräusch, weniger Bewegung. Ihm fehlte die Kraft.
 
 Sie legte die Hand auf seinen Oberarm.
 
 „Drücken Sie meine Hand.“
 
-Seine Finger schlossen sich um ihre. Schwach. Nach einer Sekunde ließen sie wieder los.
+Seine Finger schlossen sich schwach um ihre und ließen nach einer Sekunde wieder los.
 
 Er brauchte nicht mehr Luft. Er brauchte bald jemanden, der für ihn atmete.
 
@@ -63,7 +63,7 @@ Die Pflegekraft hob den Blick zum Display.
 
 Erst jetzt richtete Eva sich auf.
 
-Eine zweite Meldung lag unter dem roten Balken. Falkenried Nord. Septischer Schock. Persistierende Hypotonie. Laktat erhöht. Vasopressor läuft.
+Eine zweite Meldung lag unter dem roten Balken. Falkenried Nord. Septischer Schock, persistierende Hypotonie, Laktat erhöht, Vasopressor läuft.
 
 Sie öffnete die Detailansicht.
 
@@ -71,11 +71,9 @@ Sie öffnete die Detailansicht.
 
 **Konfidenz: hoch**
 
-Darunter standen die Gründe. Kreislaufversagen. Steigender Vasopressorbedarf. Verzögerungsrisiko. Erwarteter akuter Behandlungsnutzen.
+Darunter standen die Gründe: Kreislaufversagen, steigender Vasopressorbedarf, Verzögerungsrisiko und erwarteter akuter Behandlungsnutzen. Für ihren Patienten zeigte KORA ebenfalls ein hohes Risiko, nur niedriger.
 
-Für ihren Patienten zeigte KORA ebenfalls ein hohes Risiko. Nur niedriger.
-
-Eva scrollte nicht sofort weiter. Sie kannte die Logik des Systems. Sie hatte an Sitzungen gesessen, in denen genau solche Konflikte diskutiert worden waren: zwei Patienten, eine unmittelbar verfügbare Ressource, eine Entscheidung, die nicht durch die Schwere allein getroffen wurde. KORA sollte den erwarteten akuten Nutzen und das Risiko einer Verzögerung zusammenführen. Nicht den sichtbareren Patienten belohnen. Nicht den lauteren Standort.
+Eva scrollte nicht sofort weiter. Sie kannte die Logik des Systems. Sie hatte an Sitzungen gesessen, in denen genau solche Konflikte diskutiert worden waren: zwei Patienten, eine unmittelbar verfügbare Ressource, eine Entscheidung, die nicht durch die Schwere allein getroffen wurde. KORA sollte den erwarteten akuten Nutzen und das Risiko einer Verzögerung zusammenführen, ohne den sichtbareren Patienten oder den lauteren Standort zu bevorzugen.
 
 Jetzt stand die Theorie an der Wand, während hinter ihr ein Mann die Kraft zum Atmen verlor.
 
@@ -83,7 +81,7 @@ Jetzt stand die Theorie an der Wand, während hinter ihr ein Mann die Kraft zum 
 
 Jemand am Arbeitsplatz prüfte die Verbundübersicht.
 
-„Unklar. Keine bestätigte Entlassung. Kein freier Beatmungsplatz.“
+„Unklar. Keine bestätigte Entlassung, kein freier Beatmungsplatz.“
 
 „Andere Klinik?“
 
@@ -93,65 +91,43 @@ Jemand am Arbeitsplatz prüfte die Verbundübersicht.
 
 „Der Patient ist bereits dort. Die brauchen den Intensivplatz genauso wie wir.“
 
-Eva nickte knapp. Die Frage war überflüssig gewesen. Sie hatte nur gehofft, irgendwo in der Kette eine dritte Möglichkeit zu finden.
+Eva hatte gehofft, irgendwo in der Kette eine dritte Möglichkeit zu finden. Die Frage nach dem Transport war überflüssig gewesen; eine dritte Möglichkeit gab es nicht.
 
-Es gab keine.
-
-Sie ging zurück ans Bett.
-
-Der Mann atmete mit geöffnetem Mund gegen die Maske. Ein Atemzug. Eine Pause, die eine Spur zu lang war. Der nächste Atemzug kam flacher.
+Sie ging zurück ans Bett. Der Mann atmete mit geöffnetem Mund gegen die Maske. Nach einem Atemzug folgte eine Pause, die eine Spur zu lang war. Der nächste kam flacher.
 
 Eva nahm die Maske für einen Moment ab, nur weit genug, um sein Gesicht zu sehen.
 
-„Bleiben Sie bei mir.“
-
-Sein Blick suchte sie.
-
-„Können Sie mich hören?“
+„Bleiben Sie bei mir. Können Sie mich hören?“
 
 Ein kaum sichtbares Nicken.
 
 „Wir helfen Ihnen gleich mehr beim Atmen.“
 
-Er versuchte etwas zu sagen. Es kam kein verständliches Wort.
+Er versuchte etwas zu sagen. Es kam kein verständliches Wort. Die Maske war wieder auf seinem Gesicht, bevor er die Kraft für einen zweiten Versuch fand.
 
-Die Maske war wieder auf seinem Gesicht, bevor er die Kraft für einen zweiten Versuch fand.
-
-Eva sah zur Pflegekraft.
+Eva wandte sich an die Pflegekraft.
 
 „Intubationsmaterial vollständig vorbereiten. Wir warten nicht auf den Absturz.“
 
-Die Pflegekraft nickte und wandte sich ab.
+Die Pflegekraft nickte und ging zum Materialwagen.
 
-Am Display hatte KORA inzwischen die beiden Verläufe nebeneinander gestellt. Links Zentral. Rechts Nord.
-
-Eva öffnete die Ansicht selbst.
+Am Display hatte KORA inzwischen die beiden Verläufe nebeneinander gestellt: links Zentral, rechts Nord. Eva öffnete die Ansicht selbst.
 
 Der Patient in Nord war schlechter.
 
-Die Erkenntnis kam ohne Widerstand. Seine Kreislaufwerte waren bedrohlicher, sein Vasopressorbedarf stieg, die Übergangsstabilisierung hielt ihn, ersetzte aber keine definitive Intensivaufnahme. KORA hatte keine Daten übersehen, die Eva im System nachtragen musste. Keine Fehlermeldung. Keine erkennbare Lücke. Keine falsche Zuordnung.
+Die Erkenntnis kam ohne Widerstand. Seine Kreislaufwerte waren bedrohlicher, der Vasopressorbedarf stieg, die Übergangsstabilisierung hielt ihn, ersetzte aber keine definitive Intensivaufnahme. KORA hatte weder eine Fehlermeldung noch eine erkennbare Datenlücke oder falsche Zuordnung produziert.
 
-Sie wechselte zurück zum lokalen Verlauf.
+Eva wechselte zurück zum lokalen Verlauf. Atemfrequenz, Sauerstoffbedarf, Blutgase, Erschöpfungszeichen und Reaktion auf die bisherige Therapie waren ebenfalls vollständig erfasst.
 
-Atemfrequenz. Sauerstoffbedarf. Blutgase. Erschöpfungszeichen. Reaktion auf die bisherige Therapie.
-
-Auch das war vollständig erfasst.
-
-KORA sah ihren Patienten.
-
-Es setzte ihn nur auf Platz zwei.
+KORA sah ihren Patienten und setzte ihn trotzdem auf Platz zwei.
 
 „Neue Blutgase.“
 
-Die Pflegekraft nannte die Werte.
-
-Eva wiederholte einen davon, mehr für sich als für das Team.
+Die Pflegekraft nannte die Werte. Eva wiederholte einen davon, mehr für sich als für das Team.
 
 „Und klinisch?“ fragte der Arzt neben ihr.
 
-Eva sah zum Bett.
-
-„Erschöpfter. Weniger Atemgeräusch. Reaktion verzögert.“
+Eva deutete zum Bett. „Erschöpfter. Weniger Atemgeräusch. Reaktion verzögert.“
 
 „Dann intubieren wir.“
 
@@ -161,11 +137,9 @@ Er schaute zum roten Balken.
 
 „Mit welchem Bett?“
 
-Niemand antwortete für einen Moment.
+Für einen Moment antwortete niemand.
 
-Der Monitor piepte schneller. Der Patient griff nach der Maske. Nicht kräftig. Seine Hand hob sich nur bis zur Hälfte, blieb dort und sank wieder ab.
-
-Eva legte ihre Hand über seine.
+Der Monitor piepte schneller. Der Patient griff nach der Maske, brachte die Hand aber nur bis zur Hälfte hoch, bevor sie wieder sank. Eva legte ihre Hand über seine.
 
 „Lassen Sie die drauf.“
 
@@ -173,7 +147,7 @@ Seine Augen öffneten sich.
 
 „Noch kurz.“
 
-Sie wusste, dass das Wort gelogen klang. Kurz konnte fünf Minuten heißen oder dreißig. Kurz konnte der Zeitraum sein, in dem ein Mensch von erschöpft zu nicht mehr ansprechbar wurde.
+Das Wort klang selbst in ihren Ohren falsch. Kurz konnte fünf Minuten heißen oder dreißig; in der Notaufnahme konnte es genau der Zeitraum sein, in dem ein Mensch von erschöpft zu nicht mehr ansprechbar wurde.
 
 Der Arzt neben ihr sagte leiser: „Wenn wir den Platz nehmen, bleibt Nord in der Übergangsversorgung.“
 
@@ -185,33 +159,17 @@ Der Arzt neben ihr sagte leiser: „Wenn wir den Platz nehmen, bleibt Nord in de
 
 „Und wenn wir warten?“
 
-Eva antwortete nicht sofort.
+Eva ging die Möglichkeiten noch einmal durch, obwohl keine neue auftauchen würde: nichtinvasive Unterstützung weiterführen, intubieren und außerhalb einer regulären Intensivkapazität überbrücken, auf eine Freigabe hoffen, die niemand zusagen konnte, oder den letzten Platz nach Nord geben und den Mann vor ihr provisorisch weiter stabilisieren.
 
-Sie ging die Möglichkeiten noch einmal durch, obwohl sie wusste, dass keine neue auftauchen würde. Nichtinvasive Unterstützung weiterführen. Intubieren und außerhalb einer regulären Intensivkapazität überbrücken. Auf eine Freigabe hoffen, die niemand zusagen konnte. Den letzten Platz nach Nord geben und den Mann vor ihr in einem provisorischen Setting weiter stabilisieren.
+Jede Variante war medizinisch möglich, bis sie es nicht mehr war. Das war das Problem mit Zeit in der Notaufnahme: Oft erkannte man erst rückblickend, welche Minute die letzte vernünftige gewesen war.
 
-Jede Variante war medizinisch möglich, bis sie es nicht mehr war.
+Eva öffnete KORAs Ressourcenansicht erneut. Nord blieb dort als Werte und Warnhinweise stehen, ein Mensch, den sie nicht sah. Ein Team, das wahrscheinlich gerade dieselben Wörter benutzte wie ihres: Blutdruck, Laktat, Dosis, noch ein Versuch, noch fünf Minuten.
 
-Das war das Problem mit Zeit in der Notaufnahme. Man erkannte oft erst rückblickend, welche Minute die letzte vernünftige gewesen war.
+Für einen Moment stellte sie sich vor, dort zu stehen. Der Versuch änderte nichts. Vor ihr lag ein Mann, dessen Atemzüge bereits kleiner wurden.
 
-Eva öffnete KORAs Ressourcenansicht erneut.
+KORA konnte mit der Priorisierung recht haben, und Eva wusste es. Gerade deshalb wurde ihre Entscheidung schwerer.
 
-Nord blieb dort als Werte und Warnhinweise stehen. Ein Mensch, den sie nicht sah. Ein Team, das wahrscheinlich gerade dieselben Sätze sprach wie ihres. Blutdruck. Laktat. Dosis. Noch ein Versuch. Noch fünf Minuten.
-
-Sie stellte sich für einen Moment vor, dort zu stehen.
-
-Es half nicht.
-
-Vor ihr lag ein Mann, dessen Atemzüge bereits kleiner wurden.
-
-KORA konnte mit der Priorisierung recht haben.
-
-Eva wusste das.
-
-Das machte die Entscheidung nicht leichter. Es machte sie schwerer.
-
-Noch vor wenigen Monaten hätte sie einem System misstraut, das ihr aus der Ferne erklärte, welchen Patienten sie warten lassen sollte. KORA war nicht dieses System. Die Validierung war gut. Die Grenzen waren dokumentiert. Die Empfehlung war nachvollziehbar.
-
-Sie hatte selbst dafür argumentiert, es im Verbund einzusetzen.
+Noch vor wenigen Monaten hätte sie einem System misstraut, das ihr aus der Ferne erklärte, welchen Patienten sie warten lassen sollte. KORA war nicht dieses System. Die Validierung war gut, die Grenzen waren dokumentiert, die Empfehlung nachvollziehbar. Eva hatte selbst dafür argumentiert, es im Verbund einzusetzen.
 
 „Eva?“
 
@@ -221,23 +179,17 @@ Sie öffnete das Override-Feld.
 
 **Empfehlung überschreiben?**
 
-Noch gab es keine Begründungspflicht. Kein zweites Paar Augen. Kein Pflichtfeld, in dem sie erklären musste, warum ihre Wahrnehmung am Bett stärker wog als KORAs verbundweite Rechnung.
+Noch gab es keine Begründungspflicht, kein zweites Paar Augen und kein Pflichtfeld, in dem sie erklären musste, warum ihre Wahrnehmung am Bett stärker wog als KORAs verbundweite Rechnung.
 
 Nur die Entscheidung.
 
-Ihr Finger blieb über der Bestätigung.
+Ihr Finger blieb über der Bestätigung. Sie hätte KORA folgen können. Niemand hätte ihr später vorwerfen können, die bessere validierte Empfehlung ignoriert zu haben.
 
-Sie hätte KORA folgen können. Niemand hätte ihr später vorwerfen können, die bessere validierte Empfehlung ignoriert zu haben.
+Der Gedanke erschreckte sie fast mehr als die Empfehlung selbst. Verantwortung durfte nicht darin bestehen, den sichersten Satz für die spätere Akte zu wählen.
 
-Der Gedanke erschreckte sie fast mehr als die Empfehlung selbst.
+Am Bett waren die Augen des Patienten geschlossen. Die Maske hob sich mit jedem unterstützten Atemzug. Die Pflegekraft hielt bereits das Material für die Atemwegssicherung bereit.
 
-Verantwortung durfte nicht darin bestehen, den sichersten Satz für die spätere Akte zu wählen.
-
-Sie sah zum Patienten.
-
-Seine Augen waren geschlossen. Die Maske hob sich mit jedem unterstützten Atemzug. Die Pflegekraft hielt bereits das Material für die Atemwegssicherung bereit.
-
-Eva sah den Kollegen an.
+Eva wandte sich an den Kollegen.
 
 „Wir nehmen den Platz.“
 
@@ -247,29 +199,21 @@ Er nickte einmal.
 
 „Das läuft auf mich.“
 
-Niemand widersprach.
-
-Eva bestätigte.
+Niemand widersprach. Eva bestätigte.
 
 Das Display wechselte sofort.
 
 **INTENSIVKAPAZITÄT – FALKENRIED ZENTRAL ZUGEWIESEN**
 
-Darunter verschwand der Konflikthinweis nicht. Er veränderte nur seine Richtung.
-
-Für Nord erschien ein neuer Status.
+Der Konflikthinweis verschwand nicht, er wechselte nur die Richtung. Für Nord erschien ein neuer Status.
 
 **Übergangsstabilisierung fortsetzen.**
 
-Eva las die Zeile.
-
-Eine Sekunde länger, als nötig gewesen wäre.
-
-Dann drehte sie sich um.
+Eva las die Zeile eine Sekunde länger als nötig und drehte sich dann um.
 
 „Intubationsbereitschaft. Wir gehen jetzt.“
 
-Der Raum setzte sich in Bewegung. Verpackungen wurden geöffnet. Medikamente vorbereitet. Ein Beatmungsgerät wurde nähergezogen. Jemand kontrollierte den Zugang. Die Pflegekraft nannte die nächste Sättigung. Der Anästhesist wiederholte die geplanten Schritte.
+Der Raum setzte sich in Bewegung. Verpackungen wurden geöffnet, Medikamente vorbereitet, ein Beatmungsgerät nähergezogen. Jemand kontrollierte den Zugang. Die Pflegekraft nannte die nächste Sättigung, der Anästhesist wiederholte die geplanten Schritte.
 
 Eva stand am Kopfende und hielt den Blick des Patienten, solange er ihn noch halten konnte.
 
@@ -277,7 +221,7 @@ Eva stand am Kopfende und hielt den Blick des Patienten, solange er ihn noch hal
 
 Er blinzelte.
 
-Sie erklärte den nächsten Schritt in zwei kurzen Sätzen. Nicht weil er alles noch aufnehmen konnte. Weil er ein Mensch war, der wissen sollte, was gleich mit ihm geschah.
+Sie erklärte den nächsten Schritt in zwei kurzen Sätzen. Ob er noch alles aufnehmen konnte, war zweitrangig; er sollte wissen, was gleich mit ihm geschah.
 
 Seine Hand bewegte sich unter der Decke. Eva legte ihre Finger kurz darauf.
 
@@ -287,7 +231,7 @@ Dann begann die Einleitung.
 
 Der Raum wurde enger. Stimmen wurden kürzer. Zahlen wichtiger.
 
-Eva konzentrierte sich auf den Atemweg, auf den Monitor, auf die Reaktion des Kreislaufs. Für einige Minuten existierte nur noch dieser Patient.
+Eva konzentrierte sich auf den Atemweg, den Monitor und die Reaktion des Kreislaufs. Für einige Minuten existierte nur noch dieser Patient.
 
 Als der Tubus lag und die ersten kontrollierten Atemzüge die Kurve veränderten, löste sich die Spannung im Raum nicht. Sie verlagerte sich.
 
@@ -297,15 +241,9 @@ Als der Tubus lag und die ersten kontrollierten Atemzüge die Kurve veränderten
 
 Eva nickte.
 
-Auf dem Wanddisplay blieb Falkenried Nord sichtbar.
+Auf dem Wanddisplay blieb Falkenried Nord sichtbar. Der Status hatte sich nicht verändert: Übergangsstabilisierung.
 
-Der Status hatte sich nicht verändert.
-
-Übergangsstabilisierung.
-
-Eva las ihn aus dem Augenwinkel.
-
-Dann sah sie nicht mehr hin.
+Eva las ihn aus dem Augenwinkel und sah dann nicht mehr hin.
 
 ## Kapitel 2 – Der sichtbare Erfolg
 
@@ -427,17 +365,7 @@ Eva sah den Mann noch einmal an.
 
 Das war der Teil, den man leicht vergaß, wenn Entscheidungen später in Kurven verschwanden: Vor ihr lag nicht der Beweis einer These. Vor ihr lag ein Patient, der nach einer gefährlichen Nacht Zeit bekommen hatte.
 
-Sie war erleichtert.
-
-Sie ließ die Erleichterung zu.
-
-Für ein paar Sekunden wenigstens.
-
-Nele stand noch neben ihr.
-
-„Also?“ fragte sie.
-
-Eva wusste, was sie meinte.
+Sie war erleichtert. Sie ließ die Erleichterung zu. Für ein paar Sekunden wenigstens. Nele stand noch neben ihr. „Also?“ fragte sie. Eva wusste, was sie meinte.
 
 „Also was?“
 
@@ -507,11 +435,7 @@ Es wäre leicht gewesen, die Nacht damit abzuschließen.
 
 Auf dem Flur vibrierte Evas Telefon. Zwei neue Nachrichten. Ein Rückruf. Ein anderer Fall wartete.
 
-Sie steckte das Telefon wieder ein.
-
-„Kommst du?“ fragte Nele.
-
-Eva nickte.
+Sie steckte das Telefon wieder ein. „Kommst du?“ fragte Nele. Eva nickte.
 
 An der Tür sah sie noch einmal zurück.
 
@@ -641,11 +565,7 @@ Am Ende stand auf dem Bogen:
 
 Die Formulierung gefiel Eva mehr, als sie sollte.
 
-Nicht „richtig“. Nicht „KORA falsch“. Nur vertretbar.
-
-Sie konnte damit leben.
-
-Nele las die Zeile ebenfalls.
+Nicht „richtig“. Nicht „KORA falsch“. Nur vertretbar. Sie konnte damit leben. Nele las die Zeile ebenfalls.
 
 „Das ist doch genau der Punkt“, sagte sie.
 
@@ -655,11 +575,7 @@ Eva schloss den Fall noch nicht.
 
 „Dass das System uns besser machen soll. Nicht dass wir aufhören zu entscheiden.“
 
-Eva sah sie einen Moment an.
-
-Das war fast ihr eigener Satz.
-
-Vielleicht hatte Nele ihn von ihr.
+Eva sah sie einen Moment an. Das war fast ihr eigener Satz. Vielleicht hatte Nele ihn von ihr.
 
 „Du darfst aus diesem Fall nicht lernen, KORA zu ignorieren.“
 
@@ -739,13 +655,7 @@ Die Richtung blieb.
 
 Er beschränkte die Auswertung auf vollständig dokumentierte Entscheidungen.
 
-Wieder kleiner.
-
-Wieder dieselbe Richtung.
-
-„Und wenn du Zentral rausnimmst?“ fragte Felix.
-
-Jan klickte auf die vorbereitete Ansicht.
+Wieder kleiner. Wieder dieselbe Richtung. „Und wenn du Zentral rausnimmst?“ fragte Felix. Jan klickte auf die vorbereitete Ansicht.
 
 „Bleibt bestehen.“
 
@@ -799,13 +709,7 @@ Jan zeigte noch einmal die Sensitivitätsanalyse. „Die Standorte unterscheiden
 
 „Stärkerer Effekt.“
 
-Felix hob den Kopf.
-
-Jan öffnete die Ansicht.
-
-Dort war die Trennung deutlicher.
-
-Eva ließ sich Zeit.
+Felix hob den Kopf. Jan öffnete die Ansicht. Dort war die Trennung deutlicher. Eva ließ sich Zeit.
 
 Sie suchte nach dem Punkt, an dem sie innerlich hätte sagen können: nette Statistik, klinisch nicht überzeugend. Sie fand ihn nicht.
 
@@ -911,23 +815,13 @@ Der Mensch entschied am Ende weiter selbst.
 
 Die Linie auf dem Bildschirm verband zwei Krankenhäuser.
 
-Eva hatte den Fall bisher nur von ihrer Seite gesehen.
-
-Zentral: ihr Patient. Verschlechterung. Override. Intensivkapazität gebunden. Intubation. Stabilisierung.
-
-Die Zeitleiste war fast vertraut. Eva kannte einzelne Uhrzeiten bereits aus dem Morgenreview. Sie wusste, wann die Blutgase gekommen waren, wann sie das Override bestätigt hatte und wann der Patient auf Intensiv übernommen worden war.
+Bisher hatte Eva den Fall nur von ihrer Seite gesehen: ihr Patient in Zentral, die Verschlechterung, das Override, die gebundene Intensivkapazität, Intubation und Stabilisierung. Die Zeitleiste war fast vertraut. Einzelne Uhrzeiten kannte sie bereits aus dem Morgenreview – wann die Blutgase gekommen waren, wann sie das Override bestätigt hatte und wann der Patient auf Intensiv übernommen worden war.
 
 Miriam zog die Ansicht weiter nach rechts.
 
-„Bis hierhin kennen wir deine Seite.“
+„Bis hierhin kennen wir deine Seite. Jetzt ergänzen wir die Ressourcenkette.“
 
-„Ja.“
-
-„Dann ergänzen wir jetzt die Ressourcenkette.“
-
-Unter der ersten Linie erschien Falkenried Nord.
-
-Eva rückte den Stuhl näher an den Bildschirm.
+Unter der ersten Linie erschien Falkenried Nord. Eva rückte den Stuhl näher an den Bildschirm.
 
 „Was genau ist das?“
 
@@ -935,99 +829,45 @@ Eva rückte den Stuhl näher an den Bildschirm.
 
 „Das sehe ich.“
 
-Miriam ignorierte die Spitze. Sie vergrößerte den Zeitraum um Evas Entscheidung.
+Miriam ignorierte die Spitze und vergrößerte den Zeitraum um Evas Entscheidung. Oben Zentral, unten Nord. Die beiden Verläufe liefen zunächst unabhängig voneinander und trafen dann auf denselben Zeitpunkt.
 
-Oben Zentral. Unten Nord.
+KORA-Konflikt erkannt. Letzte unmittelbar verfügbare voll belegbare Intensivkapazität. Priorität Nord. Override Zentral. Kapazität gebunden.
 
-Die beiden Verläufe liefen zunächst unabhängig voneinander. Dann erreichten sie denselben Zeitpunkt.
+Eva kannte jedes dieser Wörter. Untereinander sahen sie anders aus.
 
-KORA-Konflikt erkannt.
-
-Letzte unmittelbar verfügbare voll belegbare Intensivkapazität.
-
-Priorität Nord.
-
-Override Zentral.
-
-Kapazität gebunden.
-
-Eva kannte jedes dieser Worte. Untereinander sahen sie anders aus.
-
-Miriam ließ den Cursor auf einem Eintrag in Nord stehen.
-
-Der Patient dort war zu diesem Zeitpunkt bereits kreislaufinstabil. Der Vasopressor lief. Das Laktat war hoch und stieg weiter. KORA hatte ihn wegen des erwarteten Nutzens einer sofortigen Intensivaufnahme und des Verzögerungsrisikos priorisiert.
+Miriam ließ den Cursor auf einem Eintrag in Nord stehen. Der Patient dort war zu diesem Zeitpunkt bereits kreislaufinstabil. Der Vasopressor lief, das Laktat war hoch und stieg weiter. KORA hatte ihn wegen des erwarteten Nutzens einer sofortigen Intensivaufnahme und des Verzögerungsrisikos priorisiert.
 
 „Und was hatten sie danach?“ fragte Eva.
 
-Miriam öffnete die lokalen Maßnahmen.
-
-Übergangsstabilisierung. Engmaschige Überwachung. Vasopressorunterstützung. Wiederholte Rücksprache mit der Intensivstation.
-
-Eva las die Liste.
+Miriam öffnete die lokalen Maßnahmen: Übergangsstabilisierung, engmaschige Überwachung, Vasopressorunterstützung und wiederholte Rücksprache mit der Intensivstation.
 
 „Die haben ihn stabilisiert.“
 
-„Überbrückt.“
+„Überbrückt“, sagte Miriam. „Mit Vasopressorunterstützung und Monitoring, ja. Aber er war noch nicht definitiv intensivmedizinisch aufgenommen.“
 
-„Er bekam Vasopressorunterstützung.“
-
-„Ja.“
-
-„Monitoring war vorhanden.“
-
-„Ja.“
-
-„Dann war er versorgt.“
+„Dann war er zumindest versorgt.“
 
 Miriam drehte sich halb zu ihr.
 
 „Eva.“
 
-Sie mochte den Ton nicht.
+Sie mochte den Ton nicht. „Was?“
 
-„Was?“
-
-„Versorgt ist nicht dasselbe wie definitiv intensivmedizinisch aufgenommen.“
-
-„Das weiß ich.“
-
-„Dann lies die Zeitachse als Zeitachse.“
+„Lies die Zeitachse als Zeitachse.“
 
 Eva tat es.
 
-Die Minuten waren zunächst klein. Zwölf. Acht. Neunzehn.
-
-Kein dramatischer roter Balken. Keine einzelne Stelle, an der man sagen konnte: hier geschah der Fehler.
-
-Nur Zeit.
-
-Ein erneuter Kapazitätscheck.
-
-Keine Freigabe.
-
-Ein weiterer Vasopressor-Schritt.
-
-Neue Laborkontrolle.
-
-Rücksprache.
-
-Noch keine definitive Aufnahme.
+Die Abstände waren zunächst klein: zwölf Minuten, acht, neunzehn. Kein dramatischer roter Balken markierte den einen Moment, an dem etwas gekippt war. Es gab nur einen erneuten Kapazitätscheck, keine Freigabe, einen weiteren Vasopressor-Schritt, eine neue Laborkontrolle, Rücksprache – und noch immer keine definitive Aufnahme.
 
 Eva scrollte langsamer.
 
-In ihrer Notaufnahme hatte dieselbe Zeit anders ausgesehen. Dort hatte sie auf jeden Atemzug gewartet und gewusst, dass der Patient vor ihr die nächste halbe Stunde vielleicht nicht in derselben Form überstehen würde.
-
-Hier war Zeit eine Reihe aus Einträgen.
-
-Sie fühlte sich harmloser an.
+In ihrer Notaufnahme hatte dieselbe Zeit anders ausgesehen. Dort hatte sie auf jeden Atemzug gewartet und gewusst, dass der Patient vor ihr die nächste halbe Stunde vielleicht nicht in derselben Form überstehen würde. Hier bestand Zeit aus Einträgen und wirkte dadurch harmloser.
 
 „Wie lange insgesamt?“
 
 Miriam nannte die Verzögerung.
 
-Eva lehnte sich zurück.
-
-„Und vorher?“
+Eva lehnte sich zurück. „Und vorher?“
 
 „Vor deiner Kapazitätsbindung wäre Nord der nächste Patient für die verfügbare Intensivressource gewesen.“
 
@@ -1035,63 +875,41 @@ Eva lehnte sich zurück.
 
 „Das ist die dokumentierte Zuweisung vor deinem Override.“
 
-Eva sah auf die zwei Linien.
-
-„Das konnte ich in der Situation nicht vollständig sehen.“
+Eva betrachtete die zwei Linien. „Das konnte ich in der Situation nicht vollständig sehen.“
 
 „Richtig.“
 
-Miriam sagte es sofort.
-
-Eva wartete auf den Rest.
-
-Er kam nicht.
+Miriam ließ es dabei. Eva wartete einen Moment auf den entlastenden Nachsatz, der nicht kam.
 
 „Warum klingt das bei dir nicht wie eine Entlastung?“
 
-Miriam zog die Hände vom Laptop zurück.
+Miriam zog die Hände vom Laptop zurück. „Weil es beides ist. Eine Erklärung für deine Entscheidung und ein Problem für das System.“
 
-„Weil es beides ist. Eine Erklärung für deine Entscheidung und ein Problem für das System.“
-
-„Ich hatte einen Patienten mit drohender respiratorischer Erschöpfung direkt vor mir. Das war keine Sichtfeldverzerrung. Das war klinische Realität.“
+„Ich hatte einen Patienten mit drohender respiratorischer Erschöpfung direkt vor mir. Das war keine Sichtfeldverzerrung, das war klinische Realität.“
 
 „Bestreite ich nicht.“
 
-„Er wurde intubiert und stabilisiert.“
+„Er wurde intubiert und stabilisiert. Dann tu nicht so, als hätte ich mich von einem Gesicht täuschen lassen.“
 
-„Ja.“
-
-„Dann tu nicht so, als hätte ich mich von einem Gesicht täuschen lassen.“
-
-Miriam sah sie einen Moment an.
-
-„Das tue ich nicht.“
+Miriam hielt ihren Blick. „Das tue ich nicht.“
 
 Sie zog die beiden Verläufe auf dieselbe Höhe.
 
-„Ich sage, dass dein klinischer Eindruck real war. Und dass gleichzeitig eine Folge deiner Ressourcenentscheidung außerhalb deines Blickfelds real war.“
+„Dein klinischer Eindruck war real. Gleichzeitig hatte deine Ressourcenentscheidung eine reale Folge außerhalb deines Blickfelds.“
 
-Eva schob den Stuhl näher an den Tisch.
-
-„Das ist banal. Jede Ressourcenentscheidung hat Opportunitätskosten.“
+Eva schob den Stuhl näher an den Tisch. „Das ist banal. Jede Ressourcenentscheidung hat Opportunitätskosten.“
 
 „Bisher waren viele davon unscharf.“
 
 „Und jetzt?“
 
-Miriam tippte auf die untere Linie.
+Miriam tippte auf die untere Linie. „Jetzt sehen wir sie zeitlich.“
 
-„Jetzt sehen wir sie zeitlich.“
-
-Der Satz traf Eva härter, als er sollte.
-
-Sie scrollte zurück zum Override.
-
-Der lokale Verlauf blieb gut. Die Stabilisierung verschwand nicht, nur weil eine zweite Zeile darunterlag. Ihr Patient war nicht plötzlich die falsche Person für eine Intensivaufnahme.
+Eva scrollte zurück zum Override. Der lokale Verlauf blieb gut. Die Stabilisierung verschwand nicht, nur weil darunter eine zweite Zeile stand. Ihr Patient war dadurch nicht plötzlich die falsche Person für eine Intensivaufnahme.
 
 „Wenn wir anfangen, jede Entscheidung nach allen denkbaren Folgen im ganzen Verbund zu bewerten, entscheidet am Ende niemand mehr am Bett.“
 
-„Wir reden nicht über alle denkbaren Folgen.“ Miriam deutete auf die Chronologie. „Wir reden über eine konkrete knappe Ressource und zwei konkrete Patienten, die gleichzeitig um sie konkurrierten.“
+„Wir reden nicht über alle denkbaren Folgen.“ Miriam deutete auf die Chronologie. „Hier geht es um eine konkrete knappe Ressource und zwei konkrete Patienten, die gleichzeitig um sie konkurrierten.“
 
 „KORA bewertet verbundweit.“
 
@@ -1103,19 +921,13 @@ Der lokale Verlauf blieb gut. Die Stabilisierung verschwand nicht, nur weil eine
 
 Miriam verschob die Ansicht erneut. Jetzt standen Evas klinische Notizen direkt neben den Daten aus Nord.
 
-„Aber vielleicht sieht es Dinge, die der Mensch am Bett zwangsläufig nicht gleichzeitig sehen kann.“
+„Aber vielleicht sieht es Dinge, die ein Mensch am Bett zwangsläufig nicht gleichzeitig sehen kann.“
 
-Eva betrachtete die zwei Spalten.
+Eva verglich die Spalten. Auf ihrer Seite standen der erschöpfte Mann, das leiser werdende Atemgeräusch und die verzögerte Reaktion. Auf der anderen steigender Vasopressorbedarf, hohe Laktatwerte und wiederholte Übergangsmaßnahmen.
 
-Auf ihrer Seite: erschöpfter Mann, leiser werdendes Atemgeräusch, verzögerte Reaktion.
+Beides war real. Eva hatte nur eine Seite davon erlebt.
 
-Auf der anderen: steigender Vasopressorbedarf, hohe Laktatwerte, wiederholte Übergangsmaßnahmen.
-
-Beide waren real.
-
-Der Unterschied war, dass Eva nur einen davon erlebt hatte.
-
-„Wenn ich Nord gesehen hätte“, sagte sie, „hätte ich trotzdem entscheiden müssen.“
+„Wenn ich Nord gesehen hätte, hätte ich trotzdem entscheiden müssen.“
 
 „Natürlich.“
 
@@ -1123,15 +935,11 @@ Der Unterschied war, dass Eva nur einen davon erlebt hatte.
 
 „Vielleicht.“
 
-Miriam sagte es ohne Provokation.
+Miriam sagte es ohne Provokation. Gerade das störte Eva.
 
-Das war schlimmer.
+Sie stand auf und ging zum Fenster. Unten hielt ein Rettungswagen in der Zufahrt. Türen gingen auf, zwei Menschen schoben eine Liege hinein. Von hier oben sah jeder Fall gleich weit weg aus.
 
-Eva stand auf und ging zwei Schritte zum Fenster. Unten bewegten sich Fahrzeuge in der Zufahrt. Ein Rettungswagen hielt, Türen gingen auf, zwei Menschen schoben eine Liege hinein.
-
-Von hier oben sah jeder Fall gleich weit weg aus.
-
-„Ich will nicht, dass daraus eine Moralgeschichte wird“, sagte Eva.
+„Ich will nicht, dass daraus eine Moralgeschichte wird.“
 
 „Welche?“
 
@@ -1141,47 +949,31 @@ Von hier oben sah jeder Fall gleich weit weg aus.
 
 „Welche dann?“
 
-Miriam sah auf den Bildschirm.
-
-„Dass du eine vernünftige Entscheidung getroffen haben kannst und sie trotzdem einen Preis hatte, den du in dem Moment kaum sehen konntest.“
+Miriam wandte sich wieder dem Bildschirm zu. „Dass du eine vernünftige Entscheidung getroffen haben kannst und sie trotzdem einen Preis hatte, den du in dem Moment kaum sehen konntest.“
 
 Eva blieb am Fenster.
 
-Sie hatte mit Schuld leichter umgehen können als mit diesem Satz. Schuld war klar. Ein Fehler. Eine falsche Handlung. Etwas, das man korrigieren konnte.
-
-Eine vernünftige Entscheidung mit unsichtbaren Kosten war komplizierter.
+Mit Schuld hätte sie leichter umgehen können. Schuld war klar: ein Fehler, eine falsche Handlung, etwas, das man korrigieren konnte. Eine vernünftige Entscheidung mit unsichtbaren Kosten ließ sich nicht so sauber einordnen.
 
 Sie setzte sich wieder.
 
 „Was passiert jetzt mit dem Fall?“
 
-Miriam markierte ihn für die vertiefte Qualitätsanalyse.
-
-„Ich will die gesamte Kette.“
+Miriam markierte ihn für die vertiefte Qualitätsanalyse. „Ich will die gesamte Kette.“
 
 Der Eintrag wurde farblich hervorgehoben.
 
 „Warum?“
 
-„Weil dein Patient stabilisiert wurde.“
+„Weil dein Patient stabilisiert wurde.“ Miriam zog den unteren Verlauf etwas weiter nach rechts. „Und weil ich wissen will, welche Wirkung dieselbe Entscheidung anderswo hatte.“
 
-Miriam zog den unteren Verlauf etwas weiter nach rechts.
+„Vorhin hast du Preis gesagt.“
 
-„Und weil ich wissen will, was dieselbe Entscheidung anderswo gekostet hat.“
+„Und du hättest zu Recht gefragt, ob ich die Kausalität schon kenne.“
 
-Eva sah auf die Markierung.
+Miriam nickte zur Chronologie. „Deshalb rekonstruieren wir sie.“
 
-„Gekostet ist schon eine Wertung.“
-
-„Dann nenn es Wirkung.“
-
-„Auch das setzt Kausalität voraus.“
-
-Miriam nickte. „Deshalb rekonstruieren wir sie.“
-
-Eva antwortete nicht.
-
-Auf dem Bildschirm liefen beide Linien weiter.
+Eva antwortete nicht. Auf dem Bildschirm liefen beide Linien weiter.
 
 Zum ersten Mal war die Entscheidung aus der Nacht größer als der Raum, in dem Eva sie getroffen hatte.
 
@@ -1193,11 +985,7 @@ Sie öffnete zuerst den weiteren Verlauf aus Falkenried Nord.
 
 Eva kannte die ersten Stunden inzwischen. Kreislaufinstabilität. Vasopressor. Übergangsstabilisierung. Warten auf definitive Intensivkapazität.
 
-Diesmal ging die Zeitleiste weiter.
-
-Ein weiterer Druckabfall.
-
-Mehr Unterstützung.
+Diesmal ging die Zeitleiste weiter. Ein weiterer Druckabfall. Mehr Unterstützung.
 
 Eine Phase, in der die Werte sich kurz fingen.
 
@@ -1205,23 +993,11 @@ Dann wieder Verschlechterung.
 
 Eva las die Einträge ohne zu fragen. Sie erkannte das Muster, bevor sie die letzte Zeile sah. Nicht weil der Verlauf zwingend gewesen wäre. Weil Akten eine bestimmte Sprache bekamen, wenn hinter jedem neuen Eintrag weniger Möglichkeiten übrigblieben.
 
-Miriam scrollte ein Stück.
-
-Da stand der Tod.
-
-Eva spürte zuerst nichts.
+Miriam scrollte ein Stück. Da stand der Tod. Eva spürte zuerst nichts.
 
 Der Satz war zu klein für das, was er bedeutete.
 
-Verstorben.
-
-Eine Uhrzeit.
-
-Ein dokumentierter Abschluss.
-
-Sie las die Zeile ein zweites Mal.
-
-Dann ein drittes.
+Verstorben. Eine Uhrzeit. Ein dokumentierter Abschluss. Sie las die Zeile ein zweites Mal. Dann ein drittes.
 
 „Wann?“
 
@@ -1373,11 +1149,7 @@ Eva setzte sich wieder.
 
 Sie mochte, wie Miriam die Sätze trennte. Vielleicht weil Eva spürte, dass genau darin etwas lag, das sie selbst bisher zusammengehalten hatte.
 
-Entscheidung und Ausgang.
-
-Verantwortung und Schuld.
-
-Begründung und Wirkung.
+Entscheidung und Ausgang. Verantwortung und Schuld. Begründung und Wirkung.
 
 In der Nacht hatte sie nur eine Frage gehabt: Welcher Patient braucht den Platz jetzt?
 
@@ -1421,13 +1193,7 @@ Miriam sah sie kurz an.
 
 Für einen Moment war zwischen ihnen etwas von der alten Selbstverständlichkeit zurück. Dann fiel Evas Blick wieder auf die Todeszeile.
 
-„Wie hieß er?“ fragte sie.
-
-Miriam schwieg einen Moment.
-
-Dann nannte sie den Namen des Patienten.
-
-Eva wiederholte ihn nicht.
+„Wie hieß er?“ fragte sie. Miriam schwieg einen Moment. Dann nannte sie den Namen des Patienten. Eva wiederholte ihn nicht.
 
 Sie hatte ihn in der Akte schon gesehen. Bisher war er nur nicht hängen geblieben.
 
@@ -1473,17 +1239,7 @@ Dazwischen stand:
 
 **Angehörigenanfrage zum Ressourcenkonflikt Falkenried Nord / Zentral.**
 
-Eva bewegte den Cursor weiter.
-
-Dann wieder zurück.
-
-Sie öffnete die Nachricht.
-
-Laura Berg.
-
-Tochter des verstorbenen Patienten.
-
-Eva las den Namen zweimal.
+Eva bewegte den Cursor weiter. Dann wieder zurück. Sie öffnete die Nachricht. Laura Berg. Tochter des verstorbenen Patienten. Eva las den Namen zweimal.
 
 Bis dahin hatte der Mann in ihrem Kopf keinen Namen getragen. Er war Nord gewesen. Der septische Patient. Der zweite Verlauf unter ihrer eigenen Zeitleiste. Der Mensch hinter einem KORA-Feld, den sie in jener Nacht nicht gesehen hatte.
 
@@ -1493,21 +1249,11 @@ Die Anfrage war über die Patientenfürsprache weitergeleitet worden. Sachlich f
 
 Laura Berg wollte wissen, wer entschieden hatte, nach welchen Informationen entschieden worden war und warum die letzte verfügbare Intensivkapazität nach Zentral ging, obwohl KORA ihren Vater priorisiert hatte.
 
-Eva las langsamer.
-
-Die Fragen waren nummeriert.
-
-Wer hatte die Empfehlung gesehen?
-
-Welche klinischen Daten lagen vor?
+Eva las langsamer. Die Fragen waren nummeriert. Wer hatte die Empfehlung gesehen? Welche klinischen Daten lagen vor?
 
 War bekannt gewesen, dass ihr Vater in Nord auf die Intensivaufnahme wartete?
 
-Wer durfte die Empfehlung überschreiben?
-
-Wer hatte das getan?
-
-Eva kannte die Antworten.
+Wer durfte die Empfehlung überschreiben? Wer hatte das getan? Eva kannte die Antworten.
 
 Bei der letzten Frage musste sie nicht einmal in die Chronologie schauen.
 
@@ -1559,13 +1305,7 @@ Nicht als Disziplinarfall. Nicht als Vorwurf. Als Frage einer Tochter.
 
 Eva las die Anfrage erneut und bemerkte erst jetzt, wie oft Laura das Wort „Zeitpunkt“ benutzt hatte.
 
-Wann war die Entscheidung gefallen?
-
-Wann war die Kapazität gebunden worden?
-
-Wann hatte ihr Vater die Intensivstation erreicht?
-
-Wann hatte sich sein Zustand weiter verschlechtert?
+Wann war die Entscheidung gefallen? Wann war die Kapazität gebunden worden? Wann hatte ihr Vater die Intensivstation erreicht? Wann hatte sich sein Zustand weiter verschlechtert?
 
 Laura wollte keine medizinische Theorie. Sie wollte eine Reihenfolge.
 
@@ -1577,13 +1317,7 @@ Wer wusste was?
 
 An welcher Stelle hätte etwas anders laufen können?
 
-Eva öffnete die Entscheidungsansicht aus jener Nacht.
-
-KORA: Priorität Nord. Hohe Konfidenz.
-
-Override: Zentral.
-
-Ihr Name.
+Eva öffnete die Entscheidungsansicht aus jener Nacht. KORA: Priorität Nord. Hohe Konfidenz. Override: Zentral. Ihr Name.
 
 Sie erinnerte sich an den Mann vor ihr. Die schwache Hand. Die Maske. Das leiser werdende Atemgeräusch.
 
@@ -1657,25 +1391,11 @@ Sie blieb noch vor der geöffneten Anfrage sitzen.
 
 Ihr erster Impuls war, die Chronologie noch einmal vollständig zu lesen. Als könnte sie durch eine weitere Prüfung eine Formulierung finden, die für Laura eindeutig und für Eva erträglich war.
 
-Sie tat es nicht.
-
-Stattdessen las sie nur die Fragen.
-
-Wer entschied?
-
-Welche Informationen lagen vor?
-
-Warum wich die Entscheidung von KORA ab?
-
-Könnte mein Vater noch leben?
+Sie tat es nicht. Stattdessen las sie nur die Fragen. Wer entschied? Welche Informationen lagen vor? Warum wich die Entscheidung von KORA ab? Könnte mein Vater noch leben?
 
 Bei den ersten drei Fragen konnte Eva Verantwortung in Sätzen ausdrücken.
 
-Bei der letzten blieb nur Unsicherheit.
-
-Das war schwerer auszuhalten als Schuld.
-
-Schuld hätte eine Richtung gehabt.
+Bei der letzten blieb nur Unsicherheit. Das war schwerer auszuhalten als Schuld. Schuld hätte eine Richtung gehabt.
 
 Sie schloss die Chronologie und ließ die Anfrage offen.
 
@@ -1771,13 +1491,7 @@ Neue klinische Information?
 
 Nicht wirklich. KORA hatte die relevante Veränderung im Verlauf bereits aufgenommen.
 
-Patientenbezogener Kontext?
-
-Nein.
-
-Sie wählte **Abweichende klinische Gewichtung**.
-
-Das Freitextfeld blieb leer und wartete.
+Patientenbezogener Kontext? Nein. Sie wählte **Abweichende klinische Gewichtung**. Das Freitextfeld blieb leer und wartete.
 
 Eva legte die Hände kurz von der Tastatur.
 
@@ -1785,13 +1499,7 @@ Der Grund war klar gewesen, solange er nur in ihrem Kopf existierte. Jetzt musst
 
 Sie schrieb den konkreten Befund, auf den sie ihre Entscheidung stützte. Keine allgemeine Formulierung wie „klinischer Eindruck“. Keine Floskel über ärztliche Erfahrung. Sie nannte, was sich verändert hatte und warum sie daraus eine andere Dringlichkeit ableitete.
 
-Sie las den Text einmal.
-
-Dann bestätigte sie.
-
-Der Override lief durch.
-
-Keine Verzögerung. Kein Rückruf. Keine zweite Person.
+Sie las den Text einmal. Dann bestätigte sie. Der Override lief durch. Keine Verzögerung. Kein Rückruf. Keine zweite Person.
 
 Die Oberfläche sprang zurück in den Fall, als wäre nichts Besonderes passiert.
 
@@ -1887,11 +1595,7 @@ Eva sprach kurz mit dem Patienten, prüfte den Verlauf und ging zurück.
 
 Auf dem Bildschirm stand die Begründung weiterhin in der Seitenleiste.
 
-Sie konnte abweichen.
-
-Niemand musste zustimmen.
-
-Niemand hatte die Entscheidung an sich gezogen.
+Sie konnte abweichen. Niemand musste zustimmen. Niemand hatte die Entscheidung an sich gezogen.
 
 Nur der Grund verschwand nicht mehr mit dem Moment.
 
@@ -1899,21 +1603,11 @@ Am Ende der Schicht öffnete Eva die Mitteilung aus dem Morgen doch noch vollst�
 
 Patientensicherheit begründete die Änderung mit der späteren Nachvollziehbarkeit von Entscheidungen. Zunächst keine automatische Bewertung. Keine zusätzliche Genehmigung. Fallanalyse im Qualitätsprozess. Die Kategorien sollten helfen, unterschiedliche Arten von Abweichungen nicht in einem einzigen Freitext zu verlieren.
 
-Eva las die Passage zweimal.
-
-Sie dachte an Laura Bergs Fragen.
-
-Wer wusste was?
-
-Warum wurde anders entschieden?
+Eva las die Passage zweimal. Sie dachte an Laura Bergs Fragen. Wer wusste was? Warum wurde anders entschieden?
 
 Eine verpflichtende Begründung hätte Lauras Vater nicht automatisch einen anderen Ausgang gegeben. Aber sie hätte die Entscheidungskette präziser gemacht.
 
-Eva schloss die Nachricht.
-
-Die Maßnahme war klein.
-
-Sie war nachvollziehbar.
+Eva schloss die Nachricht. Die Maßnahme war klein. Sie war nachvollziehbar.
 
 Und vernünftig genug, dass Eva keinen guten Grund fand, gegen sie zu sein.
 
@@ -1923,11 +1617,9 @@ Dass Felix genau darin das Problem sah, nahm sie mit nach Hause.
 
 Nach einigen Wochen war aus dem Freitextfeld eine Datenspur geworden.
 
-Eva merkte es daran, dass sie die einzelnen Einträge nicht mehr als lästige Zusatzarbeit wahrnahm. Die Maske gehörte inzwischen zum Ablauf. Grundtyp wählen. Zwei oder drei Sätze. Bestätigen. Weiter.
+Eva merkte es daran, dass die einzelnen Einträge sich nicht mehr wie lästige Zusatzarbeit anfühlten. Die Maske gehörte inzwischen zum Ablauf: Grundtyp wählen, zwei oder drei Sätze, bestätigen, weiter. Was beim einzelnen Fall kaum Zeit kostete, sah in der Summe anders aus.
 
-Was beim einzelnen Fall kaum Zeit kostete, sah in der Summe anders aus.
-
-Miriam hatte vier anonymisierte Einträge nebeneinandergestellt. Keine Namen, keine Bewertung, keine Rangliste. Nur die damalige KORA-Empfehlung, der Grundtyp und der Satz, mit dem ein Arzt davon abgewichen war.
+Miriam hatte vier anonymisierte Einträge nebeneinandergestellt. Keine Namen, keine Bewertung, keine Rangliste. Zu sehen waren nur die damalige KORA-Empfehlung, der Grundtyp und der Satz, mit dem ein Arzt davon abgewichen war.
 
 „Nur lesen“, sagte Miriam.
 
@@ -1935,17 +1627,13 @@ Miriam hatte vier anonymisierte Einträge nebeneinandergestellt. Keine Namen, ke
 
 „Du hast schon den Stift in der Hand.“
 
-Eva sah auf den Stift, legte ihn aber nicht weg.
+Eva blickte auf den Stift und behielt ihn.
 
 Der erste Eintrag lautete:
 
 **Klinischer Verlauf passt nicht zur prognostizierten Verschlechterung. Aktuelle Untersuchung spricht gegen sofortige Eskalation.**
 
-Darunter stand ein konkreter Untersuchungsbefund und der Zeitpunkt der erneuten Bewertung.
-
-Eva las den späteren Verlauf. Die Abweichung war nachvollziehbar geblieben.
-
-Sie zog eine Linie unter den Satz.
+Darunter standen ein konkreter Untersuchungsbefund und der Zeitpunkt der erneuten Bewertung. Eva las den späteren Verlauf; die Abweichung war nachvollziehbar geblieben. Sie zog eine Linie unter den Satz.
 
 „Der benennt etwas, das man prüfen kann.“
 
@@ -1953,25 +1641,15 @@ Der zweite Eintrag war kürzer.
 
 **Patient wirkt stabiler als Modellbewertung.**
 
-Eva wartete auf den nächsten Satz.
-
-Es gab keinen.
+Eva suchte nach einer Ergänzung. Es gab keine.
 
 „Was heißt wirkt?“
 
 Miriam hob die Schultern. „Genau das steht dort.“
 
-Der dritte:
+Der dritte Eintrag lautete **Langjährige Erfahrung mit vergleichbaren Verläufen**, der vierte **Fachärztliche Entscheidung nach Gesamtbewertung**.
 
-**Langjährige Erfahrung mit vergleichbaren Verläufen.**
-
-Der vierte:
-
-**Fachärztliche Entscheidung nach Gesamtbewertung.**
-
-Eva setzte den Stift auf das Papier und hielt inne.
-
-„Die beiden hier benennen vor allem den Entscheider.“
+Eva setzte den Stift auf das Papier und hielt inne. „Die beiden hier benennen vor allem den Entscheider.“
 
 „Ja.“
 
@@ -1983,119 +1661,71 @@ Eva setzte den Stift auf das Papier und hielt inne.
 
 Miriam zeigte auf den Bildschirm. „Oder wir sehen zum ersten Mal, wie unterschiedlich das, was Ärzte intern für einen Grund halten, nach außen aussieht.“
 
-Eva blätterte weiter.
+Eva blätterte weiter. Die nächsten Einträge nannten einen später ergänzten Laborwert, einen neu aufgetretenen klinischen Befund, eine patientenspezifische Information, die im System nicht abgebildet war, daneben eine knappe Intuitionsformel und ein Statusargument.
 
-Weitere Einträge folgten. Ein fehlender Laborwert, der später ergänzt worden war. Ein neu aufgetretener klinischer Befund. Eine begründete Abweichung vom Ressourcenpfad, weil eine patientenspezifische Information im System nicht abgebildet war. Eine knappe Intuitionsformel. Ein Statusargument.
-
-Zwei Sätze klangen professionell und sagten nach dem zweiten Lesen kaum mehr als: *Ich halte es für richtig.*
-
-Andere wurden stärker, je länger Eva hinsah. Sie nannten konkrete Beobachtungen, Zeitpunkte, fehlende Daten oder eine klar benennbare klinische Gegenhypothese.
+Zwei Begründungen klangen professionell und sagten nach dem zweiten Lesen kaum mehr als: *Ich halte es für richtig.* Andere wurden stärker, je länger Eva hinsah. Sie nannten konkrete Beobachtungen, Zeitpunkte, fehlende Daten oder eine überprüfbare klinische Gegenhypothese.
 
 „Zeig mir die Verläufe dazu.“
 
 Miriam öffnete sie nacheinander.
 
-Eva wollte wissen, ob gute Begründungen nur gut geschrieben waren. Ob jemand mit der Sprache eines Gutachtens einen schwachen Override sauberer aussehen lassen konnte als ein Kollege, der knapp, aber richtig entschieden hatte.
+Eva wollte wissen, ob gute Begründungen lediglich gut geschrieben waren. Konnte jemand mit der Sprache eines Gutachtens einen schwachen Override sauberer aussehen lassen als ein Kollege, der knapp, aber richtig entschieden hatte?
 
-Die Antwort war unbefriedigend.
-
-Manchmal ja.
-
-Manchmal nicht.
-
-Ein knapper Satz konnte einen starken konkreten Befund enthalten. Eine lange Begründung konnte sich als höflich formulierter Kreis herausstellen.
+Eine eindeutige Antwort bekam sie nicht. Ein kurzer Satz konnte einen starken Befund enthalten, eine lange Begründung sich als höflich formulierter Kreis herausstellen.
 
 „Das wird nie automatisch bewertbar“, sagte Eva.
 
 „Hoffentlich nicht.“
 
-Eva sah zu Miriam.
-
-„Das klingt fast beruhigend.“
+Eva drehte sich zu Miriam. „Das klingt fast beruhigend.“
 
 „Ich will keine Textanalyse, die entscheidet, ob ein Arzt recht hat.“
 
 „Was willst du dann?“
 
-Miriam zog einen weiteren Fall auf.
+Miriam zog einen weiteren Fall auf. „Dass wir beim Review nicht erst aus Erinnerung rekonstruieren, warum jemand vor drei Wochen eine Empfehlung überschrieben hat.“
 
-„Dass wir beim Review nicht erst aus Erinnerung rekonstruieren, warum jemand vor drei Wochen eine Empfehlung überschrieben hat.“
+Eva las den Eintrag und musste an ihren ersten Override denken. Damals hätte im System nur gestanden, dass sie anders entschieden hatte. Alles Weitere lebte in ihrer Erinnerung und in den klinischen Notizen. Bei Laura Bergs Fragen war genau das plötzlich wichtig geworden: Wer wusste was, und warum wurde abgewichen?
 
-Eva las den Eintrag.
-
-Sie musste an ihren eigenen ersten Override denken. Damals hätte im System nur gestanden, dass sie anders entschieden hatte. Alles Weitere lebte in ihrer Erinnerung und in den klinischen Notizen.
-
-Bei Laura Bergs Fragen hatte genau das plötzlich wichtig gewirkt.
-
-Wer wusste was?
-
-Warum wurde abgewichen?
-
-Die neue Maske gab darauf keine vollständige Antwort. Aber sie zwang den Grund näher an den Entscheidungszeitpunkt.
+Die neue Maske beantwortete diese Fragen nicht vollständig. Sie zwang den Grund lediglich näher an den Entscheidungszeitpunkt.
 
 „Das ist nützlich“, sagte Eva.
 
-Miriam hob nur leicht die Augenbrauen.
+Miriam hob leicht die Augenbrauen. „Das klang schmerzhafter, als es müsste.“
 
-„Das klang schmerzhafter, als es müsste.“
-
-Eva legte den Stift hin.
-
-„Weil nützlich nicht dasselbe ist wie eindeutig. Der erste schreibt besser. Vielleicht entscheidet er auch besser. Vielleicht kann er nur besser erklären, was er ohnehin getan hätte.“
+Eva legte den Stift hin. „Weil nützlich nicht eindeutig heißt. Der erste schreibt besser. Vielleicht entscheidet er auch besser. Vielleicht kann er nur besser erklären, was er ohnehin getan hätte.“
 
 „Deshalb bewerten wir hier keine Schreibkunst.“
 
-„Bewertet ihr überhaupt irgendetwas?“
+„Und was bewertet ihr?“
 
-„Im Moment? Fälle. Keine Personen.“
+„Im Moment die Fälle, keine Personen. Wir setzen keine Schwellen, keine Sanktionen und keine automatische Kennzahl.“
 
-„Keine Schwellen?“
-
-„Nein.“
-
-„Keine Sanktionen?“
-
-„Nein.“
-
-„Keine automatische Kennzahl?“
-
-Miriam lehnte sich zurück.
+Eva musterte sie. „Du hast die Liste auffällig schnell parat.“
 
 „Du klingst wie Felix.“
 
 „Das ist eine Beleidigung.“
 
-Miriam lächelte kurz.
+Miriam lächelte kurz. „Wir beobachten und prüfen Fälle. Keine neue Verschärfung.“
 
-„Wir beobachten. Wir prüfen Fälle. Keine neue Verschärfung.“
+Diesmal kam kein Zusatz. Eva ließ ein paar Sekunden verstreichen.
 
-Eva wartete auf einen Zusatz.
-
-Er kam nicht.
-
-„Wirklich nur beobachten.“
+„Wirklich nur beobachten?“
 
 „Ja.“
 
 Das gefiel ihr mehr, als sie erwartet hatte.
 
-Sie öffnete das Register noch einmal. Diesmal nicht wegen der schwachen Einträge. Wegen der guten.
+Sie öffnete das Register noch einmal, diesmal wegen der guten Einträge. Ein Arzt hatte einen unerwarteten Untersuchungsbefund dokumentiert und damit einen Override begründet, der im späteren Review medizinisch trug. Eine andere Ärztin hatte eine Datenlücke konkret benannt. Wieder jemand hatte einen Grund festgehalten, der im Rückblick viel weniger überzeugend war, als die Beteiligten ihn in Erinnerung gehabt hatten.
 
-Ein Arzt hatte einen unerwarteten Untersuchungsbefund dokumentiert und damit einen Override begründet, der im späteren Review medizinisch trug. Eine andere Ärztin hatte eine Datenlücke konkret benannt. Wieder jemand hatte einen Grund eingetragen, der im Rückblick viel weniger überzeugend war, als die Beteiligten ihn in Erinnerung gehabt hatten.
+Das Register machte Entscheidungen nicht automatisch richtig oder falsch. Es machte einige von ihnen weniger bequem.
 
-Das Register machte Entscheidungen nicht automatisch richtig oder falsch.
-
-Es machte einige von ihnen weniger bequem.
-
-Eva konnte damit leben.
-
-Vielleicht war genau das gute Qualitätssicherung: nicht den Arzt durch ein Systemurteil ersetzen, vielmehr die damalige Entscheidung so festhalten, dass man sie später nicht unbemerkt schöner erzählen konnte.
+Damit konnte Eva leben. Vielleicht war genau das gute Qualitätssicherung: den Arzt nicht durch ein Systemurteil ersetzen, die damalige Entscheidung aber so festhalten, dass sie später niemand unbemerkt schöner erzählen konnte.
 
 Miriam schloss die Detailansicht.
 
 „Noch etwas?“
-
-Eva sah auf die Liste der Einträge.
 
 „Wer kann das Register sehen?“
 
@@ -2105,33 +1735,17 @@ Miriam nannte die begrenzten Rollen im Qualitätsprozess.
 
 „Im normalen Review sehen wir Fälle.“
 
-Eva registrierte die Formulierung.
+Eva blieb an der Formulierung hängen. „Im normalen Review.“
 
-„Im normalen Review.“
+Miriam erwiderte ihren Blick. „Wenn es einen Patientensicherheitsgrund gibt, können Entscheidungen natürlich auf ihre Urheber zurückgeführt werden. Sonst wäre das keine verantwortliche Dokumentation.“
 
-Miriam sah sie an.
+Das war logisch. Die Namen standen ohnehin im System; niemand hatte je behauptet, Overrides seien anonym.
 
-„Wenn es einen Patientensicherheitsgrund gibt, können Entscheidungen natürlich auf ihre Urheber zurückgeführt werden. Sonst wäre das keine verantwortliche Dokumentation.“
+Trotzdem blieb Evas Blick auf der Liste liegen. Vor der Begründungspflicht war eine Abweichung eine Entscheidung gewesen. Jetzt hinterließ sie zusätzlich einen Satz, und Sätze ließen sich vergleichen.
 
-Eva nickte.
+Wenn man genug davon hatte, konnte man irgendwann auch die Menschen dahinter vergleichen.
 
-Das war logisch.
-
-Die Namen waren ohnehin im System. Niemand hatte je behauptet, Overrides seien anonym.
-
-Trotzdem blieb ihr Blick einen Moment auf der Liste liegen.
-
-Vor der Begründungspflicht war eine Abweichung eine Entscheidung gewesen.
-
-Jetzt hinterließ sie zusätzlich einen Satz.
-
-Sätze ließen sich vergleichen.
-
-Und wenn man genug davon hatte, konnte man irgendwann auch die Menschen dahinter vergleichen.
-
-Eva dachte den letzten Schritt nicht zu Ende.
-
-Noch nicht.
+Eva ließ den Gedanken dort stehen.
 
 ## Kapitel 10 – Neles Entscheidung
 
@@ -2275,11 +1889,7 @@ Nele verzog leicht den Mund.
 
 „Gut.“
 
-Damit war das Gespräch beendet.
-
-Eva ging weiter.
-
-Es fühlte sich normal an.
+Damit war das Gespräch beendet. Eva ging weiter. Es fühlte sich normal an.
 
 Genau so sollte Human Oversight funktionieren: KORA machte Druck. Ein Arzt prüfte. Ein Arzt konnte abweichen und trug den Grund sichtbar ein. Die Entscheidung blieb beim Menschen. Ein begründeter Widerspruch ignorierte KORA nicht; eine Empfehlung war auch bei hoher Konfidenz keine individuelle Zukunft.
 
@@ -2485,21 +2095,7 @@ Danach Neles Begründung:
 
 **Vorübergehende hämodynamische Stabilisierung. Klinisch aktuell ausreichend stabil für engmaschige Weiterbehandlung außerhalb Intensivstation.**
 
-Dann die Zeit außerhalb der Intensivstation.
-
-Neue Werte.
-
-Anhaltende Risikosignale.
-
-Spätere Verschlechterung.
-
-Schock.
-
-Intensivaufnahme.
-
-Schwerer weiterer Verlauf.
-
-Miriam ließ die Zeitleiste stehen.
+Dann die Zeit außerhalb der Intensivstation. Neue Werte. Anhaltende Risikosignale. Spätere Verschlechterung. Schock. Intensivaufnahme. Schwerer weiterer Verlauf. Miriam ließ die Zeitleiste stehen.
 
 Eine Ärztin aus der Qualitätsrunde formulierte den Befund ohne Schärfe.
 
@@ -2515,7 +2111,7 @@ Eva drehte sich zu ihr.
 
 Nele hob sofort den Kopf.
 
-„Aber—“
+„Aber–“
 
 „Wir wissen, dass die frühere Eskalation besser gewesen wäre. Wir wissen, dass Zeit verloren ging. Wir wissen nicht, welchen vollständigen Verlauf er bei früherer Aufnahme genommen hätte.“
 
@@ -2565,15 +2161,7 @@ Nele schüttelte den Kopf.
 
 „Nein.“
 
-Miriam sagte nichts mehr.
-
-Die Stille war schlimmer als ein Vorwurf.
-
-Nele sah zu Eva.
-
-Nicht anklagend.
-
-Das war für Eva schwerer auszuhalten.
+Miriam sagte nichts mehr. Die Stille war schlimmer als ein Vorwurf. Nele sah zu Eva. Nicht anklagend. Das war für Eva schwerer auszuhalten.
 
 „Ich dachte, meine klinische Einschätzung reicht.“
 
@@ -2583,11 +2171,7 @@ Nicht weil sie Nele zu dieser konkreten Entscheidung gedrängt hatte. Das hatte 
 
 Aber Nele benutzte eine Haltung, die Eva im Team immer wieder verteidigt hatte.
 
-Empfehlung ernst nehmen.
-
-Selbst hinsehen.
-
-Verantwortung nicht abgeben.
+Empfehlung ernst nehmen. Selbst hinsehen. Verantwortung nicht abgeben.
 
 Eva hatte den Satz oft bis dort gesagt.
 
@@ -2645,13 +2229,7 @@ Eva las den Satz.
 
 Vor einigen Wochen hätte sie ihn reflexhaft abgelehnt.
 
-Jetzt lag Neles Fall daneben.
-
-Nele sah den Entwurf ebenfalls.
-
-„Das ist wegen mir?“ fragte sie.
-
-Miriam antwortete ruhig.
+Jetzt lag Neles Fall daneben. Nele sah den Entwurf ebenfalls. „Das ist wegen mir?“ fragte sie. Miriam antwortete ruhig.
 
 „Dein Fall ist ein Anlass. Nicht die einzige Begründung.“
 
@@ -2767,19 +2345,7 @@ Eva zog Neles Timeline aus der Anlage zu sich.
 
 Der Verlauf lag inzwischen in einer Form vor, die sie fast auswendig kannte.
 
-Hohe KORA-Konfidenz.
-
-Vorübergehende Stabilisierung.
-
-Override.
-
-Anhaltende Risikosignale.
-
-Verlorene Zeit.
-
-Schwere Verschlechterung.
-
-Die frühere Eskalation wäre medizinisch vorzugswürdig gewesen.
+Hohe KORA-Konfidenz. Vorübergehende Stabilisierung. Override. Anhaltende Risikosignale. Verlorene Zeit. Schwere Verschlechterung. Die frühere Eskalation wäre medizinisch vorzugswürdig gewesen.
 
 Eine zweite Person hätte den Ausgang nicht garantiert verändert. Sie hätte nicht automatisch erkannt, was Nele übersah. Sie hätte sogar zustimmen können.
 
@@ -2889,15 +2455,7 @@ Wieder dieses Wort.
 
 Eva sah auf die eine Seite vor sich.
 
-Sie mochte die Regel nicht.
-
-Das war kein Grund, sie abzulehnen.
-
-„Machen wir“, sagte sie.
-
-Felix schüttelte den Kopf.
-
-Miriam nahm die Seite noch nicht zurück.
+Sie mochte die Regel nicht. Das war kein Grund, sie abzulehnen. „Machen wir“, sagte sie. Felix schüttelte den Kopf. Miriam nahm die Seite noch nicht zurück.
 
 „Eng begrenzt“, fügte Eva hinzu. „Klare Schwellen. Pilot. Erreichbarkeit muss funktionieren. Jede Ausweitung kommt neu zur Entscheidung.“
 
@@ -3075,13 +2633,7 @@ Nele nahm den Becher wieder auf.
 
 Ein weiterer Fall erschien in der Konfliktansicht. Diesmal keine Zweitfreigabe. KORA zeigte niedrigere Konfidenz. Der Arzt konnte selbst abweichen.
 
-Eva bemerkte den Unterschied sofort.
-
-Der gleiche Bildschirm.
-
-Der gleiche Override-Knopf.
-
-Aber eine andere Schwelle der institutionellen Aufmerksamkeit.
+Eva bemerkte den Unterschied sofort. Der gleiche Bildschirm. Der gleiche Override-Knopf. Aber eine andere Schwelle der institutionellen Aufmerksamkeit.
 
 Vor einigen Monaten hätte der Streit KORA gegolten: Maschine gegen Arzt, Empfehlung gegen klinisches Urteil.
 
@@ -3139,13 +2691,7 @@ Nele zeigte auf einen noch ausstehenden Wert.
 
 Eva sah zum Patienten. Er sprach mit ihnen, verstand die Situation, wirkte klinisch stabil genug für den geplanten nächsten Schritt. Kein Bild, das Sicherheit gab. Ein Bild, das eine vertretbare Alternative offenließ.
 
-Zurück am Arbeitsplatz öffnete Nele das Override-Feld.
-
-Die Zweitfreigabe erschien nicht.
-
-KORA blieb bei niedriger Konfidenz.
-
-Nele dokumentierte die konkrete Abweichungsbegründung.
+Zurück am Arbeitsplatz öffnete Nele das Override-Feld. Die Zweitfreigabe erschien nicht. KORA blieb bei niedriger Konfidenz. Nele dokumentierte die konkrete Abweichungsbegründung.
 
 Eva las den Text nicht mit, bis Nele fertig war.
 
@@ -3159,13 +2705,7 @@ Nele sah sie an.
 
 „Das heißt: Der Grund ist konkret. Die Entscheidung bleibt deine.“
 
-Nele bestätigte.
-
-Der Override lief durch.
-
-Der klinische Ablauf ging weiter.
-
-Keine zweite Person. Keine zusätzliche Schwelle.
+Nele bestätigte. Der Override lief durch. Der klinische Ablauf ging weiter. Keine zweite Person. Keine zusätzliche Schwelle.
 
 Eva blieb noch einen Moment vor dem Bildschirm stehen.
 
@@ -3181,31 +2721,17 @@ Sie wollte wissen, *wo* das Argument trug.
 
 Später am Abend saß sie in ihrem Büro und klickte durch die Unterlagen einer Präsentation von Patientensicherheit.
 
-Wieder erschien die große Gesamtzahl zur KORA-Performance.
-
-Ein Wert über alles.
-
-Ressourcenentscheidungen. Eskalationen. Priorisierungen. Hohe Konfidenz. Niedrige Konfidenz.
+Wieder erschien die große Gesamtzahl zur KORA-Performance. Ein Wert über alles. Ressourcenentscheidungen. Eskalationen. Priorisierungen. Hohe Konfidenz. Niedrige Konfidenz.
 
 Der Fall von vorhin wäre darin nur als weitere Abweichung gezählt worden.
 
-Neles früherer Sepsisfall ebenfalls.
-
-Beide unter derselben Überschrift.
-
-Eva schloss die Folie.
-
-Sie öffnete eine leere Nachricht an Jan.
+Neles früherer Sepsisfall ebenfalls. Beide unter derselben Überschrift. Eva schloss die Folie. Sie öffnete eine leere Nachricht an Jan.
 
 Zuerst schrieb sie nur:
 
 **Ich will die getrennten Daten.**
 
-Dann löschte sie den Satz wieder.
-
-Zu ungenau.
-
-Sie setzte drei Überschriften.
+Dann löschte sie den Satz wieder. Zu ungenau. Sie setzte drei Überschriften.
 
 **Entscheidungstyp.**
 
@@ -3229,19 +2755,7 @@ Wo war KORA selbst unsicher genug, dass klinischer Widerspruch einen messbaren M
 
 Und wo benutzten Ärzte die allgemeine Fehlbarkeit des Systems nur als Argument, obwohl KORA gerade in dieser Gruppe nachweislich besser lag?
 
-Eva öffnete noch einmal Neles aktuellen Fall.
-
-Gelbe Konfidenzmarkierung.
-
-Konkreter Gegenbefund.
-
-Dann den früheren Sepsisfall.
-
-High confidence.
-
-Kein fehlender relevanter Befund.
-
-Vorübergehende Stabilisierung, die im Rückblick nicht trug.
+Eva öffnete noch einmal Neles aktuellen Fall. Gelbe Konfidenzmarkierung. Konkreter Gegenbefund. Dann den früheren Sepsisfall. High confidence. Kein fehlender relevanter Befund. Vorübergehende Stabilisierung, die im Rückblick nicht trug.
 
 Beide als „Override“ zu zählen, ohne sie zu trennen, war für Eva inzwischen fast sinnlos.
 
@@ -3259,11 +2773,7 @@ Dann fügte sie hinzu:
 
 **Wenn meine Hypothese nicht hält, will ich genau das sehen.**
 
-Sie las die Nachricht noch einmal.
-
-Das war der eigentliche Unterschied zu Felix.
-
-Eva wollte Spielraum verteidigen.
+Sie las die Nachricht noch einmal. Das war der eigentliche Unterschied zu Felix. Eva wollte Spielraum verteidigen.
 
 Aber sie wollte nicht, dass ihr Argument nur überlebte, weil niemand es sauber prüfte.
 
@@ -3371,19 +2881,11 @@ Das war wichtig.
 
 Sie wollte keinen neuen Automatismus, nur in die andere Richtung.
 
-Miriam sagte bisher nichts.
-
-Jan wechselte zu high confidence.
-
-Die Kurven lagen weiter auseinander.
+Miriam sagte bisher nichts. Jan wechselte zu high confidence. Die Kurven lagen weiter auseinander.
 
 Eva spürte die Veränderung, bevor Jan etwas erklärte.
 
-Das Bild war ruhiger.
-
-Nicht perfekt.
-
-Deutlich.
+Das Bild war ruhiger. Nicht perfekt. Deutlich.
 
 Jan ging zuerst durch die Kontrollen, als wollte er verhindern, dass jemand aus der Grafik schneller eine Wahrheit machte, als die Daten hergaben. Fallmix berücksichtigt. Entscheidungstypen getrennt. Unvollständige Datensätze separat. Standorte geprüft. Keine einzelne große Teilgruppe, die das Ergebnis allein trug.
 
@@ -3409,11 +2911,7 @@ Er zeigte auf die Kalibrierung.
 
 Jan nannte ihr die Größenordnung in der Auswertung, ohne daraus ein persönliches Risiko für den nächsten Fall zu machen.
 
-Eva sah wieder auf die Kurven.
-
-KORA konnte irren.
-
-Der Satz blieb wahr.
+Eva sah wieder auf die Kurven. KORA konnte irren. Der Satz blieb wahr.
 
 Er war nur nicht mehr stark genug, um jede Abweichung gleich zu schützen.
 
@@ -3427,11 +2925,7 @@ Eva deutete auf high confidence.
 
 „Und hier ist mein pauschales Fehlbarkeitsargument zu schwach.“
 
-Jan antwortete nicht sofort.
-
-Er musste es nicht für sie formulieren.
-
-Eva setzte sich wieder.
+Jan antwortete nicht sofort. Er musste es nicht für sie formulieren. Eva setzte sich wieder.
 
 „Zeig mir die Fälle, in denen Menschen high confidence schlagen.“
 
@@ -3441,15 +2935,7 @@ Es gab welche.
 
 Ein konkreter neuer Befund, der kurz nach dem letzten Systemstand entstanden war. Eine besondere Konstellation, in der die dokumentierte Datenlage formal vollständig, klinisch aber bereits im Wandel gewesen war. Ein Fall, in dem die menschliche Abweichung im späteren Review besser getragen hatte.
 
-Eva las jeden davon.
-
-Sie suchte nach einer gemeinsamen Regel.
-
-Sie fand keine, die ihr gefiel.
-
-Es waren konkrete Gründe.
-
-Keine allgemeine Lizenz für Intuition.
+Eva las jeden davon. Sie suchte nach einer gemeinsamen Regel. Sie fand keine, die ihr gefiel. Es waren konkrete Gründe. Keine allgemeine Lizenz für Intuition.
 
 „Das ist der Unterschied“, sagte sie mehr zu sich selbst.
 
@@ -3579,11 +3065,7 @@ Felix sah auf die Uhr.
 
 „Das sagt ihr immer kurz vor einer neuen Regel.“
 
-Eva hielt ihm das Tablet hin.
-
-Felix nahm es und überflog die Ansicht.
-
-Sein Gesicht veränderte sich kaum.
+Eva hielt ihm das Tablet hin. Felix nahm es und überflog die Ansicht. Sein Gesicht veränderte sich kaum.
 
 „Und?“
 
@@ -3713,17 +3195,7 @@ Eva ging.
 
 Auf dem Flur blieb sie kurz stehen und öffnete die Zeile noch einmal.
 
-Wenige high-confidence Konflikte.
-
-Die Erklärung war plausibel.
-
-Vielleicht vollständig.
-
-Vielleicht nur der erste Teil einer Antwort.
-
-Eva schloss die Ansicht.
-
-Sie hatte keinen Beleg gegen Felix.
+Wenige high-confidence Konflikte. Die Erklärung war plausibel. Vielleicht vollständig. Vielleicht nur der erste Teil einer Antwort. Eva schloss die Ansicht. Sie hatte keinen Beleg gegen Felix.
 
 Nur eine Frage, die nach seiner Erklärung nicht verschwunden war.
 
@@ -3757,21 +3229,11 @@ Er ließ Eva die Faktoren selbst lesen.
 
 Mehrere gingen in dieselbe Richtung. Die Empfehlung war kein knapper Grenzfall.
 
-Dann schob Jan die Timeline weiter.
-
-Eine erste Intervention.
-
-Neue Messwerte.
-
-Reale Besserung.
+Dann schob Jan die Timeline weiter. Eine erste Intervention. Neue Messwerte. Reale Besserung.
 
 Nicht Heilung. Nicht Entwarnung. Ein anderer klinischer Zustand.
 
-Jan setzte die zweite Markierung.
-
-KORA rechnete neu.
-
-Die Empfehlung blieb ähnlich, die Konfidenz sank.
+Jan setzte die zweite Markierung. KORA rechnete neu. Die Empfehlung blieb ähnlich, die Konfidenz sank.
 
 Am zweiten Zeitpunkt lag der Konflikt unter der Schwelle für die Zweitfreigabe.
 
@@ -3787,19 +3249,7 @@ Eva ließ die Timeline wieder an den Anfang springen.
 
 „Zeig es noch einmal.“
 
-Jan tat es.
-
-Erster Snapshot.
-
-Hohe Konfidenz.
-
-Intervention.
-
-Zweiter Snapshot.
-
-Niedrigere Konfidenz.
-
-Keine Zweitfreigabe.
+Jan tat es. Erster Snapshot. Hohe Konfidenz. Intervention. Zweiter Snapshot. Niedrigere Konfidenz. Keine Zweitfreigabe.
 
 Der Unterschied war nicht durch einen Rechenfehler entstanden. Kein Wert war manipuliert. Der Patient hatte sich tatsächlich verändert.
 
@@ -3827,11 +3277,7 @@ Dann zurück zum ersten Marker.
 
 „Wenn die Entscheidung schon hier gefallen ist und erst später dokumentiert wird, stimmt die Prozessabbildung nicht mehr mit der Entscheidung überein.“
 
-Eva schwieg.
-
-Jan ließ ihr den Moment.
-
-Sie verstand die Lücke sofort.
+Eva schwieg. Jan ließ ihr den Moment. Sie verstand die Lücke sofort.
 
 Die Daten konnten in beiden Momenten echt sein.
 
@@ -3965,11 +3411,7 @@ Eva blieb länger im Büro als nötig.
 
 Der Flur vor ihrer Tür war fast leer. Irgendwo lief noch ein Drucker. Das Licht im Besprechungsraum gegenüber war bereits aus.
 
-Auf ihrem Bildschirm stand das Override-Register.
-
-Der Streit mit Miriam war vorbei.
-
-Der Satz daraus nicht.
+Auf ihrem Bildschirm stand das Override-Register. Der Streit mit Miriam war vorbei. Der Satz daraus nicht.
 
 *Wenn wir einzelne Ärzte nach ihren Abweichungen beurteilen, müssen wir wenigstens wissen, ob diese Abweichungen tatsächlich schlechter waren.*
 
@@ -3989,11 +3431,7 @@ Natürlich erinnerte sie sich nicht an jede Abweichung. Die meisten waren keine 
 
 Trotzdem hatte sie in den letzten Wochen über ihre Overrides gesprochen, als wären sie eine klare Kategorie ihrer Erfahrung.
 
-Eva sortierte nach Datum.
-
-Der Cold-Open-Fall erschien zwischen vielen gewöhnlicheren Einträgen.
-
-Sie übersprang ihn zunächst.
+Eva sortierte nach Datum. Der Cold-Open-Fall erschien zwischen vielen gewöhnlicheren Einträgen. Sie übersprang ihn zunächst.
 
 Stattdessen begann sie mit den Fällen, an die sie sich gern erinnerte.
 
@@ -4003,21 +3441,11 @@ Ein anderer, bei dem die spätere Entwicklung ihre Einschätzung bestätigt hatt
 
 Ein Fall, in dem ein Kollege im Review gesagt hatte: guter klinischer Blick.
 
-Eva markierte drei.
-
-Dann hielt sie inne.
-
-Sie sah die markierten Zeilen an.
+Eva markierte drei. Dann hielt sie inne. Sie sah die markierten Zeilen an.
 
 Drei Entscheidungen, die sie innerhalb von Sekunden aus einer viel längeren Liste herausgezogen hatte.
 
-Warum genau diese?
-
-Weil sie gut ausgegangen waren.
-
-Weil jemand ihre Einschätzung bestätigt hatte.
-
-Weil sie sich an die Patienten erinnerte.
+Warum genau diese? Weil sie gut ausgegangen waren. Weil jemand ihre Einschätzung bestätigt hatte. Weil sie sich an die Patienten erinnerte.
 
 Wenn sie Jan genau diese Fälle schickte, bewies sie nichts.
 
@@ -4027,21 +3455,11 @@ Eva löschte die Markierungen.
 
 Dann setzte sie den Filter auf die komplette relevante Fallgruppe.
 
-High confidence getrennt vom Rest.
-
-Ressourcenentscheidungen separat.
-
-Eskalationen separat.
+High confidence getrennt vom Rest. Ressourcenentscheidungen separat. Eskalationen separat.
 
 Nur Fälle mit ausreichend vollständigen Daten zum damaligen Entscheidungszeitpunkt.
 
-Die Zahl wurde kleiner.
-
-Unangenehm überschaubar.
-
-Eva öffnete den ersten Fall.
-
-Sie erinnerte sich kaum.
+Die Zahl wurde kleiner. Unangenehm überschaubar. Eva öffnete den ersten Fall. Sie erinnerte sich kaum.
 
 Eine Abweichung, die damals vernünftig gewirkt hatte. Kein schwerer Ausgang. Keine Beschwerde. Kein Gespräch, das im Gedächtnis geblieben war.
 
@@ -4049,13 +3467,7 @@ Sie las die damalige Begründung.
 
 Konkreter als manche Einträge im Register. Dünner als sie erwartet hätte, wenn man sie unmittelbar nach dem Fall gefragt hätte.
 
-Der spätere Verlauf war unauffällig.
-
-Eva schloss ihn.
-
-Nächster.
-
-Auch kaum Erinnerung.
+Der spätere Verlauf war unauffällig. Eva schloss ihn. Nächster. Auch kaum Erinnerung.
 
 Ein Ressourcenfall. Ihr Patient hatte lokal den gewünschten Verlauf genommen. Eva konnte sich an das Bett nicht erinnern, nur an eine kurze Diskussion im Team.
 
@@ -4067,11 +3479,7 @@ Das sollte Jan tun, mit denselben Regeln für alle Fälle.
 
 Eva bemerkte, wie stark der Impuls war, vorher zu prüfen, was sie erwartete.
 
-Sie zwang sich, weiterzugehen.
-
-Dritter Fall.
-
-Den kannte sie.
+Sie zwang sich, weiterzugehen. Dritter Fall. Den kannte sie.
 
 Ein guter Override, hätte sie vor einer Stunde gesagt.
 
@@ -4111,29 +3519,11 @@ Sie hätte ihn abschwächen können.
 
 Alles Begriffe, mit denen man sich später erklären konnte, dass ein Ergebnis nie wirklich gegen einen selbst gerichtet gewesen war.
 
-Sie schrieb keinen davon.
-
-Stattdessen öffnete sie die Auswahl der Empfänger.
-
-Miriam setzte sie in Kopie.
-
-Eva hielt inne.
+Sie schrieb keinen davon. Stattdessen öffnete sie die Auswahl der Empfänger. Miriam setzte sie in Kopie. Eva hielt inne.
 
 Der Schritt machte aus der privaten Gegenprobe einen institutionell sichtbaren Auftrag.
 
-Sie schickte die Nachricht trotzdem.
-
-Für einige Sekunden passierte nichts.
-
-Eva sah wieder auf die Liste.
-
-Ihr Name stand über jeder Zeile.
-
-Nicht als Beschuldigte.
-
-Als Entscheiderin.
-
-Miriams Antwort kam zuerst.
+Sie schickte die Nachricht trotzdem. Für einige Sekunden passierte nichts. Eva sah wieder auf die Liste. Ihr Name stand über jeder Zeile. Nicht als Beschuldigte. Als Entscheiderin. Miriams Antwort kam zuerst.
 
 **Einverstanden. Keine Vorgabe ans Ergebnis.**
 
@@ -4145,15 +3535,7 @@ Jan schrieb wenige Minuten später.
 
 **Verstanden. Ich definiere die Kohorte transparent und schicke dir die Auswertung mit Grenzen, nicht nur die Kennzahl.**
 
-Eva antwortete nicht sofort.
-
-Sie öffnete den Cold-Open-Fall.
-
-Lokaler Verlauf.
-
-Intensivaufnahme.
-
-Stabilisierung.
+Eva antwortete nicht sofort. Sie öffnete den Cold-Open-Fall. Lokaler Verlauf. Intensivaufnahme. Stabilisierung.
 
 Sie kannte die zweite Seite inzwischen ebenfalls. Nord. Verzögerung. Tod. Gegenverlauf offen.
 
@@ -4263,17 +3645,7 @@ Er bewegte den Cursor eine Spalte weiter.
 
 „Und das die verbundweite.“
 
-Eva blieb an dem Eintrag hängen.
-
-Sie kannte die Fallkennung sofort.
-
-Ihr Patient aus jener Nacht.
-
-Respiratorische Erschöpfung. Intensivkapazität an Zentral. Intubation. Stabilisierung.
-
-Daneben Nord.
-
-Verzögerte definitive Intensivversorgung. Späterer Tod.
+Eva blieb an dem Eintrag hängen. Sie kannte die Fallkennung sofort. Ihr Patient aus jener Nacht. Respiratorische Erschöpfung. Intensivkapazität an Zentral. Intubation. Stabilisierung. Daneben Nord. Verzögerte definitive Intensivversorgung. Späterer Tod.
 
 Der Zusatz darunter stand inzwischen in einer Form, die Eva auswendig kannte:
 
@@ -4301,11 +3673,7 @@ Eva folgte jedem Schritt.
 
 „Wenn du den ganzen Fall rausnimmst?“
 
-Jan tat es.
-
-Die Grundtendenz blieb.
-
-Eva legte die Hände auf den Tisch.
+Jan tat es. Die Grundtendenz blieb. Eva legte die Hände auf den Tisch.
 
 Miriam hob den Blick vom Becher, sagte aber noch nichts.
 
@@ -4319,11 +3687,7 @@ In der verbundweiten Ansicht stand mehr.
 
 Eine andere Versorgung hatte länger auf dieselbe knappe Kapazität warten müssen. Kein spektakulärer Ausgang. Kein Todesfall. Kein Ereignis, wegen dem später jemand in Evas Büro gekommen war.
 
-Nur Zeit.
-
-Zusätzliche Überbrückung.
-
-Ein späterer Transfer.
+Nur Zeit. Zusätzliche Überbrückung. Ein späterer Transfer.
 
 „Mein Patient wurde besser.“
 
@@ -4337,25 +3701,11 @@ Ein späterer Transfer.
 
 „Weil die Gesamtfolge gegenüber der KORA-Priorisierung ungünstiger war.“
 
-Eva öffnete selbst den nächsten markierten Fall.
-
-Wieder erkannte sie zuerst den lokalen Ausgang.
-
-Dann die zweite Spalte.
-
-Sie schob den Laptop ein Stück weg.
+Eva öffnete selbst den nächsten markierten Fall. Wieder erkannte sie zuerst den lokalen Ausgang. Dann die zweite Spalte. Sie schob den Laptop ein Stück weg.
 
 „Wie viele von meinen guten Fällen sehen so aus?“
 
-Jan nannte die Zahl.
-
-Eva bat ihn, sie zu zeigen.
-
-Einen nach dem anderen.
-
-Jan tat es.
-
-Das dauerte länger, als Eva erwartet hatte.
+Jan nannte die Zahl. Eva bat ihn, sie zu zeigen. Einen nach dem anderen. Jan tat es. Das dauerte länger, als Eva erwartet hatte.
 
 Bei einem Fall hatte sie eine knappe Ressource lokal behalten. Der lokale Patient war stabiler geworden. An einem anderen Standort war dadurch eine geplante, aber zeitkritische Versorgung nach hinten gerutscht. Kein katastrophaler Ausgang. Nur eine nachweisbare Verschlechterung der Prozessfolge.
 
@@ -4367,27 +3717,13 @@ Wieder ein lokaler Erfolg, der in Evas Erinnerung als Bestätigung geblieben war
 
 „Und die Fälle, bei denen ich wirklich besser lag?“
 
-Jan öffnete sie ebenfalls.
-
-Es gab sie.
-
-Einige klare.
-
-Einige mit Grenzen.
+Jan öffnete sie ebenfalls. Es gab sie. Einige klare. Einige mit Grenzen.
 
 Eva fühlte Erleichterung, als wäre sie auf etwas Persönliches angewiesen.
 
 Dann merkte sie, dass auch diese Erleichterung Teil des Problems sein konnte.
 
-Sie wollte gute Fälle finden.
-
-Jan wollte nur die Verteilung zeigen.
-
-„Low confidence“, sagte Eva.
-
-Jan wechselte die Ansicht.
-
-Dort zerfiel das Bild.
+Sie wollte gute Fälle finden. Jan wollte nur die Verteilung zeigen. „Low confidence“, sagte Eva. Jan wechselte die Ansicht. Dort zerfiel das Bild.
 
 In mehreren Gruppen lagen menschliche Abweichungen gleichauf oder besser. Andere waren unentschieden. Genau der Bereich, den Eva erwartet hatte.
 
@@ -4445,11 +3781,7 @@ Die Richtung blieb.
 
 „Wenn du nur Ressourcenentscheidungen nimmst?“
 
-Jan wechselte zurück.
-
-Deutlicher.
-
-Eva atmete langsam aus.
+Jan wechselte zurück. Deutlicher. Eva atmete langsam aus.
 
 Normalerweise hätte sie an jedem methodischen Punkt angesetzt. Nicht um Jan zu widerlegen. Um zu wissen, wie viel Gewicht eine Zahl tragen durfte.
 
@@ -4515,11 +3847,7 @@ Eva sah zu ihr.
 
 „Weil du gerade eine Frage über deine eigene Entscheidungsgüte gestellt hast. Mach daraus nicht sofort eine Rangliste.“
 
-Eva lehnte sich zurück.
-
-Miriam hatte recht.
-
-Schon wieder.
+Eva lehnte sich zurück. Miriam hatte recht. Schon wieder.
 
 „Okay.“
 
@@ -4597,11 +3925,7 @@ Die Nachricht trug keinen dramatischen Betreff.
 
 **Anpassung Zweitfreigabe – individuelle Risikoklasse.**
 
-Eva öffnete sie zwischen zwei Übergaben.
-
-Sie erwartete eine allgemeine Information zum Pilot.
-
-Ihr Name stand in der zweiten Zeile.
+Eva öffnete sie zwischen zwei Übergaben. Sie erwartete eine allgemeine Information zum Pilot. Ihr Name stand in der zweiten Zeile.
 
 **Dr. Eva Riedel**
 
@@ -4609,23 +3933,11 @@ Darunter die Begründung.
 
 Wiederholt ungünstige Bilanz bei high-confidence Ressourcenabweichungen. Ausreichende Fallzahl für eine zeitlich begrenzte personenbezogene Schwellenanpassung. Fallmix berücksichtigt. Begrenzung auf die betroffene Entscheidungsklasse. Review nach festgelegtem Zeitraum. Anfechtungsmöglichkeit.
 
-Eva las langsam.
-
-Nicht weil der Text kompliziert war.
-
-Weil er zu sauber war.
-
-Sie schloss die Nachricht nicht.
+Eva las langsam. Nicht weil der Text kompliziert war. Weil er zu sauber war. Sie schloss die Nachricht nicht.
 
 Eine Pflegekraft kam an den Arbeitsplatz und fragte nach einer Freigabe für einen anderen Vorgang. Eva beantwortete die Frage, unterschrieb und öffnete danach sofort wieder dieselbe Zeile.
 
-Ihr Name.
-
-Nicht als Bearbeiterin.
-
-Als Regelmerkmal.
-
-Eva klickte auf die Begründung.
+Ihr Name. Nicht als Bearbeiterin. Als Regelmerkmal. Eva klickte auf die Begründung.
 
 Die Fallgruppe aus Jans Analyse lag darunter. Keine neue Statistik. Keine überraschende Verschlechterung. Genau die Daten, die sie selbst angefordert hatte.
 
@@ -4633,15 +3945,7 @@ Das machte es schwer, sich über die Grundlage zu empören.
 
 Sie suchte trotzdem nach dem Punkt, an dem aus Patientensicherheit eine Statusstrafe wurde.
 
-Ein einzelner Fehlfall reichte nicht.
-
-Die Regel galt nicht unbegrenzt.
-
-Sie griff nicht bei jeder KORA-Empfehlung.
-
-Low confidence blieb außen vor.
-
-Andere Entscheidungsklassen ebenfalls.
+Ein einzelner Fehlfall reichte nicht. Die Regel galt nicht unbegrenzt. Sie griff nicht bei jeder KORA-Empfehlung. Low confidence blieb außen vor. Andere Entscheidungsklassen ebenfalls.
 
 Es gab einen festen Reviewtermin und einen Widerspruchsweg.
 
@@ -4675,11 +3979,7 @@ Eva las die Antwort während einer kurzen Pause vor dem nächsten Gespräch.
 
 Mehr gab es an diesem Tag zwischen ihnen dazu nicht zu sagen.
 
-Gerade das machte die Sache schwerer.
-
-Miriam musste Eva nicht überzeugen.
-
-Die Daten hatten die Vorarbeit erledigt.
+Gerade das machte die Sache schwerer. Miriam musste Eva nicht überzeugen. Die Daten hatten die Vorarbeit erledigt.
 
 Am nächsten Morgen öffnete Eva ihre aktive Regelansicht.
 
@@ -4695,11 +3995,7 @@ Und die von Eva verlangte Grenze:
 
 **Keine automatische Übertragung auf andere Entscheidungsklassen.**
 
-Eva ließ die Seite offen.
-
-Noch lag kein konkreter Override-Fall darunter.
-
-Trotzdem war die Veränderung real.
+Eva ließ die Seite offen. Noch lag kein konkreter Override-Fall darunter. Trotzdem war die Veränderung real.
 
 Sie klickte auf ihr Profil und wieder zurück.
 
@@ -4771,13 +4067,7 @@ Aber sie standen nun gegen etwas, das Eva selbst verlangt hatte: Wenn KORA in be
 
 Die Regel machte daraus zum ersten Mal eine persönliche Konsequenz.
 
-Eva öffnete die Ansicht erneut.
-
-Der nächste Patient würde neu sein.
-
-Seine Krankheit würde neu sein.
-
-Seine Werte würden neu sein.
+Eva öffnete die Ansicht erneut. Der nächste Patient würde neu sein. Seine Krankheit würde neu sein. Seine Werte würden neu sein.
 
 Die Bedingung, unter der Eva bei ihm handeln durfte, kam aus alten Entscheidungen.
 
@@ -4819,11 +4109,7 @@ Der Patient antwortete ruhig. Er wirkte erschöpft, aber nicht akut bedroht. Eva
 
 Zurück am Bildschirm war ihr erster Eindruck noch da.
 
-Zu aggressiv.
-
-Sie öffnete das Override-Feld.
-
-Der neue Hinweis erschien direkt darunter.
+Zu aggressiv. Sie öffnete das Override-Feld. Der neue Hinweis erschien direkt darunter.
 
 **Individuelle Zweitfreigabe erforderlich – high-confidence Ressourcen-/Eskalationsklasse.**
 
@@ -4865,11 +4151,7 @@ Sie las das Wort noch einmal.
 
 Es war genau die Art Formulierung, die sie Wochen zuvor im Override-Register kritisiert hatte.
 
-Eva öffnete die Einflussfaktoren von KORA.
-
-Der aktuelle Kreislaufzustand war berücksichtigt.
-
-Die Laborentwicklung ebenfalls.
+Eva öffnete die Einflussfaktoren von KORA. Der aktuelle Kreislaufzustand war berücksichtigt. Die Laborentwicklung ebenfalls.
 
 Die Verbesserung, auf die Eva sich innerlich stützte, stand dort. Nicht versteckt. Nicht verspätet.
 
@@ -4949,19 +4231,7 @@ Nach etwas, das die Empfehlung in diesem konkreten Fall schwächte.
 
 Sie prüfte den aktuellen Zustand erneut. Fragte nach einer Veränderung, die zuvor nicht dokumentiert war. Kontrollierte, ob ein Therapieziel oder eine patientenspezifische Information existierte, die KORA nicht abbildete.
 
-Nichts davon änderte die Lage entscheidend.
-
-Der Patient sah stabil aus.
-
-Das war real.
-
-KORA wusste es.
-
-Zurück am Arbeitsplatz blieb das Feld leer.
-
-Eva setzte sich.
-
-Sie ärgerte sich über die Regel.
+Nichts davon änderte die Lage entscheidend. Der Patient sah stabil aus. Das war real. KORA wusste es. Zurück am Arbeitsplatz blieb das Feld leer. Eva setzte sich. Sie ärgerte sich über die Regel.
 
 Noch mehr ärgerte sie sich darüber, dass die Regel gerade funktionierte.
 
@@ -5017,11 +4287,7 @@ Sie ging den Entscheidungszeitpunkt durch.
 
 Ihr erster Impuls war noch nachvollziehbar. Der Patient hatte tatsächlich stabiler gewirkt. In einem low-confidence Fall hätte dieser Eindruck zusammen mit einem konkreten Verlauf vielleicht genügt, um weitere Beobachtung zu vertreten.
 
-Hier war die Lage anders.
-
-KORA war hochkonfident.
-
-Die relevanten Daten waren vollständig.
+Hier war die Lage anders. KORA war hochkonfident. Die relevanten Daten waren vollständig.
 
 Der von Eva bevorzugte Gegenpunkt war im Modell bereits enthalten.
 
@@ -5043,13 +4309,7 @@ Die neue Schwelle hatte sie gezwungen, den Satz zu vervollständigen:
 
 *Ich entscheide anders, weil …*
 
-Das Weil hatte nicht gehalten.
-
-Eva schloss den Fall.
-
-Das fühlte sich wie Machtverlust an.
-
-Und wie eine Hilfe.
+Das Weil hatte nicht gehalten. Eva schloss den Fall. Das fühlte sich wie Machtverlust an. Und wie eine Hilfe.
 
 Beides gleichzeitig war schwerer auszuhalten als ein klares Verbot.
 
@@ -5117,11 +4377,7 @@ Die erste Seite zeigte zwei Standorte. Zentral links, Nord rechts. Zeitpunkte un
 
 Eva bemerkte, dass Laura zunächst nur die rechte Seite las.
 
-Nord.
-
-Ihr Vater.
-
-Eva begann mit der Ausgangslage in Zentral.
+Nord. Ihr Vater. Eva begann mit der Ausgangslage in Zentral.
 
 „Bei uns lag ein Patient mit einer schweren respiratorischen Verschlechterung. Die nichtinvasive Unterstützung reichte zunehmend nicht mehr aus. Er zeigte Erschöpfungszeichen. Wir mussten damit rechnen, ihn zu intubieren und intensivmedizinisch weiterzubehandeln.“
 
@@ -5279,11 +4535,7 @@ Laura presste die Lippen kurz zusammen.
 
 „Ja.“
 
-Sie blätterte weiter.
-
-Eva wusste, welche Zeile als Nächstes kam.
-
-Laura las sie schweigend.
+Sie blätterte weiter. Eva wusste, welche Zeile als Nächstes kam. Laura las sie schweigend.
 
 Dann sagte sie: „Und danach ist er gestorben.“
 
@@ -5371,7 +4623,7 @@ Eva spürte die Erinnerung an die feuchte Haut unter ihrer Hand, bevor sie antwo
 
 „Ja.“
 
-Die Patientenfürsprache setzte an. „Frau Berg, wir sollten—“
+Die Patientenfürsprache setzte an. „Frau Berg, wir sollten–“
 
 Laura hob die Hand.
 
@@ -5389,21 +4641,7 @@ Die Papiere machten die Nacht sauberer, als sie gewesen war. Jede Zeile hatte ei
 
 In Wirklichkeit hatte ein Patient nach Luft gerungen. Ein Team hatte auf sie gewartet. Ein anderer Patient war weit entfernt gewesen. KORA hatte eine Priorität genannt, die Eva verstanden und trotzdem verworfen hatte.
 
-„Das versuche ich inzwischen auch“, sagte sie.
-
-Laura zog die letzte Seite zu sich.
-
-Sie las den dokumentierten Ausgang in Zentral.
-
-Intensivaufnahme. Stabilisierung.
-
-Dann Nord.
-
-Verzögerte definitive Intensivversorgung. Weiterer Verlauf. Tod.
-
-Sie blieb lange auf der Seite.
-
-Eva erklärte nichts mehr.
+„Das versuche ich inzwischen auch“, sagte sie. Laura zog die letzte Seite zu sich. Sie las den dokumentierten Ausgang in Zentral. Intensivaufnahme. Stabilisierung. Dann Nord. Verzögerte definitive Intensivversorgung. Weiterer Verlauf. Tod. Sie blieb lange auf der Seite. Eva erklärte nichts mehr.
 
 Keine Ergänzung zur Unsicherheit. Keine Erinnerung daran, dass der lokale Patient ebenfalls hätte sterben können. Keine Verteidigung des damaligen Zeitdrucks.
 
@@ -5413,13 +4651,7 @@ Evas Patient hatte die Kapazität erhalten und sich stabilisiert.
 
 Lauras Vater hatte gewartet und war später gestorben.
 
-Die Verzögerung war real.
-
-Der andere mögliche Verlauf blieb unbekannt.
-
-Laura schob die Seite nicht weg.
-
-Sie sah Eva an.
+Die Verzögerung war real. Der andere mögliche Verlauf blieb unbekannt. Laura schob die Seite nicht weg. Sie sah Eva an.
 
 „Dann habe ich noch eine Frage.“
 
@@ -5453,7 +4685,7 @@ In Gedanken hatte sie Antworten ausprobiert, obwohl sie sich vorgenommen hatte, 
 
 Keine dieser Antworten passte jetzt in den Raum.
 
-„Damals hatte ich einen Patienten vor mir, der—“
+„Damals hatte ich einen Patienten vor mir, der–“
 
 „Ich weiß.“
 
@@ -5477,25 +4709,7 @@ Eva nickte.
 
 Im Nebenraum fiel etwas Metallisches zu Boden. Ein kurzer Schlag. Jemand sagte etwas, Schritte folgten, dann war es wieder still.
 
-Eva blickte auf die Zeitleiste.
-
-Sie kannte die Reihenfolge ohne Papier.
-
-Ihr Patient verschlechterte sich.
-
-KORA priorisierte Nord.
-
-Sie prüfte erneut.
-
-Sie überschrieb.
-
-Zentral erhielt die Intensivkapazität.
-
-Nord wartete.
-
-Ihr Patient stabilisierte sich.
-
-Lauras Vater starb später.
+Eva blickte auf die Zeitleiste. Sie kannte die Reihenfolge ohne Papier. Ihr Patient verschlechterte sich. KORA priorisierte Nord. Sie prüfte erneut. Sie überschrieb. Zentral erhielt die Intensivkapazität. Nord wartete. Ihr Patient stabilisierte sich. Lauras Vater starb später.
 
 Die Folge war einfach zu erzählen. Die Entscheidung war es nie gewesen.
 
@@ -5505,11 +4719,7 @@ Laura schloss für einen Moment die Augen.
 
 „Das war nicht meine Frage.“
 
-Eva hörte den eigenen Satz nachhallen.
-
-Er war korrekt.
-
-Er war auch ein Ausweg.
+Eva hörte den eigenen Satz nachhallen. Er war korrekt. Er war auch ein Ausweg.
 
 „Ich weiß.“
 
@@ -5547,13 +4757,7 @@ Und trotzdem traf der Satz etwas, das die Datenansicht nicht ausdrückte.
 
 Eva erinnerte sich an die Hand des Mannes in Zentral. An seine Maske. An die feuchte Haut. An die Pause zwischen zwei Atemzügen.
 
-Von Nord hatte sie keine solche Erinnerung.
-
-„Ich wusste, dass er existiert“, sagte sie.
-
-Laura wartete.
-
-Eva sah auf das unberührte Wasserglas.
+Von Nord hatte sie keine solche Erinnerung. „Ich wusste, dass er existiert“, sagte sie. Laura wartete. Eva sah auf das unberührte Wasserglas.
 
 „Ich habe ihn nicht gesehen.“
 
@@ -5619,15 +4823,7 @@ Ihr Vater hatte keinen Platz in Evas Erinnerung aus jener Nacht.
 
 Er hatte nur einen Platz in der späteren Rekonstruktion.
 
-Das war der Punkt.
-
-„Ich weiß es nicht“, sagte Eva.
-
-Laura bewegte sich nicht.
-
-Die Patientenfürsprache schrieb nichts auf.
-
-Eva ließ den Satz stehen.
+Das war der Punkt. „Ich weiß es nicht“, sagte Eva. Laura bewegte sich nicht. Die Patientenfürsprache schrieb nichts auf. Eva ließ den Satz stehen.
 
 „Das ist die ehrlichste Antwort, die ich Ihnen geben kann.“
 
@@ -5757,21 +4953,13 @@ Laura nahm ihr die Entscheidung ab.
 
 „Finden Sie die Antwort.“
 
-Dann ging sie.
-
-Eva blieb im Raum zurück.
-
-Auf dem Tisch stand Lauras halbvolles Glas.
+Dann ging sie. Eva blieb im Raum zurück. Auf dem Tisch stand Lauras halbvolles Glas.
 
 Die Frage war geblieben.
 
 ## Kapitel 24 – Zwei Wege
 
-Eva fand den kleinen Besprechungsraum leer.
-
-Gut.
-
-Sie wollte zunächst niemanden überzeugen.
+Eva fand den kleinen Besprechungsraum leer. Gut. Sie wollte zunächst niemanden überzeugen.
 
 Auf dem Tisch lagen noch Ausdrucke einer anderen Sitzung. Budgetzahlen. Ein halb leerer Kaffeebecher. Jemand hatte auf dem Whiteboard eine Frist notiert und nur halb weggewischt.
 
@@ -5895,11 +5083,7 @@ Eva schrieb stattdessen:
 
 **Was betrifft den Patienten – was betrifft den Entscheider?**
 
-Diesmal ließ sie den Satz stehen.
-
-Die Tür ging auf.
-
-Miriam blieb im Eingang stehen.
+Diesmal ließ sie den Satz stehen. Die Tür ging auf. Miriam blieb im Eingang stehen.
 
 „Du bist also doch schon angefangen.“
 
@@ -6011,13 +5195,7 @@ Miriam fotografierte das Whiteboard nicht. Sie schrieb auch noch nichts in ihre 
 
 „Gut.“
 
-Sie ging zur Tür.
-
-Eva blickte auf **Intuition?**.
-
-„Lass das stehen“, sagte sie.
-
-Miriam drehte sich um.
+Sie ging zur Tür. Eva blickte auf **Intuition?**. „Lass das stehen“, sagte sie. Miriam drehte sich um.
 
 „War nicht mein Plan, es wegzuwischen.“
 
@@ -6039,15 +5217,7 @@ Die Ärztin aus dem Ethikkonsil hatte ihn bewusst an den Anfang gesetzt.
 
 Dokumentierter Patientenwille. Eine medizinisch erfolgversprechendere Behandlung war verfügbar. Der Patient hatte sie nach Aufklärung abgelehnt.
 
-Auf dem Bildschirm stand KORAs Prognose daneben.
-
-„Wert-/Kontextabweichung“, sagte die Ärztin.
-
-Eva nickte.
-
-Miriam ebenfalls.
-
-Nele schrieb mit.
+Auf dem Bildschirm stand KORAs Prognose daneben. „Wert-/Kontextabweichung“, sagte die Ärztin. Eva nickte. Miriam ebenfalls. Nele schrieb mit.
 
 „Und der Grund muss im Datensatz sichtbar sein“, sagte Miriam.
 
@@ -6193,15 +5363,7 @@ Das machte sie komplizierter, aber auch glaubwürdiger.
 
 Gegen Mittag lagen die Fälle in drei Stapeln.
 
-Klarer Prognosewiderspruch.
-
-Klarer Wert-/Kontextgrund.
-
-Nicht ausreichend begründet.
-
-Die letzte Gruppe war die größte.
-
-Nele betrachtete sie.
+Klarer Prognosewiderspruch. Klarer Wert-/Kontextgrund. Nicht ausreichend begründet. Die letzte Gruppe war die größte. Nele betrachtete sie.
 
 „Das wird in der Praxis nerven.“
 
@@ -6231,11 +5393,7 @@ Am Ende standen zwei getrennte Wege.
 
 Die Ärztin aus dem Ethikkonsil ergänzte unter dem zweiten Weg Beispiele, aber keine abschließende Liste.
 
-Patientenwille.
-
-Therapieziel.
-
-Relevante Behandlungsbelastung.
+Patientenwille. Therapieziel. Relevante Behandlungsbelastung.
 
 Konkreter patientenspezifischer Kontext, den KORA nicht als Entscheidungswert abbildete.
 
@@ -6259,21 +5417,11 @@ Miriam hob den Blick vom Laptop.
 
 „Mehr bekommst du heute nicht.“
 
-Die Ärztin aus dem Ethikkonsil lächelte kurz.
-
-Nele schüttelte den Kopf und schrieb weiter.
-
-Der Pilot wurde beschlossen.
+Die Ärztin aus dem Ethikkonsil lächelte kurz. Nele schüttelte den Kopf und schrieb weiter. Der Pilot wurde beschlossen.
 
 Einige Tage später öffnete Eva die neue Oberfläche selbst.
 
-Die beiden Wege standen tatsächlich getrennt untereinander.
-
-Sie klickte den ersten an.
-
-Ein Feld verlangte den konkreten medizinischen Gegenbeleg.
-
-Sie ging zurück und öffnete den zweiten.
+Die beiden Wege standen tatsächlich getrennt untereinander. Sie klickte den ersten an. Ein Feld verlangte den konkreten medizinischen Gegenbeleg. Sie ging zurück und öffnete den zweiten.
 
 Dort stand nicht die Frage, warum KORA falsch lag.
 
@@ -6311,11 +5459,7 @@ Miriam stand neben dem Bildschirm, die Arme vor der Brust.
 
 Eva zog den Laptop näher und öffnete die Liste.
 
-Die ersten Einträge waren sauber.
-
-Dokumentierter Patientenwille.
-
-Begrenztes Therapieziel.
+Die ersten Einträge waren sauber. Dokumentierter Patientenwille. Begrenztes Therapieziel.
 
 Eine relevante Behandlungsbelastung, die in der KORA-Optimierung nicht als eigener Wert abgebildet war.
 
@@ -6335,13 +5479,7 @@ Dann kam der erste Satz, bei dem sie langsamer las.
 
 **Patient im eigenen Verantwortungsbereich, langjährige Behandlerbindung.**
 
-Sie schwieg.
-
-Miriam sagte nichts.
-
-Eva öffnete die Details.
-
-Mehr Text erschien. Kein zusätzlicher Grund.
+Sie schwieg. Miriam sagte nichts. Eva öffnete die Details. Mehr Text erschien. Kein zusätzlicher Grund.
 
 Keine dokumentierte Präferenz. Kein abweichendes Therapieziel. Keine konkrete Belastung. Kein Faktor, den KORA nicht als medizinische Information kannte.
 
@@ -6379,11 +5517,7 @@ Alles nachvollziehbar.
 
 Nichts davon beantwortete die Frage, warum dieser Patient in einem verbundweiten Konflikt aus einem patientenspezifischen Wertgrund Vorrang erhalten sollte.
 
-Eva klickte zum nächsten.
-
-Dort stand ein längerer Absatz.
-
-Mehr Wörter. Derselbe Kern.
+Eva klickte zum nächsten. Dort stand ein längerer Absatz. Mehr Wörter. Derselbe Kern.
 
 *Ich sehe ihn. Ich kenne ihn. Ich trage die Verantwortung.*
 
@@ -6405,11 +5539,7 @@ Die andere Seite eines Ressourcenkonflikts blieb leicht eine Zahl.
 
 Laura Berg hatte genau diese Lücke sichtbar gemacht.
 
-Eva scrollte weiter.
-
-Ein Eintrag begann mit **besondere individuelle Situation**.
-
-Sie öffnete ihn.
+Eva scrollte weiter. Ein Eintrag begann mit **besondere individuelle Situation**. Sie öffnete ihn.
 
 Dahinter stand erneut keine individuelle Situation. Nur der Hinweis, dass das lokale Team den Patienten bereits seit mehreren Tagen betreue.
 
@@ -6437,15 +5567,7 @@ Eva sah sie an.
 
 „Ich will verhindern, dass jede Intuition ein Werteetikett bekommt.“
 
-Miriam öffnete die Auswertung nach Begründungstypen.
-
-Die legitimen Kategorien waren weiterhin da.
-
-Patientenwille.
-
-Therapieziel.
-
-Behandlungsbelastung.
+Miriam öffnete die Auswertung nach Begründungstypen. Die legitimen Kategorien waren weiterhin da. Patientenwille. Therapieziel. Behandlungsbelastung.
 
 Daneben wuchs eine unscharfe Gruppe aus *Kontext*, *Verantwortung*, *Behandlerbindung* und *besonderer Nähe*.
 
@@ -6455,11 +5577,7 @@ Sie hatte den zweiten Weg geschaffen, weil ein Mensch mehr sein konnte als eine 
 
 Jetzt wurde derselbe Weg benutzt, um den Menschen hinter der Entscheidung wieder ins Zentrum zu stellen.
 
-Nicht den Patienten.
-
-Den Entscheider.
-
-„Wir brauchen die Kategorie“, sagte Eva.
+Nicht den Patienten. Den Entscheider. „Wir brauchen die Kategorie“, sagte Eva.
 
 „Ja.“
 
@@ -6609,11 +5727,7 @@ Eva lehnte sich zurück.
 
 „Ja.“
 
-Eva musste fast lachen.
-
-Sie tat es nicht.
-
-Auf dem Bildschirm blinkte weiter der Cursor.
+Eva musste fast lachen. Sie tat es nicht. Auf dem Bildschirm blinkte weiter der Cursor.
 
 „Mein Problem ist duty-to-care.“
 
@@ -6703,15 +5817,7 @@ Aus dem Nebenraum kam das Klacken einer Tastatur. Dann ein Stuhl, der über den 
 
 „Habe ich.“
 
-Miriam wartete.
-
-Eva dachte an Felix.
-
-An Nele.
-
-An ihre eigene Bilanz.
-
-An Laura.
+Miriam wartete. Eva dachte an Felix. An Nele. An ihre eigene Bilanz. An Laura.
 
 „Und ich glaube immer noch, dass der Arzt am Bett verantwortlich ist.“
 
@@ -6721,21 +5827,11 @@ Eva schüttelte den Kopf.
 
 „Nein. Verantwortung heißt nicht automatisch Vorrang.“
 
-Miriam sagte nichts.
-
-Eva hörte den eigenen Satz noch einmal.
-
-Er war härter, als sie erwartet hatte.
-
-Sie setzte den Cursor auf **Speichern**.
+Miriam sagte nichts. Eva hörte den eigenen Satz noch einmal. Er war härter, als sie erwartet hatte. Sie setzte den Cursor auf **Speichern**.
 
 „Ich habe jahrelang nicht gesehen, was auf der anderen Seite derselben Entscheidung passiert.“
 
-Dann klickte sie.
-
-Die neue Version war gespeichert.
-
-Miriam öffnete die Änderungsverfolgung.
+Dann klickte sie. Die neue Version war gespeichert. Miriam öffnete die Änderungsverfolgung.
 
 „Dann noch die Reviewregel.“
 
@@ -6761,15 +5857,7 @@ Eva las den Absatz.
 
 „Tragfähig.“
 
-Miriam speicherte.
-
-Damit stand die Grenze.
-
-Nähe durfte Wissen liefern.
-
-Nähe allein reichte nicht.
-
-Behandlerverantwortung blieb real.
+Miriam speicherte. Damit stand die Grenze. Nähe durfte Wissen liefern. Nähe allein reichte nicht. Behandlerverantwortung blieb real.
 
 Sie erzeugte in einem verbundweiten Ressourcenkonflikt keinen eigenen Vorrang.
 
@@ -6817,21 +5905,13 @@ Deutlich schlechter als das Bild, das sie aus der letzten Übergabe im Kopf hatt
 
 „Reagiert er?“
 
-Felix sprach den Patienten laut an.
-
-Eine verzögerte Bewegung. Kein sinnvoller Satz.
-
-„Intensivplatz?“ fragte Eva.
+Felix sprach den Patienten laut an. Eine verzögerte Bewegung. Kein sinnvoller Satz. „Intensivplatz?“ fragte Eva.
 
 „Wird frei gemacht.“
 
 „KORA?“
 
-Felix antwortete nicht sofort.
-
-Der Alarmton wechselte.
-
-Eva sah ihn an.
+Felix antwortete nicht sofort. Der Alarmton wechselte. Eva sah ihn an.
 
 „Später“, sagte Felix. „Jetzt Atemweg.“
 
@@ -6851,13 +5931,7 @@ Die Werte kamen knapp zurück.
 
 Eva hörte keine vollständigen Sätze mehr. Nur das, was für die nächsten Sekunden nötig war.
 
-Einleitung.
-
-Atemweg sichern.
-
-Tubuslage prüfen.
-
-Kreislauf halten.
+Einleitung. Atemweg sichern. Tubuslage prüfen. Kreislauf halten.
 
 Die erste Kurve besserte sich nicht so schnell, wie Eva gehofft hatte.
 
@@ -6895,45 +5969,17 @@ Sie sah in Richtung Flur, wo Felix verschwunden war.
 
 „Genug, dass wir draußen weitergemacht haben.“
 
-Eva merkte sich den Satz.
-
-Nicht als Beweis.
-
-Nur als Frage.
+Eva merkte sich den Satz. Nicht als Beweis. Nur als Frage.
 
 Später am selben Tag lag der Patient auf Intensiv.
 
 Eva öffnete die Akte zwischendurch mehrfach. Anfangs gab es nur den laufenden kritischen Verlauf. Später kamen weitere Befunde hinzu. Im weiteren Verlauf verdichtete sich die Dokumentation zu einem schweren hypoxischen Schaden.
 
-Eva las den Eintrag zweimal.
-
-Dann ging sie zurück in der Timeline.
-
-Nicht bis zum Absturz.
-
-Weiter.
-
-Zunehmender Sauerstoffbedarf.
-
-Steigende Atemarbeit.
-
-Nichtinvasive Unterstützung.
-
-KORA-Bewertungen dazwischen.
-
-An einer Stelle blieb Eva stehen.
-
-Ein Konflikt war angezeigt worden.
+Eva las den Eintrag zweimal. Dann ging sie zurück in der Timeline. Nicht bis zum Absturz. Weiter. Zunehmender Sauerstoffbedarf. Steigende Atemarbeit. Nichtinvasive Unterstützung. KORA-Bewertungen dazwischen. An einer Stelle blieb Eva stehen. Ein Konflikt war angezeigt worden.
 
 Die Konfidenz lag knapp unter der Schwelle, ab der die neue Zweitfreigabe automatisch erforderlich wurde.
 
-Kein zweiter Arzt.
-
-Kein Review vor der Entscheidung.
-
-Nur die normale Override-Logik.
-
-Eva öffnete die zugehörigen Daten.
+Kein zweiter Arzt. Kein Review vor der Entscheidung. Nur die normale Override-Logik. Eva öffnete die zugehörigen Daten.
 
 Die Werte passten zu dem Zeitpunkt, der im System stand.
 
@@ -6989,11 +6035,7 @@ Damals hatte sie ein Muster gesehen und keine belastbare Erklärung dafür gehab
 
 Jetzt lag ein Patient mit schwerem Schaden auf Intensiv.
 
-Der Ausgang machte den Verdacht schwerer.
-
-Er machte ihn nicht wahrer.
-
-Eva öffnete die einzelnen Zeitpunkte.
+Der Ausgang machte den Verdacht schwerer. Er machte ihn nicht wahrer. Eva öffnete die einzelnen Zeitpunkte.
 
 „Hier ist die KORA-Einstufung unter der Schwelle.“
 
@@ -7055,11 +6097,7 @@ Eva blieb vor dem Verlauf sitzen.
 
 Auf dem Bildschirm war der Fall bereits sauberer als im Raum wenige Stunden zuvor.
 
-Kurven. Zeitpunkte. Maßnahmen.
-
-Der Schaden war real.
-
-Die KORA-Schwelle war real.
+Kurven. Zeitpunkte. Maßnahmen. Der Schaden war real. Die KORA-Schwelle war real.
 
 Der Zusammenhang zwischen dem Entscheidungszeitpunkt, der Schwelle und dem späteren Ausgang war offen.
 
@@ -7155,17 +6193,7 @@ Jan markierte die Stelle, an der im Datensatz die eigentliche formale Entscheidu
 
 Er ließ KORA erneut mit der jeweils damaligen Datenlage rechnen.
 
-Die Konfidenz lag jetzt niedriger.
-
-Knapp unter der Schwelle.
-
-Kein Zweitreview.
-
-Eva trat noch näher an den Bildschirm.
-
-Zwei Zeitpunkte.
-
-Zwei unterschiedliche Governancefolgen.
+Die Konfidenz lag jetzt niedriger. Knapp unter der Schwelle. Kein Zweitreview. Eva trat noch näher an den Bildschirm. Zwei Zeitpunkte. Zwei unterschiedliche Governancefolgen.
 
 Dazwischen eine reale Behandlung und reale bessere Werte.
 
@@ -7207,39 +6235,15 @@ Jan drehte sich vom Bildschirm zu ihr.
 
 „Oft genug, dass ein einzelner Zeitstempel nichts beweist.“
 
-Miriam fragte: „Und deshalb die Vergleichsfälle?“
-
-Jan nickte.
-
-Er öffnete eine zweite Ansicht.
-
-Mehrere Verläufe erschienen untereinander.
-
-Nicht viele.
-
-Genug.
+Miriam fragte: „Und deshalb die Vergleichsfälle?“ Jan nickte. Er öffnete eine zweite Ansicht. Mehrere Verläufe erschienen untereinander. Nicht viele. Genug.
 
 Eva erkannte das Muster, bevor Jan es erklärte.
 
-Klinischer Plan außerhalb Intensiv.
-
-Intervention.
-
-Vorübergehende Besserung.
-
-Formale Entscheidung erst nach dem günstigeren Snapshot.
+Klinischer Plan außerhalb Intensiv. Intervention. Vorübergehende Besserung. Formale Entscheidung erst nach dem günstigeren Snapshot.
 
 KORA zu diesem späteren Zeitpunkt unterhalb der Schwelle.
 
-Keine Zweitfreigabe.
-
-„Gleicher Arzt“, sagte Miriam.
-
-Eva sah auf den Namen.
-
-Felix.
-
-Sie klickte einen der Vergleichsfälle an.
+Keine Zweitfreigabe. „Gleicher Arzt“, sagte Miriam. Eva sah auf den Namen. Felix. Sie klickte einen der Vergleichsfälle an.
 
 „Hier war der Patientenausgang gut.“
 
@@ -7365,7 +6369,7 @@ Eva schloss die Vergleichsansicht.
 
 „Ich rede zuerst mit Felix.“
 
-„Nicht allein, wenn du—“
+„Nicht allein, wenn du–“
 
 „Doch.“
 
@@ -7377,13 +6381,7 @@ Der Raum wurde wieder heller, als Jan den Bildschirm aus dem Präsentationsmodus
 
 Auf dem Tisch lagen drei Ausdrucke, die alles belegten, was Eva für das Gespräch brauchte.
 
-Nicht seine Motivation.
-
-Nicht die Schuld am Patientenausgang.
-
-Nur den Mechanismus.
-
-Diesmal war ihr Misstrauen kein Gefühl mehr.
+Nicht seine Motivation. Nicht die Schuld am Patientenausgang. Nur den Mechanismus. Diesmal war ihr Misstrauen kein Gefühl mehr.
 
 Die Absicht musste Felix selbst hinzufügen.
 
@@ -7413,11 +6411,7 @@ Als er fertig war, legte er die Seiten auf Evas Schreibtisch.
 
 „Und?“
 
-Eva hatte auf einen anderen Einstieg gehofft.
-
-Vielleicht auf *Das stimmt so nicht.*
-
-Oder wenigstens auf eine Frage.
+Eva hatte auf einen anderen Einstieg gehofft. Vielleicht auf *Das stimmt so nicht.* Oder wenigstens auf eine Frage.
 
 „Du bestreitest die Zeitpunkte nicht?“
 
@@ -7443,15 +6437,7 @@ Eva spürte, wie sich etwas in ihr verschob.
 
 „Die Regel war das Problem.“
 
-Da war die Antwort.
-
-Nicht in den Zeitachsen.
-
-Nicht in einer Logdatei.
-
-Jetzt.
-
-Eva legte die Hand auf die Auditseite.
+Da war die Antwort. Nicht in den Zeitachsen. Nicht in einer Logdatei. Jetzt. Eva legte die Hand auf die Auditseite.
 
 „Du hast es absichtlich gemacht.“
 
@@ -7551,11 +6537,7 @@ Er sah zur Tür, dann wieder zu ihr.
 
 „Ich lasse mir keine klinische Entscheidung von einer Schwelle wegnehmen, die aus einem Modellwert entsteht.“
 
-Der Satz kam leise.
-
-Gerade deshalb war er endgültig.
-
-Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden.
+Der Satz kam leise. Gerade deshalb war er endgültig. Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden.
 
 „Also ja.“
 
@@ -7669,11 +6651,7 @@ Felix sah weg.
 
 „Das Audit beweist keine falsche medizinische Entscheidung.“
 
-Felix sah sie wieder an.
-
-Für einen Moment wirkte er fast erleichtert.
-
-Eva setzte nach.
+Felix sah sie wieder an. Für einen Moment wirkte er fast erleichtert. Eva setzte nach.
 
 „Es beweist, dass du die vereinbarte Schutzstufe ausgeschaltet hast. Und du sagst mir gerade, dass du es bewusst getan hast, weil du die Regel nicht akzeptierst.“
 
@@ -7731,7 +6709,7 @@ Felix' Gesicht schloss sich.
 
 „Natürlich.“
 
-„Felix—“
+„Felix–“
 
 „Lass es.“
 
@@ -7753,11 +6731,7 @@ Eva antwortete leise.
 
 „Das macht es nicht besser.“
 
-Felix öffnete die Tür.
-
-Diesmal sagte keiner von beiden noch etwas.
-
-Später verlor Felix seine Funktion.
+Felix öffnete die Tür. Diesmal sagte keiner von beiden noch etwas. Später verlor Felix seine Funktion.
 
 Die formalen Schritte verliefen geordnet. Anhörung. Bewertung. Entscheidung.
 
@@ -7779,15 +6753,7 @@ Auf der ersten Folie standen nur drei Zeilen.
 
 **Umgangene Zweitfreigabe.**
 
-Miriam hatte keine Namen daneben geschrieben.
-
-Eva brauchte sie nicht.
-
-Die erste Zeile gehörte ihr.
-
-Die zweite Nele.
-
-Die dritte Felix.
+Miriam hatte keine Namen daneben geschrieben. Eva brauchte sie nicht. Die erste Zeile gehörte ihr. Die zweite Nele. Die dritte Felix.
 
 Am langen Tisch lagen Ausdrucke des SOP-Entwurfs. Ein Vorstandsmitglied blätterte bereits darin, während Miriam noch die erste Folie stehen ließ.
 
@@ -7799,15 +6765,7 @@ Eva sah auf die Begriffe.
 
 Auf einer Folie passten die Ereignisse sauber nebeneinander. In Evas Erinnerung hatten sie Gesichter.
 
-Laura Berg.
-
-Nele nach dem Schadensfall.
-
-Felix an ihrer Bürotür.
-
-Miriam wechselte weiter.
-
-Die nächste Folie war dichter.
+Laura Berg. Nele nach dem Schadensfall. Felix an ihrer Bürotür. Miriam wechselte weiter. Die nächste Folie war dichter.
 
 Entscheidungszeitpunkte sollten künftig nicht mehr ausschließlich aus dem manuell gesetzten Zeitpunkt übernommen werden. Relevante Prozesssignale konnten eine frühere faktische Weichenstellung sichtbar machen: Anordnungen, Ressourcenreservierungen, Therapieentscheidungen, dokumentierte Planwechsel.
 
@@ -7979,11 +6937,7 @@ Die Diskussion ging noch eine Weile weiter. Formulierungen wurden verschoben. Ei
 
 Am Ende lag die SOP in einer Fassung vor, die niemand für perfekt hielt und niemand mehr grundsätzlich blockierte.
 
-Sie wurde beschlossen.
-
-Papiere wurden eingesammelt. Termine genannt. Zuständigkeiten verteilt.
-
-Der nächste Tagesordnungspunkt wartete bereits.
+Sie wurde beschlossen. Papiere wurden eingesammelt. Termine genannt. Zuständigkeiten verteilt. Der nächste Tagesordnungspunkt wartete bereits.
 
 Eva blieb einen Moment sitzen, nachdem die erste Person aufgestanden war.
 
@@ -7999,19 +6953,11 @@ Beim nächsten high-confidence Konflikt würden sie trotzdem alle gleichzeitig i
 
 ## Kapitel 32 – Break Glass
 
-Der Patient auf dem Bildschirm existierte nicht.
-
-Das machte die Entscheidung leichter.
-
-Nur nicht harmlos.
+Der Patient auf dem Bildschirm existierte nicht. Das machte die Entscheidung leichter. Nur nicht harmlos.
 
 Jan hatte den Testfall so gebaut, dass die neue Governance an ihrer engsten Stelle geprüft wurde.
 
-High confidence.
-
-Hohe Schadensrelevanz.
-
-Zweitfreigabe erforderlich.
+High confidence. Hohe Schadensrelevanz. Zweitfreigabe erforderlich.
 
 Und im Szenario war keine zweite Person rechtzeitig verfügbar.
 
@@ -8041,15 +6987,7 @@ Eva öffnete den regulären Override-Weg.
 
 **Zweitfreigabe erforderlich.**
 
-Darunter begann die Erreichbarkeitsprüfung.
-
-Erster Name.
-
-Nicht verfügbar.
-
-Zweiter Name.
-
-Keine Antwort innerhalb des simulierten Zeitfensters.
+Darunter begann die Erreichbarkeitsprüfung. Erster Name. Nicht verfügbar. Zweiter Name. Keine Antwort innerhalb des simulierten Zeitfensters.
 
 Dritter möglicher Zweitentscheider war bereits in einem anderen Notfall gebunden.
 
@@ -8081,15 +7019,7 @@ Unterhalb des regulären Wegs erschien die Option.
 
 **SOLO-BREAK-GLASS – unmittelbare Abweichung mit automatischem Review**
 
-Eva öffnete die Erklärung.
-
-Der Text war kurz.
-
-Die Abweichung wurde sofort wirksam.
-
-Keine vorherige Bestätigung durch eine zweite Person.
-
-Automatische Kennzeichnung als persönlicher Reviewfall.
+Eva öffnete die Erklärung. Der Text war kurz. Die Abweichung wurde sofort wirksam. Keine vorherige Bestätigung durch eine zweite Person. Automatische Kennzeichnung als persönlicher Reviewfall.
 
 Vollständige Protokollierung der verfügbaren Daten und des dokumentierten Grunds.
 
@@ -8123,37 +7053,11 @@ Darunter das Begründungsfeld.
 
 Eva trug den für den Testfall vorgesehenen klinischen Grund ein.
 
-Dann bestätigte sie.
-
-Der Behandlungspfad wechselte sofort.
-
-Kein Ladesymbol.
-
-Kein weiterer Name.
-
-Kein zweiter Dialog.
-
-Die Abweichung war wirksam.
-
-Fast gleichzeitig erschien rechts ein neuer Eintrag.
+Dann bestätigte sie. Der Behandlungspfad wechselte sofort. Kein Ladesymbol. Kein weiterer Name. Kein zweiter Dialog. Die Abweichung war wirksam. Fast gleichzeitig erschien rechts ein neuer Eintrag.
 
 **Persönlicher Reviewfall erstellt.**
 
-Darunter stand Evas Name.
-
-Zeitpunkt.
-
-Fallklasse.
-
-KORA-Konfidenz.
-
-Dokumentierter Grund.
-
-Die ursprüngliche Empfehlung.
-
-Der Zustand der Erreichbarkeitsprüfung.
-
-Eva öffnete den Reviewfall.
+Darunter stand Evas Name. Zeitpunkt. Fallklasse. KORA-Konfidenz. Dokumentierter Grund. Die ursprüngliche Empfehlung. Der Zustand der Erreichbarkeitsprüfung. Eva öffnete den Reviewfall.
 
 „Kann irgendjemand meine Abweichung rückwirkend so behandeln, als wäre sie bis zur Prüfung nur vorläufig?“
 
@@ -8213,15 +7117,7 @@ Jan setzte die Simulation zurück.
 
 Beim zweiten Durchlauf änderte er die Reihenfolge der verfügbaren Zweitentscheider. Eine Person war zunächst sichtbar, fiel dann während der Prüfung aus dem Zeitfenster.
 
-Eva ging wieder den regulären Weg.
-
-Zweitfreigabe erforderlich.
-
-Erreichbarkeitsprüfung.
-
-Keine rechtzeitige Freigabe.
-
-Solo-Break-glass.
+Eva ging wieder den regulären Weg. Zweitfreigabe erforderlich. Erreichbarkeitsprüfung. Keine rechtzeitige Freigabe. Solo-Break-glass.
 
 Diesmal wartete Eva absichtlich einige Sekunden vor dem Klick.
 
@@ -8239,15 +7135,7 @@ Eva nickte.
 
 „Gut.“
 
-Sie bestätigte erneut.
-
-Sofortige Abweichung.
-
-Sofortiger Reviewfall.
-
-Gleicher Mechanismus.
-
-Jan nahm die Hände von der Tastatur.
+Sie bestätigte erneut. Sofortige Abweichung. Sofortiger Reviewfall. Gleicher Mechanismus. Jan nahm die Hände von der Tastatur.
 
 „Dritter?“
 
@@ -8273,47 +7161,27 @@ Warum war dein Grund stark genug, allein abzuweichen?
 
 Eva sah noch einmal auf die Stelle, an der die Break-glass-Schaltfläche eben gestanden hatte.
 
-Der Knopf war da.
-
-Er war schnell.
-
-Er war echt.
-
-Das reichte ihr.
+Der Knopf war da. Er war schnell. Er war echt. Das reichte ihr.
 
 Fast.
 
 ## Kapitel 33 – Alles belegt
 
-Eva wusste es, bevor KORA den Konflikt anzeigte.
+Eva wusste, was kommen würde, bevor KORA den Konflikt anzeigte.
 
-Zu viele rote Felder gleichzeitig.
+Auf der Verbundübersicht leuchteten zu viele rote Felder gleichzeitig. Zentral war voll, Nord unter Druck, an zwei weiteren Standorten waren Kapazitäten gebunden. Verlegungen verzögerten sich, eine bestätigte Entlassung gab es nirgends. Sofort vollständig verfügbar war genau ein Intensivplatz.
 
-Die Verbundübersicht lief auf einem zweiten Monitor am Arbeitsplatz mit. Zentral voll. Nord unter Druck. Zwei weitere Standorte mit gebundenen Kapazitäten. Verlegungen verzögert. Keine bestätigte Entlassung, auf die man sich verlassen konnte.
+Vor Eva lag ein Patient, dessen Atmung trotz ausgeschöpfter nichtinvasiver Unterstützung schlechter wurde. Die Maske saß dicht, der Luftstrom rauschte so laut, dass jedes gesprochene Wort dagegen ankämpfen musste. Der Mann atmete trotzdem zu schnell.
 
-Eine einzige Intensivressource war sofort vollständig verfügbar.
-
-Vor Eva lag ein Patient, dessen Atmung trotz ausgeschöpfter nichtinvasiver Unterstützung schlechter wurde.
-
-Die Maske saß dicht. Der Luftstrom war hoch genug, dass jedes gesprochene Wort im Raum gegen ein konstantes Rauschen ankämpfen musste.
-
-Der Mann atmete trotzdem zu schnell.
-
-Eva stand an seiner rechten Seite und sah, wie sich die Haut über dem Schlüsselbein bei jedem Atemzug einzog.
+Eva stand an seiner rechten Seite. Bei jedem Atemzug zog sich die Haut über dem Schlüsselbein ein.
 
 „Sättigung?“
 
 Die Pflegekraft nannte die Zahl.
 
-Eva sah auf den Verlauf.
+Eva prüfte den Verlauf. Kein plötzlicher Absturz, eher etwas Gefährlicheres: eine Entwicklung, die sich Minute für Minute in dieselbe Richtung schob. Mehr Unterstützung, weniger Reserve.
 
-Kein plötzlicher Absturz. Etwas Gefährlicheres: eine Entwicklung, die sich Minute für Minute in dieselbe Richtung schob.
-
-Mehr Unterstützung.
-
-Weniger Reserve.
-
-Der Patient öffnete die Augen, als Eva ihn ansprach.
+Der Patient öffnete die Augen, als sie ihn ansprach.
 
 „Können Sie mich hören?“
 
@@ -8323,117 +7191,53 @@ Er nickte.
 
 Er hob eine Hand und ließ sie wieder sinken. Für einen ganzen Satz reichte es nicht.
 
-Eva legte zwei Finger an seinen Unterarm.
+Eva legte zwei Finger an seinen Unterarm. „Nicht sprechen. Nur weiteratmen.“
 
-„Nicht sprechen. Nur weiteratmen.“
+Am anderen Bettende sagte die Pflegekraft: „Er hält das nicht mehr lange.“
 
-Die Pflegekraft stand am anderen Bettende und sah zum Monitor.
+Eva nickte. Die Einschätzung deckte sich mit ihrer.
 
-„Er hält das nicht mehr lange.“
-
-Eva nickte.
-
-Die Einschätzung deckte sich mit ihrer.
-
-Sie ging die Optionen im Kopf durch, obwohl das Team längst danach arbeitete. Atemunterstützung war ausgeschöpft. Engmaschige Überwachung lief. Material für eine Eskalation war erreichbar. Was fehlte, war keine medizinische Idee.
-
-Es fehlte ein vollständig verfügbarer Intensivplatz.
+Die medizinischen Möglichkeiten waren längst abgearbeitet: Atemunterstützung ausgeschöpft, engmaschige Überwachung, Material für die Eskalation verfügbar. Es fehlte keine Idee. Es fehlte ein vollständig verfügbarer Intensivplatz.
 
 Am Arbeitsplatz hinter ihr ertönte der bekannte Signalton.
 
-Eva schloss für einen Augenblick die Augen.
-
-Nur ein Reflex.
-
-Dann drehte sie sich um.
+Eva schloss für einen Augenblick die Augen, mehr Reflex als Entscheidung, und drehte sich um.
 
 **NETZWERK-KONFLIKT – INTENSIVKAPAZITÄT**
 
-Die Anzeige war nüchtern.
+Die Anzeige war nüchtern. Sie erinnerte nicht daran, dass Eva diesen Konflikttyp schon einmal erlebt hatte. Für sie veränderte sich der Raum trotzdem sofort.
 
-Keine Erinnerung.
+Ein anderer Patient, eine andere Nacht, andere Werte – und wieder ein Mensch direkt vor ihr, ein zweiter an einem anderen Standort und eine Ressource, die nicht für beide gleichzeitig verfügbar war.
 
-Kein Hinweis darauf, dass Eva diesen Konflikttyp schon einmal erlebt hatte.
+Ihr Körper war schneller als ihr Denken. Die Schultern spannten sich an, ihr Blick ging zurück zum Bett. Für einen Moment wollte sie die knappe Kapazität festhalten, bevor irgendetwas von außen Anspruch darauf erhob.
 
-Für sie war der Raum trotzdem sofort ein anderer.
-
-Nicht derselbe Patient.
-
-Nicht dieselbe Nacht.
-
-Nicht dieselben Werte.
-
-Aber wieder ein Mensch direkt vor ihr, ein zweiter an einem anderen Standort und eine Ressource, die nicht für beide gleichzeitig verfügbar war.
-
-Eva merkte, wie ihr Körper schneller reagierte als ihr Denken.
-
-Schultern angespannt.
-
-Blick zurück zum Bett.
-
-Der Wunsch, die knappe Kapazität festzuhalten, bevor irgendetwas von außen sie beanspruchte.
-
-Diesmal erkannte sie den Impuls, während er entstand.
+Diesmal bemerkte sie den Impuls, während er entstand.
 
 „Fernmeldung ist da“, sagte die Pflegekraft am Arbeitsplatz.
 
-Eva ging hin.
+Eva ging hin. Falkenried Nord: septischer Schock, zunehmender Vasopressorbedarf, drohende weitere Organdysfunktion.
 
-Falkenried Nord.
-
-Septischer Schock.
-
-Zunehmender Vasopressorbedarf.
-
-Drohend weitere Organdysfunktion.
-
-Sie öffnete die Detailansicht.
-
-Keine Fotografie.
-
-Kein Gesicht.
-
-Daten, Zeitpunkte, Maßnahmen.
-
-Mehr hatte sie beim ersten Konflikt ebenfalls nicht gehabt.
-
-Damals hatte sie gewusst, dass auf der anderen Seite ein Patient existierte.
-
-Später hatte Laura Berg ihr gezeigt, wie wenig dieses Wissen gegen die Nähe eines Menschen im selben Raum wog.
+Sie öffnete die Detailansicht. Kein Gesicht, kein Foto. Daten, Zeitpunkte und Maßnahmen – mehr hatte sie beim ersten Konflikt ebenfalls nicht gehabt. Damals hatte sie gewusst, dass auf der anderen Seite ein Patient existierte. Später hatte Laura Berg ihr gezeigt, wie wenig dieses Wissen gegen die Nähe eines Menschen im selben Raum wog.
 
 „Intensiv?“ fragte die Pflegekraft hinter Eva.
 
-Eva drehte sich um.
-
-Der lokale Patient hatte die Augen geschlossen. Die Maske hob sich mit jedem unterstützten Atemzug leicht vom Gesicht und wurde wieder angesogen.
+Eva drehte sich um. Der lokale Patient hatte die Augen geschlossen. Die Maske hob sich mit jedem unterstützten Atemzug leicht vom Gesicht und wurde wieder angesogen.
 
 „Noch nicht zuweisen.“
 
-Die Antwort kam schärfer, als nötig.
-
-Die Pflegekraft reagierte nicht auf den Ton.
+Die Antwort kam schärfer als nötig. Die Pflegekraft reagierte nicht auf den Ton.
 
 „Okay.“
 
-Eva trat wieder ans Bett.
-
-Sie untersuchte den Patienten erneut. Nicht um einen Grund gegen KORA zu suchen. KORA hatte noch gar keine Priorität berechnet.
-
-Sie wollte wissen, wie wenig Zeit sie wirklich hatte.
+Eva trat wieder ans Bett und untersuchte den Patienten erneut. Sie suchte keinen Grund gegen KORA; eine Priorität war noch gar nicht berechnet. Sie wollte wissen, wie wenig Zeit ihr tatsächlich blieb.
 
 Der Mann reagierte langsamer als vor zehn Minuten.
 
-„Augen auf.“
+„Augen auf. Bei mir bleiben.“
 
-Die Lider hoben sich.
+Die Lider hoben sich, gefolgt von einem schwachen Nicken.
 
-„Bei mir bleiben.“
-
-Ein schwaches Nicken.
-
-Eva sah zur Pflegekraft.
-
-„Alles für Atemwegssicherung bereit halten.“
+Eva wandte sich an die Pflegekraft. „Alles für Atemwegssicherung bereithalten.“
 
 „Ist vorbereitet.“
 
@@ -8441,45 +7245,11 @@ Eva sah zur Pflegekraft.
 
 „Informiert.“
 
-Eva blickte wieder auf die Verbundübersicht.
+Auf der Verbundübersicht stand der eine freie Platz weiterhin unzugewiesen. Beim ersten Konflikt hatte sich genau dieser Zustand angefühlt wie eine Uhr, die nur für ihren Patienten lief. Jetzt zwang Eva sich, die zweite Uhr mitzudenken: Nord, ein Patient im septischen Schock, ein Team, das ebenfalls wartete, ein steigender Vasopressorbedarf, der nicht weniger real wurde, weil sie ihn nicht sehen konnte.
 
-Die eine freie Kapazität stand noch unzugewiesen.
+Sie öffnete die KORA-Gegenüberstellung. Zwei Spalten erschienen, links Zentral, rechts Nord. Noch gab es keine Priorität, nur Daten.
 
-Im ersten Konflikt hatte genau dieser Zustand sich angefühlt wie eine Uhr, die nur für ihren Patienten lief.
-
-Jetzt zwang sie sich, die zweite Uhr mitzudenken.
-
-Nord.
-
-Ein Patient im septischen Schock.
-
-Ein Team, das ebenfalls wartete.
-
-Ein steigender Vasopressorbedarf, der nicht abstrakter wurde, nur weil Eva ihn nicht sehen konnte.
-
-Sie öffnete die KORA-Gegenüberstellung.
-
-Zwei Spalten erschienen.
-
-Links Zentral.
-
-Rechts Nord.
-
-Noch stand keine Priorität oben.
-
-Nur Daten.
-
-Eva ging zuerst durch den lokalen Verlauf.
-
-Respiratorische Insuffizienz.
-
-Zunehmender Unterstützungsbedarf.
-
-Erschöpfungszeichen.
-
-Reaktion auf die bisherigen Maßnahmen.
-
-Sie prüfte, ob etwas fehlte. Ein neuer Befund. Eine Veränderung, die noch nicht eingetragen war.
+Eva begann mit dem lokalen Verlauf: respiratorische Insuffizienz, zunehmender Unterstützungsbedarf, Erschöpfungszeichen und Reaktion auf die bisherigen Maßnahmen. Sie prüfte, ob ein neuer Befund oder eine Veränderung fehlte.
 
 „Letzte Blutgase schon drin?“
 
@@ -8487,63 +7257,27 @@ Sie prüfte, ob etwas fehlte. Ein neuer Befund. Eine Veränderung, die noch nich
 
 „Aktueller klinischer Status?“
 
-Die Pflegekraft zeigte auf den Eintrag.
+Die Pflegekraft zeigte auf den Eintrag. Eva ergänzte die verzögerte Reaktion und wechselte dann nach rechts.
 
-Eva ergänzte eine knappe Aktualisierung zur verzögerten Reaktion.
+Nord zeigte Kreislaufwerte, Vasopressortrend, zeitliche Entwicklung und Verzögerungsrisiko. Eva las nicht schneller, nur weil sie die Person dahinter nicht sehen konnte.
 
-Dann wechselte sie nach rechts.
+Hinter ihr wurde ein Medikament vorbereitet. Jemand fragte nach einem Zugang; Eva beantwortete die Frage, ohne die Fernansicht zu schließen.
 
-Nord.
-
-Kreislaufwerte.
-
-Vasopressortrend.
-
-Zeitliche Entwicklung.
-
-Verzögerungsrisiko.
-
-Sie las nicht schneller, nur weil sie die Person dahinter nicht sehen konnte.
-
-Hinter ihr wurde ein Medikament vorbereitet.
-
-Jemand fragte nach einem Zugang.
-
-Eva beantwortete die Frage, ohne die Fernansicht zu schließen.
-
-Auf dem Bett bewegte der Patient die Hand zur Maske.
-
-Die Pflegekraft fing sie ab.
+Auf dem Bett bewegte der Patient die Hand zur Maske. Die Pflegekraft fing sie ab.
 
 „Nicht abnehmen.“
 
-Eva ging zurück zu ihm.
-
-„Wir helfen Ihnen.“
+Eva ging zurück zu ihm. „Wir helfen Ihnen.“
 
 Seine Augen öffneten sich.
 
-Für einen Moment war alles wieder so einfach wie in jener ersten Nacht.
+Für einen Moment schien die Lage wieder so einfach wie in jener ersten Nacht. Dieser Patient war hier, er brauchte sie, er sah sie an, und Eva konnte handeln.
 
-Dieser Patient war hier.
-
-Er brauchte sie.
-
-Er sah sie an.
-
-Sie konnte handeln.
-
-Eva legte die Hand auf seinen Arm.
-
-„Wir sind da.“
+Sie legte die Hand auf seinen Arm. „Wir sind da.“
 
 Er reagierte mit einer kaum sichtbaren Bewegung.
 
-Der Satz fühlte sich diesmal schwerer an.
-
-*Wir sind da.*
-
-In Nord war ebenfalls jemand da.
+Diesmal hatte der Satz ein anderes Gewicht. In Nord war ebenfalls jemand da.
 
 Eva nahm die Hand zurück.
 
@@ -8553,41 +7287,17 @@ Am Arbeitsplatz erschien ein neuer Status.
 
 Der Kollege neben ihr sagte leise: „Das ist derselbe Konflikttyp wie damals.“
 
-Eva sah weiter auf den Bildschirm.
-
 „Ja.“
 
-Mehr sagte sie nicht.
+Mehr brauchte es nicht. Seit dem Signalton war die Erinnerung ohnehin im Raum.
 
-Sie brauchte die Erinnerung nicht erklärt.
+Der lokale Patient verschlechterte sich real, der entfernte ebenfalls. Später würde Eva nicht behaupten können, die andere Seite sei nur eine abstrakte Meldung gewesen. KORA legte beide Verläufe nebeneinander, vollständig genug für die medizinische Auseinandersetzung.
 
-Sie war im Raum, seit der Signalton erklungen war.
+Was die Darstellung nicht beseitigte, war der Unterschied zwischen Wissen und Nähe.
 
-Der lokale Patient verschlechterte sich real.
+Eva sah zum Bett. Der Mann vor ihr rang weiter gegen die Atemunterstützung. Dann blickte sie zurück auf die rechte Spalte. Nord blieb ein Verlauf auf einem Bildschirm, und sie zwang sich, ihn trotzdem als Patienten zu lesen.
 
-Der entfernte Patient ebenfalls.
-
-Diesmal konnte Eva später nicht behaupten, die andere Seite sei nur eine abstrakte Meldung gewesen. KORA legte beide Verläufe nebeneinander. Die Daten waren vollständig genug, um die medizinische Auseinandersetzung zu führen.
-
-Was das nicht beseitigte, war der Unterschied zwischen Wissen und Nähe.
-
-Eva sah zum Bett.
-
-Der Mann vor ihr rang weiter gegen die Atemunterstützung.
-
-Dann zurück auf die rechte Spalte.
-
-Nord blieb ein Verlauf.
-
-Sie zwang sich, ihn trotzdem als Patient zu lesen.
-
-Die Berechnung lief.
-
-Eine Sekunde.
-
-Noch eine.
-
-„Eva?“ fragte die Pflegekraft.
+Die Berechnung lief. Eine Sekunde. Noch eine. „Eva?“ fragte die Pflegekraft.
 
 „Ich sehe es.“
 
@@ -8597,159 +7307,65 @@ Eva blickte auf den Patienten und dann auf die Anzeige.
 
 „Bis die Gegenüberstellung da ist.“
 
-Sie hasste das Warten.
-
-Sie wusste, dass sie es diesmal brauchte.
+Sie hasste das Warten. Diesmal brauchte sie es.
 
 ## Kapitel 34 – Beide Patienten
 
-Die Empfehlung erschien ohne Alarmton.
-
-Eva sah sie trotzdem sofort.
+Die Empfehlung erschien ohne Alarmton. Eva sah sie trotzdem sofort.
 
 **Priorität: entfernter Standort.**
 
 **Konfidenz: hoch.**
 
-Für einen Moment berührte niemand den Bildschirm.
+Für einen Moment berührte niemand den Bildschirm. Die Pflegekraft stand am Bett, der Kollege neben Eva hielt die lokale Verlaufskurve offen, hinter ihnen rauschte die Atemunterstützung unverändert laut.
 
-Die Pflegekraft stand am Bett. Der Kollege neben Eva hielt die lokale Verlaufskurve offen. Hinter ihnen lief die Atemunterstützung mit demselben hohen Rauschen weiter.
+Eva las die Begründung vollständig: erwarteter akuter Behandlungsnutzen, Verzögerungsrisiko, zunehmender Vasopressorbedarf, Risiko weiterer Organdysfunktion. Rechts stand der Patient in Nord.
 
-Eva las die Begründung vollständig.
+Links der Mann vor ihr: schwere hypoxämische respiratorische Insuffizienz, nichtinvasive Unterstützung ausgeschöpft, zunehmende Erschöpfung und eine hohe Wahrscheinlichkeit weiterer Eskalation.
 
-Erwarteter akuter Behandlungsnutzen.
-
-Verzögerungsrisiko.
-
-Zunehmender Vasopressorbedarf.
-
-Risiko weiterer Organdysfunktion.
-
-Rechts stand der Patient in Nord.
-
-Links der Mann vor ihr.
-
-Schwere hypoxämische respiratorische Insuffizienz.
-
-Nichtinvasive Unterstützung ausgeschöpft.
-
-Zunehmende Erschöpfung.
-
-Hohe Wahrscheinlichkeit einer weiteren Eskalation.
-
-KORA kannte beides.
+KORA kannte beide Seiten.
 
 Eva öffnete die Einflussfaktoren des lokalen Falls.
 
 „Neue Werte?“
 
-Die Pflegekraft nannte sie.
-
-Eva ließ sie wiederholen.
-
-Nicht weil sie sie akustisch nicht verstanden hatte.
-
-Weil sie sicher sein wollte, dass nichts zwischen Messung und Anzeige verloren gegangen war.
+Die Pflegekraft nannte sie. Eva ließ sie wiederholen, um auszuschließen, dass zwischen Messung und Anzeige etwas verloren gegangen war.
 
 „Letzte Untersuchung?“
 
-Der Kollege sah auf die Uhr.
-
-„Vor wenigen Minuten. Seitdem eher müder.“
+Der Kollege sah auf die Uhr. „Vor wenigen Minuten. Seitdem eher müder.“
 
 Eva ging zurück ans Bett.
 
-„Herr Weber?“
+„Herr Weber? Schauen Sie mich an.“
 
-Der Patient öffnete die Augen.
-
-„Schauen Sie mich an.“
-
-Sein Blick fand sie langsam.
-
-Eva beobachtete Brustkorb, Halsmuskulatur, Atemrhythmus. Hörte. Tastete. Fragte nach einem kurzen Signal, ob er sie verstand.
-
-Der Mann reagierte.
-
-Schwächer als zuvor.
-
-Eva sah auf die Maske, dann auf den Monitor.
+Der Patient öffnete die Augen, sein Blick fand sie langsam. Eva beobachtete Brustkorb, Halsmuskulatur und Atemrhythmus, hörte, tastete und bat um ein kurzes Signal, ob er sie verstand. Er reagierte, aber schwächer als zuvor.
 
 Alles daran sagte ihr, dass dieser Patient keine komfortable Reserve mehr hatte.
 
-Sie ging zurück zum Arbeitsplatz.
+Am Arbeitsplatz prüfte sie erneut die Anzeige. KORA hatte die Verschlechterung nicht übersehen; die aktuellen Daten waren übernommen. Lokales Risiko hoch, entferntes Risiko ebenfalls hoch. Der Unterschied bestand nicht zwischen einem ernsten und einem harmlosen Fall. KORA priorisierte zwischen zwei schlechten Optionen.
 
-KORA hatte diese Verschlechterung nicht übersehen.
+„Kann Nord noch stabilisieren?“ fragte Eva.
 
-Die aktuellen Daten waren übernommen.
-
-Eva öffnete die Gewichtung.
-
-Lokales Risiko hoch.
-
-Entferntes Risiko ebenfalls hoch.
-
-Der Unterschied lag nicht darin, dass einer ernst und der andere harmlos war.
-
-Der Unterschied lag in der Priorisierung zweier schlechter Optionen.
-
-„Kann Nord noch stabilisieren?“ fragte sie.
-
-Der Kollege öffnete die Verbundmeldung.
-
-„Sie stabilisieren bereits. Vasopressor steigt.“
+Der Kollege öffnete die Verbundmeldung. „Sie stabilisieren bereits. Vasopressor steigt.“
 
 „Transport?“
 
 „Nicht relevant. Der Patient ist dort. Es geht um die eine Kapazität.“
 
-Eva nickte.
+Eva kannte die Antwort. Trotzdem hatte sie wieder nach einer dritten Möglichkeit gesucht.
 
-Sie hatte die Frage gestellt, obwohl sie die Antwort kannte.
-
-Wieder die Suche nach einer dritten Möglichkeit.
-
-Wieder keine.
-
-Der Patient im Bett griff nach der Hand der Pflegekraft, verfehlte sie und tastete weiter.
-
-Eva ging hin.
-
-Sie schob ihre eigene Hand unter seine Finger.
-
-Der Griff war schwach.
+Der Patient griff nach der Hand der Pflegekraft, verfehlte sie und tastete weiter. Eva ging zu ihm und schob ihre eigene Hand unter seine Finger. Der Griff war schwach.
 
 „Ich bin hier.“
 
 Die Worte kamen automatisch.
 
-Der Mann sah sie an.
+Der Mann wusste nichts von Verbundlogik, Konfidenz oder Ressourcenexternalität. Er bekam schlecht Luft, und Eva stand vor ihm. Seine Finger schlossen sich etwas fester.
 
-In seinen Augen lag keine Kenntnis von Verbundlogik, Konfidenz oder Ressourcenexternalität.
+Eva blieb einen Moment und blickte dann über seine Schulter zum Display. Nord stand dort weiter als rechte Spalte: ein anderer Patient, ein anderes Team, dieselbe Ressource.
 
-Er wusste nur, dass er schlecht Luft bekam und dass Eva vor ihm stand.
-
-Seine Finger schlossen sich etwas fester.
-
-Eva blieb einen Moment.
-
-Dann sah sie über seine Schulter zum Display.
-
-Nord stand dort weiter als rechte Spalte.
-
-Ein anderer Patient.
-
-Ein anderes Team.
-
-Die Ressource dieselbe.
-
-Diesmal konnte Eva sich nicht erzählen, sie habe zu wenig über die andere Seite gewusst.
-
-KORA zeigte ihr die entscheidenden Informationen.
-
-Nicht das Gesicht.
-
-Aber genug, um die medizinische Lage zu verstehen.
+Diesmal konnte Eva sich nicht erzählen, sie habe zu wenig über die andere Seite gewusst. KORA zeigte ihr die entscheidenden Informationen. Kein Gesicht, aber genug, um die medizinische Lage zu verstehen.
 
 Sie löste ihre Hand vorsichtig aus dem Griff und ging zurück.
 
@@ -8757,61 +7373,19 @@ Sie löste ihre Hand vorsichtig aus dem Griff und ging zurück.
 
 „Ich weiß.“
 
-Eva öffnete erneut den lokalen Verlauf.
+Eva öffnete erneut den lokalen Verlauf und suchte ausdrücklich nach einem medizinischen Gegenbeleg. Sie suchte keine Formulierung, die überzeugend klang. Sie brauchte etwas, das die Empfehlung tatsächlich verändern konnte: ein Messwert, den KORA nicht hatte, eine relevante Therapiewirkung, eine Kontraindikation auf der anderen Seite, eine neue Information hier.
 
-Sie suchte jetzt ausdrücklich nach einem medizinischen Gegenbeleg.
-
-Nicht nach einer Formulierung, die stark klang.
-
-Nach einem echten Punkt.
-
-Ein Messwert, den KORA nicht hatte.
-
-Eine Reaktion auf Therapie, die die Prognose verschob.
-
-Eine Kontraindikation auf der anderen Seite.
-
-Eine neue Information hier.
-
-Nichts.
-
-Sie öffnete die Fernseite noch einmal.
-
-Auch dort keine offensichtliche Lücke.
-
-Die Empfehlung blieb hochkonfident.
+Sie fand nichts. Auch auf der Fernseite gab es keine offensichtliche Lücke. Die Empfehlung blieb hochkonfident.
 
 Eva lehnte sich mit beiden Händen auf den Arbeitsplatz.
 
-Sie wollte den Platz für Zentral.
+Sie wollte den Platz für Zentral. Dieser Wunsch war körperlich eindeutig und brauchte keine intellektuelle Übersetzung. Der Mann lag hier, sie hörte seine Atmung, ihr Team wartete auf ihre Entscheidung. Wenn sie die Kapazität nach Nord gab, würde die unmittelbare Verschlechterung in diesem Raum bei ihr bleiben. Kein Modell würde an das Bett treten und die Konsequenz übernehmen.
 
-Der Wunsch war körperlich eindeutig.
-
-Sie konnte ihn benennen, ohne ihn zu rechtfertigen.
-
-Der Mann lag hier.
-
-Sie hörte seine Atmung.
-
-Ihr Team wartete auf ihre Entscheidung.
-
-Wenn sie die Kapazität nach Nord gab, würde die unmittelbare Verschlechterung in diesem Raum weiter bei ihr bleiben.
-
-Kein Modell würde an das Bett treten und die Konsequenz übernehmen.
-
-Eva spürte Wut.
-
-Auf die Lage.
-
-Auf die Knappheit.
-
-Auf den Abstand zwischen einem Prinzip und einem Menschen, dessen Finger eben ihre Hand gehalten hatten.
+Wut stieg in ihr auf – auf die Knappheit, auf die Lage, auf den Abstand zwischen einem Prinzip und einem Menschen, dessen Finger eben ihre Hand gehalten hatten.
 
 „Was siehst du?“ fragte der Kollege.
 
-Eva antwortete nicht sofort.
-
-„Dass beide die Kapazität brauchen.“
+Eva brauchte einen Moment. „Dass beide die Kapazität brauchen.“
 
 „KORA priorisiert Nord.“
 
@@ -8821,65 +7395,23 @@ Eva antwortete nicht sofort.
 
 „Auch das.“
 
-Er sah zum Bett.
-
-„Und?“
-
-Eva öffnete die Abweichungsmaske.
-
-Zwei Wege erschienen.
+Er blickte zum Bett. „Und?“ Eva öffnete die Abweichungsmaske. Zwei Wege erschienen.
 
 **Medizinischen Gegenbeleg dokumentieren.**
 
 **Patientenspezifischen Wert-/Kontextgrund dokumentieren.**
 
-Sie klickte auf den ersten.
-
-Das Feld öffnete sich.
+Sie wählte den ersten.
 
 **Welcher konkrete medizinische Befund spricht gegen die Empfehlung?**
 
-Eva setzte den Cursor hinein.
+Der Cursor blinkte im leeren Feld. Evas Patient war schwer krank, aber KORA wusste das. Er verschlechterte sich, auch das war erfasst. Eva bemerkte ein angefangenes Wort und löschte es wieder.
 
-Sie schrieb nichts.
+Sie schloss den medizinischen Weg und öffnete den zweiten.
 
-Der lokale Patient war schwer krank.
+Die Hinweise waren knapp: Patientenwille, Therapieziel, relevante patientenspezifische Belastung oder ein anderer konkret benennbarer Wert-/Kontextgrund, den KORA nicht als Entscheidungswert abbildete.
 
-Das war kein Gegenbeleg. KORA wusste es.
-
-Er verschlechterte sich.
-
-Auch das war erfasst.
-
-Eva löschte ein Wort, das sie gar nicht bewusst begonnen hatte.
-
-Sie schloss den medizinischen Weg.
-
-Der zweite blieb.
-
-Wert-/Kontext.
-
-Eva öffnete ihn.
-
-Die Hinweise waren knapp.
-
-Patientenwille.
-
-Therapieziel.
-
-Relevante patientenspezifische Belastung oder ein anderer konkret benennbarer Wert-/Kontextgrund, den KORA nicht als Entscheidungswert abbildete.
-
-Eva wusste, was nicht genügte.
-
-Räumliche Nähe.
-
-Bestehende Behandlerbeziehung.
-
-Allgemeines unmittelbares Verantwortungsgefühl.
-
-Ihre eigenen Sätze.
-
-Ihre eigene Grenze.
+Eva kannte auch die Dinge, die nicht genügten: räumliche Nähe, bestehende Behandlerbeziehung, allgemeines unmittelbares Verantwortungsgefühl. Genau dort lagen ihre eigenen Sätze und ihre eigene Grenze.
 
 Sie ging zurück ans Bett.
 
@@ -8895,85 +7427,39 @@ Sie ging zurück ans Bett.
 
 Er schüttelte den Kopf.
 
-Eva wusste es bereits.
+Eva hatte mit diesen Antworten gerechnet. Sie fragte trotzdem, damit ihr nichts entging, nur weil das Ergebnis unbequem war.
 
-Sie fragte trotzdem.
+Der Griff nach ihrer Hand war kein Patientenwille zur Ressourcenpriorisierung. Seine Angst war real, seine Nähe war real, ihre Verantwortung für ihn ebenfalls. Keines davon erzeugte den patientenspezifischen Wertgrund, den die Regel verlangte.
 
-Nicht um die Regel zu erfüllen.
+Zurück am Bildschirm blieb das Feld leer.
 
-Um sicherzugehen, dass sie nichts übersprang, nur weil die Antwort unbequem war.
+Die Pflegekraft trat neben sie. „Was machst du?“
 
-Sie sah den Patienten an.
+Eva betrachtete die beiden Abweichungswege. „Ich beantrage die Abweichung.“
 
-Sein Griff nach ihrer Hand war kein Patientenwille zur Ressourcenpriorisierung.
+Nach einer kurzen Pause fragte die Pflegekraft: „Mit welchem Grund?“
 
-Seine Angst war real.
-
-Seine Nähe war real.
-
-Ihre Verantwortung für ihn war real.
-
-Nichts davon erzeugte den patientenspezifischen Wertgrund, den die Regel verlangte.
-
-Eva ging zurück zum Bildschirm.
-
-Das Feld blieb leer.
-
-Die Pflegekraft stand jetzt neben ihr.
-
-„Was machst du?“
-
-Eva sah auf die beiden Abweichungswege.
-
-„Ich beantrage die Abweichung.“
-
-Die Pflegekraft schwieg kurz.
-
-„Mit welchem Grund?“
-
-Eva blickte zum Bett.
-
-Dann auf Nord.
-
-„Ich habe keinen, der in die beiden Wege sauber passt.“
+Eva blickte erst zum Bett, dann auf Nord. „Ich habe keinen, der in die beiden Wege sauber passt.“
 
 „Dann warum?“
 
-Eva spürte wieder den Widerstand gegen die eigene Regel.
+Der Widerstand gegen die eigene Regel war sofort wieder da.
 
 „Weil ich sehen will, ob mein unmittelbarer Verantwortungsgrund einem zweiten Blick standhält.“
 
-Die Pflegekraft sah sie an, sagte aber nichts.
+Die Pflegekraft antwortete nicht.
 
-Eva ging zum Antrag zurück.
-
-Sie dokumentierte die lokale klinische Dringlichkeit vollständig. Kein erfundener Gegenbeleg. Kein umetikettierter Wertgrund.
-
-Dann bestätigte sie den Abweichungsantrag.
+Eva dokumentierte die lokale klinische Dringlichkeit vollständig. Sie erfand keinen Gegenbeleg und etikettierte auch keinen allgemeinen Impuls als Wertgrund um. Dann bestätigte sie den Abweichungsantrag.
 
 Das System prüfte die Fallklasse.
 
 **Zweitfreigabe erforderlich.**
 
-Die Liste verfügbarer berechtigter Personen öffnete sich.
+Die Liste der verfügbaren berechtigten Personen öffnete sich. An erster Stelle stand Nele Yilmaz.
 
-Eva sah auf den ersten Namen.
+Eva bewegte sich einen Moment nicht. Neles eigener Override hatte eine der Regeln ausgelöst. Früher hatte Eva sie vor sich geschützt, indem sie Entscheidungen geprüft und erklärt hatte. Jetzt war die Reihenfolge anders.
 
-Nele Yilmaz.
-
-Für einen Moment bewegte sie sich nicht.
-
-Nele, deren eigener Override eine der Regeln ausgelöst hatte.
-
-Nele, die Eva früher vor sich geschützt hatte, indem sie Entscheidungen geprüft und erklärt hatte.
-
-Jetzt war die Reihenfolge anders.
-
-Der Anruf wurde aufgebaut.
-
-Eva sah noch einmal zum Patienten.
-
-Dann nahm sie die Verbindung an.
+Der Anruf wurde aufgebaut. Eva sah noch einmal zum Patienten und nahm dann die Verbindung an.
 
 ## Kapitel 35 – Du siehst ihn nicht
 
@@ -9097,11 +7583,7 @@ Eva antwortete nicht. Die Pflegekraft rief ihren Namen. Eva hob die Hand.
 
 „Eine Minute.“
 
-Dann sah sie wieder zu Nele.
-
-„Es gibt keine Minute“, sagte Nele leise.
-
-Eva spürte einen kurzen Stich von Ärger.
+Dann sah sie wieder zu Nele. „Es gibt keine Minute“, sagte Nele leise. Eva spürte einen kurzen Stich von Ärger.
 
 „Das weiß ich.“
 
@@ -9143,7 +7625,7 @@ Eva spürte, wie sich etwas in ihr gegen die Aussage stemmte.
 
 „Ja.“
 
-„Und wenn ich keinen Platz habe—“
+„Und wenn ich keinen Platz habe–“
 
 „Eva.“
 
@@ -9171,7 +7653,7 @@ Eva atmete einmal langsam aus.
 
 Nele zögerte.
 
-„Eva—“
+„Eva–“
 
 „Nein.“
 
@@ -9511,165 +7993,115 @@ Eva schloss den Dienstplan. Dann die Stationsrückfrage. Die beiden Patienten li
 
 ## Kapitel 39 – Human Oversight
 
-Die Aufarbeitung brauchte vier Seiten für eine Entscheidung, die sich im Moment selbst wie wenige Sekunden angefühlt hatte. Eva saß mit Miriam in einem kleinen Sitzungsraum. Kein Vorstand. Keine große Runde. Auf dem Tisch lag die Rekonstruktion, daneben die technische Auswertung des Break-glass-Wegs.
+Die Aufarbeitung brauchte vier Seiten für eine Entscheidung, die sich im Moment selbst wie wenige Sekunden angefühlt hatte.
 
-Eva las die erste Seite. Zeitpunkt des Ressourcenkonflikts. Verfügbare klinische Daten. KORA-Priorisierung. Hohe Konfidenz für Nord. Sie blätterte weiter. Der Bericht bestätigte, dass die relevanten Daten verfügbar gewesen waren. Keine wesentliche nachträglich entdeckte Information, die Eva in diesem Moment nicht hätte kennen können.
+Eva saß mit Miriam in einem kleinen Sitzungsraum. Kein Vorstand, keine große Runde. Auf dem Tisch lagen die Rekonstruktion und die technische Auswertung des Break-glass-Wegs.
 
-Keine dokumentierte Datenlücke, die die Empfehlung erkennbar verzerrt hatte. Dann Evas Abweichungsantrag. Medizinischer Gegenbeleg: nicht ausreichend benennbar. Patientenspezifischer Wert-/Kontextgrund: nicht ausreichend benennbar. Zweitfreigabe durch Nele: verweigert. Begründung: geltende Kriterien nicht erfüllt. Eva las die Passage zweimal.
+Eva las die erste Seite: Zeitpunkt des Ressourcenkonflikts, verfügbare klinische Daten, KORA-Priorisierung, hohe Konfidenz für Nord. Der Bericht bestätigte, dass die relevanten Informationen verfügbar gewesen waren. Nachträglich war keine wesentliche Datenlücke gefunden worden, die Eva in diesem Moment nicht hätte kennen können.
 
-Neles Entscheidung wirkte auf Papier noch nüchterner als im Videofenster. Keine Mentorin. Keine jüngere Kollegin. Nur eine korrekt angewandte Schutzstufe. Eva blätterte weiter.
+Dann folgte ihr Abweichungsantrag. Medizinischer Gegenbeleg: nicht ausreichend benennbar. Patientenspezifischer Wert-/Kontextgrund: nicht ausreichend benennbar. Nele hatte die Zweitfreigabe verweigert, weil die geltenden Kriterien nicht erfüllt waren.
+
+Eva las die Passage zweimal.
+
+Neles Entscheidung wirkte auf Papier noch nüchterner als im Videofenster. Dort stand keine Mentorin und keine jüngere Kollegin, nur eine korrekt angewandte Schutzstufe.
+
+Auf der nächsten Seite hieß es:
 
 **Solo-Break-glass technisch verfügbar.**
 
-Darunter stand die Prüfung des Systems. Keine Sperre. Kein Timeout. Keine zusätzliche Freigabe. Eva hätte den Weg sofort nutzen können. Sie hatte ihn nicht genutzt. Auf der letzten Seite standen die Ausgänge. Lokaler Patient später verstorben.
+Keine Sperre, kein Timeout, keine zusätzliche Freigabe. Eva hätte den Weg sofort nutzen können und hatte es nicht getan.
 
-Entfernter Patient intensivmedizinisch aufgenommen, Kreislauf stabilisiert, lebend. Eva legte den Bericht flach auf den Tisch. Miriam saß ihr gegenüber.
+Auf der letzten Seite standen die Ausgänge. Der lokale Patient war später verstorben. Der Patient in Nord war intensivmedizinisch aufgenommen worden, sein Kreislauf hatte sich stabilisiert, er lebte.
 
-„Die formale Bewertung ist eindeutig“, sagte sie.
+Eva legte den Bericht flach auf den Tisch.
 
-Eva hob den Blick.
-
-„Human Oversight war gewährleistet. Du hattest die Informationen. Du konntest KORA prüfen. Du konntest eine Abweichung beantragen. Nele hat unabhängig geprüft. Und selbst nach ihrer Ablehnung hattest du einen technisch offenen Weg, sofort anders zu entscheiden.“
+„Die formale Bewertung ist eindeutig“, sagte Miriam. „Human Oversight war gewährleistet. Du hattest die Informationen, konntest KORA prüfen und eine Abweichung beantragen. Nele hat unabhängig geprüft. Selbst nach ihrer Ablehnung gab es einen technisch offenen Weg, sofort anders zu entscheiden.“
 
 „Mit automatischer persönlicher Nachprüfung.“
 
-„Ja.“
-
-Miriam wich dem Punkt nicht aus.
-
-„Der Weg war nicht kostenlos. Er war real.“
+„Ja. Der Weg war nicht kostenlos. Er war real.“
 
 Eva strich mit dem Daumen über die Zeile zum lokalen Ausgang.
 
 *Lokaler Patient später verstorben.*
 
-Faktisch korrekt. Vier Worte konnten den Raum nicht enthalten. Nicht die Atemunterstützung. Nicht das Team. Nicht das Ende des Alarmtons.
+Vier sachlich richtige Worte, in denen der Raum nicht vorkam: die Atemunterstützung, das Team, das Ende des Alarmtons.
 
 „Dann kann Falkenried schreiben, dass Freiheit erhalten und Sicherheit erhöht wurde.“
 
-Miriam lehnte sich zurück.
-
-„Falkenried kann schreiben, dass die Governance in diesem Fall so funktioniert hat, wie sie entworfen war.“
+Miriam lehnte sich zurück. „Falkenried kann schreiben, dass die Governance in diesem Fall so funktioniert hat, wie sie entworfen war.“
 
 „Das klingt vorsichtiger.“
 
 „Ist es auch.“
 
-Eva sah sie an.
+Eva hielt ihren Blick. „Aber die Überschrift wird trotzdem lauten: Human Oversight funktioniert.“
 
-„Aber das wird die Überschrift.“
+Miriam ließ sich mit der Antwort Zeit. „Wahrscheinlich.“
 
-„Welche?“
+Eva hatte keine Energie, sich darüber aufzuregen. Vielleicht war die Überschrift sogar korrekt. Vollständig war sie nicht.
 
-„Human Oversight funktioniert.“
+„Der lokale Patient ist tot, Nord lebt. Und jetzt sieht das System aus, als hätte es die richtige Entscheidung erzeugt.“
 
-Miriam antwortete nicht sofort.
-
-„Wahrscheinlich.“
-
-Eva nickte. Sie hatte keine Energie, sich darüber aufzuregen. Vielleicht war es sogar korrekt. Nur bedeutete korrekt nicht vollständig.
-
-„Der lokale Patient ist tot.“
-
-„Ja.“
-
-„Nord lebt.“
-
-„Ja.“
-
-„Und jetzt sieht das System aus, als hätte es die richtige Entscheidung erzeugt.“
-
-Miriam schüttelte den Kopf.
-
-„Nein.“
-
-Eva hob die Augenbrauen.
-
-„Die Empfehlung war ein Teil der Entscheidung. Die Governance ein anderer. Du hast entschieden.“
+Miriam schüttelte den Kopf. „Die Empfehlung war ein Teil der Entscheidung, die Governance ein anderer. Entschieden hast du.“
 
 „Indem ich nicht gedrückt habe.“
 
-„Auch Nicht-Nutzen eines offenen Wegs ist eine Entscheidung.“
+„Auch ein offener Weg, den man nicht nutzt, bleibt Teil der Entscheidung.“
 
-Eva sah auf den Bericht. Der Satz war sachlich. Er machte sie nicht wütend.
+Der Satz war sachlich. Er machte Eva nicht wütend.
 
-„Vielleicht war meine Entscheidung richtig.“
+„Vielleicht war meine Entscheidung richtig. Vielleicht sogar klar richtig.“
 
-„Möglich.“
+Miriam antwortete nicht.
 
-„Vielleicht sogar klar richtig.“
-
-Miriam sagte nichts. Eva wartete.
-
-„Du willst, dass ich widerspreche?“
+„Du willst, dass ich widerspreche?“ fragte sie schließlich.
 
 „Nein.“
 
-„Gut.“
-
-Eva schob den Bericht ein Stück von sich weg.
-
-„Und trotzdem sagt mir das nicht, dass die Ordnung richtig ist.“
+Eva schob den Bericht ein Stück von sich weg. „Und trotzdem beweist der Fall nicht, dass die Ordnung richtig ist.“
 
 „Nein.“
 
-Die Antwort kam ohne Zögern. Eva sah auf. Miriam fuhr fort.
+Die Antwort kam sofort.
 
-„Ein funktionierender Prozess ist kein moralischer Beweis.“
-
-Eva sagte nichts.
-
-„Das Überleben in Nord beweist nicht, dass KORA immer recht hat. Der Tod hier beweist nicht, dass du den Break-glass hättest benutzen müssen. Wir können prüfen, ob die Regeln eingehalten wurden. Wir können prüfen, ob du handeln konntest. Wir können prüfen, ob die Entscheidung auf der damals verfügbaren Grundlage tragfähig war.“
+Miriam beugte sich leicht vor. „Ein funktionierender Prozess ist kein moralischer Beweis. Das Überleben in Nord beweist nicht, dass KORA immer recht hat. Der Tod hier beweist auch nicht, dass du den Break-glass hättest benutzen müssen. Wir können prüfen, ob die Regeln eingehalten wurden, ob du handeln konntest und ob die Entscheidung auf der damals verfügbaren Grundlage tragfähig war.“
 
 „Und mehr?“
 
 „Mehr gibt uns dieser einzelne Fall nicht.“
 
-Eva lehnte sich zurück. Genau diese Begrenzung hatte sie früher selbst eingefordert. Wenn jemand aus einem guten Ausgang eine gute Entscheidung machen wollte. Wenn jemand aus einem schlechten Ausgang automatisch einen Fehler ableitete.
+Eva lehnte sich zurück. Genau diese Begrenzung hatte sie früher selbst eingefordert, wenn jemand aus einem guten Ausgang eine gute Entscheidung machen oder aus einem schlechten Ausgang automatisch einen Fehler ableiten wollte.
 
-Jetzt schützte dieselbe Logik eine Governance, die Eva noch immer als Machtverschiebung empfand.
+Jetzt schützte dieselbe Logik eine Governance, die sich für Eva noch immer wie eine Machtverschiebung anfühlte.
 
-„Ich hatte einen Knopf“, sagte sie.
+„Ich hatte einen Knopf und habe ihn nicht gedrückt. Damit ist bewiesen, dass ihr ihn mir gelassen habt.“
 
-„Ja.“
-
-„Und ich habe ihn nicht gedrückt.“
-
-„Ja.“
-
-„Damit ist bewiesen, dass ihr ihn mir gelassen habt.“
-
-Miriam sah kurz auf die technische Auswertung.
-
-„Technisch und formal: ja.“
+Miriam sah kurz auf die technische Auswertung. „Technisch und formal: ja.“
 
 „Und faktisch?“
 
-Miriam wartete. Eva merkte, dass die Frage größer war.
+Diesmal wartete Miriam.
 
-„Du konntest drücken“, sagte Miriam. „Aber natürlich war der Weg nicht neutral. Du wusstest, dass deine Entscheidung markiert und geprüft wird.“
+„Du konntest drücken. Aber der Weg war nicht neutral. Du wusstest, dass deine Entscheidung markiert und geprüft wird.“
 
 „Also beeinflusst die Governance.“
 
-„Ja.“
+„Natürlich.“
 
 „Dann ist die Freiheit nicht dieselbe wie vorher.“
 
-„Nein.“
-
-Eva sah sie an. Miriam blieb ruhig.
-
-„Das habe ich nie behauptet.“
+„Nein. Das habe ich nie behauptet.“
 
 „Institutionell klingt es oft so.“
 
 „Institutionen mögen klare Sätze.“
 
-Eva musste kurz lächeln. Es verschwand schnell. Miriam nahm den Bericht.
+Eva musste kurz lächeln. Es verschwand schnell.
 
-„Die Frage ist nicht, ob Governance Verhalten beeinflusst. Natürlich tut sie das. Die Frage ist, ob der Einfluss legitim, sichtbar und korrigierbar ist.“
+Miriam nahm den Bericht wieder an sich. „Die Frage ist nicht, ob Governance Verhalten beeinflusst. Das tut sie. Die Frage ist, ob dieser Einfluss legitim, sichtbar und korrigierbar ist.“
 
-Eva sagte: „Und wer entscheidet das?“
+„Und wer entscheidet das?“
 
 „Wir.“
 
@@ -9677,43 +8109,27 @@ Eva sagte: „Und wer entscheidet das?“
 
 „Sollte es auch nicht sein.“
 
-Für einen Moment war der Raum still. Eva sah wieder auf die beiden Ergebniszeilen. Nord lebte. Zentral nicht. Sie hätte gern eine Ordnung gehabt, in der daraus eine eindeutige Lehre folgte. Es gab keine.
+Für einen Moment war der Raum still. Eva betrachtete wieder die beiden Ergebniszeilen. Nord lebte, Zentral nicht. Sie hätte gern eine Ordnung gehabt, in der daraus eine eindeutige Lehre folgte. Die gab es nicht.
 
-„Was passiert mit KORA?“
+„Was ändert ihr jetzt?“
 
-„Nichts Grundsätzliches.“
+„Nichts Grundsätzliches. Zweitfreigabe, Wert-/Kontextweg und Break-glass bleiben.“
 
-„Mit der Zweitfreigabe?“
+Eva nickte. Keine neue Regel, keine letzte Verschärfung, aber auch kein Rückbau. Die Ordnung blieb dort stehen, wo sie im Finale funktioniert hatte – oder zumindest ihre eigene Funktionsprüfung bestanden hatte.
 
-„Bleibt.“
+Miriam schob Eva die letzte Seite hin. „Faktenrekonstruktion.“
 
-„Wert-/Kontextweg?“
+Die Abschlussformulierung stimmte. Eva unterschrieb. Unter der institutionellen Bewertung blieb ein optionales Kommentarfeld leer.
 
-„Bleibt.“
+„Nichts?“ fragte Miriam.
 
-„Break-glass?“
-
-„Bleibt.“
-
-Eva nickte. Keine neue Regel. Keine letzte Verschärfung. Auch kein Rückbau. Die Ordnung blieb dort stehen, wo sie im Finale funktioniert hatte. Oder zumindest dort, wo sie ihre eigene Funktionsprüfung bestanden hatte.
-
-Miriam schob Eva die letzte Seite hin.
-
-„Faktenrekonstruktion.“
-
-Eva las die Abschlussformulierung. Sie stimmte. Sie unterschrieb. Unter der institutionellen Bewertung stand ein optionales Kommentarfeld. Eva ließ es leer. Miriam sah darauf.
-
-„Nichts?“
-
-„Was soll ich schreiben?“
-
-„Wenn du etwas ergänzen willst.“
-
-Eva dachte an den Mann auf dem Bett. An Nord. An den Knopf. An Nele. An Laura.
+Eva dachte an den Mann auf dem Bett, an Nord, den Knopf, Nele und Laura.
 
 „Die Fakten reichen.“
 
-Miriam nahm die Seiten zusammen. Die Sitzung war beendet. Eva stand auf. An der Tür blieb sie kurz stehen.
+Miriam nahm die Seiten zusammen. Die Sitzung war beendet.
+
+An der Tür blieb Eva kurz stehen.
 
 „Miriam.“
 
@@ -9721,9 +8137,7 @@ Miriam nahm die Seiten zusammen. Die Sitzung war beendet. Eva stand auf. An der 
 
 „Wenn ihr daraus eine Erfolgsgeschichte macht, werde ich widersprechen.“
 
-Miriam nickte.
-
-„Dann sollten wir keine daraus machen.“
+Miriam nickte. „Dann sollten wir keine daraus machen.“
 
 Eva öffnete die Tür. Der Bericht war geschlossen. Der Patient, der vor ihr gestorben war, war es für sie nicht.
 
@@ -9731,31 +8145,19 @@ Eva öffnete die Tür. Der Bericht war geschlossen. Der Patient, der vor ihr ges
 
 Einige Tage später stand eine junge Ärztin in Evas Tür.
 
-Eva kannte sie aus zwei gemeinsamen Diensten. Gründlich. Schnell. Noch in dem Stadium, in dem jede schwierige Entscheidung ein wenig zu deutlich im Gesicht stand.
+Eva kannte sie aus zwei gemeinsamen Diensten: gründlich, schnell und noch in dem Stadium, in dem jede schwierige Entscheidung ein wenig zu deutlich im Gesicht stand.
 
 „Hast du kurz?“
 
-Eva sah auf die Uhr.
-
-„Wenn es wirklich kurz ist.“
+Eva sah auf die Uhr. „Wenn es wirklich kurz ist.“
 
 Die Ärztin kam herein und hielt ein Tablet in beiden Händen.
 
 „Ich will bei einem Fall von KORA abweichen.“
 
-Eva streckte die Hand aus.
+Eva streckte die Hand aus. Das Tablet wechselte zu ihr.
 
-Das Tablet wechselte zu ihr.
-
-Kein roter Netzwerkkonflikt.
-
-Keine Intensivkapazität zwischen zwei Standorten.
-
-Ein alltäglicherer klinischer Fall.
-
-Gerade deshalb blieb Eva aufmerksam.
-
-Die meisten Entscheidungen kamen nicht mit einem Alarmton.
+Es gab keinen roten Netzwerkkonflikt und keine Intensivkapazität, um die zwei Standorte konkurrierten. Der Fall war alltäglicher. Gerade deshalb blieb Eva aufmerksam; die meisten Entscheidungen kamen ohne Alarmton.
 
 Auf dem Flur wurde ein Wagen vorbeigeschoben. Jemand rief nach einer Blutabnahme. Ein Telefon klingelte zweimal und verstummte.
 
@@ -9765,99 +8167,43 @@ Eva öffnete die Empfehlung.
 
 „Hoch.“
 
-Sie scrollte durch die Einflussfaktoren.
-
-Der Patient war seit dem Morgen in Behandlung. Die bisherigen Maßnahmen waren dokumentiert. Verlauf und aktuelle Befunde standen in der Ansicht. Nichts daran wirkte wie ein Fall, der auf den ersten Blick nach einem Systemfehler schrie.
+Sie scrollte durch die Einflussfaktoren. Der Patient war seit dem Morgen in Behandlung, die bisherigen Maßnahmen waren dokumentiert, Verlauf und aktuelle Befunde standen in der Ansicht. Nichts deutete auf den ersten Blick auf einen Systemfehler.
 
 Die jüngere Ärztin trat näher an den Schreibtisch.
 
 „Er wirkt am Bett anders als hier.“
 
-Eva hob den Blick.
-
-„Anders wie?“
+Eva hob den Blick. „Anders wie?“
 
 „Stabiler. Ich glaube, dass die nächste Eskalation zu früh ist.“
 
-Eva sah wieder auf das Tablet.
+Eva blickte wieder auf das Tablet. Nicht der Fall kam ihr bekannt vor, die Formulierung war es: *Er wirkt anders.*
 
-Die Formulierung war vertraut.
+Früher hätte sie vielleicht sofort nach der Untersuchung gefragt, nach Atemarbeit, Haut, Bewusstsein, nach dem kleinen klinischen Detail, das in einer Kurve nicht auftauchte. Vielleicht hätte sie erklärt, dass Erfahrung am Bett nicht durch ein Modell ersetzt werde. Oder sie hätte auf die hohe Konfidenz verwiesen und daran erinnert, wofür KORA gebaut worden war.
 
-Nicht der Fall.
-
-Der Satz.
-
-*Er wirkt anders.*
-
-Früher hätte Eva an dieser Stelle vielleicht sofort nach der Untersuchung gefragt. Nach Atemarbeit, Haut, Bewusstsein, nach dem kleinen klinischen Detail, das in einer Kurve nicht auftauchte.
-
-Vielleicht hätte sie gesagt, dass Erfahrung am Bett nicht durch ein Modell ersetzt werde.
-
-Vielleicht hätte sie umgekehrt auf die hohe Konfidenz gezeigt und erklärt, dass KORA genau für solche Situationen gebaut worden war.
-
-Keiner dieser Sätze kam zuerst.
+Diesmal begann sie woanders.
 
 „Was hast du neu untersucht?“
 
-Die Ärztin nannte zwei Befunde.
+Die Ärztin nannte zwei Befunde. Eva suchte sie in der Ansicht. Einer war bereits dokumentiert, der andere stand in einem neuen Eintrag von vor wenigen Minuten. KORA hatte beide berücksichtigt.
 
-Eva suchte sie in der Ansicht.
+Die Ärztin folgte ihrem Blick. „Ich weiß.“
 
-Einer war bereits dokumentiert.
-
-Der andere stand in einem neuen Eintrag, wenige Minuten alt.
-
-KORA hatte ihn übernommen.
-
-Die Ärztin sah, wohin Eva blickte.
-
-„Ich weiß.“
-
-„Gut.“
-
-Eva scrollte weiter.
-
-„Patientenwille? Therapieziel? Irgendetwas, das die Empfehlung als Entscheidungswert nicht abbildet?“
+„Gut. Patientenwille? Therapieziel? Irgendetwas, das die Empfehlung als Entscheidungswert nicht abbildet?“
 
 „Nicht dass ich weiß.“
 
-Die Ärztin begann bereits wieder zu erklären.
+Die Ärztin setzte schon wieder an. „Ich weiß, dass die Empfehlung stark ist, aber ich habe bei ihm das Gefühl, dass –“
 
-„Ich weiß, dass die Empfehlung stark ist, aber ich habe bei ihm das Gefühl, dass—“
+Eva hob einen Finger, und die Ärztin verstummte.
 
-Eva hob einen Finger.
+Gefühle waren nicht verboten, und KORA hatte nicht das letzte Wort. Eva suchte nur nach der Stelle, an der Fallwirklichkeit und Modell tatsächlich auseinandergehen könnten: ein Befund, eine Entwicklung, eine Information, die mehr beschrieb als die Überzeugung der Person, die gerade entscheiden wollte.
 
-Die Ärztin stoppte.
+Auf dem Flur öffnete sich eine Tür. Die Ärztin wartete.
 
-Nicht weil Gefühle verboten waren.
+Eva musste weder Nord noch den Mann aus ihrer Notaufnahme aufrufen. Die Erinnerung brauchte keinen eigenen Auftritt mehr, um etwas verändert zu haben.
 
-Nicht weil KORA das letzte Wort hatte.
-
-Eva legte das Tablet nicht weg.
-
-Sie suchte nach der Stelle, an der Fallwirklichkeit und Modell auseinandergehen könnten.
-
-Ein Befund.
-
-Eine Entwicklung.
-
-Eine Information.
-
-Etwas, das nicht nur die Überzeugung der Person beschrieb, die gerade entscheiden wollte.
-
-Auf dem Flur öffnete sich eine Tür.
-
-Die Ärztin wartete.
-
-Eva dachte nicht an Nord.
-
-Nicht bewusst.
-
-Auch nicht an den Mann, der in ihrer Notaufnahme gestorben war.
-
-Die Erinnerung musste nicht jedes Mal in den Raum gestellt werden, um etwas verändert zu haben.
-
-Eva sah vom Tablet auf.
+Sie sah vom Tablet auf.
 
 „Was sieht KORA nicht?“
 

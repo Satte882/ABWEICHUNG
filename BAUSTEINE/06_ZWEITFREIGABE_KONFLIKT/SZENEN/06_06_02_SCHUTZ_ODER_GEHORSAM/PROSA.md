@@ -1,7 +1,7 @@
 # Prosa – S013
 
 scene_id: S013
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -167,13 +167,7 @@ Nele nahm den Becher wieder auf.
 
 Ein weiterer Fall erschien in der Konfliktansicht. Diesmal keine Zweitfreigabe. KORA zeigte niedrigere Konfidenz. Der Arzt konnte selbst abweichen.
 
-Eva bemerkte den Unterschied sofort.
-
-Der gleiche Bildschirm.
-
-Der gleiche Override-Knopf.
-
-Aber eine andere Schwelle der institutionellen Aufmerksamkeit.
+Eva bemerkte den Unterschied sofort. Der gleiche Bildschirm. Der gleiche Override-Knopf. Aber eine andere Schwelle der institutionellen Aufmerksamkeit.
 
 Vor einigen Monaten hätte der Streit KORA gegolten: Maschine gegen Arzt, Empfehlung gegen klinisches Urteil.
 

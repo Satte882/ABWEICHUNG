@@ -1,7 +1,7 @@
 # Prosa – S002
 
 scene_id: S002
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -125,17 +125,7 @@ Eva sah den Mann noch einmal an.
 
 Das war der Teil, den man leicht vergaß, wenn Entscheidungen später in Kurven verschwanden: Vor ihr lag nicht der Beweis einer These. Vor ihr lag ein Patient, der nach einer gefährlichen Nacht Zeit bekommen hatte.
 
-Sie war erleichtert.
-
-Sie ließ die Erleichterung zu.
-
-Für ein paar Sekunden wenigstens.
-
-Nele stand noch neben ihr.
-
-„Also?“ fragte sie.
-
-Eva wusste, was sie meinte.
+Sie war erleichtert. Sie ließ die Erleichterung zu. Für ein paar Sekunden wenigstens. Nele stand noch neben ihr. „Also?“ fragte sie. Eva wusste, was sie meinte.
 
 „Also was?“
 
@@ -205,11 +195,7 @@ Es wäre leicht gewesen, die Nacht damit abzuschließen.
 
 Auf dem Flur vibrierte Evas Telefon. Zwei neue Nachrichten. Ein Rückruf. Ein anderer Fall wartete.
 
-Sie steckte das Telefon wieder ein.
-
-„Kommst du?“ fragte Nele.
-
-Eva nickte.
+Sie steckte das Telefon wieder ein. „Kommst du?“ fragte Nele. Eva nickte.
 
 An der Tür sah sie noch einmal zurück.
 

@@ -1,7 +1,7 @@
 # Prosa – S018
 
 scene_id: S018
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -11,11 +11,7 @@ Eva blieb länger im Büro als nötig.
 
 Der Flur vor ihrer Tür war fast leer. Irgendwo lief noch ein Drucker. Das Licht im Besprechungsraum gegenüber war bereits aus.
 
-Auf ihrem Bildschirm stand das Override-Register.
-
-Der Streit mit Miriam war vorbei.
-
-Der Satz daraus nicht.
+Auf ihrem Bildschirm stand das Override-Register. Der Streit mit Miriam war vorbei. Der Satz daraus nicht.
 
 *Wenn wir einzelne Ärzte nach ihren Abweichungen beurteilen, müssen wir wenigstens wissen, ob diese Abweichungen tatsächlich schlechter waren.*
 
@@ -35,11 +31,7 @@ Natürlich erinnerte sie sich nicht an jede Abweichung. Die meisten waren keine 
 
 Trotzdem hatte sie in den letzten Wochen über ihre Overrides gesprochen, als wären sie eine klare Kategorie ihrer Erfahrung.
 
-Eva sortierte nach Datum.
-
-Der Cold-Open-Fall erschien zwischen vielen gewöhnlicheren Einträgen.
-
-Sie übersprang ihn zunächst.
+Eva sortierte nach Datum. Der Cold-Open-Fall erschien zwischen vielen gewöhnlicheren Einträgen. Sie übersprang ihn zunächst.
 
 Stattdessen begann sie mit den Fällen, an die sie sich gern erinnerte.
 
@@ -49,21 +41,11 @@ Ein anderer, bei dem die spätere Entwicklung ihre Einschätzung bestätigt hatt
 
 Ein Fall, in dem ein Kollege im Review gesagt hatte: guter klinischer Blick.
 
-Eva markierte drei.
-
-Dann hielt sie inne.
-
-Sie sah die markierten Zeilen an.
+Eva markierte drei. Dann hielt sie inne. Sie sah die markierten Zeilen an.
 
 Drei Entscheidungen, die sie innerhalb von Sekunden aus einer viel längeren Liste herausgezogen hatte.
 
-Warum genau diese?
-
-Weil sie gut ausgegangen waren.
-
-Weil jemand ihre Einschätzung bestätigt hatte.
-
-Weil sie sich an die Patienten erinnerte.
+Warum genau diese? Weil sie gut ausgegangen waren. Weil jemand ihre Einschätzung bestätigt hatte. Weil sie sich an die Patienten erinnerte.
 
 Wenn sie Jan genau diese Fälle schickte, bewies sie nichts.
 
@@ -73,21 +55,11 @@ Eva löschte die Markierungen.
 
 Dann setzte sie den Filter auf die komplette relevante Fallgruppe.
 
-High confidence getrennt vom Rest.
-
-Ressourcenentscheidungen separat.
-
-Eskalationen separat.
+High confidence getrennt vom Rest. Ressourcenentscheidungen separat. Eskalationen separat.
 
 Nur Fälle mit ausreichend vollständigen Daten zum damaligen Entscheidungszeitpunkt.
 
-Die Zahl wurde kleiner.
-
-Unangenehm überschaubar.
-
-Eva öffnete den ersten Fall.
-
-Sie erinnerte sich kaum.
+Die Zahl wurde kleiner. Unangenehm überschaubar. Eva öffnete den ersten Fall. Sie erinnerte sich kaum.
 
 Eine Abweichung, die damals vernünftig gewirkt hatte. Kein schwerer Ausgang. Keine Beschwerde. Kein Gespräch, das im Gedächtnis geblieben war.
 
@@ -95,13 +67,7 @@ Sie las die damalige Begründung.
 
 Konkreter als manche Einträge im Register. Dünner als sie erwartet hätte, wenn man sie unmittelbar nach dem Fall gefragt hätte.
 
-Der spätere Verlauf war unauffällig.
-
-Eva schloss ihn.
-
-Nächster.
-
-Auch kaum Erinnerung.
+Der spätere Verlauf war unauffällig. Eva schloss ihn. Nächster. Auch kaum Erinnerung.
 
 Ein Ressourcenfall. Ihr Patient hatte lokal den gewünschten Verlauf genommen. Eva konnte sich an das Bett nicht erinnern, nur an eine kurze Diskussion im Team.
 
@@ -113,11 +79,7 @@ Das sollte Jan tun, mit denselben Regeln für alle Fälle.
 
 Eva bemerkte, wie stark der Impuls war, vorher zu prüfen, was sie erwartete.
 
-Sie zwang sich, weiterzugehen.
-
-Dritter Fall.
-
-Den kannte sie.
+Sie zwang sich, weiterzugehen. Dritter Fall. Den kannte sie.
 
 Ein guter Override, hätte sie vor einer Stunde gesagt.
 
@@ -157,29 +119,11 @@ Sie hätte ihn abschwächen können.
 
 Alles Begriffe, mit denen man sich später erklären konnte, dass ein Ergebnis nie wirklich gegen einen selbst gerichtet gewesen war.
 
-Sie schrieb keinen davon.
-
-Stattdessen öffnete sie die Auswahl der Empfänger.
-
-Miriam setzte sie in Kopie.
-
-Eva hielt inne.
+Sie schrieb keinen davon. Stattdessen öffnete sie die Auswahl der Empfänger. Miriam setzte sie in Kopie. Eva hielt inne.
 
 Der Schritt machte aus der privaten Gegenprobe einen institutionell sichtbaren Auftrag.
 
-Sie schickte die Nachricht trotzdem.
-
-Für einige Sekunden passierte nichts.
-
-Eva sah wieder auf die Liste.
-
-Ihr Name stand über jeder Zeile.
-
-Nicht als Beschuldigte.
-
-Als Entscheiderin.
-
-Miriams Antwort kam zuerst.
+Sie schickte die Nachricht trotzdem. Für einige Sekunden passierte nichts. Eva sah wieder auf die Liste. Ihr Name stand über jeder Zeile. Nicht als Beschuldigte. Als Entscheiderin. Miriams Antwort kam zuerst.
 
 **Einverstanden. Keine Vorgabe ans Ergebnis.**
 
@@ -191,15 +135,7 @@ Jan schrieb wenige Minuten später.
 
 **Verstanden. Ich definiere die Kohorte transparent und schicke dir die Auswertung mit Grenzen, nicht nur die Kennzahl.**
 
-Eva antwortete nicht sofort.
-
-Sie öffnete den Cold-Open-Fall.
-
-Lokaler Verlauf.
-
-Intensivaufnahme.
-
-Stabilisierung.
+Eva antwortete nicht sofort. Sie öffnete den Cold-Open-Fall. Lokaler Verlauf. Intensivaufnahme. Stabilisierung.
 
 Sie kannte die zweite Seite inzwischen ebenfalls. Nord. Verzögerung. Tod. Gegenverlauf offen.
 

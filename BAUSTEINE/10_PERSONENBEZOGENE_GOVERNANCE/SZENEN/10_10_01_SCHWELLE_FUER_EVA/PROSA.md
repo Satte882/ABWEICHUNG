@@ -1,7 +1,7 @@
 # Prosa – S020
 
 scene_id: S020
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -11,11 +11,7 @@ Die Nachricht trug keinen dramatischen Betreff.
 
 **Anpassung Zweitfreigabe – individuelle Risikoklasse.**
 
-Eva öffnete sie zwischen zwei Übergaben.
-
-Sie erwartete eine allgemeine Information zum Pilot.
-
-Ihr Name stand in der zweiten Zeile.
+Eva öffnete sie zwischen zwei Übergaben. Sie erwartete eine allgemeine Information zum Pilot. Ihr Name stand in der zweiten Zeile.
 
 **Dr. Eva Riedel**
 
@@ -23,23 +19,11 @@ Darunter die Begründung.
 
 Wiederholt ungünstige Bilanz bei high-confidence Ressourcenabweichungen. Ausreichende Fallzahl für eine zeitlich begrenzte personenbezogene Schwellenanpassung. Fallmix berücksichtigt. Begrenzung auf die betroffene Entscheidungsklasse. Review nach festgelegtem Zeitraum. Anfechtungsmöglichkeit.
 
-Eva las langsam.
-
-Nicht weil der Text kompliziert war.
-
-Weil er zu sauber war.
-
-Sie schloss die Nachricht nicht.
+Eva las langsam. Nicht weil der Text kompliziert war. Weil er zu sauber war. Sie schloss die Nachricht nicht.
 
 Eine Pflegekraft kam an den Arbeitsplatz und fragte nach einer Freigabe für einen anderen Vorgang. Eva beantwortete die Frage, unterschrieb und öffnete danach sofort wieder dieselbe Zeile.
 
-Ihr Name.
-
-Nicht als Bearbeiterin.
-
-Als Regelmerkmal.
-
-Eva klickte auf die Begründung.
+Ihr Name. Nicht als Bearbeiterin. Als Regelmerkmal. Eva klickte auf die Begründung.
 
 Die Fallgruppe aus Jans Analyse lag darunter. Keine neue Statistik. Keine überraschende Verschlechterung. Genau die Daten, die sie selbst angefordert hatte.
 
@@ -47,15 +31,7 @@ Das machte es schwer, sich über die Grundlage zu empören.
 
 Sie suchte trotzdem nach dem Punkt, an dem aus Patientensicherheit eine Statusstrafe wurde.
 
-Ein einzelner Fehlfall reichte nicht.
-
-Die Regel galt nicht unbegrenzt.
-
-Sie griff nicht bei jeder KORA-Empfehlung.
-
-Low confidence blieb außen vor.
-
-Andere Entscheidungsklassen ebenfalls.
+Ein einzelner Fehlfall reichte nicht. Die Regel galt nicht unbegrenzt. Sie griff nicht bei jeder KORA-Empfehlung. Low confidence blieb außen vor. Andere Entscheidungsklassen ebenfalls.
 
 Es gab einen festen Reviewtermin und einen Widerspruchsweg.
 
@@ -89,11 +65,7 @@ Eva las die Antwort während einer kurzen Pause vor dem nächsten Gespräch.
 
 Mehr gab es an diesem Tag zwischen ihnen dazu nicht zu sagen.
 
-Gerade das machte die Sache schwerer.
-
-Miriam musste Eva nicht überzeugen.
-
-Die Daten hatten die Vorarbeit erledigt.
+Gerade das machte die Sache schwerer. Miriam musste Eva nicht überzeugen. Die Daten hatten die Vorarbeit erledigt.
 
 Am nächsten Morgen öffnete Eva ihre aktive Regelansicht.
 
@@ -109,11 +81,7 @@ Und die von Eva verlangte Grenze:
 
 **Keine automatische Übertragung auf andere Entscheidungsklassen.**
 
-Eva ließ die Seite offen.
-
-Noch lag kein konkreter Override-Fall darunter.
-
-Trotzdem war die Veränderung real.
+Eva ließ die Seite offen. Noch lag kein konkreter Override-Fall darunter. Trotzdem war die Veränderung real.
 
 Sie klickte auf ihr Profil und wieder zurück.
 
@@ -185,13 +153,7 @@ Aber sie standen nun gegen etwas, das Eva selbst verlangt hatte: Wenn KORA in be
 
 Die Regel machte daraus zum ersten Mal eine persönliche Konsequenz.
 
-Eva öffnete die Ansicht erneut.
-
-Der nächste Patient würde neu sein.
-
-Seine Krankheit würde neu sein.
-
-Seine Werte würden neu sein.
+Eva öffnete die Ansicht erneut. Der nächste Patient würde neu sein. Seine Krankheit würde neu sein. Seine Werte würden neu sein.
 
 Die Bedingung, unter der Eva bei ihm handeln durfte, kam aus alten Entscheidungen.
 

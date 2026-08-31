@@ -1,7 +1,7 @@
 # Prosa – S023
 
 scene_id: S023
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -31,7 +31,7 @@ In Gedanken hatte sie Antworten ausprobiert, obwohl sie sich vorgenommen hatte, 
 
 Keine dieser Antworten passte jetzt in den Raum.
 
-„Damals hatte ich einen Patienten vor mir, der—“
+„Damals hatte ich einen Patienten vor mir, der–“
 
 „Ich weiß.“
 
@@ -55,25 +55,7 @@ Eva nickte.
 
 Im Nebenraum fiel etwas Metallisches zu Boden. Ein kurzer Schlag. Jemand sagte etwas, Schritte folgten, dann war es wieder still.
 
-Eva blickte auf die Zeitleiste.
-
-Sie kannte die Reihenfolge ohne Papier.
-
-Ihr Patient verschlechterte sich.
-
-KORA priorisierte Nord.
-
-Sie prüfte erneut.
-
-Sie überschrieb.
-
-Zentral erhielt die Intensivkapazität.
-
-Nord wartete.
-
-Ihr Patient stabilisierte sich.
-
-Lauras Vater starb später.
+Eva blickte auf die Zeitleiste. Sie kannte die Reihenfolge ohne Papier. Ihr Patient verschlechterte sich. KORA priorisierte Nord. Sie prüfte erneut. Sie überschrieb. Zentral erhielt die Intensivkapazität. Nord wartete. Ihr Patient stabilisierte sich. Lauras Vater starb später.
 
 Die Folge war einfach zu erzählen. Die Entscheidung war es nie gewesen.
 
@@ -83,11 +65,7 @@ Laura schloss für einen Moment die Augen.
 
 „Das war nicht meine Frage.“
 
-Eva hörte den eigenen Satz nachhallen.
-
-Er war korrekt.
-
-Er war auch ein Ausweg.
+Eva hörte den eigenen Satz nachhallen. Er war korrekt. Er war auch ein Ausweg.
 
 „Ich weiß.“
 
@@ -125,13 +103,7 @@ Und trotzdem traf der Satz etwas, das die Datenansicht nicht ausdrückte.
 
 Eva erinnerte sich an die Hand des Mannes in Zentral. An seine Maske. An die feuchte Haut. An die Pause zwischen zwei Atemzügen.
 
-Von Nord hatte sie keine solche Erinnerung.
-
-„Ich wusste, dass er existiert“, sagte sie.
-
-Laura wartete.
-
-Eva sah auf das unberührte Wasserglas.
+Von Nord hatte sie keine solche Erinnerung. „Ich wusste, dass er existiert“, sagte sie. Laura wartete. Eva sah auf das unberührte Wasserglas.
 
 „Ich habe ihn nicht gesehen.“
 
@@ -197,15 +169,7 @@ Ihr Vater hatte keinen Platz in Evas Erinnerung aus jener Nacht.
 
 Er hatte nur einen Platz in der späteren Rekonstruktion.
 
-Das war der Punkt.
-
-„Ich weiß es nicht“, sagte Eva.
-
-Laura bewegte sich nicht.
-
-Die Patientenfürsprache schrieb nichts auf.
-
-Eva ließ den Satz stehen.
+Das war der Punkt. „Ich weiß es nicht“, sagte Eva. Laura bewegte sich nicht. Die Patientenfürsprache schrieb nichts auf. Eva ließ den Satz stehen.
 
 „Das ist die ehrlichste Antwort, die ich Ihnen geben kann.“
 
@@ -335,10 +299,6 @@ Laura nahm ihr die Entscheidung ab.
 
 „Finden Sie die Antwort.“
 
-Dann ging sie.
-
-Eva blieb im Raum zurück.
-
-Auf dem Tisch stand Lauras halbvolles Glas.
+Dann ging sie. Eva blieb im Raum zurück. Auf dem Tisch stand Lauras halbvolles Glas.
 
 Die Frage war geblieben.

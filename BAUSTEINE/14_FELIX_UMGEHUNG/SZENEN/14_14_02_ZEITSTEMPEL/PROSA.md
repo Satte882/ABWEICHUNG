@@ -1,7 +1,7 @@
 # Prosa – S029
 
 scene_id: S029
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -93,17 +93,7 @@ Jan markierte die Stelle, an der im Datensatz die eigentliche formale Entscheidu
 
 Er ließ KORA erneut mit der jeweils damaligen Datenlage rechnen.
 
-Die Konfidenz lag jetzt niedriger.
-
-Knapp unter der Schwelle.
-
-Kein Zweitreview.
-
-Eva trat noch näher an den Bildschirm.
-
-Zwei Zeitpunkte.
-
-Zwei unterschiedliche Governancefolgen.
+Die Konfidenz lag jetzt niedriger. Knapp unter der Schwelle. Kein Zweitreview. Eva trat noch näher an den Bildschirm. Zwei Zeitpunkte. Zwei unterschiedliche Governancefolgen.
 
 Dazwischen eine reale Behandlung und reale bessere Werte.
 
@@ -145,39 +135,15 @@ Jan drehte sich vom Bildschirm zu ihr.
 
 „Oft genug, dass ein einzelner Zeitstempel nichts beweist.“
 
-Miriam fragte: „Und deshalb die Vergleichsfälle?“
-
-Jan nickte.
-
-Er öffnete eine zweite Ansicht.
-
-Mehrere Verläufe erschienen untereinander.
-
-Nicht viele.
-
-Genug.
+Miriam fragte: „Und deshalb die Vergleichsfälle?“ Jan nickte. Er öffnete eine zweite Ansicht. Mehrere Verläufe erschienen untereinander. Nicht viele. Genug.
 
 Eva erkannte das Muster, bevor Jan es erklärte.
 
-Klinischer Plan außerhalb Intensiv.
-
-Intervention.
-
-Vorübergehende Besserung.
-
-Formale Entscheidung erst nach dem günstigeren Snapshot.
+Klinischer Plan außerhalb Intensiv. Intervention. Vorübergehende Besserung. Formale Entscheidung erst nach dem günstigeren Snapshot.
 
 KORA zu diesem späteren Zeitpunkt unterhalb der Schwelle.
 
-Keine Zweitfreigabe.
-
-„Gleicher Arzt“, sagte Miriam.
-
-Eva sah auf den Namen.
-
-Felix.
-
-Sie klickte einen der Vergleichsfälle an.
+Keine Zweitfreigabe. „Gleicher Arzt“, sagte Miriam. Eva sah auf den Namen. Felix. Sie klickte einen der Vergleichsfälle an.
 
 „Hier war der Patientenausgang gut.“
 
@@ -303,7 +269,7 @@ Eva schloss die Vergleichsansicht.
 
 „Ich rede zuerst mit Felix.“
 
-„Nicht allein, wenn du—“
+„Nicht allein, wenn du–“
 
 „Doch.“
 
@@ -315,12 +281,6 @@ Der Raum wurde wieder heller, als Jan den Bildschirm aus dem Präsentationsmodus
 
 Auf dem Tisch lagen drei Ausdrucke, die alles belegten, was Eva für das Gespräch brauchte.
 
-Nicht seine Motivation.
-
-Nicht die Schuld am Patientenausgang.
-
-Nur den Mechanismus.
-
-Diesmal war ihr Misstrauen kein Gefühl mehr.
+Nicht seine Motivation. Nicht die Schuld am Patientenausgang. Nur den Mechanismus. Diesmal war ihr Misstrauen kein Gefühl mehr.
 
 Die Absicht musste Felix selbst hinzufügen.

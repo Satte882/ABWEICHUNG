@@ -137,11 +137,7 @@ Was die Darstellung nicht beseitigte, war der Unterschied zwischen Wissen und N�
 
 Eva sah zum Bett. Der Mann vor ihr rang weiter gegen die Atemunterstützung. Dann blickte sie zurück auf die rechte Spalte. Nord blieb ein Verlauf auf einem Bildschirm, und sie zwang sich, ihn trotzdem als Patienten zu lesen.
 
-Die Berechnung lief.
-
-Eine Sekunde. Noch eine.
-
-„Eva?“ fragte die Pflegekraft.
+Die Berechnung lief. Eine Sekunde. Noch eine. „Eva?“ fragte die Pflegekraft.
 
 „Ich sehe es.“
 

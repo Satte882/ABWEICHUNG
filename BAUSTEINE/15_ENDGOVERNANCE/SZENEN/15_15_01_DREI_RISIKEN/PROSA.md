@@ -1,7 +1,7 @@
 # Prosa – S031
 
 scene_id: S031
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -15,15 +15,7 @@ Auf der ersten Folie standen nur drei Zeilen.
 
 **Umgangene Zweitfreigabe.**
 
-Miriam hatte keine Namen daneben geschrieben.
-
-Eva brauchte sie nicht.
-
-Die erste Zeile gehörte ihr.
-
-Die zweite Nele.
-
-Die dritte Felix.
+Miriam hatte keine Namen daneben geschrieben. Eva brauchte sie nicht. Die erste Zeile gehörte ihr. Die zweite Nele. Die dritte Felix.
 
 Am langen Tisch lagen Ausdrucke des SOP-Entwurfs. Ein Vorstandsmitglied blätterte bereits darin, während Miriam noch die erste Folie stehen ließ.
 
@@ -35,15 +27,7 @@ Eva sah auf die Begriffe.
 
 Auf einer Folie passten die Ereignisse sauber nebeneinander. In Evas Erinnerung hatten sie Gesichter.
 
-Laura Berg.
-
-Nele nach dem Schadensfall.
-
-Felix an ihrer Bürotür.
-
-Miriam wechselte weiter.
-
-Die nächste Folie war dichter.
+Laura Berg. Nele nach dem Schadensfall. Felix an ihrer Bürotür. Miriam wechselte weiter. Die nächste Folie war dichter.
 
 Entscheidungszeitpunkte sollten künftig nicht mehr ausschließlich aus dem manuell gesetzten Zeitpunkt übernommen werden. Relevante Prozesssignale konnten eine frühere faktische Weichenstellung sichtbar machen: Anordnungen, Ressourcenreservierungen, Therapieentscheidungen, dokumentierte Planwechsel.
 
@@ -215,11 +199,7 @@ Die Diskussion ging noch eine Weile weiter. Formulierungen wurden verschoben. Ei
 
 Am Ende lag die SOP in einer Fassung vor, die niemand für perfekt hielt und niemand mehr grundsätzlich blockierte.
 
-Sie wurde beschlossen.
-
-Papiere wurden eingesammelt. Termine genannt. Zuständigkeiten verteilt.
-
-Der nächste Tagesordnungspunkt wartete bereits.
+Sie wurde beschlossen. Papiere wurden eingesammelt. Termine genannt. Zuständigkeiten verteilt. Der nächste Tagesordnungspunkt wartete bereits.
 
 Eva blieb einen Moment sitzen, nachdem die erste Person aufgestanden war.
 

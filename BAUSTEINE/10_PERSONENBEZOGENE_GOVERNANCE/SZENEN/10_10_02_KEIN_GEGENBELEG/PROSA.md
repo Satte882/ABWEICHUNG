@@ -1,7 +1,7 @@
 # Prosa – S021
 
 scene_id: S021
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -31,11 +31,7 @@ Der Patient antwortete ruhig. Er wirkte erschöpft, aber nicht akut bedroht. Eva
 
 Zurück am Bildschirm war ihr erster Eindruck noch da.
 
-Zu aggressiv.
-
-Sie öffnete das Override-Feld.
-
-Der neue Hinweis erschien direkt darunter.
+Zu aggressiv. Sie öffnete das Override-Feld. Der neue Hinweis erschien direkt darunter.
 
 **Individuelle Zweitfreigabe erforderlich – high-confidence Ressourcen-/Eskalationsklasse.**
 
@@ -77,11 +73,7 @@ Sie las das Wort noch einmal.
 
 Es war genau die Art Formulierung, die sie Wochen zuvor im Override-Register kritisiert hatte.
 
-Eva öffnete die Einflussfaktoren von KORA.
-
-Der aktuelle Kreislaufzustand war berücksichtigt.
-
-Die Laborentwicklung ebenfalls.
+Eva öffnete die Einflussfaktoren von KORA. Der aktuelle Kreislaufzustand war berücksichtigt. Die Laborentwicklung ebenfalls.
 
 Die Verbesserung, auf die Eva sich innerlich stützte, stand dort. Nicht versteckt. Nicht verspätet.
 
@@ -161,19 +153,7 @@ Nach etwas, das die Empfehlung in diesem konkreten Fall schwächte.
 
 Sie prüfte den aktuellen Zustand erneut. Fragte nach einer Veränderung, die zuvor nicht dokumentiert war. Kontrollierte, ob ein Therapieziel oder eine patientenspezifische Information existierte, die KORA nicht abbildete.
 
-Nichts davon änderte die Lage entscheidend.
-
-Der Patient sah stabil aus.
-
-Das war real.
-
-KORA wusste es.
-
-Zurück am Arbeitsplatz blieb das Feld leer.
-
-Eva setzte sich.
-
-Sie ärgerte sich über die Regel.
+Nichts davon änderte die Lage entscheidend. Der Patient sah stabil aus. Das war real. KORA wusste es. Zurück am Arbeitsplatz blieb das Feld leer. Eva setzte sich. Sie ärgerte sich über die Regel.
 
 Noch mehr ärgerte sie sich darüber, dass die Regel gerade funktionierte.
 
@@ -229,11 +209,7 @@ Sie ging den Entscheidungszeitpunkt durch.
 
 Ihr erster Impuls war noch nachvollziehbar. Der Patient hatte tatsächlich stabiler gewirkt. In einem low-confidence Fall hätte dieser Eindruck zusammen mit einem konkreten Verlauf vielleicht genügt, um weitere Beobachtung zu vertreten.
 
-Hier war die Lage anders.
-
-KORA war hochkonfident.
-
-Die relevanten Daten waren vollständig.
+Hier war die Lage anders. KORA war hochkonfident. Die relevanten Daten waren vollständig.
 
 Der von Eva bevorzugte Gegenpunkt war im Modell bereits enthalten.
 
@@ -255,12 +231,6 @@ Die neue Schwelle hatte sie gezwungen, den Satz zu vervollständigen:
 
 *Ich entscheide anders, weil …*
 
-Das Weil hatte nicht gehalten.
-
-Eva schloss den Fall.
-
-Das fühlte sich wie Machtverlust an.
-
-Und wie eine Hilfe.
+Das Weil hatte nicht gehalten. Eva schloss den Fall. Das fühlte sich wie Machtverlust an. Und wie eine Hilfe.
 
 Beides gleichzeitig war schwerer auszuhalten als ein klares Verbot.

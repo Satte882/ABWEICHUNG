@@ -1,7 +1,7 @@
 # Prosa – S027
 
 scene_id: S027
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -89,11 +89,7 @@ Eva lehnte sich zurück.
 
 „Ja.“
 
-Eva musste fast lachen.
-
-Sie tat es nicht.
-
-Auf dem Bildschirm blinkte weiter der Cursor.
+Eva musste fast lachen. Sie tat es nicht. Auf dem Bildschirm blinkte weiter der Cursor.
 
 „Mein Problem ist duty-to-care.“
 
@@ -183,15 +179,7 @@ Aus dem Nebenraum kam das Klacken einer Tastatur. Dann ein Stuhl, der über den 
 
 „Habe ich.“
 
-Miriam wartete.
-
-Eva dachte an Felix.
-
-An Nele.
-
-An ihre eigene Bilanz.
-
-An Laura.
+Miriam wartete. Eva dachte an Felix. An Nele. An ihre eigene Bilanz. An Laura.
 
 „Und ich glaube immer noch, dass der Arzt am Bett verantwortlich ist.“
 
@@ -201,21 +189,11 @@ Eva schüttelte den Kopf.
 
 „Nein. Verantwortung heißt nicht automatisch Vorrang.“
 
-Miriam sagte nichts.
-
-Eva hörte den eigenen Satz noch einmal.
-
-Er war härter, als sie erwartet hatte.
-
-Sie setzte den Cursor auf **Speichern**.
+Miriam sagte nichts. Eva hörte den eigenen Satz noch einmal. Er war härter, als sie erwartet hatte. Sie setzte den Cursor auf **Speichern**.
 
 „Ich habe jahrelang nicht gesehen, was auf der anderen Seite derselben Entscheidung passiert.“
 
-Dann klickte sie.
-
-Die neue Version war gespeichert.
-
-Miriam öffnete die Änderungsverfolgung.
+Dann klickte sie. Die neue Version war gespeichert. Miriam öffnete die Änderungsverfolgung.
 
 „Dann noch die Reviewregel.“
 
@@ -241,15 +219,7 @@ Eva las den Absatz.
 
 „Tragfähig.“
 
-Miriam speicherte.
-
-Damit stand die Grenze.
-
-Nähe durfte Wissen liefern.
-
-Nähe allein reichte nicht.
-
-Behandlerverantwortung blieb real.
+Miriam speicherte. Damit stand die Grenze. Nähe durfte Wissen liefern. Nähe allein reichte nicht. Behandlerverantwortung blieb real.
 
 Sie erzeugte in einem verbundweiten Ressourcenkonflikt keinen eigenen Vorrang.
 

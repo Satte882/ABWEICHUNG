@@ -1,7 +1,7 @@
 # Prosa – S030
 
 scene_id: S030
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -31,11 +31,7 @@ Als er fertig war, legte er die Seiten auf Evas Schreibtisch.
 
 „Und?“
 
-Eva hatte auf einen anderen Einstieg gehofft.
-
-Vielleicht auf *Das stimmt so nicht.*
-
-Oder wenigstens auf eine Frage.
+Eva hatte auf einen anderen Einstieg gehofft. Vielleicht auf *Das stimmt so nicht.* Oder wenigstens auf eine Frage.
 
 „Du bestreitest die Zeitpunkte nicht?“
 
@@ -61,15 +57,7 @@ Eva spürte, wie sich etwas in ihr verschob.
 
 „Die Regel war das Problem.“
 
-Da war die Antwort.
-
-Nicht in den Zeitachsen.
-
-Nicht in einer Logdatei.
-
-Jetzt.
-
-Eva legte die Hand auf die Auditseite.
+Da war die Antwort. Nicht in den Zeitachsen. Nicht in einer Logdatei. Jetzt. Eva legte die Hand auf die Auditseite.
 
 „Du hast es absichtlich gemacht.“
 
@@ -169,11 +157,7 @@ Er sah zur Tür, dann wieder zu ihr.
 
 „Ich lasse mir keine klinische Entscheidung von einer Schwelle wegnehmen, die aus einem Modellwert entsteht.“
 
-Der Satz kam leise.
-
-Gerade deshalb war er endgültig.
-
-Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden.
+Der Satz kam leise. Gerade deshalb war er endgültig. Eva spürte, wie die letzten Ausweichmöglichkeiten verschwanden.
 
 „Also ja.“
 
@@ -287,11 +271,7 @@ Felix sah weg.
 
 „Das Audit beweist keine falsche medizinische Entscheidung.“
 
-Felix sah sie wieder an.
-
-Für einen Moment wirkte er fast erleichtert.
-
-Eva setzte nach.
+Felix sah sie wieder an. Für einen Moment wirkte er fast erleichtert. Eva setzte nach.
 
 „Es beweist, dass du die vereinbarte Schutzstufe ausgeschaltet hast. Und du sagst mir gerade, dass du es bewusst getan hast, weil du die Regel nicht akzeptierst.“
 
@@ -349,7 +329,7 @@ Felix' Gesicht schloss sich.
 
 „Natürlich.“
 
-„Felix—“
+„Felix–“
 
 „Lass es.“
 
@@ -371,11 +351,7 @@ Eva antwortete leise.
 
 „Das macht es nicht besser.“
 
-Felix öffnete die Tür.
-
-Diesmal sagte keiner von beiden noch etwas.
-
-Später verlor Felix seine Funktion.
+Felix öffnete die Tür. Diesmal sagte keiner von beiden noch etwas. Später verlor Felix seine Funktion.
 
 Die formalen Schritte verliefen geordnet. Anhörung. Bewertung. Entscheidung.
 

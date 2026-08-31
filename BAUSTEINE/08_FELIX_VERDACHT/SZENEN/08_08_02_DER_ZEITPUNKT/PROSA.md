@@ -1,7 +1,7 @@
 # Prosa – S017
 
 scene_id: S017
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -35,21 +35,11 @@ Er ließ Eva die Faktoren selbst lesen.
 
 Mehrere gingen in dieselbe Richtung. Die Empfehlung war kein knapper Grenzfall.
 
-Dann schob Jan die Timeline weiter.
-
-Eine erste Intervention.
-
-Neue Messwerte.
-
-Reale Besserung.
+Dann schob Jan die Timeline weiter. Eine erste Intervention. Neue Messwerte. Reale Besserung.
 
 Nicht Heilung. Nicht Entwarnung. Ein anderer klinischer Zustand.
 
-Jan setzte die zweite Markierung.
-
-KORA rechnete neu.
-
-Die Empfehlung blieb ähnlich, die Konfidenz sank.
+Jan setzte die zweite Markierung. KORA rechnete neu. Die Empfehlung blieb ähnlich, die Konfidenz sank.
 
 Am zweiten Zeitpunkt lag der Konflikt unter der Schwelle für die Zweitfreigabe.
 
@@ -65,19 +55,7 @@ Eva ließ die Timeline wieder an den Anfang springen.
 
 „Zeig es noch einmal.“
 
-Jan tat es.
-
-Erster Snapshot.
-
-Hohe Konfidenz.
-
-Intervention.
-
-Zweiter Snapshot.
-
-Niedrigere Konfidenz.
-
-Keine Zweitfreigabe.
+Jan tat es. Erster Snapshot. Hohe Konfidenz. Intervention. Zweiter Snapshot. Niedrigere Konfidenz. Keine Zweitfreigabe.
 
 Der Unterschied war nicht durch einen Rechenfehler entstanden. Kein Wert war manipuliert. Der Patient hatte sich tatsächlich verändert.
 
@@ -105,11 +83,7 @@ Dann zurück zum ersten Marker.
 
 „Wenn die Entscheidung schon hier gefallen ist und erst später dokumentiert wird, stimmt die Prozessabbildung nicht mehr mit der Entscheidung überein.“
 
-Eva schwieg.
-
-Jan ließ ihr den Moment.
-
-Sie verstand die Lücke sofort.
+Eva schwieg. Jan ließ ihr den Moment. Sie verstand die Lücke sofort.
 
 Die Daten konnten in beiden Momenten echt sein.
 

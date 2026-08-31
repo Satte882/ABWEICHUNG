@@ -1,7 +1,7 @@
 # Prosa – S016
 
 scene_id: S016
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -75,11 +75,7 @@ Felix sah auf die Uhr.
 
 „Das sagt ihr immer kurz vor einer neuen Regel.“
 
-Eva hielt ihm das Tablet hin.
-
-Felix nahm es und überflog die Ansicht.
-
-Sein Gesicht veränderte sich kaum.
+Eva hielt ihm das Tablet hin. Felix nahm es und überflog die Ansicht. Sein Gesicht veränderte sich kaum.
 
 „Und?“
 
@@ -209,16 +205,6 @@ Eva ging.
 
 Auf dem Flur blieb sie kurz stehen und öffnete die Zeile noch einmal.
 
-Wenige high-confidence Konflikte.
-
-Die Erklärung war plausibel.
-
-Vielleicht vollständig.
-
-Vielleicht nur der erste Teil einer Antwort.
-
-Eva schloss die Ansicht.
-
-Sie hatte keinen Beleg gegen Felix.
+Wenige high-confidence Konflikte. Die Erklärung war plausibel. Vielleicht vollständig. Vielleicht nur der erste Teil einer Antwort. Eva schloss die Ansicht. Sie hatte keinen Beleg gegen Felix.
 
 Nur eine Frage, die nach seiner Erklärung nicht verschwunden war.

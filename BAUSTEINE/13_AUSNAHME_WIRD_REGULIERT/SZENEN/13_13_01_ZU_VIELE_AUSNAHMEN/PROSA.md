@@ -1,7 +1,7 @@
 # Prosa – S026
 
 scene_id: S026
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -27,11 +27,7 @@ Miriam stand neben dem Bildschirm, die Arme vor der Brust.
 
 Eva zog den Laptop näher und öffnete die Liste.
 
-Die ersten Einträge waren sauber.
-
-Dokumentierter Patientenwille.
-
-Begrenztes Therapieziel.
+Die ersten Einträge waren sauber. Dokumentierter Patientenwille. Begrenztes Therapieziel.
 
 Eine relevante Behandlungsbelastung, die in der KORA-Optimierung nicht als eigener Wert abgebildet war.
 
@@ -51,13 +47,7 @@ Dann kam der erste Satz, bei dem sie langsamer las.
 
 **Patient im eigenen Verantwortungsbereich, langjährige Behandlerbindung.**
 
-Sie schwieg.
-
-Miriam sagte nichts.
-
-Eva öffnete die Details.
-
-Mehr Text erschien. Kein zusätzlicher Grund.
+Sie schwieg. Miriam sagte nichts. Eva öffnete die Details. Mehr Text erschien. Kein zusätzlicher Grund.
 
 Keine dokumentierte Präferenz. Kein abweichendes Therapieziel. Keine konkrete Belastung. Kein Faktor, den KORA nicht als medizinische Information kannte.
 
@@ -95,11 +85,7 @@ Alles nachvollziehbar.
 
 Nichts davon beantwortete die Frage, warum dieser Patient in einem verbundweiten Konflikt aus einem patientenspezifischen Wertgrund Vorrang erhalten sollte.
 
-Eva klickte zum nächsten.
-
-Dort stand ein längerer Absatz.
-
-Mehr Wörter. Derselbe Kern.
+Eva klickte zum nächsten. Dort stand ein längerer Absatz. Mehr Wörter. Derselbe Kern.
 
 *Ich sehe ihn. Ich kenne ihn. Ich trage die Verantwortung.*
 
@@ -121,11 +107,7 @@ Die andere Seite eines Ressourcenkonflikts blieb leicht eine Zahl.
 
 Laura Berg hatte genau diese Lücke sichtbar gemacht.
 
-Eva scrollte weiter.
-
-Ein Eintrag begann mit **besondere individuelle Situation**.
-
-Sie öffnete ihn.
+Eva scrollte weiter. Ein Eintrag begann mit **besondere individuelle Situation**. Sie öffnete ihn.
 
 Dahinter stand erneut keine individuelle Situation. Nur der Hinweis, dass das lokale Team den Patienten bereits seit mehreren Tagen betreue.
 
@@ -153,15 +135,7 @@ Eva sah sie an.
 
 „Ich will verhindern, dass jede Intuition ein Werteetikett bekommt.“
 
-Miriam öffnete die Auswertung nach Begründungstypen.
-
-Die legitimen Kategorien waren weiterhin da.
-
-Patientenwille.
-
-Therapieziel.
-
-Behandlungsbelastung.
+Miriam öffnete die Auswertung nach Begründungstypen. Die legitimen Kategorien waren weiterhin da. Patientenwille. Therapieziel. Behandlungsbelastung.
 
 Daneben wuchs eine unscharfe Gruppe aus *Kontext*, *Verantwortung*, *Behandlerbindung* und *besonderer Nähe*.
 
@@ -171,11 +145,7 @@ Sie hatte den zweiten Weg geschaffen, weil ein Mensch mehr sein konnte als eine 
 
 Jetzt wurde derselbe Weg benutzt, um den Menschen hinter der Entscheidung wieder ins Zentrum zu stellen.
 
-Nicht den Patienten.
-
-Den Entscheider.
-
-„Wir brauchen die Kategorie“, sagte Eva.
+Nicht den Patienten. Den Entscheider. „Wir brauchen die Kategorie“, sagte Eva.
 
 „Ja.“
 
