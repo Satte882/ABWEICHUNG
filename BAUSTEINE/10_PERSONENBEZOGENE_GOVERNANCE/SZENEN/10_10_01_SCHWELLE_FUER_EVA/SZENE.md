@@ -1,26 +1,26 @@
 # Szene S020 – Schwelle für Eva
 
 scene_id: S020
-scene_status: reworked_after_manuscript_review
+scene_status: reworked_external_v2
 block_id: B10
 event_refs: E028, E029
 pov: Eva
 research_refs: R-01, R-03
 
 ## Funktion
-Die Governance erstmals asymmetrisch auf einzelne Ärzte anwenden und den Rollenwechsel vom Gestalter zum regulierten Entscheider primär als persönliche Erfahrung zeigen.
+Die Governance erstmals asymmetrisch auf einzelne Ärzte anwenden und den Rollenwechsel vom Gestalter zum regulierten Entscheider als unmittelbar soziale und praktische Erfahrung zeigen.
 
 ## Ausgangslage
-Nach Evas personenbezogener Bilanz beschließt Falkenried engere Zweitfreigabe-Schwellen für wiederholt ungünstige high-confidence Ressourcen-/Eskalationsabweichungen. Eva erhält die Regel nicht als neue Debattenfolie, sondern als formale Mitteilung über ihre eigene Einstufung.
+Während einer kurzen Trainingssequenz vor Schichtbeginn erscheint bei Eva früher als bei Nele die Zweitfreigabe. Die jüngeren Kollegen sehen dabei erstmals, dass für Eva eine individuelle Schwelle aktiv ist.
 
 ## Konflikt / Entscheidung
-Die Kriterien sind fallmixbereinigt, an die klar benannte kombinierte Ressourcen-/Eskalationsklasse gebunden, anfechtbar und zeitlich überprüfbar. Eva findet keinen willkürlichen Punkt, verlangt aber ausdrücklich, dass die Einstufung nicht automatisch auf andere Entscheidungsklassen außerhalb dieser kombinierten Klasse übertragen wird. Die Klarstellung wird aufgenommen. Als die neue persönliche Schwelle anschließend in ihrer aktiven Regel-/Profilansicht sichtbar wird, erlebt Eva den Statusverlust, noch bevor sie im folgenden Fall tatsächlich darunter entscheiden muss.
+Eva prüft anschließend mit Miriam die Grundlage: begrenzte high-confidence Ressourcen-/Eskalationsklasse, Fallmix berücksichtigt, zeitlich befristet, Widerspruchsweg. Sie verlangt explizit, dass ihre Bilanz in dieser kombinierten Klasse nicht ohne neue Evidenz auf andere Entscheidungsklassen übertragen werden darf. Die Grenze wird aufgenommen.
 
 ## Informationsverschiebung
-Aus allgemeiner Prozessregel wird personenbezogene Rechenschaft, ohne dass daraus eine pauschale Statusstrafe gemacht wird.
+Aus allgemeiner Prozessregel wird personenbezogene Rechenschaft, die auch für andere sichtbar werden kann, sobald Eva in die betroffene Entscheidungsklasse gerät.
 
 ## Figurenbewegung
-Eva kann die Regel fachlich nicht als willkürlich zerlegen und erlebt gerade deshalb schärfer, dass ihre vergangene Bilanz künftig die Bedingungen ihrer Entscheidungen verändert.
+Eva kann die Regel fachlich nicht als willkürlich zerlegen. Nele erlebt den Statuswechsel mit und macht dessen persönliche Wirkung sichtbar, ohne Eva zu entmündigen.
 
 ## Konsequenz
-Governance-Stufe 4 ist aktiv; S021 zeigt die erste reale Entscheidung unter dieser persönlichen Schwelle.
+Governance-Stufe 4 ist aktiv; S021 bleibt der erste reale klinische Fall, in dem Eva unter dieser persönlichen Schwelle entscheiden muss.
