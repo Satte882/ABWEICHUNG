@@ -1,214 +1,236 @@
 # Prosa – S031
 
 scene_id: S031
-prose_status: final_rhythm_rework
+prose_status: external_major_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Auf der ersten Folie standen nur drei Zeilen.
+Felix' Name war vom Dienstplan verschwunden.
+
+Nicht aus dem System. Nur aus der Zeile für die leitende Funktion auf der Intensivstation.
+
+Eva sah die Lücke, als sie an der Tafel vorbeiging.
+
+Jemand hatte die Dienste neu verteilt. Zwei Namen standen dort, wo früher einer gereicht hatte.
+
+Sie blieb nicht stehen.
+
+Miriam wartete am zentralen Arbeitsplatz mit zwei Mitgliedern des Vorstands und Nele. Kein Konferenzraum. Keine Titelfolie.
+
+Auf dem Tresen lagen drei Seiten.
+
+Miriam legte die Hand darauf.
+
+„Drei Risiken. Wenn wir die heute nicht praktisch erklären können, gehört die SOP nicht live.“
+
+Sie schob Eva die erste Seite hin.
 
 **Ressourcenexternalität.**
 
+Der Cold-Open-Fall.
+
+Die zweite:
+
 **High-confidence Fehlabweichung.**
+
+Nele.
+
+Die dritte:
 
 **Umgangene Zweitfreigabe.**
 
-Miriam hatte keine Namen daneben geschrieben. Eva brauchte sie nicht. Die erste Zeile gehörte ihr. Die zweite Nele. Die dritte Felix.
+Felix.
 
-Am langen Tisch lagen Ausdrucke des SOP-Entwurfs. Ein Vorstandsmitglied blätterte bereits darin, während Miriam noch die erste Folie stehen ließ.
+Niemand sagte die Namen.
 
-„Das sind die drei Failure-Modes, die wir jetzt getrennt behandeln“, sagte sie.
+Sie standen trotzdem mit am Tresen.
 
-Eva sah auf die Begriffe.
+Das erste Vorstandsmitglied zeigte auf den Arbeitsplatz. „Fangen wir mit dem Zeitpunkt an.“
 
-*Failure-Mode.*
+Jan hatte die technische Änderung vorbereitet. Auf dem Trainingssystem lief ein anonymisierter Fall. Nicht mehr nur der manuell gesetzte Entscheidungspunkt wurde protokolliert. Relevante Prozesssignale blieben erhalten: Ressourcenreservierung, Anordnung, dokumentierter Planwechsel, Beginn einer Intervention.
 
-Auf einer Folie passten die Ereignisse sauber nebeneinander. In Evas Erinnerung hatten sie Gesichter.
+Ein einzelnes Signal entschied nichts.
 
-Laura Berg. Nele nach dem Schadensfall. Felix an ihrer Bürotür. Miriam wechselte weiter. Die nächste Folie war dichter.
+Mehrere zusammen konnten sichtbar machen, dass eine Weiche früher gestellt worden war als der spätere formale Eintrag.
 
-Entscheidungszeitpunkte sollten künftig nicht mehr ausschließlich aus dem manuell gesetzten Zeitpunkt übernommen werden. Relevante Prozesssignale konnten eine frühere faktische Weichenstellung sichtbar machen: Anordnungen, Ressourcenreservierungen, Therapieentscheidungen, dokumentierte Planwechsel.
+Eva klickte durch die Spur.
 
-Jan hatte die technische Formulierung beigesteuert.
+Kein rotes Warnfeld.
 
-„Kein einzelnes Signal entscheidet automatisch“, sagte Miriam. „Aber eine auffällige Differenz zwischen faktischem und formalem Entscheidungszeitpunkt wird prüfbar.“
+Keine automatische Schuldzuweisung.
 
-Eva las die Zeile bis zum Ende.
+Nur eine Zeitachse, die sich schlechter nachträglich glattziehen ließ.
 
-Damit reagierte die Regel auf Felix, ohne seinen Namen zu tragen.
+„Das hätte Felix' Muster früher sichtbar gemacht“, sagte das Vorstandsmitglied.
 
-Miriam wechselte weiter.
+Eva sah auf die Spur.
 
-High-confidence Abweichungen in definierten Hochrisikoklassen bekamen eine verbindliche Zweitfreigabe.
+„Es hätte eine Frage früher sichtbar gemacht.“
 
-Nicht nur als Hinweis.
+Miriam nickte. „Mehr behauptet die Regel nicht.“
 
-Als Prozessschritt.
+Sie gingen zum nächsten Arbeitsplatz.
 
-Eva sah zu Nele, die zwei Plätze weiter saß. Nele hatte den Blick auf den Entwurf gerichtet.
+Nele öffnete im Trainingsmodus einen high-confidence Konflikt.
 
-Die Regel war aus ihrem Fall entstanden.
+KORA empfahl Eskalation. Die Abweichung führte zuerst in das Begründungsfeld, danach zur zweiten Freigabe.
 
-Auch das stand nirgends.
+Nele wählte Eva als zweite Ärztin.
 
-Die nächste Folie zeigte den Wert-/Kontextweg. Er blieb erhalten, aber unter den engeren Kriterien aus dem Pilot. Patientenwille, Therapieziel und konkrete patientenspezifische Gründe waren weiterhin möglich. Räumliche Nähe, Behandlerbindung und allgemeines unmittelbares Verantwortungsgefühl reichten für sich nicht.
+Auf Evas Bildschirm erschien der Fall.
 
-Eva nahm den Ausdruck vor sich.
+Die wesentlichen Daten.
 
-Auf mehreren Seiten waren inzwischen Schutzreaktionen übereinandergelegt, die jeweils eine nachvollziehbare Geschichte hatten.
+KORAs Empfehlung.
 
-Miriam fragte: „Einwände zur Grundstruktur?“
+Die Begründung der ersten Ärztin.
 
-Eva blätterte zurück.
+Der Zeitpunkt.
 
-„Ja.“
+Kein zusätzlicher Kommentar von Nele, kein Telefonat im Hintergrund, das Eva auf die gewünschte Antwort lenkte.
 
-Der Vorstand sah zu ihr.
+„Wenn ich ablehne, bleibt die Erstentscheidung blockiert“, sagte Eva.
 
-Miriam wartete.
+„In dieser Risikoklasse, ja“, sagte Miriam. „Bis zur zweiten Freigabe oder bis ein zulässiger Akutweg greift.“
 
-Eva legte den Entwurf flach auf den Tisch.
+Eva sah zu Nele.
 
-„Das Problem ist nicht, dass ich eine dieser Reaktionen unbegründet finde.“
+„Wie fühlt sich das an?“
 
-„Okay.“
+Nele brauchte einen Moment.
 
-„Für jede einzelne kann ich den Schaden nennen, aus dem sie entstanden ist.“
+„Besser als allein.“
 
-Sie deutete auf die erste Folie, die jetzt nur noch als kleine Vorschau am Rand des Präsentationsbildschirms zu sehen war.
+Es war keine theoretische Antwort.
 
-„Die Ressourcenexternalität war real. Neles Override war regelkonform und trotzdem falsch genug, dass wir die Schutzstufe diskutieren mussten. Felix hat eine Kontrolle faktisch ausgeschaltet, ohne Werte zu fälschen.“
+Eva erinnerte sich an Neles Schadensfall. An die Stunden danach. An den Satz, dass die eigene klinische Einschätzung gereicht habe.
 
-Niemand widersprach.
+Nele legte die Hände auf den Tresen.
 
-Eva strich mit dem Finger über die Seiten.
+„Nicht weil die zweite Person automatisch recht hat. Aber ich muss meinen Grund jemandem zeigen, bevor ich weiterlaufe. Nach meinem Fall ist das für mich kein Angriff.“
 
-„Und trotzdem verändert ihre Summe, wer in einem high-confidence Fall praktisch die Ausgangsposition hat.“
+Eva nickte.
 
-Ein Vorstandsmitglied verschränkte die Hände.
+Felix hätte denselben Ablauf als Abhängigkeit beschrieben.
 
-„Die Letztentscheidung bleibt beim Arzt.“
+Beide Deutungen passten in dieselbe Oberfläche.
 
-Eva blickte auf die Formulierung im Entwurf.
+Das war das Problem.
 
-„Unter mehr Bedingungen als am Anfang.“
+Und vielleicht die Wahrheit.
 
-„Weil wir mehr wissen als am Anfang.“
+Miriam nahm die dritte Seite.
 
-Eva antwortete nicht sofort.
+„Wenn wir die drei Mechanismen ernst nehmen, bleibt die Zweitfreigabe verbindlich. Die Prozesssignale bleiben. Der Wert-/Kontextweg bleibt unter den präzisierten Kriterien.“
 
-Das war wahr.
+Eva ging nicht weiter.
 
-Jede neue Bedingung war nicht aus Angst erfunden worden. Sie hatte eine konkrete Vorgeschichte.
+„Dann fehlen drei Sätze.“
 
-Genau das machte die Entwicklung schwerer zu kritisieren.
+Das zweite Vorstandsmitglied sah sie an.
 
-Miriam ging zurück auf die erste Folie.
+„Welche?“
 
-„Welche Schutzreaktion willst du streichen?“
+Eva zeigte auf Neles Bildschirm.
 
-Eva betrachtete die drei Zeilen.
+„Erstens: Die medizinische Verantwortung für die konkrete Entscheidung bleibt beim behandelnden Arzt. Nicht im Vorwort. Bei den Entscheidungsrechten.“
 
-Die erste konnte sie nicht mehr auf den Patienten vor dem eigenen Bett reduzieren.
+Miriam öffnete den SOP-Entwurf auf ihrem Tablet.
 
-Die zweite konnte sie nach Neles Fall nicht als bloßes Misstrauen gegen Ärzte abtun.
+Eva sprach weiter.
 
-Die dritte war nach Felix keine theoretische Prozessfrage mehr.
-
-„Keine einzeln.“
-
-Miriam nickte nur.
-
-Eva hasste die Antwort, weil sie die nächste bereits enthielt.
-
-Wenn jede einzelne Regel begründbar war, konnte die Verschiebung trotzdem real sein.
-
-Nur entstand sie dann nicht durch eine große Entscheidung.
-
-Sie entstand als Summe vernünftiger Antworten.
-
-Eva zog den Entwurf näher.
-
-„Dann will ich drei Dinge ausdrücklich im Text.“
-
-Miriam öffnete die bearbeitbare Version.
-
-„Sag.“
-
-„Erstens: Die medizinische Verantwortung für die konkrete Entscheidung bleibt beim behandelnden Arzt. Das steht nicht nur im Vorwort. Es steht bei den Entscheidungsrechten.“
+„Zweitens: Der Wert-/Kontextweg bleibt ein echter Weg. Wenn wir ihn so eng schreiben, dass niemand ihn in einem legitimen Fall nutzen kann, haben wir ihn nur auf dem Papier behalten.“
 
 Miriam tippte.
 
-„Zweitens: Der Wert-/Kontextweg bleibt ein echter Entscheidungsweg. Keine Formulierung, die ihn faktisch zu einer Ausnahme macht, die niemand vernünftig nutzen kann.“
-
-„Die Kriterien bleiben.“
+„Die Kriterien bleiben ebenfalls.“
 
 „Ja.“
 
-Eva blätterte zur Zweitfreigabe.
+Eva sah zur Tür der Notaufnahme. Ein Rettungsdienst kam herein. Zwei Pflegekräfte nahmen die Übergabe auf. Niemand dort hatte Zeit für eine Debatte über Governance.
 
-„Drittens: Wenn in einer akuten Lage keine zweite Person rechtzeitig erreichbar ist, brauche ich einen Weg, der technisch wirklich offen bleibt.“
+„Drittens: Wenn in einer echten Akutlage keine zweite Person rechtzeitig erreichbar ist, brauche ich einen Weg, der sofort funktioniert.“
 
-Miriam sah auf.
+Das Vorstandsmitglied verschränkte die Arme.
 
-„Break glass.“
-
-„Solo. Dokumentiert. Nachprüfbar. Aber wirksam, bevor jemand später darüber abstimmt.“
-
-Das Vorstandsmitglied sagte: „Das erhöht das Risiko einer Umgehung.“
-
-„Ja.“
-
-„Dann bauen wir wieder eine Lücke ein.“
+„Damit bauen wir nach Felix wieder eine Umgehungsmöglichkeit ein.“
 
 Eva schüttelte den Kopf.
 
-„Wir lassen eine Notfallentscheidung offen. Wenn die zweite Freigabe in einer echten Akutlage nicht erreichbar ist, darf der Patient nicht warten, bis die Governance wieder online ist.“
+„Wir bauen eine Notfallentscheidung ein, die sichtbar bleibt. Wenn niemand erreichbar ist und der Patient nicht warten kann, darf die Governance nicht so tun, als hätte Zeit keine medizinische Bedeutung.“
 
-Miriam schrieb eine Notiz.
+Miriam öffnete den Trainingsmodus für **Solo Break Glass**.
 
-„Das behandeln wir separat.“
+Ein roter Rahmen erschien.
 
-„Heute.“
+Kein zweiter Name.
 
-Miriam hob den Blick.
+Dafür ein klarer Hinweis: sofort wirksam, persönlich zugeordnet, automatisches Nachreview.
 
-Eva hielt ihn.
+Eva klickte bis zum letzten Schritt.
 
-„Heute.“
+Der Button blieb aktiv.
 
-„Okay.“
+Sie drückte nicht.
 
-Nele sagte zum ersten Mal etwas.
+„Keine versteckte Sperre?“
 
-„Und danach automatisches Review?“
+„Keine“, sagte Miriam.
 
-Eva sah zu ihr.
+„Kein Timeout?“
 
-„Ja. Persönlich zugeordnet. Vollständig sichtbar.“
+„Nein.“
 
-Nele nickte.
+„Kein nachträgliches Warten auf Zustimmung, bevor die Entscheidung gilt?“
 
-Es war keine lockere Zustimmung. Nur die Anerkennung, dass ein offener Notfallweg ohne Nachprüfung dieselbe Schutzlogik wieder aufweichen würde.
+„Nein. Das Review kommt danach.“
 
-Miriam ergänzte den Punkt.
+Eva ließ die Hand neben der Maus liegen.
 
-Die Diskussion ging noch eine Weile weiter. Formulierungen wurden verschoben. Ein technischer Begriff flog heraus. Eine Zuständigkeit wurde präzisiert. Niemand hielt eine Grundsatzrede.
+Der Vorstand sah die Ansicht.
 
-Am Ende lag die SOP in einer Fassung vor, die niemand für perfekt hielt und niemand mehr grundsätzlich blockierte.
+Diesmal musste niemand erklären, was formale Letztentscheidung bedeutete.
 
-Sie wurde beschlossen. Papiere wurden eingesammelt. Termine genannt. Zuständigkeiten verteilt. Der nächste Tagesordnungspunkt wartete bereits.
+Der Weg war offen.
 
-Eva blieb einen Moment sitzen, nachdem die erste Person aufgestanden war.
+Er war auch markiert.
 
-Auf dem Bildschirm stand wieder die Titelfolie.
+Das erste Vorstandsmitglied nahm die drei Seiten wieder auf.
 
-Drei Schäden hatten auf drei Zeilen gepasst.
+„Dann ist die Bedingung für mich erfüllt. Die Schutzstufen greifen, der Notfallweg bleibt real, und jede Nutzung ist prüfbar.“
 
-Die Regeln, die daraus entstanden waren, brauchten mehrere Seiten.
+Miriam sah zum zweiten Mitglied.
 
-Keine davon fühlte sich für sich genommen wie ein großer Bruch an.
+Auch dort kam ein Nicken.
 
-Beim nächsten high-confidence Konflikt würden sie trotzdem alle gleichzeitig im Raum sein.
+Keine Rede.
+
+Keine Folie mit **Beschluss**.
+
+Miriam setzte die finale Freigabe im Dokument.
+
+Die SOP war beschlossen.
+
+Der Rettungsdienst hinter ihnen schob inzwischen die Trage weiter. Nele schloss den Trainingsfall und ging zurück in die Versorgung.
+
+Eva blieb am Arbeitsplatz.
+
+Drei Risiken hatten drei Seiten gebraucht.
+
+Die Regeln, die daraus entstanden waren, würden künftig in Sekunden auftauchen: ein zusätzlicher Name, ein protokollierter Zeitpunkt, ein roter Break-glass-Rahmen.
+
+Jede einzelne Reaktion ließ sich begründen.
+
+Zusammen veränderten sie trotzdem, was es praktisch bedeutete, am Bett die letzte Entscheidung zu haben.
+
+Eva sah noch einmal zur Dienstplantafel.
+
+Felix' Name blieb weg.
+
+Die Governance hatte nicht nur Formulare produziert.
+
+Sie hatte eine Beziehung gekostet.
+
+Und beim nächsten high-confidence Konflikt würden ihre Regeln trotzdem gleichzeitig im Raum sein.
