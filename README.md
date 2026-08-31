@@ -4,7 +4,7 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 
 ## Aktueller Stand
 
-**G0 APPROVED → G1 APPROVED → G2 APPROVED → G3 APPROVED → 40/40 PROSA → 2× WHOLE-MANUSCRIPT REVIEW → REPEATED MAJORS → CONTROLLED G2 BACKTRACK → CLEAN SCENE-SHAPE REREVIEW → G2 RE-APPROVED → AWAITING FRESH-CONTEXT MANUSCRIPT REREVIEW**
+**G0 APPROVED → G1 APPROVED → G2 APPROVED → G3 APPROVED → 40/40 PROSA → 3× WHOLE-MANUSCRIPT REVIEW → CONTROLLED G2 BACKTRACK → CLEAN SCENE-SHAPE REREVIEW → G2 RE-APPROVED → REVIEW ADJUDICATED → READY_FOR_HUMAN_G4**
 
 - 18 Bausteine
 - 54 Ereignisse
@@ -14,18 +14,20 @@ Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
 - G1-Storywahrheit unverändert
 - erster Gesamtmanuskript-Review: 6 Findings, 3 Major
 - reiner Prosa-Rework
-- zweiter Gesamtmanuskript-Review gegen `1d717f...`: 5 Findings, 2 Major
-- wiederholte Majors: Scene-Repetition + Dialogue-Pingpong
-- daraus bewusst kontrollierter G2-Backtrack ausgelöst
+- zweiter Gesamtmanuskript-Review: 5 Findings, 2 wiederholte Major
+- daraus kontrollierter G2-Backtrack
 - Scene-/Beat-Träger strukturell geändert in S008, S014, S018, S020, S024, S032
-- zugehörige Prosa synchron angepasst
 - reiner Rework-Zielstand: `78222a7e99c80378c35379ad42684ee332a412a6`
-- Fresh-Context-Szenen-/Beat-Re-Review gegen diesen Stand: `CLEAN_FRESH_CONTEXT`, 0 Findings
-- Human `G2-APPROVE` am 2026-08-31: aktueller Rework-Stand erneut **G2 / Prose Ready**
-- Lesson Learned dokumentiert in `LESSONS_LEARNED.md`
+- Fresh-Context-Szenen-/Beat-Re-Review: `CLEAN_FRESH_CONTEXT`, 0 Findings
+- Human `G2-APPROVE` am 2026-08-31: aktueller Rework-Stand erneut G2 / Prose Ready
+- dritter Gesamtmanuskript-Review gegen denselben Target: 2 Findings, davon 1 raw Major / 1 Minor
+- Raw Major nach Evidenzprüfung **nicht als Major bestätigt**, sondern als non-blocking residual risk dispositioniert
+- Minor zur wiederholten Beweislast-/Schlussrhetorik akzeptiert, non-blocking
+- offene bestätigte Blocker: 0
+- offene bestätigte Major-Findings: 0
+- Human Gate G4 / Manuskript: **READY_FOR_HUMAN_G4**
+- Lessons Learned dokumentiert in `LESSONS_LEARNED.md`
 - Framework-Transfer vorgemerkt als `Satte882/Buch-Framework` Issue #17; noch keine Framework-Dateien geändert
-- Human Gate G3 / Prosa-Stil: Stilreferenz bleibt APPROVED
-- Human Gate G4 / Manuskript: **noch nicht freigegeben; neuer Gesamtmanuskript-Re-Review ausstehend**
 
 ## Arbeitsprinzip
 
@@ -33,13 +35,14 @@ Die Story wurde konsequent vom Groben ins Feine aufgebaut:
 
 `Buchidee / Gesamtarchitektur → Baustein → Ereignisse → Szene → Beats → Prosa`
 
-Der Pilot hat zusätzlich gezeigt: **Semantische Vollständigkeit allein reicht nicht.** Eine Szenenfolge kann in Kausalität, Information und Figurenverantwortung korrekt sein und trotzdem auf Whole-Book-Ebene monoton werden, wenn zu viele Storyfunktionen über denselben dramaturgischen Träger erzählt werden.
+Der Pilot hat zwei zusätzliche Qualitätsprinzipien gezeigt:
 
-Deshalb wurde nach wiederholten manuskriptweiten Majors nicht weiter nur Prosa poliert, sondern kontrolliert auf Szene/Beat zurückgesprungen.
+1. **Semantische Vollständigkeit allein reicht nicht.** Die Verteilung dramaturgischer Szenenformen muss bereits vor Vollprosa über das ganze Buch geprüft werden.
+2. **Fresh-Context-Reviews brauchen Adjudikation.** Ein Review liefert Findings; erst die Prüfung von Evidenz, Severity und kleinster sinnvoller Rework-Ebene entscheidet, ob ein Finding das nächste Human Gate blockiert.
 
 ## Scene-Shape-Backtrack
 
-Die Storyursachen und Ereignisse bleiben gleich. Verändert wurde ausschließlich, **wie** ausgewählte Szenen ihre bereits freigegebene Storyfunktion tragen:
+Die Storyursachen und Ereignisse blieben gleich. Verändert wurde ausschließlich, **wie** ausgewählte Szenen ihre freigegebene Storyfunktion tragen:
 
 | Szene | neuer dominanter Träger |
 |---|---|
@@ -50,22 +53,45 @@ Die Storyursachen und Ereignisse bleiben gleich. Verändert wurde ausschließlic
 | S024 | Eva entwickelt die Wert-/Kontext-Gegenarchitektur zuerst allein |
 | S032 | Solo-Break-glass wird in einem funktionalen Stresstest praktisch verifiziert |
 
-Der unabhängige Re-Review der vollständigen Szenen-/Beat-Verteilung meldete danach keine Findings und bestätigte `READY_FOR_REAPPROVAL`. Der Stand wurde anschließend erneut durch Human `G2-APPROVE` freigegeben.
+Der unabhängige Re-Review der vollständigen Szenen-/Beat-Verteilung meldete danach keine Findings. Der Stand wurde anschließend erneut durch Human `G2-APPROVE` freigegeben.
 
-## Lesson Learned
+## Dritter Manuskript-Review und Adjudikation
 
-`LESSONS_LEARNED.md` hält Ursache und Prävention fest.
+Der dritte unabhängige Whole-Manuscript-Review meldete noch:
 
-Kernregeln für zukünftige Läufe:
+- `scene_repetition` als Major,
+- wiederholte Beweislast-/Schlussrhetorik als Minor.
 
-- Whole-Book Scene-Shape Review bereits vor G2,
-- dramaturgischen Primary Carrier pro Szene sichtbar machen,
-- nicht nur Einzel-Szenen, sondern Verteilung über Sequenzen prüfen,
+Das Raw-Urteil `REWORK_REQUIRED` bleibt in `MANUSCRIPT_FRESH_CONTEXT_RESULT.md` dokumentiert.
+
+Die anschließende Adjudikation kam jedoch zu folgendem Ergebnis:
+
+- Das `scene_repetition`-Finding nennt mehrere Szenen als gleichartige Meeting-/SOP-Träger, die am geprüften Target gerade unterschiedlich gebaut sind (u. a. Live-Anwendung, klinischer Auslöser, Implementierungstest). Zusammen mit dem unmittelbar vorher bestandenen Scene-Shape-Re-Review reicht die Evidenz nicht für einen erneuten Architektur-Major. Disposition: `NOT_SUSTAINED_AS_MAJOR / non-blocking residual risk`.
+- Das Stil-Finding zur wiederholt expliziten Beweislast-Formulierung ist plausibel, aber minor und nicht G4-blockierend. Disposition: `ACCEPTED_MINOR / non-blocking`.
+
+Damit bestehen nach Disposition keine bestätigten offenen Blocker/Majors mehr.
+
+## Lessons Learned
+
+`LESSONS_LEARNED.md` enthält inzwischen zwei bestätigte Pilot-Erkenntnisse:
+
+### LL-001 – Scene-Shape-Verteilung
+
+- Whole-Book Scene-Shape Review vor G2,
+- Primary Dramatic Carrier pro Szene sichtbar machen,
 - G3 zusätzlich mit einem zusammenhängenden Mittelteil-Run testen,
 - globale Dialog-/Scene-Repetition-Muster statt nur lokale Scanner-Findings bewerten,
-- wiederholt derselbe Manuskript-Major nach Prosa-Rework → kontrollierter G2-Backtrack statt weiterer Satzpolitur.
+- wiederholt derselbe Manuskript-Major nach Prosa-Rework → kontrollierter G2-Backtrack.
 
-Der Transfer ins Framework ist als Issue #17 erfasst, wird aber erst nach erfolgreichem G4 dieses Piloten implementiert.
+### LL-002 – Review-Adjudikation
+
+- Raw-Review nicht automatisch mit Gate-Entscheidung gleichsetzen,
+- Major-Findings gegen den tatsächlichen Target prüfen,
+- widersprüchliche Reviews explizit adjudizieren,
+- Reviewer-Overfitting vermeiden,
+- nur bestätigte Blocker/Majors blockieren das Human Gate.
+
+Der Transfer ins Framework ist als Issue #17 erfasst und wird erst nach erfolgreichem G4 dieses Piloten umgesetzt.
 
 ## Stilreferenz G3
 
@@ -77,24 +103,31 @@ Diese Szenen bleiben die interne Stilkalibrierung.
 
 ## Aktuelle Phase
 
-**Unabhängiger Gesamtmanuskript-Re-Review vor G4.**
+**Human Gate G4 – Manuskript.**
 
-Der Auftrag liegt in:
-
-`MANUSCRIPT_FRESH_CONTEXT_TASK.md`
-
-Fester Zielstand:
+Fester Manuskriptstand:
 
 `78222a7e99c80378c35379ad42684ee332a412a6`
 
-Der Review muss S001–S040 vollständig als Roman lesen und insbesondere prüfen, ob die früheren manuskriptweiten Probleme nach dem Scene-Shape-Backtrack tatsächlich verschwunden sind.
+Review- und Dispositionsbasis:
 
-Danach:
+`MANUSCRIPT_FRESH_CONTEXT_RESULT.md`
 
-1. neue Findings dispositionieren,
-2. bei keinen offenen Blocker/Major-Findings → `READY_FOR_HUMAN_G4`,
-3. Human Gate **G4 – Manuskript**,
-4. danach Produktion / G5.
+Gate-Anforderung:
+
+`G4_REVIEW_REQUEST.md`
+
+Gültiger Approval-Token:
+
+`G4-APPROVE`
+
+Nach `G4-APPROVE`:
+
+1. vollständigen Manuskriptstand als kanonisch markieren,
+2. `full-prose-generation` nach `main` übernehmen,
+3. Arbeitsbranch anschließend bereinigen,
+4. Lesson Learned in `Buch-Framework` Issue #17 umsetzen,
+5. danach Produktion / G5.
 
 ## Reihengedanke
 
