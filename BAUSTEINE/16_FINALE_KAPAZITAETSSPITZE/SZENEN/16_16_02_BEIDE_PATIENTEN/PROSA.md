@@ -1,159 +1,67 @@
 # Prosa – S034
 
 scene_id: S034
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Die Empfehlung erschien ohne Alarmton.
-
-Eva sah sie trotzdem sofort.
+Die Empfehlung erschien ohne Alarmton. Eva sah sie trotzdem sofort.
 
 **Priorität: entfernter Standort.**
 
 **Konfidenz: hoch.**
 
-Für einen Moment berührte niemand den Bildschirm.
+Für einen Moment berührte niemand den Bildschirm. Die Pflegekraft stand am Bett, der Kollege neben Eva hielt die lokale Verlaufskurve offen, hinter ihnen rauschte die Atemunterstützung unverändert laut.
 
-Die Pflegekraft stand am Bett. Der Kollege neben Eva hielt die lokale Verlaufskurve offen. Hinter ihnen lief die Atemunterstützung mit demselben hohen Rauschen weiter.
+Eva las die Begründung vollständig: erwarteter akuter Behandlungsnutzen, Verzögerungsrisiko, zunehmender Vasopressorbedarf, Risiko weiterer Organdysfunktion. Rechts stand der Patient in Nord.
 
-Eva las die Begründung vollständig.
+Links der Mann vor ihr: schwere hypoxämische respiratorische Insuffizienz, nichtinvasive Unterstützung ausgeschöpft, zunehmende Erschöpfung und eine hohe Wahrscheinlichkeit weiterer Eskalation.
 
-Erwarteter akuter Behandlungsnutzen.
-
-Verzögerungsrisiko.
-
-Zunehmender Vasopressorbedarf.
-
-Risiko weiterer Organdysfunktion.
-
-Rechts stand der Patient in Nord.
-
-Links der Mann vor ihr.
-
-Schwere hypoxämische respiratorische Insuffizienz.
-
-Nichtinvasive Unterstützung ausgeschöpft.
-
-Zunehmende Erschöpfung.
-
-Hohe Wahrscheinlichkeit einer weiteren Eskalation.
-
-KORA kannte beides.
+KORA kannte beide Seiten.
 
 Eva öffnete die Einflussfaktoren des lokalen Falls.
 
 „Neue Werte?“
 
-Die Pflegekraft nannte sie.
-
-Eva ließ sie wiederholen.
-
-Nicht weil sie sie akustisch nicht verstanden hatte.
-
-Weil sie sicher sein wollte, dass nichts zwischen Messung und Anzeige verloren gegangen war.
+Die Pflegekraft nannte sie. Eva ließ sie wiederholen, um auszuschließen, dass zwischen Messung und Anzeige etwas verloren gegangen war.
 
 „Letzte Untersuchung?“
 
-Der Kollege sah auf die Uhr.
-
-„Vor wenigen Minuten. Seitdem eher müder.“
+Der Kollege sah auf die Uhr. „Vor wenigen Minuten. Seitdem eher müder.“
 
 Eva ging zurück ans Bett.
 
-„Herr Weber?“
+„Herr Weber? Schauen Sie mich an.“
 
-Der Patient öffnete die Augen.
-
-„Schauen Sie mich an.“
-
-Sein Blick fand sie langsam.
-
-Eva beobachtete Brustkorb, Halsmuskulatur, Atemrhythmus. Hörte. Tastete. Fragte nach einem kurzen Signal, ob er sie verstand.
-
-Der Mann reagierte.
-
-Schwächer als zuvor.
-
-Eva sah auf die Maske, dann auf den Monitor.
+Der Patient öffnete die Augen, sein Blick fand sie langsam. Eva beobachtete Brustkorb, Halsmuskulatur und Atemrhythmus, hörte, tastete und bat um ein kurzes Signal, ob er sie verstand. Er reagierte, aber schwächer als zuvor.
 
 Alles daran sagte ihr, dass dieser Patient keine komfortable Reserve mehr hatte.
 
-Sie ging zurück zum Arbeitsplatz.
+Am Arbeitsplatz prüfte sie erneut die Anzeige. KORA hatte die Verschlechterung nicht übersehen; die aktuellen Daten waren übernommen. Lokales Risiko hoch, entferntes Risiko ebenfalls hoch. Der Unterschied bestand nicht zwischen einem ernsten und einem harmlosen Fall. KORA priorisierte zwischen zwei schlechten Optionen.
 
-KORA hatte diese Verschlechterung nicht übersehen.
+„Kann Nord noch stabilisieren?“ fragte Eva.
 
-Die aktuellen Daten waren übernommen.
-
-Eva öffnete die Gewichtung.
-
-Lokales Risiko hoch.
-
-Entferntes Risiko ebenfalls hoch.
-
-Der Unterschied lag nicht darin, dass einer ernst und der andere harmlos war.
-
-Der Unterschied lag in der Priorisierung zweier schlechter Optionen.
-
-„Kann Nord noch stabilisieren?“ fragte sie.
-
-Der Kollege öffnete die Verbundmeldung.
-
-„Sie stabilisieren bereits. Vasopressor steigt.“
+Der Kollege öffnete die Verbundmeldung. „Sie stabilisieren bereits. Vasopressor steigt.“
 
 „Transport?“
 
 „Nicht relevant. Der Patient ist dort. Es geht um die eine Kapazität.“
 
-Eva nickte.
+Eva kannte die Antwort. Trotzdem hatte sie wieder nach einer dritten Möglichkeit gesucht.
 
-Sie hatte die Frage gestellt, obwohl sie die Antwort kannte.
-
-Wieder die Suche nach einer dritten Möglichkeit.
-
-Wieder keine.
-
-Der Patient im Bett griff nach der Hand der Pflegekraft, verfehlte sie und tastete weiter.
-
-Eva ging hin.
-
-Sie schob ihre eigene Hand unter seine Finger.
-
-Der Griff war schwach.
+Der Patient griff nach der Hand der Pflegekraft, verfehlte sie und tastete weiter. Eva ging zu ihm und schob ihre eigene Hand unter seine Finger. Der Griff war schwach.
 
 „Ich bin hier.“
 
 Die Worte kamen automatisch.
 
-Der Mann sah sie an.
+Der Mann wusste nichts von Verbundlogik, Konfidenz oder Ressourcenexternalität. Er bekam schlecht Luft, und Eva stand vor ihm. Seine Finger schlossen sich etwas fester.
 
-In seinen Augen lag keine Kenntnis von Verbundlogik, Konfidenz oder Ressourcenexternalität.
+Eva blieb einen Moment und blickte dann über seine Schulter zum Display. Nord stand dort weiter als rechte Spalte: ein anderer Patient, ein anderes Team, dieselbe Ressource.
 
-Er wusste nur, dass er schlecht Luft bekam und dass Eva vor ihm stand.
-
-Seine Finger schlossen sich etwas fester.
-
-Eva blieb einen Moment.
-
-Dann sah sie über seine Schulter zum Display.
-
-Nord stand dort weiter als rechte Spalte.
-
-Ein anderer Patient.
-
-Ein anderes Team.
-
-Die Ressource dieselbe.
-
-Diesmal konnte Eva sich nicht erzählen, sie habe zu wenig über die andere Seite gewusst.
-
-KORA zeigte ihr die entscheidenden Informationen.
-
-Nicht das Gesicht.
-
-Aber genug, um die medizinische Lage zu verstehen.
+Diesmal konnte Eva sich nicht erzählen, sie habe zu wenig über die andere Seite gewusst. KORA zeigte ihr die entscheidenden Informationen. Kein Gesicht, aber genug, um die medizinische Lage zu verstehen.
 
 Sie löste ihre Hand vorsichtig aus dem Griff und ging zurück.
 
@@ -161,61 +69,19 @@ Sie löste ihre Hand vorsichtig aus dem Griff und ging zurück.
 
 „Ich weiß.“
 
-Eva öffnete erneut den lokalen Verlauf.
+Eva öffnete erneut den lokalen Verlauf und suchte ausdrücklich nach einem medizinischen Gegenbeleg. Nicht nach einer Formulierung, die überzeugend klang, sondern nach etwas, das die Empfehlung tatsächlich verändern konnte: ein Messwert, den KORA nicht hatte, eine relevante Therapiewirkung, eine Kontraindikation auf der anderen Seite, eine neue Information hier.
 
-Sie suchte jetzt ausdrücklich nach einem medizinischen Gegenbeleg.
-
-Nicht nach einer Formulierung, die stark klang.
-
-Nach einem echten Punkt.
-
-Ein Messwert, den KORA nicht hatte.
-
-Eine Reaktion auf Therapie, die die Prognose verschob.
-
-Eine Kontraindikation auf der anderen Seite.
-
-Eine neue Information hier.
-
-Nichts.
-
-Sie öffnete die Fernseite noch einmal.
-
-Auch dort keine offensichtliche Lücke.
-
-Die Empfehlung blieb hochkonfident.
+Sie fand nichts. Auch auf der Fernseite gab es keine offensichtliche Lücke. Die Empfehlung blieb hochkonfident.
 
 Eva lehnte sich mit beiden Händen auf den Arbeitsplatz.
 
-Sie wollte den Platz für Zentral.
+Sie wollte den Platz für Zentral. Dieser Wunsch war körperlich eindeutig und brauchte keine intellektuelle Übersetzung. Der Mann lag hier, sie hörte seine Atmung, ihr Team wartete auf ihre Entscheidung. Wenn sie die Kapazität nach Nord gab, würde die unmittelbare Verschlechterung in diesem Raum bei ihr bleiben. Kein Modell würde an das Bett treten und die Konsequenz übernehmen.
 
-Der Wunsch war körperlich eindeutig.
-
-Sie konnte ihn benennen, ohne ihn zu rechtfertigen.
-
-Der Mann lag hier.
-
-Sie hörte seine Atmung.
-
-Ihr Team wartete auf ihre Entscheidung.
-
-Wenn sie die Kapazität nach Nord gab, würde die unmittelbare Verschlechterung in diesem Raum weiter bei ihr bleiben.
-
-Kein Modell würde an das Bett treten und die Konsequenz übernehmen.
-
-Eva spürte Wut.
-
-Auf die Lage.
-
-Auf die Knappheit.
-
-Auf den Abstand zwischen einem Prinzip und einem Menschen, dessen Finger eben ihre Hand gehalten hatten.
+Wut stieg in ihr auf – auf die Knappheit, auf die Lage, auf den Abstand zwischen einem Prinzip und einem Menschen, dessen Finger eben ihre Hand gehalten hatten.
 
 „Was siehst du?“ fragte der Kollege.
 
-Eva antwortete nicht sofort.
-
-„Dass beide die Kapazität brauchen.“
+Eva brauchte einen Moment. „Dass beide die Kapazität brauchen.“
 
 „KORA priorisiert Nord.“
 
@@ -225,9 +91,7 @@ Eva antwortete nicht sofort.
 
 „Auch das.“
 
-Er sah zum Bett.
-
-„Und?“
+Er blickte zum Bett. „Und?“
 
 Eva öffnete die Abweichungsmaske.
 
@@ -237,53 +101,17 @@ Zwei Wege erschienen.
 
 **Patientenspezifischen Wert-/Kontextgrund dokumentieren.**
 
-Sie klickte auf den ersten.
-
-Das Feld öffnete sich.
+Sie wählte den ersten.
 
 **Welcher konkrete medizinische Befund spricht gegen die Empfehlung?**
 
-Eva setzte den Cursor hinein.
+Der Cursor blinkte im leeren Feld. Evas Patient war schwer krank, aber KORA wusste das. Er verschlechterte sich, auch das war erfasst. Eva bemerkte ein angefangenes Wort und löschte es wieder.
 
-Sie schrieb nichts.
+Sie schloss den medizinischen Weg und öffnete den zweiten.
 
-Der lokale Patient war schwer krank.
+Die Hinweise waren knapp: Patientenwille, Therapieziel, relevante patientenspezifische Belastung oder ein anderer konkret benennbarer Wert-/Kontextgrund, den KORA nicht als Entscheidungswert abbildete.
 
-Das war kein Gegenbeleg. KORA wusste es.
-
-Er verschlechterte sich.
-
-Auch das war erfasst.
-
-Eva löschte ein Wort, das sie gar nicht bewusst begonnen hatte.
-
-Sie schloss den medizinischen Weg.
-
-Der zweite blieb.
-
-Wert-/Kontext.
-
-Eva öffnete ihn.
-
-Die Hinweise waren knapp.
-
-Patientenwille.
-
-Therapieziel.
-
-Relevante patientenspezifische Belastung oder ein anderer konkret benennbarer Wert-/Kontextgrund, den KORA nicht als Entscheidungswert abbildete.
-
-Eva wusste, was nicht genügte.
-
-Räumliche Nähe.
-
-Bestehende Behandlerbeziehung.
-
-Allgemeines unmittelbares Verantwortungsgefühl.
-
-Ihre eigenen Sätze.
-
-Ihre eigene Grenze.
+Eva kannte auch die Dinge, die nicht genügten: räumliche Nähe, bestehende Behandlerbeziehung, allgemeines unmittelbares Verantwortungsgefühl. Genau dort lagen ihre eigenen Sätze und ihre eigene Grenze.
 
 Sie ging zurück ans Bett.
 
@@ -299,82 +127,36 @@ Sie ging zurück ans Bett.
 
 Er schüttelte den Kopf.
 
-Eva wusste es bereits.
+Eva hatte mit diesen Antworten gerechnet. Sie fragte trotzdem, damit ihr nichts entging, nur weil das Ergebnis unbequem war.
 
-Sie fragte trotzdem.
+Der Griff nach ihrer Hand war kein Patientenwille zur Ressourcenpriorisierung. Seine Angst war real, seine Nähe war real, ihre Verantwortung für ihn ebenfalls. Keines davon erzeugte den patientenspezifischen Wertgrund, den die Regel verlangte.
 
-Nicht um die Regel zu erfüllen.
+Zurück am Bildschirm blieb das Feld leer.
 
-Um sicherzugehen, dass sie nichts übersprang, nur weil die Antwort unbequem war.
+Die Pflegekraft trat neben sie. „Was machst du?“
 
-Sie sah den Patienten an.
+Eva betrachtete die beiden Abweichungswege. „Ich beantrage die Abweichung.“
 
-Sein Griff nach ihrer Hand war kein Patientenwille zur Ressourcenpriorisierung.
+Nach einer kurzen Pause fragte die Pflegekraft: „Mit welchem Grund?“
 
-Seine Angst war real.
-
-Seine Nähe war real.
-
-Ihre Verantwortung für ihn war real.
-
-Nichts davon erzeugte den patientenspezifischen Wertgrund, den die Regel verlangte.
-
-Eva ging zurück zum Bildschirm.
-
-Das Feld blieb leer.
-
-Die Pflegekraft stand jetzt neben ihr.
-
-„Was machst du?“
-
-Eva sah auf die beiden Abweichungswege.
-
-„Ich beantrage die Abweichung.“
-
-Die Pflegekraft schwieg kurz.
-
-„Mit welchem Grund?“
-
-Eva blickte zum Bett.
-
-Dann auf Nord.
-
-„Ich habe keinen, der in die beiden Wege sauber passt.“
+Eva blickte erst zum Bett, dann auf Nord. „Ich habe keinen, der in die beiden Wege sauber passt.“
 
 „Dann warum?“
 
-Eva spürte wieder den Widerstand gegen die eigene Regel.
+Der Widerstand gegen die eigene Regel war sofort wieder da.
 
 „Weil ich sehen will, ob mein unmittelbarer Verantwortungsgrund einem zweiten Blick standhält.“
 
-Die Pflegekraft sah sie an, sagte aber nichts.
+Die Pflegekraft antwortete nicht.
 
-Eva ging zum Antrag zurück.
-
-Sie dokumentierte die lokale klinische Dringlichkeit vollständig. Kein erfundener Gegenbeleg. Kein umetikettierter Wertgrund.
-
-Dann bestätigte sie den Abweichungsantrag.
+Eva dokumentierte die lokale klinische Dringlichkeit vollständig. Sie erfand keinen Gegenbeleg und etikettierte auch keinen allgemeinen Impuls als Wertgrund um. Dann bestätigte sie den Abweichungsantrag.
 
 Das System prüfte die Fallklasse.
 
 **Zweitfreigabe erforderlich.**
 
-Die Liste verfügbarer berechtigter Personen öffnete sich.
+Die Liste der verfügbaren berechtigten Personen öffnete sich. An erster Stelle stand Nele Yilmaz.
 
-Eva sah auf den ersten Namen.
+Eva bewegte sich einen Moment nicht. Neles eigener Override hatte eine der Regeln ausgelöst. Früher hatte Eva sie vor sich geschützt, indem sie Entscheidungen geprüft und erklärt hatte. Jetzt war die Reihenfolge anders.
 
-Nele Yilmaz.
-
-Für einen Moment bewegte sie sich nicht.
-
-Nele, deren eigener Override eine der Regeln ausgelöst hatte.
-
-Nele, die Eva früher vor sich geschützt hatte, indem sie Entscheidungen geprüft und erklärt hatte.
-
-Jetzt war die Reihenfolge anders.
-
-Der Anruf wurde aufgebaut.
-
-Eva sah noch einmal zum Patienten.
-
-Dann nahm sie die Verbindung an.
+Der Anruf wurde aufgebaut. Eva sah noch einmal zum Patienten und nahm dann die Verbindung an.
