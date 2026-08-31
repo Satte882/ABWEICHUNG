@@ -1,44 +1,55 @@
 # G5 Review Request – Produktion
 
-status: APPROVED
+status: STALE_PENDING_G4
 human_gate: G5
-current_decision: APPROVE
-current_decided_by: human
+current_decision: NONE
+current_decided_by: null
 current_date: 2026-08-31
 prior_gate: `gates/G4.md`
-source_manuscript: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
-build_manifest: `production/BUILD_MANIFEST.md`
-production_run: `33377576980`
-production_artifact_id: `9752446466`
-production_artifact: `abweichung-production-g5-rebuild`
+candidate_manuscript: `c0bc7fc5b23d29da60ed6784fd31ebdcd4f899fb`
+candidate_markdown: `ABWEICHUNG_FINAL.md`
+candidate_docx: `ABWEICHUNG_FINAL.docx`
 
-## Human-Entscheidung
+## Aktueller Zustand
 
-Human `G5-APPROVE` vom 2026-08-31.
+Der frühere G5-APPROVED-Produktionsstand basiert auf dem Manuskript `14563bc5ea63d2b77c10e63f1d23a751e136c617` und ist nach dem Final-Prosa-/Rhythmuspass nicht mehr der aktuelle Manuskriptstand.
 
-Der technisch vollständige und reproduzierbare Produktionsstand wird akzeptiert und G5 abgeschlossen.
+Der neue Manuskript-Kandidat ist:
 
-## Freigegebener Produktionsstand
+`c0bc7fc5b23d29da60ed6784fd31ebdcd4f899fb`
 
-- Manuskriptquelle: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
-- G4: APPROVED
-- GitHub Actions Run `33377576980`: PASS
-- 40/40 Prosaszenen, S001–S040 lückenlos
-- Wortzahl: 39.331
-- `sondern = 0`
-- `ABWEICHUNG_v01.md`: erzeugt und gehasht
-- `ABWEICHUNG_v01.html`: erzeugt und gehasht
-- `BUILD_INFO.json`: erzeugt
-- Produktionsartefakt: `abweichung-production-g5-rebuild`
+Daraus wurden bereits neue Folgeprodukte erzeugt:
 
-### Checksummen
+- `ABWEICHUNG_FINAL.md`
+- `ABWEICHUNG_FINAL.docx`
+- 40 Kapitel,
+- 39.042 Szenen-Prosa-Wörter,
+- Geviertstrich `— = 0`,
+- `sondern = 0`,
+- DOCX-Strukturprüfung PASS,
+- Inhaltsverzeichnis materialisiert,
+- Render-QA PASS.
 
-- `ABWEICHUNG_v01.md`: `ab4fe873ee91482da1d10a8bf16f148a569a283c66e6dcbb8a5a2c2df11d4a31`
-- `ABWEICHUNG_v01.html`: `1ccd519396d71d03a83de7190a83b5de34a20ec946e8dd6df2d17743980c7954`
-- Artifact-ZIP: `c9379c14893e09b1051d59f24d64304d1dfd37d6d27d7ceedd9541e07ab6b180`
+Diese Dateien sind technisch valide, aber noch nicht als neuer G5-Stand freigegeben, solange G4 für den geänderten Manuskript-Snapshot nicht erneut freigegeben ist.
 
-## Abschluss
+## Historischer G5-Stand
 
-**G5 APPROVED**
+previous_status: APPROVED
+previous_decision: APPROVE
+previous_decided_by: human
+previous_date: 2026-08-31
+previous_source_manuscript: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
+previous_production_run: `33377576980`
+previous_production_artifact_id: `9752446466`
+previous_production_artifact: `abweichung-production-g5-rebuild`
+previous_words: 39331
 
-Der frühere REWORK-Stand mit 16.527 Wörtern bleibt nur historischer Nachweis. Der aktuelle Build mit 39.331 Wörtern ist der kanonische freigegebene Produktionsstand.
+Der historische Stand bleibt nachvollziehbar, ist aber nicht mehr kanonisch für die aktuelle Prosa.
+
+## Nächster Schritt
+
+1. Clean-Room-Review gegen `c0bc7fc5...`.
+2. Human `G4-REAPPROVE`, sofern `g4_readiness: READY`.
+3. Danach G5 für die bereits neu gebauten Produktionsdateien erneut prüfen und Human `G5-APPROVE` setzen.
+
+**G5 ist bis dahin STALE_PENDING_G4.**
