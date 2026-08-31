@@ -1,17 +1,27 @@
 # G2 Review Request – Prose Ready
 
-status: READY_FOR_HUMAN_G2
+status: APPROVED
 gate: G2
 review_target: `78222a7e99c80378c35379ad42684ee332a412a6`
 review_result: `SCENE_FRESH_CONTEXT_RESULT.md`
+human_decision: `G2-APPROVE`
+human_decision_date: 2026-08-31
 
-## Hintergrund
+## Ergebnis
 
-Der ursprüngliche G2-Stand wurde am 2026-08-30 durch Human `G2-APPROVE` freigegeben.
+Der kontrollierte Scene-/Beat-Backtrack wurde unabhängig geprüft und anschließend erneut durch Human Gate G2 freigegeben.
 
-Nach zwei Whole-Manuscript-Reviews wurde ein kontrollierter Backtrack auf Szenen-/Beat-Ebene notwendig, weil wiederholte Scene-Repetition-/Pacing-Majors durch Prosa-Rework allein nicht ausreichend lösbar waren.
+Fresh-Context-Re-Review:
 
-G1-Storywahrheit und Ereignisebene blieben unverändert.
+- `review_status: CLEAN_FRESH_CONTEXT`
+- `finding_count: 0`
+- `g2_readiness: READY_FOR_REAPPROVAL`
+
+Human Gate:
+
+- `G2-APPROVE`
+
+Damit gilt der Rework-Stand `78222a7e99c80378c35379ad42684ee332a412a6` erneut als **G2 / Prose Ready**.
 
 ## Rework-Scope
 
@@ -24,24 +34,12 @@ Geänderte dramaturgische Trägerformen:
 - S024
 - S032
 
-Keine Szene wurde entfernt oder neu hinzugefügt. Die Event-Abdeckung bleibt 54/54; die Gesamtstruktur bleibt 40 Szenen / 253 Beats.
+G1-Storywahrheit, 18 Bausteine, 54 Ereignisse, Figurenverantwortung und die kritischen Storyketten bleiben unverändert.
 
-## Fresh-Context-Re-Review
+## Nächster Schritt
 
-Ergebnis gegen den festen Rework-Target:
+Der vollständige Gesamtmanuskript-Re-Review gegen denselben festen Target ist jetzt freigegeben:
 
-- `review_status: CLEAN_FRESH_CONTEXT`
-- `finding_count: 0`
-- `g2_readiness: READY_FOR_REAPPROVAL`
+`MANUSCRIPT_FRESH_CONTEXT_TASK.md`
 
-Damit bestehen aktuell keine offenen Blocker oder Major-Findings auf Szenen-/Beat-Ebene und keine strukturelle Scene-Shape-Monotonie, die vor erneuter Freigabe behoben werden müsste.
-
-## Human Gate
-
-Der aktuelle Rework-Stand ist bereit für die erneute Human-Freigabe.
-
-Gültiger Token:
-
-`G2-APPROVE`
-
-Erst danach gilt der Rework-Stand erneut als G2 / Prose Ready und der Gesamtmanuskript-Re-Review vor G4 darf fortgesetzt werden.
+G4 bleibt bis zum Ergebnis dieses Reviews geschlossen.
