@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
     paths:
+      - 'BAUSTEINE/**/PROSA.md'
       - 'scripts/audit_expansion.py'
       - '.github/workflows/expansion-audit.yml'
   workflow_dispatch:
