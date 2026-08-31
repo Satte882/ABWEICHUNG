@@ -36,25 +36,27 @@ jobs:
           fc-cache -f
           fc-match Garamond
 
-      - name: Rebuild canonical G5 manuscript
+      - name: Rebuild canonical G4 manuscript
         shell: bash
         run: |
           set -euo pipefail
           python scripts/build_production.py \
-            --source-ref 14563bc5ea63d2b77c10e63f1d23a751e136c617 \
-            --out-dir /tmp/abweichung-g5
-          test "$(python - <<'PY'
+            --source-ref 19934e138422e72e7433bc8b9be0c96c1cdb1044 \
+            --out-dir /tmp/abweichung-g4
+          python - <<'PY'
           import json
-          print(json.load(open('/tmp/abweichung-g5/BUILD_INFO.json'))['word_count'])
+          info = json.load(open('/tmp/abweichung-g4/BUILD_INFO.json'))
+          assert info['scene_count'] == 40, info['scene_count']
+          assert info['hard_guard_sondern_count'] == 0
+          print(f"source validation OK: scenes={info['scene_count']}, words={info['word_count']}")
           PY
-          )" = "39331"
 
       - name: Build final Markdown and DOCX
         shell: bash
         run: |
           set -euo pipefail
           python scripts/build_final_manuscript.py \
-            --source /tmp/abweichung-g5/ABWEICHUNG_v01.md \
+            --source /tmp/abweichung-g4/ABWEICHUNG_v01.md \
             --output ABWEICHUNG_FINAL.md
           python scripts/build_final_docx.py \
             --source ABWEICHUNG_FINAL.md \
@@ -121,6 +123,8 @@ jobs:
           grep -q 'Wenn die Maschine recht hat' /tmp/qa/final.txt
           grep -q 'Die Beweislast liegt bei dir' /tmp/qa/final.txt
           grep -q 'Eva wartete.' /tmp/qa/final.txt
+          grep -q 'Frau Dr. Riedel' /tmp/qa/final.txt
+          grep -q 'high-confidence Ressourcen-/Eskalationsklasse' /tmp/qa/final.txt
           echo "render QA OK: $PAGES pages"
 
       - name: Commit final files to main
@@ -129,8 +133,11 @@ jobs:
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git rm -r --ignore-unmatch .tmp_final_upload
           git add ABWEICHUNG_FINAL.md ABWEICHUNG_FINAL.docx
-          git commit -m 'production: publish final ABWEICHUNG manuscript'
+          if git diff --cached --quiet; then
+            echo 'No final-file changes to commit.'
+            exit 0
+          fi
+          git commit -m 'production: publish G4-reworked ABWEICHUNG manuscript'
           git pull --rebase origin main
           git push origin HEAD:main
