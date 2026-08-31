@@ -2253,223 +2253,157 @@ Noch nicht.
 
 ## Kapitel 12 – Zweite Unterschrift
 
-Miriam legte nur eine Seite auf den Tisch.
+Miriam erwischte Eva zwischen Übergabe und erstem Kaffee.
 
-Kein Foliensatz. Keine Kennzahlen. Kein Anhang mit zwanzig Varianten.
+„Eine Seite“, sagte sie und hielt ihr tatsächlich nur eine hin.
 
-Oben stand:
+Eva nahm das Blatt im Gehen. Hinter ihnen schob ein Pfleger ein leeres Bett aus der Notaufnahme, vor ihnen stand ein Transportwagen quer im Flur. Eva wich zur Seite aus und las die Überschrift.
 
 **Pilot Zweitfreigabe – Hochrisikoabweichungen.**
 
-Darunter drei Bedingungen.
+Darunter standen drei Bedingungen: hohe KORA-Konfidenz, hohe erwartete Schadensrelevanz, definierte Entscheidungsgruppe.
 
-**Hohe KORA-Konfidenz.**
+„Wenn daraus jede zweite Entscheidung bei einem Kollegen landet, kannst du die Seite gleich wieder mitnehmen.“
 
-**Hohe erwartete Schadensrelevanz.**
+„Deshalb steht da eine Schnittmenge.“
 
-**Definierte Entscheidungsgruppe.**
+Miriam ging neben ihr her, ohne langsamer zu werden. Sie kannte Evas Abneigung gegen Regeln, die im Besprechungsraum elegant und auf Station unbrauchbar waren.
 
-Eva las die Seite bis unten.
+Am Arbeitsplatz vor Raum zwölf blieb Eva stehen.
 
-Der Entwurf war so kurz, dass sie ihn nicht hinter Komplexität verstecken konnte.
+„Zeig es mir.“
 
-Sie nahm den Stift, setzte ihn an den Rand und schob ihn wieder weg.
+Miriam öffnete auf dem Stationsrechner die Testansicht. Kein Foliensatz, keine Kennzahl. Vor ihnen lag Neles alter Fall in einer Trainingskopie, eingefroren am damaligen Entscheidungspunkt.
 
-„Wenn das ein Doppelmandat für jede Abweichung werden soll, bin ich raus.“
+KORA: hohe Konfidenz.
 
-Miriam saß ihr gegenüber. Felix schräg daneben. Jan war diesmal nur für die technische Schwellenlogik dazugekommen und hielt sich zurück.
+Eskalation empfohlen.
 
-„Ist es nicht“, sagte Miriam.
+Neles damalige Abweichungsbegründung stand darunter.
 
-Sie zeigte auf die drei Bedingungen.
+Eva kannte den Verlauf. Gerade deshalb taugte er.
 
-Niedrige Konfidenz blieb außerhalb. Fehlende oder unvollständige Daten lösten durch einen Override allein keine Zweitfreigabe aus. Gewöhnliche Therapieentscheidungen außerhalb der definierten Hochrisikoklassen ebenfalls nicht.
+Sie klickte auf **Abweichen**.
 
-Der Pilot zielte auf eine kleine Schnittmenge: KORA war in dieser Entscheidungsklasse gut validiert, die konkrete Empfehlung war hochkonfident, und eine Abweichung konnte bei einem Fehlurteil erheblichen Schaden verursachen.
+Ein neues Feld erschien. Erst die medizinische Begründung, dann die Auswahl einer zweiten ärztlichen Person. Rechts daneben stand, welche Informationen diese Person erhalten würde: KORA-Empfehlung, entscheidungsrelevante Daten, dokumentierte Begründung, Zeitstempel.
 
-Eva las den Absatz noch einmal.
+Eva las die Ansicht bis unten.
 
-„Wie klein?“
+Das System fragte nicht, ob sie sicher sei. Es verlangte jemanden.
 
-Jan nannte die erwartete Größenordnung auf Basis der bisherigen Fälle.
+Der Unterschied war klein genug, um auf einem Bildschirm banal auszusehen.
 
-Nicht häufig.
+Auf Station war er es nicht.
 
-Häufig genug, dass es mehr als ein theoretischer Mechanismus wäre.
+„Und wenn ich nachts um drei niemanden bekomme?“
 
-„Und wenn die zweite Person nicht erreichbar ist?“
+„Dann geht es nicht live“, sagte Miriam. „Für die Akutlage brauchen wir einen belastbaren Weg. Der ist noch nicht fertig.“
 
-„Dann brauchen wir eine Akutregel“, sagte Miriam. „Die ist noch nicht Teil dieses Piloten. Ohne praktikablen Notfallweg geht nichts live.“
+Eva sah sie an.
 
-Eva legte den Stift diesmal nicht weg.
+„Gut. Dann schreib genau das in die Freigabebedingung. Keine Regel, die erst im ersten echten Notfall merkt, dass nachts weniger Menschen im Haus sind.“
 
-Felix hatte bisher geschwiegen. Jetzt zog er die Seite zu sich.
+Miriam nahm den Stift aus ihrer Kitteltasche und schrieb an den Rand.
 
-„Die Logik bleibt dieselbe“, sagte er. „Sobald KORA sicher genug ist und der Fall wichtig genug, reicht der Arzt allein nicht mehr.“
+Felix kam aus Richtung Intensivstation. Er trug noch Handschuhe in einer Hand und warf sie im Vorbeigehen in den Abwurf.
 
-Miriam antwortete nicht sofort.
+„Was baut ihr jetzt?“
 
-Felix fuhr fort.
+Eva hielt ihm die Seite hin.
 
-„Ihr nennt es zweite Freigabe. Im Alltag heißt es: Ich habe einen Patienten vor mir, ich halte die Empfehlung für falsch, und bevor ich handeln darf, muss ich einen Kollegen finden, der bereit ist, denselben Konflikt mitzutragen. Das verändert die Entscheidung bereits, bevor irgendjemand Nein sagt.“
+Er las nicht lange. Sein Blick blieb bei **zweite ärztliche Freigabe** hängen.
+
+„Da ist sie also.“
+
+Miriam sagte nichts.
+
+Felix gab Eva das Blatt zurück. „Ihr könnt die drei Bedingungen noch so eng schreiben. Im Moment, in dem ich einen zweiten Arzt brauche, ist meine Entscheidung keine alleinige Letztentscheidung mehr. Ich muss meinen Fall in eine Form bringen, die jemand außerhalb des Zimmers akzeptiert. Vielleicht ist das manchmal vernünftig. Vielleicht verhindert es einen Fehler. Aber tut nicht so, als bliebe die Verantwortung dadurch unverändert.“
+
+Auf dem Monitor hinter ihm piepte ein Alarm, zweimal kurz. Felix drehte den Kopf, erkannte offenbar am Ton, dass er nicht zu seinem Patienten gehörte, und blieb.
+
+„Die zweite Person sieht dieselben Daten“, sagte Miriam.
+
+„Eben. Dieselben Daten, weniger Patient.“
+
+Felix deutete auf den Trainingsfall. „Nele war falsch. Das wissen wir im Rückblick besser als in dem Moment. Eine zweite Person hätte vielleicht widersprochen. Vielleicht hätte sie unterschrieben. Wenn sie unterschreibt und der Patient trotzdem Schaden nimmt, habt ihr zwei Namen und denselben Ausgang. Wenn sie ablehnt, obwohl der Arzt am Bett recht hat, habt ihr eine Kontrolle gebaut, die sich wie Medizin anfühlt, weil ein Arzt sie ausführt.“
 
 Eva hörte ihm zu.
 
-Das war Felix in seiner stärksten Form. Kein Gerede von Maschinenherrschaft. Keine Übertreibung. Nur die Frage, was eine zusätzliche Zustimmung mit Verantwortung machte.
+Das war kein Reflex gegen Technik. Felix beschrieb den Preis ziemlich genau.
 
-Miriam sagte: „Und in Neles Fall wäre genau diese Reibung möglicherweise hilfreich gewesen.“
+Sie klickte den Nele-Fall noch einmal auf Anfang.
 
-„Möglicherweise“, sagte Felix. „Oder eine zweite Person hätte zugestimmt und wir würden heute so tun, als sei ein Fehlurteil legitim, weil zwei Namen darunterstehen.“
+Vorübergehende Stabilisierung. Hohe Konfidenz. Anhaltende Risikosignale. Die Entscheidung, nicht zu eskalieren.
 
-„Das behauptet niemand.“
-
-„Dann verkauft die zweite Unterschrift nicht als medizinische Wahrheit.“
-
-Eva sah auf die Seite.
-
-„Tut sie nicht.“
-
-Felix drehte sich zu ihr.
-
-„Du verteidigst das?“
-
-„Ich lese es.“
-
-„Du hast vor ein paar Wochen noch gesagt, Letztentscheidung müsse bei dem Menschen bleiben, der den Patienten tatsächlich führt.“
-
-„Das sage ich immer noch.“
-
-„Dann streich die zweite Freigabe.“
-
-Eva zog Neles Timeline aus der Anlage zu sich.
-
-Der Verlauf lag inzwischen in einer Form vor, die sie fast auswendig kannte.
-
-Hohe KORA-Konfidenz. Vorübergehende Stabilisierung. Override. Anhaltende Risikosignale. Verlorene Zeit. Schwere Verschlechterung. Die frühere Eskalation wäre medizinisch vorzugswürdig gewesen.
-
-Eine zweite Person hätte den Ausgang nicht garantiert verändert. Sie hätte nicht automatisch erkannt, was Nele übersah. Sie hätte sogar zustimmen können.
-
-Das blieb wahr.
-
-Eva suchte trotzdem nach einem Grund, warum Nele in genau dieser Lage unbedingt allein hatte entscheiden müssen.
+Eva versuchte, einen medizinischen Grund dafür zu finden, dass Nele in genau diesem Moment zwingend allein hatte bleiben müssen.
 
 Sie fand keinen.
 
-Das störte sie mehr als der Entwurf.
+Nicht weil eine zweite Ärztin automatisch klüger gewesen wäre. Auch zwei Menschen konnten denselben Fehler machen.
 
-„Was genau muss die zweite Person tun?“ fragte Eva.
+Aber Nele hätte ihren Grund aussprechen müssen, bevor weitere Zeit verging.
 
-Jan öffnete die kurze technische Beschreibung.
+Eva öffnete die Sicht der zweiten Person. Die Begründung stand dort an erster Stelle.
 
-Kein kompletter Zweitbefund. Keine erneute Aufnahme. Die zweite Person bekam dieselben entscheidungsrelevanten Daten, KORAs Empfehlung, die dokumentierte Abweichungsbegründung und musste bestätigen, dass die Abweichung trotz hoher Konfidenz nachvollziehbar genug war, um umgesetzt zu werden.
+„Das bleibt“, sagte sie.
 
-„Also kein Ritualklick“, sagte Eva.
+Miriam sah auf den Bildschirm.
 
-„Soll es nicht sein“, sagte Miriam.
-
-„Dann muss der Grund sichtbar sein, bevor die zweite Person entscheidet.“
-
-Jan nickte.
-
-Eva schrieb an den Rand:
-
-**Begründung vor Zweitfreigabe vollständig sichtbar.**
-
-Sie las weiter.
-
-„Und nur diese Kombination.“
-
-Sie kreiste die drei Bedingungen ein.
-
-„High confidence allein reicht nicht. Hohe Schadensrelevanz allein auch nicht. Definierte Gruppe ebenfalls nicht.“
-
-„Richtig“, sagte Jan.
-
-„Wenn Daten fehlen?“
-
-„Dann ist das kein sauberer high-confidence Konflikt im Sinne des Piloten.“
-
-Eva schrieb einen zweiten Randvermerk.
-
-**Keine Zweitfreigabe nur wegen Datenlücke.**
-
-Felix beobachtete sie.
-
-„Du machst die Regel gerade besser.“
-
-„Ich versuche, sie klein zu halten.“
-
-„Dasselbe Ergebnis.“
-
-Eva legte den Stift hin.
-
-„Nein. Eine schlecht definierte Regel wächst durch Auslegung. Eine enge Regel muss für jede Erweiterung wieder auf den Tisch.“
-
-Sie schrieb noch einmal:
-
-**Keine Ausweitung ohne neue Entscheidung.**
-
-Miriam las den Satz.
+Eva tippte auf das Feld. „Die Begründung muss vollständig sichtbar sein, bevor jemand freigibt. Kein Ritualklick.“
 
 „Einverstanden.“
 
-Eva lehnte sich zurück.
+Eva zeigte auf die drei Bedingungen auf dem Papier. „Und nur diese Kombination. High confidence allein reicht nicht. Schadensrelevanz allein auch nicht. Keine Ausweitung über neue Auslegung.“
 
-Der Widerstand war weiterhin da.
+Miriam schrieb weiter.
 
-Ärztliche Verantwortung fühlte sich für sie nicht teilbar an. Wenn zwei Menschen unterschrieben, konnte daraus ein bequemes Dazwischen entstehen: keiner ganz allein verantwortlich, beide ein wenig abgesichert. Eine zusätzliche Person konnte Distanz schaffen, Haftung verteilen, einen Entscheider vorsichtiger machen, ohne den Patienten besser zu verstehen.
+Felix lehnte an der Wand. „Du machst die Regel gerade besser.“
 
-All das blieb wahr.
+„Ich mache sie kleiner.“
 
-Neles Fall blieb ebenfalls wahr.
+„Für den Anfang.“
 
-Eva erinnerte sich an den Satz aus dem Review.
+Eva kannte den Einwand. Er störte sie, weil er nicht falsch war.
 
-*Ich dachte, meine klinische Einschätzung reicht.*
+Sie drehte die Testansicht wieder zu sich. Im unteren Bereich stand der Status: **Zweitfreigabe ausstehend**.
 
-Vielleicht war genau dort die zusätzliche Reibung sinnvoll: nicht weil eine zweite Ärztin automatisch besser entschied, vielmehr weil ein eigener Grund manchmal erst dann seine Schwäche zeigte, wenn man ihn einer anderen Person aussprechen musste.
+Ein einziger zusätzlicher Mensch zwischen Entscheidung und Handlung.
 
-„Was ist das Erfolgskriterium des Piloten?“ fragte Eva.
+Das war Reibung. Gewollte Reibung.
 
-Miriam antwortete: nicht weniger Overrides um jeden Preis. Nicht höhere KORA-Compliance als Selbstzweck. Sie wollten prüfen, ob die definierte Hochrisikogruppe durch die zweite Freigabe besser begründete Entscheidungen bekam und ob schädliche, schwach begründete Abweichungen seltener wurden, ohne akute Versorgung zu blockieren.
+„Der Pilot darf nicht daran gemessen werden, ob Ärzte KORA öfter folgen“, sagte Eva. „Wenn am Ende nur die Abweichungsquote sinkt, habt ihr nichts bewiesen.“
 
-Eva nickte.
+Miriam nickte. „Gemessen werden Begründungsqualität, Fehlabweichungen und Verzögerungen. Auch die Verzögerungen, die wir durch die Regel selbst erzeugen.“
 
-Das war wichtig.
+Felix stieß sich von der Wand ab.
 
-„Wenn der Pilot nur zeigt, dass Ärzte seltener widersprechen, ist das kein Erfolg.“
+„Dann schreibt wenigstens dazu, dass ihr Macht verschiebt.“
 
-„Einverstanden.“
+Miriam antwortete diesmal direkt. „Tun wir.“
 
-Felix sah von einer zur anderen.
+Felix sah zu Eva.
 
-„Ihr merkt schon, dass ihr gerade eine Maschine baut, mit der wir beweisen sollen, dass unsere Abweichung gut genug ist.“
+Sie hätte gern etwas gesagt, das ihre alte Position vollständig rettete. Der Arzt am Bett trägt Verantwortung. Der Arzt am Bett muss entscheiden dürfen.
 
-Eva antwortete ruhig.
+Der erste Satz galt weiter.
 
-„Im Moment bauen wir eine zweite ärztliche Prüfung für eine eng definierte Risikogruppe.“
+Beim zweiten war aus dem absoluten Recht eine Grenze geworden.
 
-„Im Moment.“
+„Wir testen es“, sagte Eva. „Eng. Mit Akutweg. Mit eigener Messung. Jede Ausweitung kommt neu zur Entscheidung.“
 
-Wieder dieses Wort.
+Felix schüttelte den Kopf, aber er diskutierte nicht weiter. Ein Kollege rief seinen Namen vom anderen Ende des Flurs. Felix ging.
 
-Eva sah auf die eine Seite vor sich.
+Miriam nahm den Einseiter zurück.
 
-Sie mochte die Regel nicht. Das war kein Grund, sie abzulehnen. „Machen wir“, sagte sie. Felix schüttelte den Kopf. Miriam nahm die Seite noch nicht zurück.
+Eva blieb vor der Trainingsansicht stehen.
 
-„Eng begrenzt“, fügte Eva hinzu. „Klare Schwellen. Pilot. Erreichbarkeit muss funktionieren. Jede Ausweitung kommt neu zur Entscheidung.“
+Neles Fall war wieder nur Daten, sauber geordnet, ohne die Minuten, die damals verloren gegangen waren.
 
-„So geht es in den Entwurf.“
+Unter der Abweichung wartete jetzt ein zweiter Name.
 
-Eva schob Neles Timeline zurück in die Anlage.
+Eva mochte das nicht.
 
-Wenige Tage später ging die Zweitfreigabe live.
-
-Der Override war nicht verschwunden.
-
-In einer kleinen, genau bezeichneten Gruppe von Fällen bekam er jetzt eine zweite Person.
-
-Eva redete sich nicht ein, dass das nichts verändert hatte.
+Das reichte nicht mehr als Gegenargument.
 
 ## Kapitel 13 – Schutz oder Gehorsam
 
@@ -2795,409 +2729,331 @@ Sie konnte an Daten scheitern.
 
 ## Kapitel 15 – Wo KORA irrt
 
-Jan begann diesmal mit einem Fehler.
+Jan hatte sechs Fallkarten auf den Tisch gelegt.
 
-„Hier lag KORA daneben.“
+Keine Folien.
 
-Eva sah auf den Bildschirm.
+Eva blieb in der Tür des kleinen Validierungsraums stehen. Durch die Scheibe dahinter war der Flur der Diagnostik zu sehen. Menschen gingen vorbei, Monitore wechselten, irgendwo wurde ein Wagen gegen eine Türzarge gesetzt.
 
-Kein Vorspann. Keine große Gesamtzahl. Nur ein einzelner Fall.
+„Du wolltest die Fehler zuerst“, sagte Jan.
 
-KORA hatte mit niedriger Konfidenz eine Eskalation empfohlen. Der Arzt hatte nach erneuter Untersuchung und einem konkreten Befund anders entschieden. Der spätere Verlauf hatte die Abweichung gestützt.
+„Ich wollte sehen, ob ich sie erkenne, bevor du mir die Antwort gibst.“
 
-Jan öffnete den Entscheidungszeitpunkt, dann den Verlauf danach.
+Er schob ihr die Karten hin.
 
-„Welche Information hatte der Arzt?“ fragte Eva.
+Auf jeder standen nur die Informationen, die zum Entscheidungszeitpunkt verfügbar gewesen waren. KORA-Empfehlung, Konfidenz, klinische Daten, Entscheidung des Teams. Der spätere Verlauf war abgedeckt.
 
-„Keine geheime.“
+Eva nahm die erste.
 
-„Also alles auch im System?“
+Niedrige Konfidenz. KORA hatte eine Eskalation empfohlen. Ein Arzt hatte nach erneuter Untersuchung abgewichen und einen konkreten Befund dokumentiert.
 
-„Die entscheidenden Daten, ja. Die Lage war einfach unsicher.“
+Eva legte die Karte links.
 
-Jan zeigte die Konfidenzmarkierung.
+Die zweite war schwieriger. Ebenfalls niedrige Konfidenz, weniger klarer Gegenbeleg, ein Verlauf, der mehrere Möglichkeiten offenließ.
 
-Gelb.
+Sie legte sie in die Mitte.
 
-„KORA hat selbst signalisiert, dass die Prognosebreite groß ist.“
+Bei der dritten blieb sie länger hängen.
 
-Eva lehnte sich zurück.
+„Hier würde ich KORA widersprechen.“
 
-„Gut.“
+Jan hob nicht einmal den Kopf von seinem Laptop. „Dann leg sie dahin.“
 
-Miriam sah zu ihr. „Gut, dass KORA falsch lag?“
+Links.
 
-„Gut, dass wir mit einem Fall anfangen, in dem die Fehlbarkeit nicht theoretisch ist.“
+Erst als Eva alle drei sortiert hatte, zog Jan die Abdeckstreifen ab.
 
-Jan wechselte zum zweiten Beispiel.
+Beim ersten Fall hatte der spätere Verlauf die menschliche Abweichung gestützt. Beim zweiten blieb die Sache offen. Beim dritten hatte KORA schlechter gelegen als der Arzt.
 
-Wieder niedrige Konfidenz. Wieder ein Override. Diesmal war der spätere Vorteil der menschlichen Entscheidung weniger eindeutig. Beim dritten Fall war die Abweichung deutlich plausibler und der Verlauf passte dazu.
+Eva sah Jan an.
 
-Jan ließ die Fälle nebeneinander stehen.
+„Also.“
 
-„Wenn man nur Beispiele zeigt“, sagte er, „kann ich euch in beide Richtungen überzeugen. Deshalb jetzt die Gruppen.“
+„Also nichts Allgemeines.“
 
-Er blendete die Auswertung ein.
+„Drei Fälle, drei verschiedene Gründe.“
 
-Die Daten waren so aufgeteilt, wie Eva es verlangt hatte. Entscheidungstyp. Konfidenz. Fallmix. Unsicherheit.
+„Genau.“
 
-Keine große Zahl in der Mitte.
+Jan drehte seinen Laptop noch nicht zu ihr. „Wenn ich dir zehn hübsche Beispiele gebe, kann ich aus KORA einen Idioten machen. Mit zehn anderen mache ich aus Ärzten ein Sicherheitsrisiko. Beides wäre bequem und beides wäre schlechte Arbeit.“
 
-Bei niedriger Konfidenz war das Bild unruhig.
+Das klang mehr nach Jan als jede seiner bisherigen Folien.
 
-In einigen Entscheidungsklassen lagen menschliche Abweichungen mindestens gleichauf. In anderen schnitten sie besser ab. Bei wieder anderen war die Gruppe zu klein oder zu heterogen, um eine belastbare Aussage zu ziehen.
+Eva nahm die drei Karten erneut. Gemeinsam war ihnen nur die Unsicherheit. KORA hatte sie selbst markiert.
 
-Jan zeigte nicht nur die Richtung, auch die Streuung.
+„Low confidence bleibt offen.“
 
-„Daraus würde ich keinen allgemeinen Vorrang ableiten“, sagte er. „Weder für KORA noch für menschliche Overrides.“
+„Das ist die vernünftige Lesart.“
 
-Eva betrachtete die Kurven.
+Jan nahm die anderen drei Karten.
 
-Da war der Raum, den sie gesucht hatte.
+Auf der ersten stand hohe Konfidenz. Ressourcenentscheidung. Eva las die Daten zweimal und fand keinen fehlenden Befund. Die menschliche Abweichung hatte eine plausible Begründung, aber keinen neuen medizinischen Faktor.
 
-Keine Maschine, die immer recht hatte.
+Sie legte die Karte nicht sofort ab.
 
-Kein System, das jede menschliche Abweichung statistisch als Irrtum entlarvte.
+„Rechts?“, fragte Jan.
 
-Ein Bereich, in dem Unsicherheit wirklich Unsicherheit blieb.
+„Ich entscheide noch.“
 
-„Wie groß ist der Effekt der Overrides dort?“ fragte sie.
+„Dann entscheide.“
 
-Jan öffnete die Untergruppen.
+Eva legte sie rechts.
 
-Nicht spektakulär. Teilweise positiv. Teilweise neutral. Mit Grenzen.
+Bei der zweiten war kurz nach dem Systemstand ein neuer Befund entstanden. Die Empfehlung war auf einem Zustand gebaut, der wenige Minuten später nicht mehr vollständig galt.
 
-„Und wenn du nur die sauber dokumentierten Gegenbelege nimmst?“
+Diese Karte ging nach links.
 
-„Dann wird es tendenziell besser für die Abweichungen, aber die Gruppe wird deutlich kleiner.“
+Die dritte blieb wieder rechts.
 
-„Also keine Aussage, die du auf jeden Low-Confidence-Fall übertragen würdest.“
+Jan zog die Abdeckungen ab.
 
-„Nein.“
+Eva hatte die Richtung der drei Fälle getroffen. Nicht weil sie KORA besser verstand als vorher. Die Gründe waren konkreter geworden.
 
-Eva nickte.
+Neuer Befund.
 
-Das war wichtig.
+Geänderter Zustand.
 
-Sie wollte keinen neuen Automatismus, nur in die andere Richtung.
+Oder eben kein solcher Unterschied.
 
-Miriam sagte bisher nichts. Jan wechselte zu high confidence. Die Kurven lagen weiter auseinander.
+Jan schob die Karten zusammen.
 
-Eva spürte die Veränderung, bevor Jan etwas erklärte.
+„Jetzt die Gruppen.“
 
-Das Bild war ruhiger. Nicht perfekt. Deutlich.
+Er öffnete die Auswertung.
 
-Jan ging zuerst durch die Kontrollen, als wollte er verhindern, dass jemand aus der Grafik schneller eine Wahrheit machte, als die Daten hergaben. Fallmix berücksichtigt. Entscheidungstypen getrennt. Unvollständige Datensätze separat. Standorte geprüft. Keine einzelne große Teilgruppe, die das Ergebnis allein trug.
+Keine Überschrift, die schon verriet, was man denken sollte. Entscheidungstypen, Konfidenz, Fallmix, Unsicherheitsbereiche.
 
-In den relevanten Ressourcen- und Eskalationsklassen blieb die Asymmetrie zugunsten KORA bestehen.
+Bei niedriger Konfidenz blieb das Bild unruhig. Einige menschliche Abweichungen lagen gleichauf, einige besser, andere schlechter. Mehrere Gruppen waren zu klein für eine robuste Aussage.
 
-Eva ging näher an den Bildschirm.
+Eva erkannte ihre drei Karten darin wieder, ohne dass eine von ihnen die Kurve erklären konnte.
 
-„Wie viel Restfehler bleibt?“
+Dann wechselte Jan zu high confidence.
 
-Jan öffnete Fehlerraten und Unsicherheitsbereiche.
+Die Abstände wurden größer.
 
-„Genug, dass ich niemals behaupten würde, der einzelne Patient sei damit entschieden.“
+Nicht überall. Nicht perfekt. Aber in den relevanten Ressourcen- und Eskalationsklassen stabil genug, dass Eva nicht mehr auf einen einzelnen Gegenfall zeigen konnte und damit die ganze Gruppe entwertete.
 
-Er zeigte auf die Kalibrierung.
+Sie trat näher an den Bildschirm.
 
-„Hohe Konfidenz ist keine individuelle Zukunft. Es bedeutet, dass KORA in dieser Gruppe deutlich besser kalibriert ist und die Empfehlung häufiger trägt.“
+Jan sprach weiter, bevor sie fragen konnte.
 
-„Also kann ich auch hier recht haben.“
+„Fallmix ist berücksichtigt. Unvollständige Datensätze laufen separat. Standorte habe ich geprüft. Keine große Untergruppe trägt das Ergebnis allein. Und bevor du den Satz sagst: Hohe Konfidenz ist keine individuelle Zukunft.“
 
-„Natürlich.“
+Eva sah zu ihm.
 
-„Wie oft?“
+„Den Satz wollte ich tatsächlich sagen.“
 
-Jan nannte ihr die Größenordnung in der Auswertung, ohne daraus ein persönliches Risiko für den nächsten Fall zu machen.
+„Deshalb sage ich ihn zuerst. Wenn Miriam daraus irgendwann macht: KORA weiß, was mit diesem Patienten passieren wird, nehme ich meinen Namen von der Auswertung.“
 
-Eva sah wieder auf die Kurven. KORA konnte irren. Der Satz blieb wahr.
+Eva musste kurz lächeln.
 
-Er war nur nicht mehr stark genug, um jede Abweichung gleich zu schützen.
+„Mutig.“
 
-Sie strich mit dem Finger in der Luft über die niedrige Konfidenzgruppe.
+„Methodisch.“
 
-„Hier brauche ich Spielraum.“
+Er zeigte auf die Kalibrierung. „Die Gruppe ist deutlich. Der einzelne Fall bleibt ein einzelner Fall. Beides gleichzeitig auszuhalten ist offenbar schwieriger, als es klingt.“
 
-„Den bestreitet niemand“, sagte Miriam.
+Eva ging zurück zu den Karten.
 
-Eva deutete auf high confidence.
+Die eine High-Confidence-Karte mit dem neuen Befund lag links. KORA hatte dort nicht magisch versagt. Der Zustand hatte sich verändert.
 
-„Und hier ist mein pauschales Fehlbarkeitsargument zu schwach.“
-
-Jan antwortete nicht sofort. Er musste es nicht für sie formulieren. Eva setzte sich wieder.
-
-„Zeig mir die Fälle, in denen Menschen high confidence schlagen.“
-
-Jan hatte sie vorbereitet.
-
-Es gab welche.
-
-Ein konkreter neuer Befund, der kurz nach dem letzten Systemstand entstanden war. Eine besondere Konstellation, in der die dokumentierte Datenlage formal vollständig, klinisch aber bereits im Wandel gewesen war. Ein Fall, in dem die menschliche Abweichung im späteren Review besser getragen hatte.
-
-Eva las jeden davon. Sie suchte nach einer gemeinsamen Regel. Sie fand keine, die ihr gefiel. Es waren konkrete Gründe. Keine allgemeine Lizenz für Intuition.
-
-„Das ist der Unterschied“, sagte sie mehr zu sich selbst.
-
-Miriam fragte nicht nach.
-
-Eva zeigte auf einen der Fälle.
-
-„Wenn ich hier einen neuen Befund habe, ist die hohe Konfidenz weniger wichtig, weil der Entscheidungszustand sich verändert hat.“
-
-Jan nickte.
-
-„Dann muss KORA neu rechnen.“
-
-„Und wenn ich keinen neuen Befund habe?“
-
-„Dann bleibt die ursprüngliche Evidenz stärker.“
-
-Felix hätte an dieser Stelle gesagt, dass kein Modell klinische Erfahrung vollständig abbilden könne.
-
-Eva hätte ihm vor einigen Wochen zugestimmt und den Satz als Ende der Diskussion benutzt.
-
-Jetzt war er für sie nur noch der Anfang einer Frage.
-
-Welche konkrete Information trägt die Abweichung?
-
-Miriam schob die Unterlagen zu sich.
-
-„Was folgt für dich daraus?“
-
-Eva blieb vor den beiden Gruppen stehen.
-
-„Dass wir Low und High nicht mehr in derselben Sprache behandeln dürfen.“
-
-„Weiter.“
-
-„Dass KORA in High-Confidence-Fällen immer noch falsch liegen kann.“
+„Wenn ich etwas Neues habe, muss das System neu rechnen.“
 
 „Ja.“
 
-„Und dass dieser Satz allein kein guter Grund ist, die Empfehlung zu überschreiben.“
+„Wenn ich nichts Neues habe, bleibt mein Einwand trotzdem möglich.“
 
-Miriam nickte.
+Jan nickte. „Möglich. Nur wird die Ausgangslage ungemütlicher. Du widersprichst dann einer Empfehlung aus einem Bereich, in dem das System deutlich besser liegt als die menschlichen Abweichungen im Mittel.“
 
-Eva mochte es nicht, den Satz auszusprechen.
+Eva nahm die Karte mit der unbegründeteren Abweichung in die Hand.
 
-Gerade deshalb wusste sie, dass er wichtig war.
+Früher hätte der Satz gereicht: Jedes Modell kann irren.
 
-Ihr Argument war nicht verschwunden.
+Er war weiterhin wahr.
 
-Es hatte Grenzen bekommen.
+Nur trug er nicht mehr genug Gewicht.
 
-In der niedrigen Konfidenz blieb echte Offenheit. In der hohen Konfidenz brauchte die Abweichung mehr als die allgemeine Erinnerung daran, dass jedes System Fehler machte.
+„Low und High brauchen unterschiedliche Regeln“, sagte sie.
 
-Der menschliche Spielraum war noch da.
+Jan schloss die Auswertung.
 
-Er war nur ungleich verteilt.
+„Das ist eine Governance-Frage. Nicht meine.“
 
-Und damit schwieriger zu verteidigen als vorher.
+„Praktisch.“
+
+„Sehr.“
+
+Er stapelte die Karten. Eva hielt die mit dem neuen Befund noch fest.
+
+„Die nehme ich.“
+
+„Warum?“
+
+„Weil sie mich daran erinnert, dass high confidence keine Religion ist.“
+
+Jan nahm die Karte mit der schwach begründeten Abweichung und reichte sie ihr dazu.
+
+„Dann nimm die auch.“
+
+Eva sah auf beide.
+
+„Damit du nicht vergisst, warum high confidence trotzdem etwas bedeutet.“
+
+Diesmal sagte Jan es ohne jede Ironie.
+
+Eva steckte beide Karten in ihre Mappe.
+
+Zum ersten Mal verließ sie eine Auswertung mit weniger Argumenten als vorher und mit einem klareren Bild.
 
 ## Kapitel 16 – Zu wenig Widerspruch
 
 Felix' Zeile war fast leer.
 
-Eva scrollte zurück.
-
-Die Ansicht war ursprünglich nicht für ihn gedacht. Jan hatte die Verteilung der high-confidence Konflikte nach Entscheidungstypen gezeigt, um zu erklären, wie oft die neue Zweitfreigabe überhaupt griff.
-
-Ein Name war dabei aufgefallen.
-
-Felix Brandt.
-
-Andere Ärzte hatten high-confidence Konflikte, je nach Fallmix mehr oder weniger. Bei Felix waren es auffällig wenige.
-
-Eva prüfte zuerst die Fallzahlen.
-
-Felix behandelte genug Patienten, dass eine leere Zeile nicht einfach durch geringe Aktivität erklärt war.
-
-Dann die Entscheidungsklassen.
-
-Er arbeitete nicht in einem Bereich, der kaum von KORAs high-confidence Empfehlungen betroffen war.
-
-Dann den Zeitraum.
-
-Das Muster blieb.
-
-Sie sortierte nach Dienstzeiten, weil sie sich selbst dabei ertappte, aus einer Zahl bereits eine Geschichte zu bauen.
-
-Vielleicht hatte Felix schlicht andere Schichten gehabt.
-
-Vielleicht eine andere Patientenmischung.
-
-Vielleicht war er tatsächlich seltener im Konflikt mit KORA, als seine Haltung vermuten ließ.
-
-Alles möglich.
-
-Jan stand noch am anderen Ende des Raums und packte seinen Laptop ein.
-
-„Ist das fallmixbereinigt?“ fragte Eva.
-
-Er sah zu ihrer Ansicht.
-
-„Grob ja. Nicht als personenbezogene Qualitätsanalyse.“
-
-„Ich will keine personenbezogene Qualitätsanalyse.“
-
-„Dann lies nicht zu viel in eine personenbezogene Zeile.“
-
-Eva schloss die Ansicht.
-
-„Mach ich nicht.“
-
-Jan antwortete nicht.
-
-Das war wahrscheinlich klüger.
+Eva hatte sie am Vormittag gesehen und den Laptop zugeklappt, bevor aus einem Muster eine Behauptung wurde.
 
 Am Nachmittag fand sie Felix auf der Intensivstation.
 
-Er stand an einem Arbeitsplatz zwischen zwei Patientenzimmern und diktierte eine kurze Notiz. Eva wartete, bis er fertig war.
+Er stand im Zimmer eines Patienten, dessen Kreislauf gerade genug Arbeit machte, dass niemand dort Zeit für Grundsatzfragen hatte. Eva blieb draußen. Durch die Scheibe sah sie Felix mit der Pflege sprechen, eine Einstellung am Perfusor prüfen und danach selbst noch einmal an das Bett treten.
 
-„Hast du eine Minute?“
+Er brauchte fast zehn Minuten.
 
-Felix sah auf die Uhr.
+Als er herauskam, zog er die Handschuhe aus und warf sie in den Abwurf.
 
-„Wenn du mir nicht gleich eine neue Regel verkaufst.“
+„Du wartest. Das ist selten.“
 
-„Keine Sorge.“
+„Genieß es nicht.“
 
-„Das sagt ihr immer kurz vor einer neuen Regel.“
+Sie gingen ein Stück den Flur hinunter. Eva hielt ihm das Tablet hin.
 
-Eva hielt ihm das Tablet hin. Felix nahm es und überflog die Ansicht. Sein Gesicht veränderte sich kaum.
+Felix sah auf die Ansicht und blieb stehen.
 
-„Und?“
+Sein Name. Darunter fast keine high-confidence Konflikte.
 
-„Du hast kaum high-confidence Konflikte.“
+Er gab ihr das Tablet nicht sofort zurück.
 
-„Vielleicht bin ich einfach besser als ihr.“
+„Das ist also jetzt eine persönliche Statistik.“
+
+„Noch nicht. Im Moment ist es eine auffällige Zeile.“
+
+Felix las die Fallzahl, die Entscheidungsklassen, den Zeitraum. Dann strich er mit dem Daumen über den Rand des Geräts.
+
+„Ich dokumentiere oft nach der ersten Intervention neu. Das weißt du.“
+
+„Erklär es mir so, als wüsste ich es nicht.“
+
+Felix sah sie kurz an. Dann deutete er mit dem Tablet auf die geschlossene Zimmertür hinter ihnen.
+
+„Der Patient da drin kommt mit einem Zustand. Wir beginnen eine Maßnahme. Fünf Minuten später hat er neue Werte, eine andere Atemarbeit, vielleicht einen anderen Kreislauf. Wenn ich dann weiterentscheide, arbeite ich mit dem Zustand nach der Intervention. Den dokumentiere ich. KORA bewertet neu. Für dich sieht das in der Auswertung aus, als hätte es den ursprünglichen Konflikt nie gegeben. Für mich ist der ursprüngliche Zustand nur nicht mehr der Zustand, auf dessen Basis ich weiterhandle.“
+
+Er sagte es ohne Hast.
+
+Eva kannte diese Art von Erklärung. Felix war gut darin, einen klinischen Ablauf auf das zu reduzieren, was praktisch geschehen musste.
+
+Gerade deshalb hörte sie genauer hin.
+
+„Und der Moment vor der Intervention?“
+
+Felix atmete durch die Nase aus.
+
+„Da fängt das Problem mit eurer Logik an. Ihr wollt einen sauberen Entscheidungspunkt. In der Akutmedizin gibt es oft einen Verlauf. Ich probiere etwas, sehe eine Reaktion, passe an. Wenn ihr jede Zwischenlage einfriert und daraus ein Ja oder Nein zu KORA macht, erzeugt ihr eine Ordnung, die auf dem Bildschirm sauberer ist als am Bett.“
+
+Eine Pflegekraft kam aus dem Zimmer und hielt Felix einen Ausdruck hin. Er überflog ihn, sagte zwei Sätze zur nächsten Kontrolle und gab ihn zurück.
+
+Eva wartete, bis sie wieder allein waren.
+
+„Die Erklärung ist plausibel.“
+
+„Danke für die Abnahme.“
+
+„Das war keine.“
+
+Felix lehnte sich mit der Schulter an die Wand.
+
+Eva öffnete einen der anonymisierten Verläufe aus seiner Gruppe.
+
+Eingangszustand. KORA-Empfehlung. Intervention. Neuer Snapshot. Niedrigere Konfidenz.
+
+Alles konnte genau so passiert sein, wie Felix es beschrieb.
+
+„Ich will wissen, ob du den neuen Zustand dokumentierst, weil er klinisch relevant ist“, sagte Eva, „oder ob der neue Zustand praktisch auch den Konflikt verschwinden lässt.“
+
+Felix' Gesicht wurde härter.
+
+Er nahm ihr das Tablet noch einmal ab und öffnete die Kurve selbst.
+
+„Beides kann gleichzeitig wahr sein, Eva. Ein neuer Zustand ist klinisch real. Und wenn eure Regel an einem früheren Snapshot hängt, verändert ein neuer Zustand natürlich die Regelwirkung. Daraus folgt nicht, dass ich Daten erfinde oder Patienten behandle, um einen Schalter zu umgehen.“
+
+„Das habe ich nicht behauptet.“
+
+„Noch nicht. Aber genau so fängt es an. Erst sieht jemand eine Verteilung. Dann ist sie auffällig. Dann muss der Einzelne erklären, warum er nicht aussieht wie der Mittelwert. Irgendwann wird aus der Erklärung eine Pflicht und aus der Pflicht eine Vermutung.“
 
 Eva sah ihn an.
 
-Felix grinste kurz.
+Das war mehr als Trotz.
 
-„Schon gut.“
+Felix hatte Angst vor einer Medizin, in der statistische Abweichung selbst zum Verdacht wurde.
 
-„Ernsthaft.“
+Sie verstand den Punkt.
 
-Er gab ihr das Tablet noch nicht zurück. Stattdessen öffnete er einen der anonymisierten Verläufe aus seiner eigenen Gruppe.
+Sie verstand auch, warum er die Frage nicht beantwortete, die sie eigentlich beschäftigte.
 
-„Ich dokumentiere oft nach der ersten Intervention neu. Wenn sich ein Patient darunter verändert, bewertet KORA die neue Lage.“
+„Wann ist für dich eine Entscheidung so weit getroffen, dass sie in die Governance gehört?“
 
-„Das erklärt so viel?“
+Felix gab ihr das Tablet zurück.
 
-Felix hob die Schultern.
+„Wenn sie tatsächlich getroffen ist.“
 
-„Vielleicht.“
+„Das hilft mir nicht.“
 
-„Vielleicht?“
+„Doch. Du magst nur die Antwort nicht.“
 
-„Ich zähle meine Konflikte nicht.“
+Er zeigte wieder zur Zimmertür.
 
-Er zeigte auf den Verlauf.
+„Vorhin habe ich die Unterstützung verändert. Wenn der Patient darauf deutlich reagiert, ist die nächste Entscheidung eine andere als die davor. Wenn er nicht reagiert, eskaliere ich. Ich weigere mich, so zu tun, als hätte ich beim ersten Kontakt bereits jede spätere Weiche gestellt.“
 
-„Hier. Patient kommt hypoxisch rein. Wir beginnen die erste Stabilisierung. KORA bewertet den Eingangszustand. Danach habe ich neue Werte und einen neuen klinischen Zustand. Also dokumentiere ich neu.“
+Eva kannte seine Arbeit gut genug, um das nicht als Ausrede abzutun.
 
-Eva sah auf den zeitlichen Verlauf.
+Sie kannte ihn auch gut genug, um zu hören, wo Überzeugung in Starrheit überging.
 
-Das war medizinisch nicht absurd.
+„Und wenn die erste Intervention bereits die Weiche ist?“
 
-Im Gegenteil. Entscheidungen in Akutsituationen waren selten einzelne saubere Punkte. Ein Patient veränderte sich. Eine Maßnahme wirkte oder wirkte nicht. Der Plan wurde neu bewertet.
+Felix schwieg.
 
-„Und wann ist für dich die Entscheidung gefallen?“ fragte Eva.
+Nicht lange.
 
-Felix sah sie an.
+„Dann muss man sie als solche erkennen. Aber nicht jede Maßnahme ist eine Entscheidung gegen KORA, nur weil eine spätere Auswertung gern einen Zeitpunkt hätte.“
 
-„Welche?“
+Ein Monitor alarmierte im Zimmer hinter ihnen.
 
-„Ob du der ursprünglichen KORA-Empfehlung folgst.“
+Felix war sofort von der Wand weg.
 
-„Das ist genau die falsche Frage.“
+„Ich muss rein.“
 
-„Warum?“
+Eva trat zur Seite.
 
-Felix legte das Tablet auf den Tresen.
+Er öffnete die Tür, blieb aber noch einen Moment stehen.
 
-„Weil du so tust, als gäbe es einen Moment, an dem ich eine Empfehlung bekomme und dann feierlich Ja oder Nein sage. Oft behandle ich. Der Patient reagiert. Dann entscheide ich weiter.“
+„Wenn du mir etwas vorwerfen willst, bring einen Fall. Keine leere Zeile.“
 
-„KORA markiert trotzdem einen Entscheidungszustand.“
+Dann ging er hinein.
 
-„Für die Dokumentation.“
+Eva blieb vor der Scheibe stehen.
 
-„Für die Empfehlung.“
+Drinnen war Felix wieder vollständig Arzt. Keine Governance, keine Statistik, kein Machtkampf. Er beugte sich über den Patienten, hörte zu, gab eine Anweisung und wartete auf die Reaktion.
 
-„Auch.“
+Eva vertraute ihm in diesem Raum.
 
-Felix verschränkte die Arme.
+Das machte die Zeile nicht weniger auffällig.
 
-„Du siehst einen Zähler und plötzlich muss ich erklären, warum er nicht aussieht wie bei den anderen.“
+Vielleicht war seine Erklärung vollständig.
 
-„Ich frage dich, weil ich dir vertraue.“
+Vielleicht lag genau in der klinisch plausiblen Reihenfolge die Stelle, an der sich eine Regel umgehen ließ, ohne einen einzigen falschen Wert einzutragen.
 
-Felix' Gesicht wurde ernster.
+Eva schloss die Ansicht.
 
-„Dann glaub mir: Ich behandle zuerst den Patienten. Wenn ich neue reale Daten habe, gebe ich neue reale Daten ein. KORA bewertet dann den Zustand, der tatsächlich vorliegt.“
+Sie hatte keinen Beleg gegen Felix.
 
-Eva nahm das Tablet wieder.
-
-„Ich habe nicht gesagt, dass du etwas falsch machst.“
-
-„Noch nicht.“
-
-„Felix.“
-
-Er sah durch die Scheibe in eines der Zimmer. Drinnen prüfte eine Pflegekraft einen Monitor.
-
-„Weißt du, was das Problem mit solchen Auswertungen ist?“ fragte er.
-
-Eva wartete.
-
-„Am Anfang heißt es: Wir wollen nur verstehen. Dann heißt es: Das Muster ist auffällig. Dann muss der Einzelne beweisen, dass sein Ablauf plausibel war.“
-
-„Wenn ein Ablauf auffällig ist, darf man fragen.“
-
-„Natürlich darf man fragen.“
-
-Felix sah wieder zu ihr.
-
-„Die Frage ist, wann Fragen zu einer Erwartung werden.“
-
-Eva dachte an die getrennte Auswertung. An high confidence. An die Zweitfreigabe.
-
-„Das ändert nichts daran, dass deine Erklärung plausibel ist.“
-
-„Großzügig.“
-
-„Gewöhn dich nicht dran.“
-
-Felix lächelte diesmal wirklich kurz.
-
-Eva schob das Tablet unter den Arm.
-
-„Ich will nur eines verstehen. Wenn sich ein Patient nach einer ersten Maßnahme verändert: dokumentierst du den neuen Zustand, weil er klinisch relevant ist, oder weil du dann eine andere KORA-Konfidenz bekommst?“
-
-Felix' Lächeln verschwand.
-
-„Weil der neue Zustand der neue Zustand ist.“
-
-„Okay.“
-
-„Okay?“
-
-„Ich habe gefragt. Du hast geantwortet.“
-
-„So einfach?“
-
-„Genieß es.“
-
-Eva ging.
-
-Auf dem Flur blieb sie kurz stehen und öffnete die Zeile noch einmal.
-
-Wenige high-confidence Konflikte. Die Erklärung war plausibel. Vielleicht vollständig. Vielleicht nur der erste Teil einer Antwort. Eva schloss die Ansicht. Sie hatte keinen Beleg gegen Felix.
-
-Nur eine Frage, die nach seiner Erklärung nicht verschwunden war.
+Nur eine Frage, die jetzt präziser war als vorher.
 
 ## Kapitel 17 – Der Zeitpunkt
 
@@ -5211,437 +5067,375 @@ Jetzt musste er Regeln aushalten, ohne darin zu verschwinden.
 
 ## Kapitel 25 – Was nicht in den Daten steht
 
-Der erste Fall war einfach genug, dass niemand stritt.
+Der Patient hatte seine Grenze bereits gesetzt.
 
-Die Ärztin aus dem Ethikkonsil hatte ihn bewusst an den Anfang gesetzt.
+Nicht an diesem Morgen. Monate vorher.
 
-Dokumentierter Patientenwille. Eine medizinisch erfolgversprechendere Behandlung war verfügbar. Der Patient hatte sie nach Aufklärung abgelehnt.
+Eva stand mit Nele vor dem Rechner am Ende des Flurs und las den dokumentierten Therapievermerk zum zweiten Mal. Keine invasive Beatmung. Keine Eskalation über das festgelegte Therapieziel hinaus. Der Eintrag war mehrfach bestätigt, zuletzt bei der Aufnahme.
 
-Auf dem Bildschirm stand KORAs Prognose daneben. „Wert-/Kontextabweichung“, sagte die Ärztin. Eva nickte. Miriam ebenfalls. Nele schrieb mit.
+Daneben stand KORAs Empfehlung.
 
-„Und der Grund muss im Datensatz sichtbar sein“, sagte Miriam.
+**Eskalation medizinisch vorteilhaft.**
 
-„Der dokumentierte Wille“, sagte Eva. „Nicht nur der Satz, dass der Arzt abweicht.“
+Hohe Konfidenz.
 
-Die Ärztin aus dem Ethikkonsil wechselte zum nächsten Testfall.
+Nele sah vom Bildschirm zur halb geöffneten Zimmertür.
 
-Diesmal wurde es langsamer.
+„KORA liegt nicht falsch.“
 
-Das Therapieziel war begrenzt. Eine weitere Eskalation hätte medizinisch eine günstigere kurzfristige Prognose versprochen, zugleich aber eine Behandlungsintensität bedeutet, die dem dokumentierten Ziel nicht entsprach.
+„Nein.“
 
-Nele las die Fallbeschreibung zweimal.
+Im Zimmer sprach eine Pflegekraft leise mit dem Patienten. Seine Stimme war nicht zu verstehen.
 
-„KORA liegt hier nicht falsch.“
+Eva öffnete die Einflussfaktoren. KORA hatte den klinischen Zustand korrekt erfasst. Es sah die Verschlechterung, die Reserven, das Risiko.
 
-„Nein“, sagte Eva.
+Was es nicht als Ziel setzte, war die Grenze, die der Patient selbst gezogen hatte.
 
-„Dann akzeptieren wir die Prognose und treffen trotzdem eine andere Entscheidung.“
-
-„Ja.“
-
-Nele tippte mit dem Stift gegen ihr Notizbuch.
-
-„Dann muss das im System klar getrennt sein. Sonst sieht später niemand, ob jemand die Prognose bestritten hat oder eine Werteentscheidung getroffen hat.“
-
-Miriam sah zu Eva.
-
-„Genau deshalb sitzen wir hier.“
-
-Eva ignorierte den Ton.
-
-Die Ärztin aus dem Ethikkonsil schob den dritten Fall auf den Bildschirm.
-
-**Behandler kennt Patienten seit Jahren und hält die Empfehlung für unpassend.**
-
-Darunter keine weitere Information.
-
-Eva brauchte nicht lange.
-
-„Zu wenig.“
-
-Miriam hob eine Augenbraue.
-
-„Warum?“
-
-„Weil die Behandlerbeziehung noch keinen patientenspezifischen Grund liefert.“
-
-„Du kennst den Patienten seit Jahren“, sagte Nele. „Das kann doch relevant sein.“
-
-„Kann es.“ Eva zeigte auf die Fallbeschreibung. „Dann muss da stehen, was ich durch diese Beziehung weiß.“
-
-„Zum Beispiel?“
-
-„Ein dokumentierter Therapiewunsch. Ein wiederholt geäußerter Wille. Eine konkrete Belastung, die in der Empfehlung nicht als Entscheidungswert abgebildet ist.“
-
-Nele nickte langsam.
-
-„Dann trägt die Information die Abweichung.“
-
-„Genau.“
-
-Miriam ergänzte: „Die Beziehung erklärt, woher die Information kommt. Sie ist nicht automatisch der Grund.“
-
-Die Ärztin aus dem Ethikkonsil wechselte weiter.
-
-**Klinische Intuition.**
-
-Diesmal entstand für eine Sekunde fast etwas wie gemeinsames Unbehagen.
-
-Eva lehnte sich zurück.
-
-Das Wort war zu groß und zu klein zugleich. Es konnte hochentwickelte Mustererkennung meinen. Es konnte auch heißen, dass jemand keine Lust hatte, seinen Widerspruch genauer zu prüfen.
-
-Miriam brach die Stille.
-
-„Prognosewiderspruch.“
-
-Nele sah zu ihr.
-
-„Immer?“
-
-„Wenn die Intuition sagt, KORAs medizinische Einschätzung stimmt in diesem Fall nicht.“
+„Dann ist das kein Prognosefehler“, sagte Nele.
 
 Eva nickte.
 
-„Dann soll der Arzt benennen, was er sieht. Befund, Verlauf, fehlende Information. Irgendetwas, das die Prognose konkret betrifft.“
+Vor einigen Monaten hätte dieser Satz die Diskussion fast beendet. Wenn KORA medizinisch richtig lag, musste die Abweichung irgendwo gegen seine Bewertung argumentieren.
 
-„Und wenn er nichts benennen kann?“
+Jetzt war genau das das Problem.
 
-Eva sah auf das Wort auf dem Bildschirm.
+„Ruf Miriam an“, sagte Eva. „Und die Ethik.“
 
-„Dann ist Intuition kein eigener Werteweg.“
+Nele sah sie an. „Für den Fall?“
 
-Nele schrieb das nicht sofort auf.
+„Für die Regel. Der Fall ist die Regel.“
 
-„Das ist härter als früher.“
+Die Ärztin aus dem Ethikkonsil kam zuerst. Miriam wenige Minuten später. Niemand ging in einen Besprechungsraum. Sie blieben am Arbeitsplatz, während die Versorgung im Zimmer weiterlief.
+
+Eva zeigte nur drei Dinge: die Empfehlung, das dokumentierte Therapieziel, die aktuelle Situation.
+
+Die Ethikärztin brauchte keine lange Einordnung.
+
+„Die Prognose kann stimmen. Das Therapieziel kann trotzdem eine andere Entscheidung verlangen.“
+
+Miriam las den Vermerk vollständig.
+
+„Dann muss im System sichtbar sein, dass die Prognose akzeptiert wird.“
+
+Nele verschränkte die Arme. „Warum ist das wichtig?“
+
+Miriam deutete auf den Bildschirm. „Weil später sonst jeder Abweichung derselbe Fehler unterstellt wird. Entweder KORA habe medizinisch falsch gelegen oder der Arzt habe die Prognose ignoriert. Hier stimmt beides nicht.“
+
+Eva sah wieder ins Zimmer.
+
+Der Patient hatte keinen abstrakten Werteraum eröffnet. Er hatte eine konkrete Grenze gesetzt.
+
+„Dann brauchen wir zwei Wege“, sagte sie.
+
+Nele nahm einen Stift aus der Tasche und schrieb auf die Rückseite eines Ausdrucks.
+
+**Prognose bestreiten.**
+
+Darunter:
+
+**Prognose akzeptieren, Entscheidung trotzdem anders.**
+
+Sie hielt das Blatt hoch.
+
+„So?“
+
+„Fast“, sagte die Ethikärztin. „Beim zweiten muss der Grund patientenspezifisch sein. Kein allgemeines Unbehagen.“
+
+Eva ergänzte:
+
+**Patientenwille. Therapieziel. Relevante Behandlungsbelastung.**
+
+Miriam las mit.
+
+„Und Kontext, den KORA nicht als Entscheidungswert abbildet.“
+
+Nele setzte den Stift erneut an, stoppte aber.
+
+„Was ist mit: Ich kenne den Patienten seit zehn Jahren?“
+
+Eva dachte an Laura Berg. An den Mann, den sie damals nur als Daten gesehen hatte. Nähe konnte Information liefern. Nähe konnte auch bloß Nähe sein.
+
+„Dann muss da stehen, was du durch diese zehn Jahre weißt.“
+
+„Wenn ich nur schreibe, dass ich ihn kenne?“
+
+„Reicht nicht.“
+
+Die Ethikärztin nickte. „Die Beziehung kann Quelle einer relevanten Information sein. Sie ersetzt die Information nicht.“
+
+Nele schrieb weiter.
+
+Im Zimmer wurde die Tür ganz geöffnet. Die Pflegekraft kam heraus und sagte, dass der Patient noch einmal nach seinem Sohn gefragt habe. Nele ging hinein, um das weitere Vorgehen mit ihm zu besprechen.
+
+Eva blieb mit Miriam und der Ethikärztin am Rechner.
+
+Das war der Teil, den keine Statistik allein lösen konnte. Eine medizinisch bessere Prognose war nicht automatisch die einzige Größe, nach der ein Mensch behandelt werden wollte.
+
+Miriam öffnete den Entwurf für die neue Oberfläche.
+
+Bis dahin hatte jedes Override-Feld im Kern dieselbe Frage gestellt: Warum weichen Sie von der Empfehlung ab?
+
+Eva zeigte auf den Satz.
+
+„Der ist zu grob.“
+
+Miriam löschte ihn.
+
+Sie bauten zwei getrennte Auswahlwege in den Entwurf.
+
+Beim ersten musste der Arzt einen konkreten medizinischen Gegenbeleg benennen: neuer Befund, relevante Entwicklung, fehlende Information.
+
+Beim zweiten stand ausdrücklich, dass die medizinische Prognose akzeptiert werden konnte. Darunter wurde nach dem patientenspezifischen Wert oder Kontext gefragt, der die Entscheidung veränderte.
+
+Die Ethikärztin fügte Beispiele hinzu, keine abschließende Liste.
+
+Patientenwille.
+
+Therapieziel.
+
+Relevante Behandlungsbelastung.
+
+Nele kam zurück.
+
+„Er bleibt bei der Grenze.“
+
+Eva sah auf den Bildschirm.
+
+KORAs Empfehlung war noch immer plausibel.
+
+Die Entscheidung blieb trotzdem anders.
+
+Zum ersten Mal stand beides nebeneinander, ohne dass eine Seite die andere als Fehler behandeln musste.
+
+Nele las den Entwurf.
+
+„Das ist mehr Begründung als vorher.“
 
 „Ja.“
 
-„Auch für dich.“
-
-Eva sah sie an.
-
-„Vor allem deshalb ist es ernst gemeint.“
-
-Die Sitzung ging weiter.
-
-Der nächste Testfall enthielt einen klar dokumentierten Patientenwillen.
-
-Der danach eine relevante Behandlungsbelastung.
-
-Dann kam ein Fall, in dem der Arzt schrieb, der Patient sei *besonders verletzlich*, ohne zu erklären, was diese Verletzlichkeit für die konkrete Entscheidung bedeutete.
-
-Die Ärztin aus dem Ethikkonsil schüttelte den Kopf.
-
-„Das ist ein Etikett.“
-
-Miriam fragte: „Kann es patientenspezifisch gemacht werden?“
-
-Eva las die Falldetails.
-
-„Vielleicht. Aber dann muss der konkrete Zusammenhang rein. Nicht das Etikett.“
-
-Sie markierten den Fall als unzureichend begründet.
-
-Ein anderer Fall war schwieriger. Eine Patientin hatte keine formale Vorausverfügung, aber mehrfach gegenüber demselben Behandlungsteam ein enges Therapieziel geäußert. Die Dokumentation war vorhanden, nur verteilt.
-
-Nele sagte: „Wenn das zählt, darf KORA nicht nur nach einem einzelnen Formular suchen.“
-
-Miriam machte eine Notiz.
-
-„Technischer Punkt.“
-
-Eva sah auf die verstreuten Einträge.
-
-„Und Governance-Punkt. Ein echter Grund darf nicht verschwinden, nur weil er schlecht abgelegt ist.“
-
-Damit war der Raum plötzlich nicht mehr abstrakt.
-
-Die Kategorie musste zwei Dinge gleichzeitig können: schlechte Begründungen abweisen und reale patientenspezifische Gründe nicht an Formalien verlieren.
-
-Das machte sie komplizierter, aber auch glaubwürdiger.
-
-Gegen Mittag lagen die Fälle in drei Stapeln.
-
-Klarer Prognosewiderspruch. Klarer Wert-/Kontextgrund. Nicht ausreichend begründet. Die letzte Gruppe war die größte. Nele betrachtete sie.
-
-„Das wird in der Praxis nerven.“
-
-„Ja“, sagte Miriam.
-
-„Menschen werden irgendetwas reinschreiben, nur um weiterzukommen.“
-
-Eva sah auf die Beispiele.
-
-*Ich sehe das anders.*
-
-*Ich kenne solche Verläufe.*
-
-*Der Patient liegt bei uns.*
-
-Genau diese Sätze sollten nicht reichen.
-
-„Dann muss die Oberfläche den Unterschied erzwingen“, sagte sie.
-
-Miriam öffnete den Entwurf.
-
-Am Ende standen zwei getrennte Wege.
-
-**1. Prognose bestreiten – konkreten medizinischen Gegenbeleg dokumentieren.**
-
-**2. Prognose akzeptieren – konkreten patientenspezifischen Wert-/Kontextgrund dokumentieren.**
-
-Die Ärztin aus dem Ethikkonsil ergänzte unter dem zweiten Weg Beispiele, aber keine abschließende Liste.
-
-Patientenwille. Therapieziel. Relevante Behandlungsbelastung.
-
-Konkreter patientenspezifischer Kontext, den KORA nicht als Entscheidungswert abbildete.
-
-Nele las beide Wege.
-
-„Das ist ziemlich viel Begründung für eine menschliche Letztentscheidung.“
-
-Eva sah sie an.
+„Für beide Wege.“
 
 „Ja.“
 
-„Findest du das gut?“
+Nele steckte den Stift weg. „Gut.“
 
-Eva dachte an ihre eigene Bilanz. An Laura. An den Fall, bei dem sie vor einem leeren Gegenbelegfeld gesessen und keinen Satz gefunden hatte, der hielt.
+Eva hob den Blick.
 
-„Ich finde gut, dass die zweite Kategorie überhaupt existiert.“
+„Das kommt überraschend schnell.“
 
-Miriam hob den Blick vom Laptop.
+Nele sah zur Zimmertür. „Nach meinem Fall finde ich es nicht schlimm, wenn ich sagen muss, was genau ich zu wissen glaube. Und hier will ich auch nicht so tun, als wäre KORA medizinisch falsch.“
 
-„Das war keine Antwort.“
+Das war keine Systemtreue.
 
-„Mehr bekommst du heute nicht.“
+Es war eine präzisere Form von Verantwortung.
 
-Die Ärztin aus dem Ethikkonsil lächelte kurz. Nele schüttelte den Kopf und schrieb weiter. Der Pilot wurde beschlossen.
+Miriam speicherte den Entwurf.
 
-Einige Tage später öffnete Eva die neue Oberfläche selbst.
+„Wir testen noch ein paar Grenzfälle, bevor das live geht.“
 
-Die beiden Wege standen tatsächlich getrennt untereinander. Sie klickte den ersten an. Ein Feld verlangte den konkreten medizinischen Gegenbeleg. Sie ging zurück und öffnete den zweiten.
+Eva nickte. Ein paar reichten. Sie brauchte keine weitere Stunde mit zwanzig Varianten, um den Kern zu verstehen.
 
-Dort stand nicht die Frage, warum KORA falsch lag.
+Der Patient im Zimmer hatte ihn bereits gezeigt.
 
-Die Oberfläche akzeptierte ausdrücklich, dass die Prognose stimmen konnte.
+Die Maschine konnte medizinisch recht haben.
 
-Darunter wurde gefragt, welcher patientenspezifische Wert oder Kontext die Entscheidung trotzdem veränderte.
+Der Mensch konnte trotzdem einen legitimen Grund haben, anders zu handeln.
 
-Eva ließ das Fenster offen.
-
-Zum ersten Mal war im System vorgesehen, dass menschlicher Widerspruch nicht nur aus einem Prognosefehler bestehen musste.
-
-Das war der Raum, den sie hatte schützen wollen.
-
-Und genau dort würde sich zeigen, ob aus einem legitimen Ausnahmeweg wieder eine Ausweichspur wurde.
+Dieser Grund musste einen Namen bekommen.
 
 ## Kapitel 26 – Zu viele Ausnahmen
 
-Die Kategorie war beliebt.
+„Kannst du kurz draufschauen?“
 
-Zu beliebt.
+Eva kannte den Arzt aus der Inneren. Ruhig, erfahren, keiner, der bei jeder Regel zuerst nach dem Schlupfloch suchte.
 
-Eva sah auf die Kurve und wusste, was Miriam gleich sagen würde.
+Er stand mit einem Tablet vor ihr, während hinter ihm zwei Pflegekräfte einen Patienten in die Diagnostik schoben.
 
-Der Pilot war erst seit kurzer Zeit aktiv. Trotzdem stieg der Anteil der Wert-/Kontextabweichungen schneller, als es die echten Grenzfälle erwarten ließen.
+„Worum geht es?“
 
-Miriam stand neben dem Bildschirm, die Arme vor der Brust.
+„Wert-/Kontextweg.“
 
-„Das ist kein Pilot mehr. Das ist eine Ausweichspur.“
+Eva nahm das Tablet.
 
-„Warte.“
+KORA empfahl in einem Ressourcen- und Eskalationskonflikt eine andere Priorisierung. Hohe Konfidenz. Der Arzt wollte abweichen.
 
-„Worauf?“
+Im Begründungsfeld stand:
 
-„Auf die Fälle.“
+**Langjährige Behandlerbindung. Unmittelbare Verantwortung für den Patienten vor Ort.**
 
-Eva zog den Laptop näher und öffnete die Liste.
+Eva las den Satz noch einmal.
 
-Die ersten Einträge waren sauber. Dokumentierter Patientenwille. Begrenztes Therapieziel.
+„Was weißt du über ihn, das hier nicht steht?“
 
-Eine relevante Behandlungsbelastung, die in der KORA-Optimierung nicht als eigener Wert abgebildet war.
+Der Arzt deutete auf die Kurve. „Ich behandle ihn seit vier Jahren. Ich kenne seine Verläufe. Ich sehe, wie schnell er kippen kann.“
 
-Eva öffnete den ersten Fall vollständig. Der Wille war dokumentiert. Die Prognose blieb unbestritten. Die Entscheidung folgte einem klaren Ziel des Patienten.
+„Konkreter Befund?“
 
-„Genau dafür haben wir die Kategorie gebaut.“
+„Nicht neuer als das hier.“
+
+Eva scrollte.
+
+„Patientenwille? Therapieziel? Eine Belastung oder ein anderer patientenspezifischer Wert, der die Entscheidung verändert?“
+
+Er schüttelte den Kopf.
+
+„Darum geht es nicht. Ich kenne ihn. Wenn du lange genug mit einem Patienten arbeitest, merkst du Dinge früher.“
+
+Eva gab ihm das Tablet nicht zurück.
+
+Vor ein paar Monaten hätte sie den Satz fast automatisch verteidigt.
+
+Erfahrung war real.
+
+Behandlerwissen war real.
+
+Nähe konnte Informationen liefern, die ein Datensatz schlecht abbildete.
+
+Nur stand hier keine solche Information.
+
+Es stand die Beziehung selbst.
+
+„Wenn du etwas Konkretes früher merkst, schreib genau das in den medizinischen Gegenbeleg.“
+
+Der Arzt runzelte die Stirn.
+
+„Und wenn ich es noch nicht auf einen Wert runterbrechen kann?“
+
+„Dann haben wir kein neues Faktum für diesen Weg.“
+
+„Also soll ich KORA folgen, weil ich meinen Patienten zu gut kenne?“
+
+Der Satz traf die Stelle, an der Eva früher sofort in Opposition gegangen wäre.
+
+Sie hielt das Tablet zwischen ihnen.
+
+„Nein. Du kannst medizinisch widersprechen, wenn du benennen kannst, was in der Prognose nicht trägt. Du kannst über Wert und Kontext abweichen, wenn etwas Patientenspezifisches die Entscheidung verändert. Dass du ihn kennst, kann dir beides liefern. Die Beziehung allein entscheidet aber nicht, wer die knappe Ressource bekommt.“
+
+Der Arzt sah sie an.
+
+„Das ist sehr sauber.“
+
+„Ja.“
+
+„Am Bett fühlt es sich weniger sauber an.“
+
+„Weiß ich.“
+
+Er nahm das Tablet zurück.
+
+„Und jetzt?“
+
+„Prüf den Fall noch einmal. Wenn du einen konkreten medizinischen Grund hast, nimm den ersten Weg. Wenn es einen echten Wert- oder Kontextgrund gibt, nimm den zweiten. Wenn beides fehlt, reicht der Satz da nicht.“
+
+Er sagte nichts mehr dazu.
+
+Eva sah ihm nach, bis er um die Ecke verschwunden war.
+
+Das Unangenehme war nicht, dass er offensichtlich tricksen wollte.
+
+Er hatte seinen Grund ernst gemeint.
+
+Genau das machte ihn gefährlicher für die Kategorie.
+
+Später am selben Nachmittag öffnete Eva das Pilotprotokoll.
+
+Sie suchte nicht nach dem Arzt.
+
+Sie filterte nach den Freitextgründen.
+
+Die ersten Einträge waren das, wofür der Weg gebaut worden war: dokumentierter Patientenwille, begrenztes Therapieziel, konkrete Behandlungsbelastung.
+
+Dann kamen die anderen.
+
+**Besondere klinische Nähe zum Verlauf.**
+
+**Patient im eigenen Verantwortungsbereich.**
+
+**Langjährige Behandlerbindung.**
+
+**Unmittelbares Verantwortungsgefühl vor Ort.**
+
+Eva scrollte weiter.
+
+Mehrere verschiedene Ärzte. Verschiedene Stationen. Derselbe Kern.
+
+Ich sehe ihn.
+
+Ich kenne ihn.
+
+Ich trage ihn.
+
+Laura Berg hatte ihr Monate zuvor die andere Hälfte dieses Satzes gezeigt.
+
+Der entfernte Patient konnte keinen Druck durch Anwesenheit erzeugen.
+
+Eva rief Miriam an und bat sie nicht zu einem Termin. Sie schickte nur die gefilterte Ansicht.
+
+Miriam stand zehn Minuten später in Evas Tür.
+
+„Wie viele?“
+
+Eva nannte die Zahl und drehte den Bildschirm zu ihr.
+
+Miriam las einige Einträge.
+
+„Das wächst zu schnell.“
+
+„Die echten Fälle sind auch da.“
+
+„Ich sehe sie.“
+
+Eva öffnete einen dokumentierten Patientenwillen. Danach ein begrenztes Therapieziel.
+
+„Dafür bleibt der Weg.“
 
 Miriam nickte.
 
-„Weiter.“
+Eva wechselte zurück zu den problematischen Einträgen.
 
-Eva klickte zum nächsten.
+„Aber das hier ist mein alter Fehler mit neuem Namen.“
 
-Auch der hielt.
+Miriam sagte nichts.
 
-Dann kam der erste Satz, bei dem sie langsamer las.
+„Nähe wird als Kontext etikettiert. Verantwortung wird als patientenspezifisch etikettiert. Die Person vor mir bekommt wieder mehr Gewicht, weil sie vor mir ist.“
 
-**Patient im eigenen Verantwortungsbereich, langjährige Behandlerbindung.**
-
-Sie schwieg. Miriam sagte nichts. Eva öffnete die Details. Mehr Text erschien. Kein zusätzlicher Grund.
-
-Keine dokumentierte Präferenz. Kein abweichendes Therapieziel. Keine konkrete Belastung. Kein Faktor, den KORA nicht als medizinische Information kannte.
-
-Nur die Beziehung zum Behandlungsteam.
-
-Eva klickte weiter.
-
-**Besondere klinische Nähe zum Verlauf; Abweichung aus Gesamtverantwortung.**
-
-Noch einer.
-
-**Kontext der unmittelbaren Versorgung vor Ort.**
-
-Eva spürte, wie sich ihr Nacken anspannte.
-
-„Das sind keine Werteentscheidungen“, sagte Miriam.
-
-„Ein Teil vielleicht.“
-
-Miriam drehte den Laptop zu Eva zurück.
-
-„Dann zeig mir den patientenspezifischen Wert.“
-
-Eva öffnete den ersten Eintrag noch einmal.
-
-Sie wollte etwas finden.
-
-Nicht um Miriam zu widerlegen. Um den Weg zu schützen, den sie selbst durchgesetzt hatte.
-
-Sie las den Freitext bis zum Ende.
-
-Der Arzt beschrieb, dass er den Patienten lange kenne, die aktuelle Verschlechterung selbst erlebt habe und sich für die weitere Versorgung unmittelbar verantwortlich fühle.
-
-Alles nachvollziehbar.
-
-Nichts davon beantwortete die Frage, warum dieser Patient in einem verbundweiten Konflikt aus einem patientenspezifischen Wertgrund Vorrang erhalten sollte.
-
-Eva klickte zum nächsten. Dort stand ein längerer Absatz. Mehr Wörter. Derselbe Kern.
-
-*Ich sehe ihn. Ich kenne ihn. Ich trage die Verantwortung.*
+„Dann müssen wir die Grenze schreiben.“
 
 Eva lehnte sich zurück.
 
-„Sie nennen es Kontext.“
+Sie hatte den Weg durchgesetzt, weil ein Mensch mehr sein konnte als seine Prognose.
 
-„Ja.“
+Jetzt half sie, den Weg enger zu machen.
 
-„Und meinen eigentlich: Ich bin hier, der andere Patient ist woanders.“
+Das fühlte sich nicht gut an.
 
-Miriam ließ den Satz stehen.
+Es fühlte sich notwendig an.
 
-Eva kannte seine Kraft.
+„Behandlerbindung kann relevante Information liefern“, sagte sie. „Die Information darf tragen. Die Beziehung selbst nicht.“
 
-Der Patient vor einem war kein Fall in einer Liste. Er hatte eine Stimme. Eine Familie. Einen Geruch nach Desinfektionsmittel und Haut. Seine Verschlechterung ließ sich hören, noch bevor man auf den Monitor sah.
+Miriam setzte sich auf die Kante des Besucherstuhls und öffnete den Entwurf auf ihrem Tablet.
 
-Die andere Seite eines Ressourcenkonflikts blieb leicht eine Zahl.
+Eva sprach weiter.
 
-Laura Berg hatte genau diese Lücke sichtbar gemacht.
+„Räumliche Nähe reicht nicht. Allgemeines Verantwortungsgefühl reicht nicht. Status auch nicht. Wenn jemand Wert oder Kontext sagt, muss klar werden, was am Patienten die Entscheidung verändert.“
 
-Eva scrollte weiter. Ein Eintrag begann mit **besondere individuelle Situation**. Sie öffnete ihn.
+Miriam tippte.
 
-Dahinter stand erneut keine individuelle Situation. Nur der Hinweis, dass das lokale Team den Patienten bereits seit mehreren Tagen betreue.
+„Und wenn nichts benennbar ist?“
 
-Miriam setzte sich ihr gegenüber.
+Eva sah auf die Liste.
 
-„Wenn Ärzte wissen, dass der medizinische Gegenbeleg nicht trägt, nehmen sie den zweiten Weg.“
+„Dann ist die Kategorie nicht der richtige Weg.“
 
-„Einige.“
+Sie hörte den Satz, nachdem er gesagt war.
 
-„Genug.“
+Früher hätte sie ihn als Bürokratensprache gehasst.
 
-Eva blickte auf die Kurve.
+Heute wusste sie, warum er dort stehen musste.
 
-„Das war vorhersehbar.“
+Die Ausnahme blieb.
 
-„Dann hätten wir es vorher enger bauen sollen.“
-
-Eva sah sie an.
-
-„Und die echten Fälle?“
-
-„Ich will die Kategorie nicht schließen.“
-
-„Das klang gerade anders.“
-
-„Ich will verhindern, dass jede Intuition ein Werteetikett bekommt.“
-
-Miriam öffnete die Auswertung nach Begründungstypen. Die legitimen Kategorien waren weiterhin da. Patientenwille. Therapieziel. Behandlungsbelastung.
-
-Daneben wuchs eine unscharfe Gruppe aus *Kontext*, *Verantwortung*, *Behandlerbindung* und *besonderer Nähe*.
-
-Eva sah eine Weile darauf.
-
-Sie hatte den zweiten Weg geschaffen, weil ein Mensch mehr sein konnte als eine medizinische Prognose.
-
-Jetzt wurde derselbe Weg benutzt, um den Menschen hinter der Entscheidung wieder ins Zentrum zu stellen.
-
-Nicht den Patienten. Den Entscheider. „Wir brauchen die Kategorie“, sagte Eva.
-
-„Ja.“
-
-„Und wir müssen sie enger machen.“
-
-Miriam hob den Kopf.
-
-Eva hörte selbst, wie fremd der Satz in ihrem Mund geklungen hätte, ein paar Monate zuvor.
-
-Miriam sagte: „Von dir hätte ich das früher gern aufgenommen.“
-
-„Versuch es nicht.“
-
-„Ich meine es ernst.“
-
-„Ich auch.“
-
-Eva zog die problematischen Fälle in eine eigene Ansicht.
-
-„Wir dürfen nicht so eng werden, dass am Ende nur noch Prognose zählt.“
-
-„Einverstanden.“
-
-„Aber Nähe, Status und ein allgemeines Verantwortungsgefühl reichen nicht.“
-
-Miriam nickte.
-
-„Dann müssen wir das ausdrücklich schreiben.“
-
-Eva ließ den Cursor über einem der Fälle stehen.
-
-„Wenn wir nur *patientenspezifisch* sagen, reicht das offenbar nicht.“
-
-„Offenbar nicht.“
-
-„Behandlerbindung kann relevante Information liefern.“
-
-„Ja.“
-
-„Dann müssen wir trennen: Die Information kann tragen. Die Beziehung allein nicht.“
-
-Miriam öffnete einen neuen Entwurf.
-
-„Schreib.“
-
-Eva zögerte.
-
-Sie hatte eine Ausnahme geschaffen, um menschlichen Entscheidungsraum zu schützen.
-
-Jetzt saß sie vor einer Liste menschlicher Entscheidungen und half dabei, diese Ausnahme enger zu regulieren.
-
-Es fühlte sich nicht wie Verrat an der eigenen Idee an.
-
-Eher wie die Rechnung, die zu jeder echten Ausnahme gehörte: Sobald ein Weg existierte, würde jemand seine Grenze testen.
-
-Eva rückte den Stuhl näher an den Tisch.
-
-„Okay.“
-
-Miriam stellte den Cursor in die erste Zeile.
-
-Draußen fuhr ein Wagen über eine Türschwelle. Das kurze Rattern drang bis in den Raum.
-
-Eva begann zu formulieren.
+Nur die Ausrede wurde kleiner.
 
 ## Kapitel 27 – Nähe zählt nicht
 
@@ -6745,211 +6539,233 @@ Es war der Teil, für den es kein Formular gab.
 
 ## Kapitel 31 – Drei Risiken
 
-Auf der ersten Folie standen nur drei Zeilen.
+Felix' Name war vom Dienstplan verschwunden.
+
+Nicht aus dem System. Nur aus der Zeile für die leitende Funktion auf der Intensivstation.
+
+Eva sah die Lücke, als sie an der Tafel vorbeiging.
+
+Jemand hatte die Dienste neu verteilt. Zwei Namen standen dort, wo früher einer gereicht hatte.
+
+Sie blieb nicht stehen.
+
+Miriam wartete am zentralen Arbeitsplatz mit zwei Mitgliedern des Vorstands und Nele. Kein Konferenzraum. Keine Titelfolie.
+
+Auf dem Tresen lagen drei Seiten.
+
+Miriam legte die Hand darauf.
+
+„Drei Risiken. Wenn wir die heute nicht praktisch erklären können, gehört die SOP nicht live.“
+
+Sie schob Eva die erste Seite hin.
 
 **Ressourcenexternalität.**
 
+Der Cold-Open-Fall.
+
+Die zweite:
+
 **High-confidence Fehlabweichung.**
+
+Nele.
+
+Die dritte:
 
 **Umgangene Zweitfreigabe.**
 
-Miriam hatte keine Namen daneben geschrieben. Eva brauchte sie nicht. Die erste Zeile gehörte ihr. Die zweite Nele. Die dritte Felix.
+Felix.
 
-Am langen Tisch lagen Ausdrucke des SOP-Entwurfs. Ein Vorstandsmitglied blätterte bereits darin, während Miriam noch die erste Folie stehen ließ.
+Niemand sagte die Namen.
 
-„Das sind die drei Failure-Modes, die wir jetzt getrennt behandeln“, sagte sie.
+Sie standen trotzdem mit am Tresen.
 
-Eva sah auf die Begriffe.
+Das erste Vorstandsmitglied zeigte auf den Arbeitsplatz. „Fangen wir mit dem Zeitpunkt an.“
 
-*Failure-Mode.*
+Jan hatte die technische Änderung vorbereitet. Auf dem Trainingssystem lief ein anonymisierter Fall. Nicht mehr nur der manuell gesetzte Entscheidungspunkt wurde protokolliert. Relevante Prozesssignale blieben erhalten: Ressourcenreservierung, Anordnung, dokumentierter Planwechsel, Beginn einer Intervention.
 
-Auf einer Folie passten die Ereignisse sauber nebeneinander. In Evas Erinnerung hatten sie Gesichter.
+Ein einzelnes Signal entschied nichts.
 
-Laura Berg. Nele nach dem Schadensfall. Felix an ihrer Bürotür. Miriam wechselte weiter. Die nächste Folie war dichter.
+Mehrere zusammen konnten sichtbar machen, dass eine Weiche früher gestellt worden war als der spätere formale Eintrag.
 
-Entscheidungszeitpunkte sollten künftig nicht mehr ausschließlich aus dem manuell gesetzten Zeitpunkt übernommen werden. Relevante Prozesssignale konnten eine frühere faktische Weichenstellung sichtbar machen: Anordnungen, Ressourcenreservierungen, Therapieentscheidungen, dokumentierte Planwechsel.
+Eva klickte durch die Spur.
 
-Jan hatte die technische Formulierung beigesteuert.
+Kein rotes Warnfeld.
 
-„Kein einzelnes Signal entscheidet automatisch“, sagte Miriam. „Aber eine auffällige Differenz zwischen faktischem und formalem Entscheidungszeitpunkt wird prüfbar.“
+Keine automatische Schuldzuweisung.
 
-Eva las die Zeile bis zum Ende.
+Nur eine Zeitachse, die sich schlechter nachträglich glattziehen ließ.
 
-Damit reagierte die Regel auf Felix, ohne seinen Namen zu tragen.
+„Das hätte Felix' Muster früher sichtbar gemacht“, sagte das Vorstandsmitglied.
 
-Miriam wechselte weiter.
+Eva sah auf die Spur.
 
-High-confidence Abweichungen in definierten Hochrisikoklassen bekamen eine verbindliche Zweitfreigabe.
+„Es hätte eine Frage früher sichtbar gemacht.“
 
-Nicht nur als Hinweis.
+Miriam nickte. „Mehr behauptet die Regel nicht.“
 
-Als Prozessschritt.
+Sie gingen zum nächsten Arbeitsplatz.
 
-Eva sah zu Nele, die zwei Plätze weiter saß. Nele hatte den Blick auf den Entwurf gerichtet.
+Nele öffnete im Trainingsmodus einen high-confidence Konflikt.
 
-Die Regel war aus ihrem Fall entstanden.
+KORA empfahl Eskalation. Die Abweichung führte zuerst in das Begründungsfeld, danach zur zweiten Freigabe.
 
-Auch das stand nirgends.
+Nele wählte Eva als zweite Ärztin.
 
-Die nächste Folie zeigte den Wert-/Kontextweg. Er blieb erhalten, aber unter den engeren Kriterien aus dem Pilot. Patientenwille, Therapieziel und konkrete patientenspezifische Gründe waren weiterhin möglich. Räumliche Nähe, Behandlerbindung und allgemeines unmittelbares Verantwortungsgefühl reichten für sich nicht.
+Auf Evas Bildschirm erschien der Fall.
 
-Eva nahm den Ausdruck vor sich.
+Die wesentlichen Daten.
 
-Auf mehreren Seiten waren inzwischen Schutzreaktionen übereinandergelegt, die jeweils eine nachvollziehbare Geschichte hatten.
+KORAs Empfehlung.
 
-Miriam fragte: „Einwände zur Grundstruktur?“
+Die Begründung der ersten Ärztin.
 
-Eva blätterte zurück.
+Der Zeitpunkt.
 
-„Ja.“
+Kein zusätzlicher Kommentar von Nele, kein Telefonat im Hintergrund, das Eva auf die gewünschte Antwort lenkte.
 
-Der Vorstand sah zu ihr.
+„Wenn ich ablehne, bleibt die Erstentscheidung blockiert“, sagte Eva.
 
-Miriam wartete.
+„In dieser Risikoklasse, ja“, sagte Miriam. „Bis zur zweiten Freigabe oder bis ein zulässiger Akutweg greift.“
 
-Eva legte den Entwurf flach auf den Tisch.
+Eva sah zu Nele.
 
-„Das Problem ist nicht, dass ich eine dieser Reaktionen unbegründet finde.“
+„Wie fühlt sich das an?“
 
-„Okay.“
+Nele brauchte einen Moment.
 
-„Für jede einzelne kann ich den Schaden nennen, aus dem sie entstanden ist.“
+„Besser als allein.“
 
-Sie deutete auf die erste Folie, die jetzt nur noch als kleine Vorschau am Rand des Präsentationsbildschirms zu sehen war.
+Es war keine theoretische Antwort.
 
-„Die Ressourcenexternalität war real. Neles Override war regelkonform und trotzdem falsch genug, dass wir die Schutzstufe diskutieren mussten. Felix hat eine Kontrolle faktisch ausgeschaltet, ohne Werte zu fälschen.“
+Eva erinnerte sich an Neles Schadensfall. An die Stunden danach. An den Satz, dass die eigene klinische Einschätzung gereicht habe.
 
-Niemand widersprach.
+Nele legte die Hände auf den Tresen.
 
-Eva strich mit dem Finger über die Seiten.
+„Nicht weil die zweite Person automatisch recht hat. Aber ich muss meinen Grund jemandem zeigen, bevor ich weiterlaufe. Nach meinem Fall ist das für mich kein Angriff.“
 
-„Und trotzdem verändert ihre Summe, wer in einem high-confidence Fall praktisch die Ausgangsposition hat.“
+Eva nickte.
 
-Ein Vorstandsmitglied verschränkte die Hände.
+Felix hätte denselben Ablauf als Abhängigkeit beschrieben.
 
-„Die Letztentscheidung bleibt beim Arzt.“
+Beide Deutungen passten in dieselbe Oberfläche.
 
-Eva blickte auf die Formulierung im Entwurf.
+Das war das Problem.
 
-„Unter mehr Bedingungen als am Anfang.“
+Und vielleicht die Wahrheit.
 
-„Weil wir mehr wissen als am Anfang.“
+Miriam nahm die dritte Seite.
 
-Eva antwortete nicht sofort.
+„Wenn wir die drei Mechanismen ernst nehmen, bleibt die Zweitfreigabe verbindlich. Die Prozesssignale bleiben. Der Wert-/Kontextweg bleibt unter den präzisierten Kriterien.“
 
-Das war wahr.
+Eva ging nicht weiter.
 
-Jede neue Bedingung war nicht aus Angst erfunden worden. Sie hatte eine konkrete Vorgeschichte.
+„Dann fehlen drei Sätze.“
 
-Genau das machte die Entwicklung schwerer zu kritisieren.
+Das zweite Vorstandsmitglied sah sie an.
 
-Miriam ging zurück auf die erste Folie.
+„Welche?“
 
-„Welche Schutzreaktion willst du streichen?“
+Eva zeigte auf Neles Bildschirm.
 
-Eva betrachtete die drei Zeilen.
+„Erstens: Die medizinische Verantwortung für die konkrete Entscheidung bleibt beim behandelnden Arzt. Nicht im Vorwort. Bei den Entscheidungsrechten.“
 
-Die erste konnte sie nicht mehr auf den Patienten vor dem eigenen Bett reduzieren.
+Miriam öffnete den SOP-Entwurf auf ihrem Tablet.
 
-Die zweite konnte sie nach Neles Fall nicht als bloßes Misstrauen gegen Ärzte abtun.
+Eva sprach weiter.
 
-Die dritte war nach Felix keine theoretische Prozessfrage mehr.
-
-„Keine einzeln.“
-
-Miriam nickte nur.
-
-Eva hasste die Antwort, weil sie die nächste bereits enthielt.
-
-Wenn jede einzelne Regel begründbar war, konnte die Verschiebung trotzdem real sein.
-
-Nur entstand sie dann nicht durch eine große Entscheidung.
-
-Sie entstand als Summe vernünftiger Antworten.
-
-Eva zog den Entwurf näher.
-
-„Dann will ich drei Dinge ausdrücklich im Text.“
-
-Miriam öffnete die bearbeitbare Version.
-
-„Sag.“
-
-„Erstens: Die medizinische Verantwortung für die konkrete Entscheidung bleibt beim behandelnden Arzt. Das steht nicht nur im Vorwort. Es steht bei den Entscheidungsrechten.“
+„Zweitens: Der Wert-/Kontextweg bleibt ein echter Weg. Wenn wir ihn so eng schreiben, dass niemand ihn in einem legitimen Fall nutzen kann, haben wir ihn nur auf dem Papier behalten.“
 
 Miriam tippte.
 
-„Zweitens: Der Wert-/Kontextweg bleibt ein echter Entscheidungsweg. Keine Formulierung, die ihn faktisch zu einer Ausnahme macht, die niemand vernünftig nutzen kann.“
-
-„Die Kriterien bleiben.“
+„Die Kriterien bleiben ebenfalls.“
 
 „Ja.“
 
-Eva blätterte zur Zweitfreigabe.
+Eva sah zur Tür der Notaufnahme. Ein Rettungsdienst kam herein. Zwei Pflegekräfte nahmen die Übergabe auf. Niemand dort hatte Zeit für eine Debatte über Governance.
 
-„Drittens: Wenn in einer akuten Lage keine zweite Person rechtzeitig erreichbar ist, brauche ich einen Weg, der technisch wirklich offen bleibt.“
+„Drittens: Wenn in einer echten Akutlage keine zweite Person rechtzeitig erreichbar ist, brauche ich einen Weg, der sofort funktioniert.“
 
-Miriam sah auf.
+Das Vorstandsmitglied verschränkte die Arme.
 
-„Break glass.“
-
-„Solo. Dokumentiert. Nachprüfbar. Aber wirksam, bevor jemand später darüber abstimmt.“
-
-Das Vorstandsmitglied sagte: „Das erhöht das Risiko einer Umgehung.“
-
-„Ja.“
-
-„Dann bauen wir wieder eine Lücke ein.“
+„Damit bauen wir nach Felix wieder eine Umgehungsmöglichkeit ein.“
 
 Eva schüttelte den Kopf.
 
-„Wir lassen eine Notfallentscheidung offen. Wenn die zweite Freigabe in einer echten Akutlage nicht erreichbar ist, darf der Patient nicht warten, bis die Governance wieder online ist.“
+„Wir bauen eine Notfallentscheidung ein, die sichtbar bleibt. Wenn niemand erreichbar ist und der Patient nicht warten kann, darf die Governance nicht so tun, als hätte Zeit keine medizinische Bedeutung.“
 
-Miriam schrieb eine Notiz.
+Miriam öffnete den Trainingsmodus für **Solo Break Glass**.
 
-„Das behandeln wir separat.“
+Ein roter Rahmen erschien.
 
-„Heute.“
+Kein zweiter Name.
 
-Miriam hob den Blick.
+Dafür ein klarer Hinweis: sofort wirksam, persönlich zugeordnet, automatisches Nachreview.
 
-Eva hielt ihn.
+Eva klickte bis zum letzten Schritt.
 
-„Heute.“
+Der Button blieb aktiv.
 
-„Okay.“
+Sie drückte nicht.
 
-Nele sagte zum ersten Mal etwas.
+„Keine versteckte Sperre?“
 
-„Und danach automatisches Review?“
+„Keine“, sagte Miriam.
 
-Eva sah zu ihr.
+„Kein Timeout?“
 
-„Ja. Persönlich zugeordnet. Vollständig sichtbar.“
+„Nein.“
 
-Nele nickte.
+„Kein nachträgliches Warten auf Zustimmung, bevor die Entscheidung gilt?“
 
-Es war keine lockere Zustimmung. Nur die Anerkennung, dass ein offener Notfallweg ohne Nachprüfung dieselbe Schutzlogik wieder aufweichen würde.
+„Nein. Das Review kommt danach.“
 
-Miriam ergänzte den Punkt.
+Eva ließ die Hand neben der Maus liegen.
 
-Die Diskussion ging noch eine Weile weiter. Formulierungen wurden verschoben. Ein technischer Begriff flog heraus. Eine Zuständigkeit wurde präzisiert. Niemand hielt eine Grundsatzrede.
+Der Vorstand sah die Ansicht.
 
-Am Ende lag die SOP in einer Fassung vor, die niemand für perfekt hielt und niemand mehr grundsätzlich blockierte.
+Diesmal musste niemand erklären, was formale Letztentscheidung bedeutete.
 
-Sie wurde beschlossen. Papiere wurden eingesammelt. Termine genannt. Zuständigkeiten verteilt. Der nächste Tagesordnungspunkt wartete bereits.
+Der Weg war offen.
 
-Eva blieb einen Moment sitzen, nachdem die erste Person aufgestanden war.
+Er war auch markiert.
 
-Auf dem Bildschirm stand wieder die Titelfolie.
+Das erste Vorstandsmitglied nahm die drei Seiten wieder auf.
 
-Drei Schäden hatten auf drei Zeilen gepasst.
+„Dann ist die Bedingung für mich erfüllt. Die Schutzstufen greifen, der Notfallweg bleibt real, und jede Nutzung ist prüfbar.“
 
-Die Regeln, die daraus entstanden waren, brauchten mehrere Seiten.
+Miriam sah zum zweiten Mitglied.
 
-Keine davon fühlte sich für sich genommen wie ein großer Bruch an.
+Auch dort kam ein Nicken.
 
-Beim nächsten high-confidence Konflikt würden sie trotzdem alle gleichzeitig im Raum sein.
+Keine Rede.
+
+Keine Folie mit **Beschluss**.
+
+Miriam setzte die finale Freigabe im Dokument.
+
+Die SOP war beschlossen.
+
+Der Rettungsdienst hinter ihnen schob inzwischen die Trage weiter. Nele schloss den Trainingsfall und ging zurück in die Versorgung.
+
+Eva blieb am Arbeitsplatz.
+
+Drei Risiken hatten drei Seiten gebraucht.
+
+Die Regeln, die daraus entstanden waren, würden künftig in Sekunden auftauchen: ein zusätzlicher Name, ein protokollierter Zeitpunkt, ein roter Break-glass-Rahmen.
+
+Jede einzelne Reaktion ließ sich begründen.
+
+Zusammen veränderten sie trotzdem, was es praktisch bedeutete, am Bett die letzte Entscheidung zu haben.
+
+Eva sah noch einmal zur Dienstplantafel.
+
+Felix' Name blieb weg.
+
+Die Governance hatte nicht nur Formulare produziert.
+
+Sie hatte eine Beziehung gekostet.
+
+Und beim nächsten high-confidence Konflikt würden ihre Regeln trotzdem gleichzeitig im Raum sein.
 
 ## Kapitel 32 – Break Glass
 
