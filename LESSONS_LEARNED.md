@@ -141,8 +141,91 @@ Dann gilt:
 
 Das verhindert Endlosschleifen aus Prosa-Rework auf einer unveränderten monotonen Szenenarchitektur.
 
+---
+
+## LL-002 – Fresh-Context-Reviews brauchen Adjudikation, sonst entsteht Reviewer-Overfitting
+
+status: confirmed_from_real_pilot
+source: dritter Whole-Manuscript-Review nach kontrolliertem G2-Backtrack
+scope: Review Protocol / Gate Decisions / G4
+
+### Beobachtung
+
+Nach dem strukturellen Backtrack wurde die vollständige Szenen-/Beat-Ebene unabhängig geprüft. Dieser Review kontrollierte ausdrücklich die Whole-Book-Scene-Shape-Verteilung und meldete:
+
+- `CLEAN_FRESH_CONTEXT`
+- `finding_count: 0`
+- `READY_FOR_REAPPROVAL`
+
+Der Stand wurde anschließend erneut durch Human `G2-APPROVE` freigegeben.
+
+Ein danach durchgeführter Whole-Manuscript-Review desselben Targets meldete erneut `scene_repetition` als Major. In seiner Evidenz wurden jedoch mehrere Szenen als gleichartige Meeting-/SOP-Träger behandelt, obwohl der geprüfte Target sie gerade strukturell unterschiedlich ausführt:
+
+- S008 als Live-Anwendung im klinischen Workflow,
+- S014 als klinischer Low-Confidence-Auslöser mit anschließendem Analyseauftrag,
+- S032 als funktionaler Break-glass-Stresstest,
+- S013 als Anwendung der Zweitfreigabe im laufenden Stationsbetrieb.
+
+Der Review war damit nicht wertlos; er markierte weiterhin ein mögliches **Restrisiko institutioneller Dichte**. Die gemeldete Severity `major` wurde durch die angeführte Evidenz aber nicht ausreichend getragen.
+
+### Root Cause
+
+Die bisherige Prozesslogik behandelte ein Fresh-Context-Urteil implizit zu stark wie einen automatischen Gate-Entscheid.
+
+Das ist problematisch, weil auch ein unabhängiger Reviewer:
+
+- Szenen unterschiedlich klassifizieren kann,
+- thematische Ähnlichkeit mit dramaturgischer Gleichförmigkeit verwechseln kann,
+- dieselbe Eigenschaft je nach Lesart unterschiedlich gewichten kann,
+- nach mehreren Rework-Runden immer neue Varianten desselben Geschmacksrisikos finden kann.
+
+Ohne Adjudikation entsteht eine Endlosschleife:
+
+`review → rework → neuer review → ähnliche Kritik → weiterer rework`
+
+Irgendwann wird der Text nicht mehr auf Leserwirkung, Storyfunktion und definierte Qualitätsregeln optimiert, sondern auf die wechselnde Präferenz einzelner Reviewer.
+
+### Präventive Regel
+
+Fresh-Context-Reviews liefern **Findings**, keine automatische Gate-Entscheidung.
+
+Für jedes Blocker-/Major-Finding gilt künftig vor Rework:
+
+1. **Evidence Check** – Trägt die konkret genannte Stelle den behaupteten Befund am tatsächlich geprüften Commit?
+2. **Cross-Layer Check** – Widerspricht das Finding einem bereits bestandenen gezielten Review derselben Eigenschaft?
+3. **Novelty Check** – Ist dies ein neuer konkreter Defekt oder nur eine strengere Variante eines bereits dispositionierten Restrisikos?
+4. **Smallest-Rework Check** – Gibt es eine konkrete Änderung, die das Problem behebt, ohne einen anderen freigegebenen Qualitätsaspekt zu beschädigen?
+5. **Overfitting Check** – Würde der vorgeschlagene Rework primär eine Reviewer-Präferenz befriedigen oder einen nachvollziehbaren Leser-/Architekturdefekt beheben?
+
+Erst danach wird ein Finding als `confirmed blocker/major`, `minor`, `residual risk` oder `not sustained` dispositioniert.
+
+### Gate-Regel
+
+Ein Raw-Review darf weiterhin `REWORK_REQUIRED` ausgeben. Die Gate-Datei muss dieses Rohurteil unverändert dokumentieren.
+
+Die finale Readiness entsteht jedoch **nach nachvollziehbarer Disposition**:
+
+`raw review → finding adjudication → confirmed open blockers/majors → gate readiness`
+
+Nur **bestätigte** offene Blocker/Majors blockieren das Human Gate.
+
+### Stop-Regel gegen Review-Endlosschleifen
+
+Wenn nach:
+
+1. bestätigtem Major,
+2. passendem Rework auf der kleinsten sinnvollen Ebene,
+3. unabhängig sauberem Re-Review dieser Ebene,
+4. erneutem Whole-Manuscript-Review
+
+wieder dieselbe abstrakte Kritik erscheint, ohne dass die neue Evidenz den behaupteten Major sauber trägt, gilt:
+
+`repeated abstract finding + weak target evidence → adjudicate, do not auto-rework`
+
+Damit bleibt menschliche Gate-Verantwortung real und der Review-Prozess wird nicht selbst zu einer unendlichen Optimierungsschleife.
+
 ## Framework-Transfer
 
-Dieses Lesson Learned stammt aus dem ersten realen Romanpiloten und soll in `Satte882/Buch-Framework` übernommen werden, **nachdem ABWEICHUNG den Rework bis G4 erfolgreich durchlaufen hat**.
+LL-001 und LL-002 stammen aus dem ersten realen Romanpiloten und sollen in `Satte882/Buch-Framework` übernommen werden, **nachdem ABWEICHUNG G4 erfolgreich durchlaufen hat**.
 
-Bis dahin bleibt ABWEICHUNG der Validierungsträger; das Framework wird nicht vorschnell anhand eines noch nicht abgeschlossenen Reworks umgebaut.
+Bis dahin bleibt ABWEICHUNG der Validierungsträger; das Framework wird nicht vorschnell anhand eines noch nicht abgeschlossenen Piloten umgebaut.
