@@ -1,0 +1,42 @@
+name: Final prose rhythm baseline audit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/final-prose-rhythm-audit-once.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run whole-manuscript prose rhythm audit
+        run: python scripts/final_prose_rhythm_audit.py
+
+      - name: Validate baseline invariants
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          report = Path('FINAL_PROSE_RHYTHM_AUDIT.md').read_text(encoding='utf-8')
+          assert 'Szenen: **40**' in report
+          assert 'Status: **BASELINE / vor Rework**' in report
+          print('baseline report contract OK')
+
+      - name: Commit report and self-clean workflow
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/final-prose-rhythm-audit-once.yml
+          git add FINAL_PROSE_RHYTHM_AUDIT.md
+          git commit -m 'Audit final prose rhythm baseline'
+          git pull --rebase origin main
+          git push origin HEAD:main
