@@ -29,7 +29,12 @@ jobs:
           set -euo pipefail
           python -m pip install python-docx pyphen
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno hyphen-de poppler-utils
+          sudo apt-get install -y --no-install-recommends \
+            libreoffice-writer python3-uno hyphen-de poppler-utils \
+            fonts-noto-core fonts-noto-extra fonts-dejavu fonts-dejavu-extra \
+            fonts-liberation fonts-linuxlibertine fonts-crosextra-caladea fonts-crosextra-carlito
+          fc-cache -f
+          fc-match Garamond
 
       - name: Rebuild canonical G5 manuscript
         shell: bash
