@@ -17,7 +17,7 @@ Eva öffnete sie zwischen zwei Übergaben. Sie erwartete eine allgemeine Informa
 
 Darunter die Begründung.
 
-Wiederholt ungünstige Bilanz bei high-confidence Ressourcenabweichungen. Ausreichende Fallzahl für eine zeitlich begrenzte personenbezogene Schwellenanpassung. Fallmix berücksichtigt. Begrenzung auf die betroffene Entscheidungsklasse. Review nach festgelegtem Zeitraum. Anfechtungsmöglichkeit.
+Wiederholt ungünstige Bilanz bei high-confidence Ressourcen-/Eskalationsabweichungen. Ausreichende Fallzahl für eine zeitlich begrenzte personenbezogene Schwellenanpassung. Fallmix berücksichtigt. Begrenzung auf die betroffene kombinierte Entscheidungsklasse. Review nach festgelegtem Zeitraum. Anfechtungsmöglichkeit.
 
 Eva las langsam. Nicht weil der Text kompliziert war. Weil er zu sauber war. Sie schloss die Nachricht nicht.
 
@@ -45,13 +45,13 @@ Sie fand nichts Offensichtliches.
 
 Dann blieb sie an einer Stelle hängen.
 
-Die Begrenzung auf die betroffene Entscheidungsklasse war beschrieben, aber die Nichtübertragung auf andere Klassen nicht ausdrücklich festgeschrieben.
+Die Begrenzung auf die betroffene kombinierte Entscheidungsklasse war beschrieben, aber die Nichtübertragung auf andere Klassen nicht ausdrücklich festgeschrieben.
 
 Eva öffnete eine Nachricht an Miriam.
 
 Sie schrieb nur einen Satz.
 
-**Bitte explizit machen: Meine Bilanz in einer Ressourcenklasse darf nicht ohne neue Evidenz zur allgemeinen Einschränkung werden.**
+**Bitte explizit machen: Meine Bilanz in der Ressourcen-/Eskalationsklasse darf nicht ohne neue Evidenz zur allgemeinen Einschränkung werden.**
 
 Sie fügte nichts über Fairness hinzu. Nichts über ärztliche Autonomie. Keine Grundsatzdebatte.
 
@@ -71,7 +71,7 @@ Am nächsten Morgen öffnete Eva ihre aktive Regelansicht.
 
 Dort stand jetzt eine zusätzliche Zeile, die zwei Tage zuvor noch nicht existiert hatte.
 
-**Individuelle Zweitfreigabeschwelle aktiv – high-confidence Ressourcenentscheidungen.**
+**Individuelle Zweitfreigabeschwelle aktiv – high-confidence Ressourcen-/Eskalationsklasse.**
 
 Darunter der Reviewtermin.
 
@@ -103,7 +103,7 @@ Das machte es nicht kleiner.
 
 Eva öffnete später testweise einen abgeschlossenen Trainingsfall aus der Prozesshilfe.
 
-High confidence. Ressourcenentscheidung. Override.
+High confidence. Eskalationsentscheidung. Override.
 
 Die Zweitfreigabe erschien bei ihr früher als im Standardprofil.
 
