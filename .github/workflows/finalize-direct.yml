@@ -36,18 +36,19 @@ jobs:
           fc-cache -f
           fc-match Garamond
 
-      - name: Rebuild canonical G4 manuscript
+      - name: Rebuild fixed external-major candidate
         shell: bash
         run: |
           set -euo pipefail
           python scripts/build_production.py \
-            --source-ref 19934e138422e72e7433bc8b9be0c96c1cdb1044 \
+            --source-ref 7b476fe63e933592d36e9ab9a385a01187de60d5 \
             --out-dir /tmp/abweichung-g4
           python - <<'PY'
           import json
           info = json.load(open('/tmp/abweichung-g4/BUILD_INFO.json'))
           assert info['scene_count'] == 40, info['scene_count']
           assert info['hard_guard_sondern_count'] == 0
+          assert 37000 <= info['word_count'] <= 38500, info['word_count']
           print(f"source validation OK: scenes={info['scene_count']}, words={info['word_count']}")
           PY
 
@@ -63,16 +64,21 @@ jobs:
             --output ABWEICHUNG_FINAL.docx
           unzip -t ABWEICHUNG_FINAL.docx >/dev/null
 
-      - name: Validate rework markers in Markdown
+      - name: Validate manuscript contract
         shell: python
         run: |
           from pathlib import Path
+          import re
           text = Path('ABWEICHUNG_FINAL.md').read_text(encoding='utf-8')
+          assert text.count('\n## Kapitel ') == 40
           assert 'Frau Dr. Riedel' in text
           assert 'Frau Dr. König' not in text
           assert 'high-confidence Ressourcen-/Eskalationsklasse' in text
           assert 'Meine Bilanz in der Ressourcen-/Eskalationsklasse' in text
-          print('G4 rework markers OK')
+          assert '—' not in text
+          assert not re.search(r'\bsondern\b', text, flags=re.I)
+          assert text.rstrip().endswith('Eva wartete.')
+          print('manuscript contract OK')
 
       - name: Validate pre-TOC document contract
         shell: python
@@ -126,9 +132,11 @@ jobs:
           test -s /tmp/qa/ABWEICHUNG_FINAL.pdf
           PAGES=$(pdfinfo /tmp/qa/ABWEICHUNG_FINAL.pdf | awk '/^Pages:/ {print $2}')
           test -n "$PAGES"
+          test "$PAGES" -ge 330
+          test "$PAGES" -le 370
           echo "render smoke test OK: $PAGES pages"
 
-      - name: Commit final files to main
+      - name: Commit final candidate files to main
         shell: bash
         run: |
           set -euo pipefail
@@ -139,6 +147,6 @@ jobs:
             echo 'No final-file changes to commit.'
             exit 0
           fi
-          git commit -m 'production: publish G4-reworked ABWEICHUNG manuscript'
+          git commit -m 'production: publish external-major rework candidate'
           git pull --rebase origin main
           git push origin HEAD:main
