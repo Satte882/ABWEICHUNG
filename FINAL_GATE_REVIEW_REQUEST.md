@@ -1,9 +1,10 @@
 # FINAL GATE REVIEW REQUEST – ABWEICHUNG
 
-status: READY_FOR_HUMAN_DECISIONS
+status: COMPLETE
 prepared_date: 2026-08-31
+completed_date: 2026-08-31
 
-## Fixierte Stände
+## Fixierte und freigegebene Stände
 
 ### G2 / G4 – finaler Manuskript-Snapshot
 
@@ -18,6 +19,11 @@ prepared_date: 2026-08-31
 - Dialog-Pingpong-Runs = 26
 - Schluss = `Eva wartete.`
 - keine offenen bestätigten Blocker/Majors nach Rework
+
+Human-Gates:
+
+- `G2-APPROVE` – APPROVED
+- `G4-APPROVE` – APPROVED
 
 Review-/Evidenzkette:
 
@@ -43,18 +49,12 @@ Produktionsworkflow `33419575920`: PASS.
 - 21.952 Soft-Hyphens
 - PDF-Render PASS, 334 Seiten
 
-## Noch notwendige Human-Entscheidungen
+Human-Gate:
 
-Die Framework-Gates werden nicht durch KI oder Review-Empfehlungen selbst freigegeben. Für die fixierten Stände sind deshalb in dieser Reihenfolge drei explizite Entscheidungen nötig:
+- `G5-APPROVE` – APPROVED
 
-1. `G2-APPROVE` – Szenenarchitektur / Prose Ready für `45605ebb75481637aac87cd5f2da060acc0916cd`
-2. `G4-APPROVE` – Gesamtmanuskript für `45605ebb75481637aac87cd5f2da060acc0916cd`
-3. `G5-APPROVE` – Produktion für `d4606ba6f9dd33b6a69991d64c076aaed1691498`
+## Abschluss
 
-Die drei Entscheidungen dürfen gemeinsam in einer Nachricht erteilt werden, weil jeder Gate-Snapshot hier eindeutig fixiert ist und die Reihenfolge klar ist.
+Die Human-Entscheidungen `G2-APPROVE · G4-APPROVE · G5-APPROVE` wurden am 2026-08-31 explizit erteilt und in `gates/G2.md`, `gates/G4.md` und `gates/G5.md` dokumentiert.
 
-## KISS-Antwort bei Zustimmung
-
-`G2-APPROVE · G4-APPROVE · G5-APPROVE`
-
-Bei einer Ablehnung stattdessen den jeweiligen Gate-Code mit `REWORK` oder `STOP` nennen.
+Der Gate-Pfad ist geschlossen. G5 ist final freigegeben.
