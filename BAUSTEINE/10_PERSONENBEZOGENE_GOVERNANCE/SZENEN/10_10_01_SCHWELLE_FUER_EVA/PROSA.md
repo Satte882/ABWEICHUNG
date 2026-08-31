@@ -1,170 +1,192 @@
 # Prosa – S020
 
 scene_id: S020
-prose_status: final_rhythm_rework
+prose_status: external_v2_scene_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Die Nachricht trug keinen dramatischen Betreff.
+Nele bemerkte die neue Schwelle vor Eva.
+
+Sie standen mit zwei jüngeren Ärzten am Trainingsplatz neben der Notaufnahme. Zehn Minuten Prozessschulung vor Schichtbeginn. Kein Workshop, nur die Oberfläche, die jeder kennen musste, bevor die Zweitfreigabe im Pilot vollständig live ging.
+
+Nele hatte einen alten Eskalationsfall geladen.
+
+„Zeig einmal den Override“, sagte sie zu Eva.
+
+Eva trat an den Rechner. High confidence, definierte Ressourcen-/Eskalationsklasse, ausreichende Schadensrelevanz. Sie wählte **Abweichen**.
+
+Die Maske sprang direkt auf die Zweitfreigabe.
+
+Nele runzelte die Stirn.
+
+„Bei mir kommt die erst später.“
+
+Eva sah auf den Hinweis rechts oben.
+
+**Individuelle Zweitfreigabeschwelle aktiv.**
+
+Darunter ihr Name.
+
+Dr. Eva Riedel.
+
+Für eine Sekunde sagte niemand etwas.
+
+Einer der jüngeren Ärzte sah weg, als hätte er versehentlich etwas Persönliches gelesen. Der andere blieb auf den Fall konzentriert, vielleicht aus Höflichkeit, vielleicht weil er die Bedeutung nicht verstand.
+
+Eva beendete den Trainingsfall.
+
+„Weiter“, sagte sie.
+
+Nele bewegte sich nicht.
+
+„Seit wann?“
+
+„Offenbar seit heute.“
+
+„Wusstest du davon?“
+
+Eva hatte die Nachricht gesehen, aber nur als Eingang zwischen zwei Übergaben. Den Betreff hatte sie gelesen, den Inhalt noch nicht vollständig.
 
 **Anpassung Zweitfreigabe – individuelle Risikoklasse.**
 
-Eva öffnete sie zwischen zwei Übergaben. Sie erwartete eine allgemeine Information zum Pilot. Ihr Name stand in der zweiten Zeile.
+„Ich wusste, dass etwas kommt.“
 
-**Dr. Eva Riedel**
+Das war genug für den Trainingsplatz.
 
-Darunter die Begründung.
+Sie ließ Nele den nächsten Fall übernehmen. Standardprofil. Dieselbe Ausgangslage, dieselbe KORA-Konfidenz. Die zusätzliche Freigabe erschien bei Nele tatsächlich später.
 
-Wiederholt ungünstige Bilanz bei high-confidence Ressourcen-/Eskalationsabweichungen. Ausreichende Fallzahl für eine zeitlich begrenzte personenbezogene Schwellenanpassung. Fallmix berücksichtigt. Begrenzung auf die betroffene kombinierte Entscheidungsklasse. Review nach festgelegtem Zeitraum. Anfechtungsmöglichkeit.
+Der Unterschied war jetzt nicht abstrakt.
 
-Eva las langsam. Nicht weil der Text kompliziert war. Weil er zu sauber war. Sie schloss die Nachricht nicht.
+Zwei Ärztinnen standen nebeneinander. Für denselben Typ von Konflikt galten unterschiedliche Schwellen.
 
-Eine Pflegekraft kam an den Arbeitsplatz und fragte nach einer Freigabe für einen anderen Vorgang. Eva beantwortete die Frage, unterschrieb und öffnete danach sofort wieder dieselbe Zeile.
+Nicht wegen Funktion, Dienstalter oder Fachgebiet.
 
-Ihr Name. Nicht als Bearbeiterin. Als Regelmerkmal. Eva klickte auf die Begründung.
+Wegen vergangener Entscheidungen.
 
-Die Fallgruppe aus Jans Analyse lag darunter. Keine neue Statistik. Keine überraschende Verschlechterung. Genau die Daten, die sie selbst angefordert hatte.
+Nach der Schulung fing Miriam Eva auf dem Flur ab. Sie trug keinen Ordner, nur ihr Telefon.
 
-Das machte es schwer, sich über die Grundlage zu empören.
+„Du hast die Mitteilung gesehen.“
 
-Sie suchte trotzdem nach dem Punkt, an dem aus Patientensicherheit eine Statusstrafe wurde.
+„Nele hat die Regel gesehen.“
 
-Ein einzelner Fehlfall reichte nicht. Die Regel galt nicht unbegrenzt. Sie griff nicht bei jeder KORA-Empfehlung. Low confidence blieb außen vor. Andere Entscheidungsklassen ebenfalls.
+Miriam verstand sofort.
 
-Es gab einen festen Reviewtermin und einen Widerspruchsweg.
+„Der Trainingsmodus zeigt aktive Schwellen.“
 
-Eva öffnete die Verfahrensbeschreibung.
+„Das habe ich gemerkt.“
 
-Sie las jede Voraussetzung.
+Sie gingen weiter, weil hinter ihnen bereits die nächste Übergabe begann.
 
-Ein Teil von ihr hoffte auf einen schlechten Satz. Eine Klausel, die zu breit war. Ein statistisches Kriterium, das persönliche Einschränkungen aus wenigen Fällen ableitete. Irgendetwas, das sie fachlich zerlegen konnte.
+„Die Grundlage ist deine Auswertung mit Jan“, sagte Miriam. „Begrenzt auf die kombinierte high-confidence Ressourcen-/Eskalationsklasse. Zeitlich befristet. Reviewtermin. Widerspruchsweg.“
 
-Sie fand nichts Offensichtliches.
+Eva blieb an einer freien Wand stehen.
 
-Dann blieb sie an einer Stelle hängen.
+„Meine Bilanz in der Ressourcen-/Eskalationsklasse darf nicht ohne neue Evidenz zur allgemeinen Einschränkung werden.“
 
-Die Begrenzung auf die betroffene kombinierte Entscheidungsklasse war beschrieben, aber die Nichtübertragung auf andere Klassen nicht ausdrücklich festgeschrieben.
+Miriam sah sie an. „Das steht noch nicht explizit genug drin.“
 
-Eva öffnete eine Nachricht an Miriam.
-
-Sie schrieb nur einen Satz.
-
-**Bitte explizit machen: Meine Bilanz in der Ressourcen-/Eskalationsklasse darf nicht ohne neue Evidenz zur allgemeinen Einschränkung werden.**
-
-Sie fügte nichts über Fairness hinzu. Nichts über ärztliche Autonomie. Keine Grundsatzdebatte.
-
-Wenn die Regel kam, sollte sie wenigstens so eng sein, wie ihre Begründung.
-
-Miriams Antwort kam fast eine Stunde später.
-
-**Einverstanden. Wird ergänzt.**
-
-Eva las die Antwort während einer kurzen Pause vor dem nächsten Gespräch.
-
-Mehr gab es an diesem Tag zwischen ihnen dazu nicht zu sagen.
-
-Gerade das machte die Sache schwerer. Miriam musste Eva nicht überzeugen. Die Daten hatten die Vorarbeit erledigt.
-
-Am nächsten Morgen öffnete Eva ihre aktive Regelansicht.
-
-Dort stand jetzt eine zusätzliche Zeile, die zwei Tage zuvor noch nicht existiert hatte.
-
-**Individuelle Zweitfreigabeschwelle aktiv – high-confidence Ressourcen-/Eskalationsklasse.**
-
-Darunter der Reviewtermin.
-
-Darunter die Möglichkeit zum Widerspruch.
-
-Und die von Eva verlangte Grenze:
-
-**Keine automatische Übertragung auf andere Entscheidungsklassen.**
-
-Eva ließ die Seite offen. Noch lag kein konkreter Override-Fall darunter. Trotzdem war die Veränderung real.
-
-Sie klickte auf ihr Profil und wieder zurück.
-
-Die Regel blieb.
-
-Sie meldete sich nicht ab, verschwand nicht, war kein Entwurf mehr.
-
-Ein Systemeintrag über ihre vergangenen Entscheidungen veränderte die Bedingung für ihre zukünftigen.
-
-Eva ging in die Notaufnahme.
-
-Der Alltag sah genauso aus wie gestern.
-
-Menschen warteten. Monitore liefen. Ein Kollege hielt ihr im Vorbeigehen eine Frage hin. Nele stand an einem Arbeitsplatz und telefonierte. Niemand wusste, dass sich in Evas Profil über Nacht eine zusätzliche Schwelle materialisiert hatte.
-
-Vielleicht musste auch niemand davon wissen.
-
-Das machte es nicht kleiner.
-
-Eva öffnete später testweise einen abgeschlossenen Trainingsfall aus der Prozesshilfe.
-
-High confidence. Eskalationsentscheidung. Override.
-
-Die Zweitfreigabe erschien bei ihr früher als im Standardprofil.
-
-Sie brach den Test ab, ohne etwas zu bestätigen.
-
-Es funktionierte.
-
-Natürlich funktionierte es.
-
-Sie hatte lieber gehofft, die Regel sei symbolisch.
-
-Am Mittag rief Miriam an.
-
-„Hast du die Ergänzung gesehen?“
+„Dann muss es rein.“
 
 „Ja.“
 
-„Reicht dir die Begrenzung?“
+Eva hatte mit mehr Widerstand gerechnet. Fast hätte sie ihn gebraucht.
 
-Eva blickte durch die Scheibe auf die Notaufnahme.
+„Und die Fallzahl?“
 
-„Sie macht die Regel sauberer.“
+„Ausreichend für diese begrenzte Schwellenanpassung, nicht für ein allgemeines Kompetenzurteil.“
 
-„Das war die Frage.“
+„Fallmix?“
 
-„Dann ja.“
+„Berücksichtigt.“
 
-Miriam schwieg kurz.
+„Low confidence?“
 
-„Du kannst den Widerspruchsweg trotzdem nutzen.“
+„Nicht betroffen.“
 
-Eva antwortete trocken.
+Miriam sprach nicht wie jemand, der einen Sieg erklärte. Sie sprach wie jemand, der eine unangenehme Regel so eng wie möglich halten wollte.
 
-„Ich habe noch keinen formalen Fehler gefunden, gegen den ich widersprechen kann.“
+Das machte es für Eva schwerer.
 
-„Das ist nicht die einzige Grundlage.“
+„Schick mir die formale Begründung.“
+
+„Ist schon da.“
+
+Eva ging zurück in die Notaufnahme, ohne sie sofort zu lesen.
+
+Der Vormittag ließ ihr auch keine Zeit. Ein Patient musste neu priorisiert werden. Eine Angehörige wollte wissen, warum eine Untersuchung verschoben worden war. Ein Kollege brauchte eine zweite Einschätzung. Nichts davon hatte mit KORA zu tun.
+
+Trotzdem änderte sich etwas in den Blicken, oder Eva bildete es sich ein.
+
+Nele wusste von der Schwelle.
+
+Die beiden jüngeren Ärzte hatten sie gesehen.
+
+Es war keine öffentliche Rangliste. Kein Warnsymbol neben Evas Namen im Dienstplan. Nur eine Prozessbedingung, die sichtbar wurde, sobald sie in die betroffene Entscheidungsklasse ging.
+
+Am Mittag setzte sich Nele neben sie, ohne etwas zu fragen. Sie aß einen Joghurt und blätterte durch Laborwerte auf Papier.
+
+„Sag es“, meinte Eva.
+
+Nele sah hoch. „Was?“
+
+„Du sitzt seit zwei Minuten neben mir und tust so, als hättest du keine Frage.“
+
+Nele legte den Löffel weg.
+
+„Fühlt es sich wie eine Strafe an?“
+
+Eva dachte an die Trainingsmaske.
+
+„Es fühlt sich an wie eine Regel, die weiß, wer ich bin.“
+
+„Das war nicht meine Frage.“
 
 „Ich weiß.“
 
-Eva beendete das Gespräch wenig später.
+Nele wartete.
 
-Sie hätte argumentieren können, dass menschliche Letztentscheidung nicht von einer persönlichen Trefferquote abhängen durfte. Dass Verantwortung eine Rolle war, kein Bonus für gute Statistik. Dass dieselbe Ärztin morgen eine bessere Abweichung treffen konnte als gestern.
+Eva hätte gern gesagt, die Grundlage sei unfair. Die Statistik zu klein. Die Klasse zu breit. Der Zeitraum willkürlich. Irgendetwas, das aus dem persönlichen Eingriff einen schlechten Prozess machte.
 
-Die Einwände waren nicht verschwunden.
+„Ich habe noch keinen fachlichen Fehler gefunden, der die Regel insgesamt kippt.“
 
-Aber sie standen nun gegen etwas, das Eva selbst verlangt hatte: Wenn KORA in bestimmten Gruppen nachweislich besser war, sollte man die Bedeutung der Evidenz ernst nehmen.
+Nele nickte langsam.
 
-Die Regel machte daraus zum ersten Mal eine persönliche Konsequenz.
+„Das klingt schlimmer.“
 
-Eva öffnete die Ansicht erneut. Der nächste Patient würde neu sein. Seine Krankheit würde neu sein. Seine Werte würden neu sein.
+„Ist es auch.“
 
-Die Bedingung, unter der Eva bei ihm handeln durfte, kam aus alten Entscheidungen.
+Mehr brauchten sie nicht.
 
-Sie hätte lieber einen willkürlichen Punkt gefunden. Etwas, das sie fachlich zerlegen konnte.
+Später las Eva die Begründung vollständig.
 
-Stattdessen sah sie eine Regel, die eng genug gebaut war, um gerade nicht wie eine Strafe auszusehen.
+Wiederholt ungünstige Bilanz bei high-confidence Ressourcen-/Eskalationsabweichungen. Ausreichende Fallzahl für eine zeitlich begrenzte personenbezogene Schwellenanpassung. Fallmix berücksichtigt. Begrenzung auf die betroffene kombinierte Entscheidungsklasse. Review nach festgelegtem Zeitraum. Anfechtungsmöglichkeit.
 
-Das machte den Statusverlust schärfer.
+Kein dramatischer Satz.
 
-Zum ersten Mal war Governance für Eva keine Regel mehr, die sie mitgestaltet hatte.
+Keine Behauptung, Eva sei eine schlechte Ärztin.
 
-Sie war eine Eigenschaft ihres eigenen Profils geworden.
+Keine automatische Übertragung auf andere Klassen, nachdem Miriam die Ergänzung eingearbeitet hatte.
 
-Der erste echte Fall darunter würde kommen.
+Gerade die Begrenzung machte die Veränderung präzise.
+
+Am Ende des Tages kam Eva erneut am Trainingsplatz vorbei. Der Rechner war frei. Sie lud denselben Fall wie am Morgen.
+
+Nicht um die Regel zu testen. Sie wusste, dass sie funktionierte.
+
+Sie wollte sehen, ob der Hinweis noch dieselbe Wirkung hatte, wenn niemand danebenstand.
+
+**Individuelle Zweitfreigabeschwelle aktiv – high-confidence Ressourcen-/Eskalationsklasse.**
+
+Ihr Name darunter.
+
+Eva brach den Fall ab.
+
+Morgen würde ein echter Patient kommen. Neue Krankheit, neue Werte, neue Entscheidung.
+
+Die Bedingung, unter der Eva dabei abweichen durfte, war älter als dieser Patient.
+
+Zum ersten Mal war Governance für sie nicht nur eine Ordnung, die sie mitgestaltet oder kritisiert hatte.
+
+Andere konnten sehen, dass die Ordnung jetzt auch sie selbst einstufte.
