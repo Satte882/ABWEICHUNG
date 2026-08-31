@@ -1,19 +1,23 @@
 # Prosa – S023
 
 scene_id: S023
-prose_status: g3_sample_draft
+prose_status: expansion_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Laura Berg hatte während der ganzen Chronologie kaum unterbrochen.
+Laura Berg hatte während der Chronologie kaum unterbrochen.
 
-Jetzt lag die Zeitleiste zwischen ihnen auf dem Tisch. Ausdrucke, Vermerke aus zwei Standorten. Daneben ein Glas Wasser, das Laura nicht angerührt hatte.
+Jetzt lag die Zeitleiste zwischen ihnen auf dem Tisch. Ausdrucke aus zwei Standorten, Uhrzeiten, Vermerke, die KORA-Empfehlung, Evas Override. Daneben das Glas Wasser, das Laura noch immer nicht angerührt hatte.
 
-Eva wartete auf die nächste Frage.
+Die Mitarbeiterin der Patientenfürsprache saß seitlich und machte keine Anstalten, das Gespräch zu übernehmen.
 
-Laura sah noch einmal auf die letzte Seite.
+Eva wartete.
+
+Laura sah auf die letzte Seite.
+
+Ihr Finger lag neben der Zeile, in der der Tod ihres Vaters dokumentiert war. Nicht darauf. Nur daneben.
 
 „Wenn Sie damals gewusst hätten, was in Nord passiert.“
 
@@ -21,9 +25,11 @@ Sie hob den Blick.
 
 „Hätten Sie wieder genauso entschieden?“
 
-Eva hatte mit der Frage gerechnet.
+Eva hatte mit einer Variante dieser Frage gerechnet.
 
-Trotzdem brauchte sie einen Moment.
+In Gedanken hatte sie Antworten ausprobiert, obwohl sie sich vorgenommen hatte, das nicht zu tun. Medizinische Akuität. Unsicherer kontrafaktischer Verlauf. damalige Informationslage. Verantwortungsrahmen.
+
+Keine dieser Antworten passte jetzt in den Raum.
 
 „Damals hatte ich einen Patienten vor mir, der—“
 
@@ -33,9 +39,13 @@ Laura sagte es ruhig.
 
 Eva stoppte.
 
-„Sie haben das erklärt. Ich glaube Ihnen auch, dass es akut war.“
+„Sie haben das erklärt. Ich glaube Ihnen, dass er schwer krank war. Ich glaube auch, dass Sie Angst hatten, zu spät zu handeln.“
 
-Sie schob die Papiere ein Stück von sich weg.
+Eva sah sie an.
+
+Das Wort *Angst* hätte sie in einem Bericht gestrichen. Hier ließ sie es stehen.
+
+Laura schob die Papiere ein Stück von sich weg.
 
 „Ich frage etwas anderes.“
 
@@ -43,31 +53,55 @@ Eva nickte.
 
 „Wenn Sie beide gekannt hätten.“
 
-Im Nebenraum fiel etwas Metallisches zu Boden. Ein kurzer Schlag, Schritte, dann war es wieder still.
+Im Nebenraum fiel etwas Metallisches zu Boden. Ein kurzer Schlag. Jemand sagte etwas, Schritte folgten, dann war es wieder still.
 
-Eva sah auf die Zeitleiste. Entscheidung in Zentral. Zuweisung der Intensivkapazität. Nord blieb in Übergangsversorgung.
+Eva blickte auf die Zeitleiste.
 
-Die Reihenfolge kannte sie inzwischen ohne Papier.
+Sie kannte die Reihenfolge ohne Papier.
 
-„Wir wissen nicht, ob Ihr Vater bei einer früheren Aufnahme überlebt hätte.“
+Ihr Patient verschlechterte sich.
 
-Laura schloss für einen Augenblick die Augen.
+KORA priorisierte Nord.
+
+Sie prüfte erneut.
+
+Sie überschrieb.
+
+Zentral erhielt die Intensivkapazität.
+
+Nord wartete.
+
+Ihr Patient stabilisierte sich.
+
+Lauras Vater starb später.
+
+Die Folge war einfach zu erzählen. Die Entscheidung war es nie gewesen.
+
+„Wir wissen nicht, ob Ihr Vater bei einer früheren Aufnahme überlebt hätte“, sagte Eva.
+
+Laura schloss für einen Moment die Augen.
 
 „Das war nicht meine Frage.“
 
+Eva hörte den eigenen Satz nachhallen.
+
+Er war korrekt.
+
+Er war auch ein Ausweg.
+
 „Ich weiß.“
 
-Eva hörte selbst, wie automatisch die Antwort gekommen war.
-
-Sie legte die Hände auf den Tisch.
+Sie legte die Hände auf den Tisch. Die rechte Hand lag genau dort, wo auf der anderen Seite der Chronologie Evas Override-Zeitpunkt stand.
 
 „Ich kann Ihnen nicht sagen, dass ich sicher anders entschieden hätte.“
 
-Laura sah sie an.
+Laura öffnete die Augen.
 
 „Warum nicht?“
 
-„Weil mein Patient tatsächlich in einer lebensbedrohlichen Situation war. Er wurde intensivmedizinisch versorgt und hat sich stabilisiert. Das war real.“
+„Weil mein Patient tatsächlich in einer lebensbedrohlichen Situation war. Das war keine Einbildung und kein Missverständnis. Er brauchte die Intensivversorgung. Er hat sie bekommen und sich stabilisiert.“
+
+Laura sah sie lange an.
 
 „Und mein Vater war auch real.“
 
@@ -75,112 +109,236 @@ Eva nickte.
 
 „Ja.“
 
-Zum ersten Mal veränderte sich etwas in Lauras Gesicht. Der Kiefer wurde fester.
+Lauras Gesicht veränderte sich kaum. Nur ihr Kiefer wurde fester.
 
 „Für Sie aber nicht in dem Moment.“
 
 Eva wollte widersprechen.
 
-Der Satz war fachlich zu grob. Der andere Patient hatte auf dem Display gestanden. KORA hatte ihn priorisiert. Seine Werte waren da gewesen.
+Der Impuls war sofort da.
 
-Sie hatte von ihm gewusst.
+Der andere Patient hatte auf dem Display gestanden. Seine Kreislaufwerte waren sichtbar gewesen. Der steigende Vasopressorbedarf. Das Verzögerungsrisiko. KORA hatte ihn sogar priorisiert. Eva hatte gewusst, dass dort ein Mensch lag, der die gleiche knappe Ressource brauchte.
 
-Nur hatte sie ihn nicht vor sich gehabt.
+*Für Sie nicht real* war fachlich falsch.
 
-„Ich wusste, dass er existiert“, sagte Eva.
+Und trotzdem traf der Satz etwas, das die Datenansicht nicht ausdrückte.
+
+Eva erinnerte sich an die Hand des Mannes in Zentral. An seine Maske. An die feuchte Haut. An die Pause zwischen zwei Atemzügen.
+
+Von Nord hatte sie keine solche Erinnerung.
+
+„Ich wusste, dass er existiert“, sagte sie.
 
 Laura wartete.
 
-Eva blickte auf das Glas Wasser.
+Eva sah auf das unberührte Wasserglas.
 
 „Ich habe ihn nicht gesehen.“
 
-„Und bei meinem Vater hatten Sie Zahlen.“
+Laura lehnte sich ein Stück vor.
+
+„Sie haben meinen Vater als Zahlen gesehen.“
 
 „Ja.“
 
-Laura strich mit einem Finger über den Rand der letzten Seite.
+„Und Ihren Patienten als Menschen.“
 
-„Dann ist das doch die Antwort.“
+Eva schüttelte langsam den Kopf.
 
-Eva hob den Blick.
+„So einfach war es nicht.“
 
-„Welche?“
+„Warum?“
 
-„Dass Sie Ihren Patienten genommen haben, weil er vor Ihnen lag.“
+„Weil die Zahlen Ihres Vaters medizinisch etwas bedeutet haben. Ich habe sie nicht für unwichtig gehalten. Ich habe sie nur gegen etwas abgewogen, das direkt vor mir passiert ist.“
 
-„Nein.“
+Laura strich mit dem Daumen über den Rand der letzten Seite.
 
-Diesmal kam die Antwort sofort.
+„Dann ist das doch genau der Unterschied.“
 
-Laura zog die Hand zurück.
+Eva antwortete nicht.
 
-Eva zwang sich, langsamer weiterzusprechen.
+„Ihr Patient konnte Sie unter Druck setzen, ohne ein Wort zu sagen.“ Laura deutete auf die Chronologie. „Mein Vater konnte das nicht.“
 
-„Ich habe seine Verschlechterung für entscheidend gehalten. Das war meine medizinische Einschätzung.“
+Eva spürte Widerstand. Nicht gegen Laura. Gegen die Eindeutigkeit des Satzes.
 
-„KORA hat anders empfohlen.“
+„Ich habe meinen Patienten nicht genommen, nur weil er vor mir lag.“
+
+„Was war es dann?“
+
+„Seine Verschlechterung. Meine klinische Einschätzung. Der Eindruck, dass wir die letzte vertretbare Minute erreichen.“
+
+„KORA hatte seine Verschlechterung berücksichtigt.“
+
+Eva hielt kurz inne.
 
 „Ja.“
 
-„Und heute wissen Sie, dass KORA in solchen Fällen meistens besser liegt.“
+„Und KORA hat trotzdem meinen Vater priorisiert.“
 
-„In dieser Entscheidungsklasse, ja.“
+„Ja.“
 
-Laura ließ ein paar Sekunden vergehen.
+Laura setzte sich wieder zurück.
+
+„Dann frage ich noch einmal.“
+
+Eva wusste, was kam.
 
 „Würden Sie es wieder tun?“
 
-Eva sah zur Tür.
+Im Flur ging jemand vorbei. Ein Schatten glitt über die matte Scheibe der Tür und verschwand.
 
-Auf dem Flur ging jemand vorbei, ohne in den Raum zu sehen.
+Eva dachte an die Nacht.
 
-Sie dachte an den Mann auf der Liege. An seine Hand unter ihrer. An den Moment, in dem sie den Override bestätigt hatte.
+Sie versuchte nicht, den Mann in Zentral in einen Datensatz zurückzuverwandeln. Sie ließ die Erinnerung so, wie sie war: sein Blick, der verzögerte Griff, die Vorbereitung zur Intubation, der Satz ihres Kollegen, dass Nord in Übergangsversorgung bleiben würde.
 
-Von Nord hatte sie keine solche Erinnerung. Nur die später rekonstruierte Geschichte.
+Dann zwang sie sich, Laura anzusehen.
 
-„Ich weiß es nicht“, sagte sie.
+Ihr Vater hatte keinen Platz in Evas Erinnerung aus jener Nacht.
+
+Er hatte nur einen Platz in der späteren Rekonstruktion.
+
+Das war der Punkt.
+
+„Ich weiß es nicht“, sagte Eva.
 
 Laura bewegte sich nicht.
 
+Die Patientenfürsprache schrieb nichts auf.
+
 Eva ließ den Satz stehen.
 
-„Das ist wahrscheinlich die ehrlichste Antwort, die ich Ihnen geben kann.“
+„Das ist die ehrlichste Antwort, die ich Ihnen geben kann.“
 
 „Hilft mir nicht besonders.“
 
 „Nein.“
 
-Laura sah wieder auf die Zeitleiste.
+„Es klingt, als hätten Sie alles verstanden und könnten mir trotzdem nicht sagen, ob Sie etwas anders machen würden.“
 
-„Ich wollte keinen Schuldigen.“
+Eva sah auf die Papiere.
 
-Eva antwortete nicht.
+„Vielleicht ist genau das wahr.“
+
+Laura zog die Augenbrauen leicht zusammen.
+
+„Das ist wenig.“
+
+„Ja.“
+
+Eva hätte jetzt erklären können, dass Erkenntnis keine nachträgliche Sicherheit erzeugte. Dass eine einzelne Entscheidung nicht durch ihren Ausgang bewertet werden durfte. Dass KORA ebenfalls irren konnte.
+
+Sie sagte nichts davon.
+
+Laura hatte keine Theorie verlangt.
+
+Nach einigen Sekunden nahm sie das Glas. Diesmal trank sie einen kleinen Schluck.
+
+„Ich wollte keinen Schuldigen“, sagte sie.
+
+Eva hob den Blick.
+
+„Ich habe das nicht verstanden, als ich den ersten Brief geschrieben habe. Da wollte ich wahrscheinlich schon einen.“
+
+Sie stellte das Glas ab.
+
+„Später wollte ich wissen, ob da überhaupt jemand hinschaut. Ob mein Vater nur Pech hatte und dann in einer Akte verschwindet.“
+
+Eva spürte, wie sich ihre Finger auf dem Tisch anspannten.
+
+„Er ist nicht verschwunden.“
+
+Laura sah auf die Chronologie.
+
+„Für Sie vielleicht jetzt nicht.“
+
+Eva nahm den Satz an.
+
+Laura fuhr fort.
 
 „Ich wollte wissen, ob es beim nächsten Mal anders wäre.“
 
-Eva nahm die oberste Seite der Chronologie und legte sie zurück auf den Stapel.
+Eva legte die oberste Seite zurück auf den Stapel. Sie richtete sie nicht aus. Eine Ecke blieb schief.
 
-Beim nächsten Mal würde wieder jemand vor einem konkreten Bett stehen. Die andere Seite des Konflikts konnte erneut weit weg sein.
+Beim nächsten Mal würde wieder ein Arzt an einem Bett stehen.
 
-„Dann darf Nähe allein kein ausreichender Grund sein“, sagte sie.
+Wieder würde ein Patient sichtbar sein und ein anderer vielleicht nur als Verlauf auf einem Bildschirm.
+
+Wenn die Regel nur verlangte, dass der Arzt sich sicher genug fühlte, würde sich an diesem Unterschied nichts ändern.
+
+„Dann darf Nähe allein kein ausreichender Grund sein“, sagte Eva.
 
 Laura sah sie an.
 
-Eva merkte, dass sie damit nur die Hälfte beantwortet hatte.
+„Nähe?“
 
-„Es muss trotzdem Fälle geben, in denen ein Arzt begründet abweichen kann. Wenn es etwas Relevantes gibt, das KORA nicht abbildet.“
+„Der Patient vor mir. Die Tatsache, dass ich ihn sehe, kenne, behandle. Das kann wichtige Informationen liefern. Aber die Nähe selbst darf nicht entscheiden, wer eine knappe Ressource bekommt.“
 
-„Was zum Beispiel?“
+Laura schwieg.
 
-Eva schwieg.
+Eva merkte, dass der Satz nur eine Grenze setzte. Er beantwortete noch nicht, was innerhalb dieser Grenze erlaubt bleiben sollte.
 
-Darauf hatte sie noch keine fertige Antwort.
+„Es muss trotzdem Fälle geben, in denen ein Arzt begründet abweichen kann“, sagte sie. „Wenn KORA etwas medizinisch Relevantes nicht erfasst. Oder wenn die medizinisch günstigste Prognose nicht die einzige patientenspezifische Frage ist.“
 
-„Das muss ich herausfinden.“
+Laura sah sie jetzt genauer an.
 
-Laura nickte langsam.
+„Was heißt das?“
 
-Es war keine Zustimmung.
+Eva dachte an Patientenwillen. An Therapieziel. An Belastungen, die eine Nutzenrechnung nicht einfach ersetzen konnte.
 
-Aber sie stellte keine weitere Frage.
+Die Begriffe waren noch nicht als Regel gebaut.
+
+„Das weiß ich noch nicht genau genug.“
+
+„Aber Sie wollen Regeln dafür.“
+
+„Ja.“
+
+„Mehr Regeln.“
+
+Eva musste fast lächeln, tat es aber nicht.
+
+„Wahrscheinlich.“
+
+Laura strich die Papiere zu einem Stapel zusammen.
+
+„Und dann ist beim nächsten Mal alles besser?“
+
+Eva schüttelte den Kopf.
+
+„Nein.“
+
+Laura wartete.
+
+„Aber vielleicht wird sichtbarer, warum jemand abweicht. Und ob der Grund wirklich diesen Patienten betrifft oder nur den Menschen, der gerade entscheidet.“
+
+Laura sah sie lange an.
+
+Dann nickte sie langsam.
+
+Es war keine Zustimmung. Keine Vergebung. Kein Abschluss.
+
+Sie nahm ihre Tasche unter dem Tisch hervor.
+
+Die Mitarbeiterin der Patientenfürsprache stand ebenfalls auf.
+
+Laura legte die Hand auf die Mappe.
+
+„Ich möchte eine Kopie der Chronologie.“
+
+„Natürlich“, sagte die Mitarbeiterin.
+
+Laura wandte sich noch einmal zu Eva.
+
+Eva wusste nicht, ob sie etwas sagen sollte.
+
+Laura nahm ihr die Entscheidung ab.
+
+„Finden Sie die Antwort.“
+
+Dann ging sie.
+
+Eva blieb im Raum zurück.
+
+Auf dem Tisch stand Lauras halbvolles Glas.
+
+Die Frage war geblieben.
