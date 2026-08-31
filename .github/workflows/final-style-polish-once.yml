@@ -41,30 +41,20 @@ jobs:
         run: |
           from pathlib import Path
           import re
-
           before = Path('/tmp/STYLE_BEFORE.md').read_text(encoding='utf-8')
           after = Path('FINAL_STYLE_POLISH_AUDIT_POST.md').read_text(encoding='utf-8')
-
           def metric(text, label):
               m = re.search(rf'- {re.escape(label)}: \*\*(\d+)\*\*', text)
               assert m, label
               return int(m.group(1))
-
           labels = [
-              'Szenen',
-              'Wörter in Szenen-Prosa',
-              'Geviertstrich `—`',
-              '`sondern`',
-              'Dialog-Pingpong-Runs',
-              'Stakkato-Runs',
-              'kurze Negations-Runs',
-              'narrative Kurzabsätze ≤7 Wörter',
-              'heuristische Binary-/Negations-Kandidaten',
+              'Szenen', 'Wörter in Szenen-Prosa', 'Geviertstrich `—`', '`sondern`',
+              'Dialog-Pingpong-Runs', 'Stakkato-Runs', 'kurze Negations-Runs',
+              'narrative Kurzabsätze ≤7 Wörter', 'heuristische Binary-/Negations-Kandidaten',
               'heuristische Explanation-Echo-Kandidaten',
           ]
           b = {x: metric(before, x) for x in labels}
           a = {x: metric(after, x) for x in labels}
-
           assert a['Szenen'] == 40
           assert a['Geviertstrich `—`'] == 0
           assert a['`sondern`'] == 0
@@ -72,46 +62,30 @@ jobs:
           assert a['Stakkato-Runs'] <= b['Stakkato-Runs']
           assert a['heuristische Binary-/Negations-Kandidaten'] < b['heuristische Binary-/Negations-Kandidaten']
           assert a['heuristische Explanation-Echo-Kandidaten'] < b['heuristische Explanation-Echo-Kandidaten']
-
-          report = f'''# FINAL STYLE POLISH – ABWEICHUNG
-
-status: PASS
-scope: prose_only
-trigger: external random-sample style review
-
-## Ziel
-
-Letzter chirurgischer Prosa-Pass gegen vier bestätigte Minor-Muster:
-
-1. Erklär-Echos nach bereits verständlicher Handlung,
-2. wiederkehrende Prägnanz-/Kontrastschlüsse,
-3. sichtbar symmetrische Reihungen,
-4. formelhafte Mikro-/Display-Choreografie, soweit sie keine eigene Funktion trägt.
-
-Keine Story-, Beat-, Figuren- oder Kausalitätsänderung.
-
-## Umfang
-
-- gezielt bearbeitete Szenen: 13
-- Änderungen erfolgen ausschließlich in `PROSA.md`
-- Stilprofil `de_anti_ki_prosa_v1` bleibt erhalten
-
-## Regression
-
-| Metrik | Vorher | Nachher |
-|---|---:|---:|
-| Wörter | {b['Wörter in Szenen-Prosa']} | {a['Wörter in Szenen-Prosa']} |
-| Dialog-Pingpong-Runs | {b['Dialog-Pingpong-Runs']} | {a['Dialog-Pingpong-Runs']} |
-| Stakkato-Runs | {b['Stakkato-Runs']} | {a['Stakkato-Runs']} |
-| kurze Negations-Runs | {b['kurze Negations-Runs']} | {a['kurze Negations-Runs']} |
-| Kurzabsätze ≤7 Wörter | {b['narrative Kurzabsätze ≤7 Wörter']} | {a['narrative Kurzabsätze ≤7 Wörter']} |
-| Binary-/Negations-Kandidaten | {b['heuristische Binary-/Negations-Kandidaten']} | {a['heuristische Binary-/Negations-Kandidaten']} |
-| Explanation-Echo-Kandidaten | {b['heuristische Explanation-Echo-Kandidaten']} | {a['heuristische Explanation-Echo-Kandidaten']} |
-| Geviertstrich `—` | {b['Geviertstrich `—`']} | {a['Geviertstrich `—`']} |
-| `sondern` | {b['`sondern`']} | {a['`sondern`']} |
-
-Der Audit ist Kandidaten-Heuristik, kein Qualitätsautomat. Entscheidend war die semantische Auswahl der tatsächlich redundanten Stellen.
-'''
+          lines = [
+              '# FINAL STYLE POLISH – ABWEICHUNG', '', 'status: PASS', 'scope: prose_only',
+              'trigger: external random-sample style review', '', '## Ziel', '',
+              'Letzter chirurgischer Prosa-Pass gegen vier bestätigte Minor-Muster:', '',
+              '1. Erklär-Echos nach bereits verständlicher Handlung,',
+              '2. wiederkehrende Prägnanz-/Kontrastschlüsse,',
+              '3. sichtbar symmetrische Reihungen,',
+              '4. formelhafte Mikro-/Display-Choreografie, soweit sie keine eigene Funktion trägt.', '',
+              'Keine Story-, Beat-, Figuren- oder Kausalitätsänderung.', '', '## Umfang', '',
+              '- gezielt bearbeitete Szenen: 13', '- Änderungen ausschließlich in `PROSA.md`',
+              '- Stilprofil `de_anti_ki_prosa_v1` bleibt erhalten', '', '## Regression', '',
+              '| Metrik | Vorher | Nachher |', '|---|---:|---:|',
+              f"| Wörter | {b['Wörter in Szenen-Prosa']} | {a['Wörter in Szenen-Prosa']} |",
+              f"| Dialog-Pingpong-Runs | {b['Dialog-Pingpong-Runs']} | {a['Dialog-Pingpong-Runs']} |",
+              f"| Stakkato-Runs | {b['Stakkato-Runs']} | {a['Stakkato-Runs']} |",
+              f"| kurze Negations-Runs | {b['kurze Negations-Runs']} | {a['kurze Negations-Runs']} |",
+              f"| Kurzabsätze ≤7 Wörter | {b['narrative Kurzabsätze ≤7 Wörter']} | {a['narrative Kurzabsätze ≤7 Wörter']} |",
+              f"| Binary-/Negations-Kandidaten | {b['heuristische Binary-/Negations-Kandidaten']} | {a['heuristische Binary-/Negations-Kandidaten']} |",
+              f"| Explanation-Echo-Kandidaten | {b['heuristische Explanation-Echo-Kandidaten']} | {a['heuristische Explanation-Echo-Kandidaten']} |",
+              f"| Geviertstrich `—` | {b['Geviertstrich `—`']} | {a['Geviertstrich `—`']} |",
+              f"| `sondern` | {b['`sondern`']} | {a['`sondern`']} |", '',
+              'Der Audit ist Kandidaten-Heuristik, kein Qualitätsautomat. Entscheidend war die semantische Auswahl der tatsächlich redundanten Stellen.', ''
+          ]
+          report = '\n'.join(lines)
           Path('FINAL_STYLE_POLISH_REPORT.md').write_text(report, encoding='utf-8')
           print(report)
 
@@ -145,12 +119,8 @@ Der Audit ist Kandidaten-Heuristik, kein Qualitätsautomat. Entscheidend war die
           set -euo pipefail
           SOURCE='${{ steps.source.outputs.source_commit }}'
           python scripts/build_production.py --source-ref "$SOURCE" --out-dir /tmp/abweichung-style-final
-          python scripts/build_final_manuscript.py \
-            --source /tmp/abweichung-style-final/ABWEICHUNG_v01.md \
-            --output ABWEICHUNG_FINAL.md
-          python scripts/build_final_docx.py \
-            --source ABWEICHUNG_FINAL.md \
-            --output ABWEICHUNG_FINAL.docx
+          python scripts/build_final_manuscript.py --source /tmp/abweichung-style-final/ABWEICHUNG_v01.md --output ABWEICHUNG_FINAL.md
+          python scripts/build_final_docx.py --source ABWEICHUNG_FINAL.md --output ABWEICHUNG_FINAL.docx
           unzip -t ABWEICHUNG_FINAL.docx >/dev/null
 
       - name: Validate manuscript contract
