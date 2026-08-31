@@ -1,0 +1,42 @@
+name: Production Build
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_production.py'
+      - '.github/workflows/production-build.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build from G4-approved manuscript
+        run: |
+          python scripts/build_production.py \
+            --source-ref 78222a7e99c80378c35379ad42684ee332a412a6 \
+            --out-dir production_build
+
+      - name: Verify deterministic source identity
+        run: |
+          test "$(git rev-parse 78222a7e99c80378c35379ad42684ee332a412a6^{commit})" = "78222a7e99c80378c35379ad42684ee332a412a6"
+          test "$(find production_build -maxdepth 1 -type f | wc -l)" -eq 3
+          sha256sum production_build/ABWEICHUNG_v01.md production_build/ABWEICHUNG_v01.html
+          cat production_build/BUILD_INFO.json
+
+      - name: Upload production artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: abweichung-production-v01
+          path: production_build/
+          if-no-files-found: error
+          retention-days: 90
