@@ -1,97 +1,78 @@
 # ABWEICHUNG
 
-Erster echter Romanlauf mit `Satte882/Buch-Framework` v0.2.
+**Wenn die Maschine recht hat**
 
-## Aktueller Stand
+Psychologischer Near-Future-Thriller über Ergebnisqualität, Verantwortung und die schleichende Verschiebung menschlicher Entscheidungsmacht.
 
-**G0 APPROVED → G1 APPROVED → G2 APPROVED → G3 APPROVED → 40/40 PROSA → MANUSKRIPT-REWORK/ADJUDIKATION → G4 APPROVED → PRODUCTION BUILD PASS → READY_FOR_HUMAN_G5**
+> **Du darfst widersprechen.**  
+> **Die Beweislast liegt bei dir.**
 
-- 18 Bausteine
-- 54 Ereignisse
-- 40 Szenen
-- 253 Beats
-- 40/40 Szenen mit `PROSA.md`
-- kanonischer G4-Manuskriptstand: `78222a7e99c80378c35379ad42684ee332a412a6`
-- offene bestätigte G4-Blocker/Majors: 0
-- nicht blockierende G4-Residual-/Minor-Risiken: 2
-- Human `G4-APPROVE`: 2026-08-31
-- `main` enthält den vollständigen G4-Stand
-- Framework-Lessons-Learned aus Issue #17 umgesetzt; Issue #17 geschlossen
-- Production Build Run #1 / ID `33366125536`: **PASS**
-- Produktionsartefakt: `abweichung-production-v01`
-- konsolidierte Fassung: `ABWEICHUNG_v01.md` + `ABWEICHUNG_v01.html`
-- vollständiger G4-Umfang: **16.527 Wörter**
-- Human Gate G5: **READY_FOR_HUMAN_G5 – Produktumfang muss bewusst entschieden werden**
+## Release-Status
 
-## G4
+Der Roman ist inhaltlich und produktionstechnisch abgeschlossen.
 
-Human `G4-APPROVE` akzeptiert den vollständigen Manuskriptstand
+- G2: **APPROVED**
+- G4: **APPROVED**
+- G5: **APPROVED**
+- 40 Kapitel
+- 37.919 Wörter Szenen-Prosa
+- finale Manuskriptfreigabe: `1014deda39ae5c5503558fabd88bf8b519b56548`
+- finaler Produktions-Snapshot: `268b580e3345d842eba5e3e0a30b5aed79db05bf`
+- DOCX-QA: PASS
+- CI-PDF-Render: 333 Seiten
+- Format: 5,06 × 7,81 Zoll / 12,85 × 19,84 cm
+- letzter Satz: `Eva wartete.`
 
-`78222a7e99c80378c35379ad42684ee332a412a6`
+Verbindliche Gate-Records liegen unter `gates/`.
 
-als kanonisches Manuskript.
+## Finale Buchdateien
 
-Gate-Record: `gates/G4.md`
+| Zweck | Datei |
+|---|---|
+| finales Manuskript | `ABWEICHUNG_FINAL.md` |
+| KDP-/Word-Innenraum | `ABWEICHUNG_FINAL.docx` |
+| KDP Full-Wrap-Cover | `ABWEICHUNG_COVER.pdf` |
 
-Weitere Änderungen am Roman nach G4 dürfen keine neue Storyentscheidung stillschweigend einführen.
+## Amazon KDP
 
-## Produktion
+| Zweck | Datei |
+|---|---|
+| Buchbeschreibung | `BUCHBESCHREIBUNG_KDP.md` |
+| Metadaten, Keywords, Kategorien, Preis-/ISBN-Strategie | `KDP_METADATA.md` |
+| operative Upload-/Submission-Checkliste | `KDP_SUBMISSION.md` |
+| verbindliche Cover-Spezifikation | `COVER_SPEC.md` |
 
-Der Produktionsbuilder `scripts/build_production.py` liest ausschließlich den festen G4-Commit und erzeugt deterministisch:
+Das Cover ist für den aktuellen **333-Seiten-Stand, Schwarzweiß auf weißem Papier** erzeugt. Die Live-Seitenzahl im KDP-Previewer bleibt für die endgültige Rückenbreite maßgeblich. Ändert KDP die Seitenzahl, wird dasselbe Design mit `scripts/build_kdp_cover.py` neu erzeugt.
 
-1. `ABWEICHUNG_v01.md` – konsolidierte Manuskriptfassung
-2. `ABWEICHUNG_v01.html` – standalone Lese-/Druckfassung
-3. `BUILD_INFO.json` – Quellen-/Hashnachweis
+## Aktive Story-/Research-Quellen
 
-Kanonischer Build:
+- `BOOK_IDEA.md` – Grundidee und irreversible Konzeptentscheidungen
+- `STORY_PACKAGE.md` – vollständige Story-, Konflikt- und Informationsarchitektur
+- `CHARACTERS.md` – Figurenlogik
+- `TITLE_DECISION.md` – Titelentscheidung
+- `RESEARCH_REGISTER.md` – Research- und Plausibilitätsregister
+- `R06_MEDIZINISCHE_ANKERFAELLE.md` – medizinische Ankerfälle
+- `BAUSTEINE/` – Bausteine, Ereignisse, Beats, Szenenkarten und kanonische Szenen-Prosa
 
-- Workflow: `Production Build`
-- Run #1 / ID: `33366125536`
-- Ergebnis: PASS
-- Artifact-ID: `9748335150`
-- ZIP SHA-256: `b6d6fde371e14d9f2f03b5e4a5839ff1e85e72f03345ab508c31373bb3e0d765`
-- Markdown SHA-256: `9c00cb0632b0729f43bf0d74f565573d52a794de4d6227eac06a3cf966ff478d`
-- HTML SHA-256: `debc8a08023ca793c4ab4b35c2e5c428d3eb94f4d9ce97dcbd6bdfe3e12b4be4`
-- 40/40 Szenen, S001–S040 lückenlos
-- `sondern = 0`
+## Finale Qualitätsnachweise
 
-Details: `production/BUILD_MANIFEST.md`
+Diese vier Dateien bleiben bewusst im Root, weil die finalen Gate-Records darauf verweisen:
 
-## Produktumfang vor G5
+- `FINAL_STYLE_POLISH_REPORT.md`
+- `FINAL_STYLE_POLISH_AUDIT_POST.md`
+- `EXTERNAL_STYLE_RETEST_RESULT.md`
+- `EXTERNAL_STYLE_RETEST_ADJUDICATION.md`
 
-Der Produktionsbuild hat erstmals den vollständigen Umfang exakt gemessen:
+Abgeschlossene Task-, Review-, Rework-, Gate-Request- und Zwischen-Audit-Artefakte liegen unter `ARCHIV/` und sind keine aktive Source of Truth.
 
-**16.527 Wörter bei 40 Szenen.**
+## Technik
 
-Vor G4 war kein verbindlicher Ziel-Wortumfang definiert. Deshalb wird die Zahl nicht rückwirkend als automatischer G4-Fehler behandelt.
+- `scripts/build_final_manuscript.py` – konsolidiert das finale Manuskript
+- `scripts/build_final_docx.py` – erzeugt die KDP-/Word-Ausgabe
+- `scripts/build_kdp_cover.py` – erzeugt das Full-Wrap-Cover
+- `.github/workflows/finalize-direct.yml` – finaler Manuskript-/DOCX-Build
+- `.github/workflows/build-kdp-cover.yml` – Cover-Build und PDF-Preflight
 
-G5 muss den Produkt-Scope nun bewusst entscheiden:
+## Arbeitsregel ab G5
 
-- `G5-APPROVE` – aktuellen Umfang und Produktionsstand akzeptieren,
-- `G5-REWORK` – Manuskript/Product Scope wieder öffnen,
-- `G5-STOP` – Produktion stoppen.
-
-Gate-Anforderung: `G5_REVIEW_REQUEST.md`
-
-## Lessons Learned
-
-Der Pilot hat insbesondere bestätigt:
-
-- Whole-Book Scene-Shape-Verteilung vor G2 prüfen,
-- G3 zusätzlich mit zusammenhängendem Mittelteil-Run prüfen,
-- globale statt nur lokale Wiederholungsmuster bewerten,
-- bei wiederholtem bestätigtem Manuskript-Major kontrolliert upstream backtracken,
-- Raw-Reviews vor Rework evidenzbasiert adjudizieren.
-
-Diese Punkte wurden nach G4 in `Satte882/Buch-Framework` umgesetzt.
-
-## Thematischer Kern
-
-**Thema:** KI + Entscheidungsmacht  
-**Konflikt:** Ergebnisqualität vs. legitime menschliche Entscheidungsmacht
-
-> **Wie lange darf ein Mensch eine schlechtere Entscheidung treffen, wenn eine Maschine nachweislich die bessere kennt?**
-
-Kernumkehr:
-
-> **Nicht mehr die Maschine muss beweisen, dass sie recht hat. Der Mensch muss beweisen, warum er von ihr abweichen darf.**
+Story und Prosa sind eingefroren. KDP-/Produktionsarbeit darf **keine neue Story-, Figuren- oder Stilentscheidung** in das freigegebene Manuskript einführen.
