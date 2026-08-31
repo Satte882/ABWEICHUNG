@@ -11,10 +11,10 @@ research_refs: R-01, R-03
 Die Governance erstmals asymmetrisch auf einzelne Ärzte anwenden und den Rollenwechsel vom Gestalter zum regulierten Entscheider primär als persönliche Erfahrung zeigen.
 
 ## Ausgangslage
-Nach Evas personenbezogener Bilanz beschließt Falkenried engere Zweitfreigabe-Schwellen für wiederholt ungünstige high-confidence Abweichungen. Eva erhält die Regel nicht als neue Debattenfolie, sondern als formale Mitteilung über ihre eigene Einstufung.
+Nach Evas personenbezogener Bilanz beschließt Falkenried engere Zweitfreigabe-Schwellen für wiederholt ungünstige high-confidence Ressourcen-/Eskalationsabweichungen. Eva erhält die Regel nicht als neue Debattenfolie, sondern als formale Mitteilung über ihre eigene Einstufung.
 
 ## Konflikt / Entscheidung
-Die Kriterien sind fallmixbereinigt, an eine definierte Entscheidungsklasse gebunden, anfechtbar und zeitlich überprüfbar. Eva findet keinen willkürlichen Punkt, verlangt aber ausdrücklich, dass die Einstufung nicht automatisch auf andere Entscheidungsklassen übertragen wird. Die Klarstellung wird aufgenommen. Als die neue persönliche Schwelle anschließend in ihrer aktiven Regel-/Profilansicht sichtbar wird, erlebt Eva den Statusverlust, noch bevor sie im folgenden Fall tatsächlich darunter entscheiden muss.
+Die Kriterien sind fallmixbereinigt, an die klar benannte kombinierte Ressourcen-/Eskalationsklasse gebunden, anfechtbar und zeitlich überprüfbar. Eva findet keinen willkürlichen Punkt, verlangt aber ausdrücklich, dass die Einstufung nicht automatisch auf andere Entscheidungsklassen außerhalb dieser kombinierten Klasse übertragen wird. Die Klarstellung wird aufgenommen. Als die neue persönliche Schwelle anschließend in ihrer aktiven Regel-/Profilansicht sichtbar wird, erlebt Eva den Statusverlust, noch bevor sie im folgenden Fall tatsächlich darunter entscheiden muss.
 
 ## Informationsverschiebung
 Aus allgemeiner Prozessregel wird personenbezogene Rechenschaft, ohne dass daraus eine pauschale Statusstrafe gemacht wird.
