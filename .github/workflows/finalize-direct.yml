@@ -1,0 +1,131 @@
+name: Publish final ABWEICHUNG files
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/finalize-direct.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install document tooling
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install python-docx pyphen
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer python3-uno hyphen-de poppler-utils
+
+      - name: Rebuild canonical G5 manuscript
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/build_production.py \
+            --source-ref 14563bc5ea63d2b77c10e63f1d23a751e136c617 \
+            --out-dir /tmp/abweichung-g5
+          test "$(python - <<'PY'
+          import json
+          print(json.load(open('/tmp/abweichung-g5/BUILD_INFO.json'))['word_count'])
+          PY
+          )" = "39331"
+
+      - name: Build final Markdown and DOCX
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/build_final_manuscript.py \
+            --source /tmp/abweichung-g5/ABWEICHUNG_v01.md \
+            --output ABWEICHUNG_FINAL.md
+          python scripts/build_final_docx.py \
+            --source ABWEICHUNG_FINAL.md \
+            --output ABWEICHUNG_FINAL.docx
+          unzip -t ABWEICHUNG_FINAL.docx >/dev/null
+
+      - name: Validate pre-TOC document contract
+        shell: python
+        run: |
+          from docx import Document
+          from docx.oxml.ns import qn
+
+          doc = Document('ABWEICHUNG_FINAL.docx')
+          assert len(doc.sections) == 2, len(doc.sections)
+          for section in doc.sections:
+              assert abs(section.page_width.cm - 12.85) < 0.02
+              assert abs(section.page_height.cm - 19.84) < 0.02
+              assert abs(section.top_margin.cm - 1.22) < 0.02
+              assert abs(section.bottom_margin.cm - 1.22) < 0.02
+              assert abs(section.left_margin.cm - 1.95) < 0.02
+              assert abs(section.right_margin.cm - 1.40) < 0.02
+          headings = [p.text for p in doc.paragraphs if p.style and p.style.name == 'Heading 1']
+          assert len(headings) == 40, len(headings)
+          assert headings[0] == 'Kapitel 1 – Die letzte Kapazität'
+          assert headings[-1] == 'Kapitel 40 – Was sieht KORA nicht?'
+          soft = sum(len(p._p.xpath('.//w:softHyphen')) for p in doc.paragraphs)
+          assert soft > 20000, soft
+          settings = doc.settings._element
+          for name in ('autoHyphenation', 'mirrorMargins', 'evenAndOddHeaders'):
+              assert settings.find(qn(f'w:{name}')) is not None, name
+          print(f'pre-TOC validation OK: headings={len(headings)}, softHyphens={soft}')
+
+      - name: Materialize table of contents
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --depth 1 https://github.com/Satte882/Buch.git /tmp/Buch
+          /usr/bin/python3 /tmp/Buch/scripts/update_docx_toc.py ABWEICHUNG_FINAL.docx
+          unzip -t ABWEICHUNG_FINAL.docx >/dev/null
+
+      - name: Render and verify final output
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from docx import Document
+          doc = Document('ABWEICHUNG_FINAL.docx')
+          headings = [p.text for p in doc.paragraphs if p.style and p.style.name == 'Heading 1']
+          assert len(headings) == 40, len(headings)
+          assert headings[0] == 'Kapitel 1 – Die letzte Kapazität'
+          assert headings[-1] == 'Kapitel 40 – Was sieht KORA nicht?'
+          print('post-TOC heading validation OK')
+          PY
+          mkdir -p /tmp/qa
+          libreoffice --headless --convert-to pdf --outdir /tmp/qa ABWEICHUNG_FINAL.docx >/dev/null
+          PAGES=$(pdfinfo /tmp/qa/ABWEICHUNG_FINAL.pdf | awk '/^Pages:/ {print $2}')
+          test -n "$PAGES"
+          if [ "$PAGES" -lt 369 ] || [ "$PAGES" -gt 373 ]; then
+            echo "Unexpected page count: $PAGES"
+            exit 1
+          fi
+          pdftotext /tmp/qa/ABWEICHUNG_FINAL.pdf /tmp/qa/final.txt
+          grep -q 'ABWEICHUNG' /tmp/qa/final.txt
+          grep -q 'Wenn die Maschine recht hat' /tmp/qa/final.txt
+          grep -q 'Die Beweislast liegt bei dir' /tmp/qa/final.txt
+          grep -q 'Eva wartete.' /tmp/qa/final.txt
+          echo "render QA OK: $PAGES pages"
+
+      - name: Commit final files to main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm -r --ignore-unmatch .tmp_final_upload
+          git add ABWEICHUNG_FINAL.md ABWEICHUNG_FINAL.docx
+          git commit -m 'production: publish final ABWEICHUNG manuscript'
+          git pull --rebase origin main
+          git push origin HEAD:main
