@@ -1,78 +1,55 @@
 # G5 Review Request – Produktion
 
-status: READY_FOR_HUMAN_G5
+status: REWORK
 human_gate: G5
+current_decision: REWORK
+current_decided_by: human
+current_date: 2026-08-31
 prior_gate: `gates/G4.md`
 source_manuscript: `78222a7e99c80378c35379ad42684ee332a412a6`
 build_manifest: `production/BUILD_MANIFEST.md`
 production_run: `33366125536`
-product_scope_decision_required: yes
 
-## Produktionsstand
+## Human-Entscheidung
 
-Der G4-freigegebene Manuskriptstand wurde reproduzierbar in einen konkreten Produktionsstand überführt.
+Human `G5-REWORK` vom 2026-08-31 lehnt den aktuellen Produktionsumfang als finalen Buchstand ab.
 
-Erzeugte Artefakte:
+Der technische Build selbst bleibt korrekt und reproduzierbar:
 
-- `ABWEICHUNG_v01.md` – konsolidierte Manuskriptfassung
-- `ABWEICHUNG_v01.html` – standalone Lese-/Druckfassung
-- `BUILD_INFO.json` – Hash-/Quellnachweis
-
-GitHub Actions Run #1 / ID `33366125536`: **PASS**.
-
-Artifact:
-
-- ID `9748335150`
-- Name `abweichung-production-v01`
-- ZIP SHA-256 `b6d6fde371e14d9f2f03b5e4a5839ff1e85e72f03345ab508c31373bb3e0d765`
-
-Produktions-QA:
-
-- G4-Commit exakt: PASS
 - 40/40 Prosaszenen: PASS
 - S001–S040 lückenlos: PASS
 - `sondern = 0`: PASS
-- Build/Upload: PASS
+- Markdown-/HTML-Build: PASS
+- GitHub Actions Run `33366125536`: PASS
 
-## Produkt-Scope – vor G5 bewusst zu entscheiden
+Der Rework wird durch den **Produktumfang** ausgelöst:
 
-Der Build misst erstmals den vollständigen Manuskriptumfang belastbar:
+**16.527 Wörter bei 40 Szenen** sind für den beabsichtigten vollständigen Roman nicht als finaler Umfang akzeptiert.
 
-**16.527 Wörter** bei 40 Szenen.
+## Konsequenz
 
-Vor G4 existierte kein explizit freigegebener Ziel-Wortumfang. Deshalb ist dies kein nachträglich erfundener mechanischer G4-Blocker.
+Der Produktionsstand `ABWEICHUNG_v01` bleibt als technischer Nachweis erhalten, ist aber **nicht G5-freigegeben**.
 
-Für die Produktionsfreigabe ist die Konsequenz aber wesentlich:
+Das Manuskript wird kontrolliert wieder geöffnet. Ziel ist keine mechanische Wortzahlerhöhung, sondern substanzieller Ausbau von:
 
-### `G5-APPROVE`
+- Erlebnisdichte,
+- Szenengewicht,
+- körperlicher/klinischer Präsenz,
+- Figuren- und Beziehungsdruck,
+- Konsequenz und Nachwirkung,
+- sinnvoll ausgespielten Entscheidungsprozessen.
 
-Akzeptiert den aktuellen G4-Manuskriptstand **mit 16.527 Wörtern** bewusst als finalen Buch-/Produktionsumfang und gibt den oben identifizierten Markdown-/HTML-Produktionsstand frei.
+Story- oder Szenenarchitektur wird nur dort geöffnet, wo die Ausbauanalyse zeigt, dass reine Prosa-Erweiterung nicht ausreicht.
 
-### `G5-REWORK`
+## Nächster Schritt
 
-Bedeutet: Der aktuelle Build ist technisch korrekt, aber der Produktumfang soll **nicht** als final gelten. Das Manuskript muss bewusst wieder geöffnet und substanziell erweitert bzw. anders als Produkt positioniert werden. Danach sind die betroffenen Gates erneut zu durchlaufen.
+1. Wortverteilung und Erlebnisdichte S001–S040 messen.
+2. Ausbaupotenzial je Szene gegen `SZENE.md` und `BEATS.md` prüfen.
+3. Rework-Ebene pro Abschnitt festlegen: `PROSA`, `BEAT`, `SZENE` oder bei echter Notwendigkeit upstream.
+4. Ausbau durchführen.
+5. betroffene Gates erneut prüfen; ein geändertes Gesamtmanuskript benötigt erneut G4.
+6. erst danach neuer Produktionsbuild und erneuter Human Gate G5.
 
-### `G5-STOP`
+Aktuell:
 
-Stoppt die Produktion ohne Freigabe.
-
-## Nicht Bestandteil dieses G5-Stands
-
-- kein erfundener Autorenname,
-- kein Impressum,
-- keine ISBN,
-- kein Cover,
-- kein KDP-spezifisches Interior,
-- kein DOCX/PDF als freizugebendes Hauptartefakt.
-
-Der aktuelle G5-Entscheid betrifft ausschließlich den **reproduzierbaren konsolidierten Markdown-/HTML-Produktionsstand** aus dem G4-Manuskript und die bewusste Akzeptanz seines Umfangs.
-
-## Gate
-
-Erforderlicher Human-Token:
-
-`G5-APPROVE`  
-oder  
-`G5-REWORK`  
-oder  
-`G5-STOP`
+**G5 REWORK → MANUSKRIPT-AUSBAUANALYSE**
