@@ -63,6 +63,17 @@ jobs:
             --output ABWEICHUNG_FINAL.docx
           unzip -t ABWEICHUNG_FINAL.docx >/dev/null
 
+      - name: Validate rework markers in Markdown
+        shell: python
+        run: |
+          from pathlib import Path
+          text = Path('ABWEICHUNG_FINAL.md').read_text(encoding='utf-8')
+          assert 'Frau Dr. Riedel' in text
+          assert 'Frau Dr. König' not in text
+          assert 'high-confidence Ressourcen-/Eskalationsklasse' in text
+          assert 'Meine Bilanz in der Ressourcen-/Eskalationsklasse' in text
+          print('G4 rework markers OK')
+
       - name: Validate pre-TOC document contract
         shell: python
         run: |
@@ -123,8 +134,6 @@ jobs:
           grep -q 'Wenn die Maschine recht hat' /tmp/qa/final.txt
           grep -q 'Die Beweislast liegt bei dir' /tmp/qa/final.txt
           grep -q 'Eva wartete.' /tmp/qa/final.txt
-          grep -q 'Frau Dr. Riedel' /tmp/qa/final.txt
-          grep -q 'high-confidence Ressourcen-/Eskalationsklasse' /tmp/qa/final.txt
           echo "render QA OK: $PAGES pages"
 
       - name: Commit final files to main
