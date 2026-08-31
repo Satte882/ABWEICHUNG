@@ -1,7 +1,7 @@
 # Prosa – S011
 
 scene_id: S011
-prose_status: final_rhythm_rework
+prose_status: external_major_dialogue_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -85,15 +85,7 @@ Eva sagte nichts.
 
 Nele trocknete die Hände ab.
 
-„KORA hat früher zur Intensiveskalation geraten.“
-
-„Ja.“
-
-„High confidence.“
-
-„Ja.“
-
-„Und ich habe gewartet.“
+Nele sah auf ihre Hände. „KORA hat früher zur Intensiveskalation geraten. High confidence. Und ich habe gewartet.“
 
 Eva trat einen Schritt in den Raum.
 
@@ -179,37 +171,17 @@ Nele presste die Lippen zusammen.
 
 Miriam öffnete die Entscheidungsansicht zum damaligen Zeitpunkt.
 
-„Was war dein Gegenbeleg?“
+„Sag mir deinen Gegenbeleg noch einmal vollständig“, sagte Miriam.
 
-Nele antwortete nicht sofort.
+Nele brauchte einen Moment. „Er hatte sich gebessert. Druck, Herzfrequenz, klinischer Eindruck.“
 
-„Er hatte sich gebessert.“
+Miriam ließ sie ausreden. „Die Stabilisierung hatte KORA. Was blieb ungünstig?“
 
-„Was genau hatte sich gebessert?“
+Nele sah auf die damaligen Werte. „Die Gesamtlage. Mehrere Risikosignale. Die Unsicherheit.“
 
-Nele nannte die Veränderungen.
+„Also kein relevanter Befund außerhalb der Systemdaten, keine Datenlücke und kein patientenspezifisches Therapieziel gegen die Eskalation?“
 
-„Und was blieb ungünstig?“
-
-Nele sah auf die damaligen Werte.
-
-„Die Gesamtlage. Mehrere Risikosignale. Die Unsicherheit.“
-
-„Hatte KORA die vorübergehende Stabilisierung?“
-
-„Ja.“
-
-„Gab es einen relevanten Befund, den KORA nicht hatte?“
-
-Nele schüttelte den Kopf.
-
-„Eine Datenlücke?“
-
-„Nein.“
-
-„Ein patientenspezifisches Therapieziel, das gegen die Eskalation sprach?“
-
-„Nein.“
+Nele schüttelte den Kopf. „Nein.“
 
 Miriam sagte nichts mehr. Die Stille war schlimmer als ein Vorwurf. Nele sah zu Eva. Nicht anklagend. Das war für Eva schwerer auszuhalten.
 

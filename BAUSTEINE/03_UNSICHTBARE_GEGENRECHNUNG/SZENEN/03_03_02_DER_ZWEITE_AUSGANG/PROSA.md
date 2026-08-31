@@ -1,7 +1,7 @@
 # Prosa – S006
 
 scene_id: S006
-prose_status: final_rhythm_rework
+prose_status: external_major_dialogue_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -55,17 +55,9 @@ Eva sah zu ihr.
 
 Miriam hielt den Blick.
 
-„Er ist nach der Verzögerung gestorben.“
+„Er ist nach der Verzögerung gestorben“, sagte Eva. „Für mich klingt das wie dasselbe mit anderen Worten.“
 
-„Ja.“
-
-„Du sagst gerade dasselbe mit anderen Worten.“
-
-„Nein.“
-
-Miriam zog die Akte näher zu sich, nicht als Schutz, eher um den relevanten Abschnitt zwischen ihnen zu platzieren.
-
-„Wir können belegen, dass deine Ressourcenentscheidung seine definitive Intensivversorgung verzögert hat. Wir können nicht belegen, dass er bei früherer Aufnahme überlebt hätte.“
+Miriam zog die Akte näher zu sich, nicht als Schutz, eher um den relevanten Abschnitt zwischen ihnen zu platzieren. „Ist es nicht. Wir können belegen, dass deine Ressourcenentscheidung seine definitive Intensivversorgung verzögert hat. Wir können nicht belegen, dass er bei früherer Aufnahme überlebt hätte.“
 
 Eva lehnte sich zurück.
 
@@ -91,13 +83,9 @@ Sie scrollte zurück zu dem Zeitpunkt, an dem KORA Nord priorisiert hatte.
 
 „Dass sein erwarteter akuter Behandlungsnutzen zum Entscheidungszeitpunkt höher war. Das wussten wir bereits.“
 
-„Und wenn er sofort den Platz bekommen hätte?“
+„Und wenn er sofort den Platz bekommen hätte? Das System macht Prognosen.“
 
-„KORA berechnet uns keine alternative Vergangenheit.“
-
-„Das System macht Prognosen.“
-
-„Prospektiv. Nicht als Beweis für einen nicht eingetretenen Einzelfall.“
+Miriam schüttelte den Kopf. „Prospektiv. Es berechnet uns keine alternative Vergangenheit und beweist keinen nicht eingetretenen Einzelfall.“
 
 Eva kannte die Unterscheidung. In jeder anderen Besprechung hätte sie sie selbst verteidigt.
 
@@ -165,13 +153,9 @@ Miriam deutete auf den Entscheidungszeitpunkt.
 
 „Wir hatten keine Gewissheit. Wir hatten zwei Risiken, eine knappe Ressource und eine bessere Prognoseentscheidung von KORA. Du hast anders priorisiert. Dein Grund war klinisch nachvollziehbar. Die Folge für Nord war trotzdem real.“
 
-„Und wenn er so oder so gestorben wäre?“
+„Und wenn er so oder so gestorben wäre? Dann hätten wir eine Verzögerung ohne nachweisbaren zusätzlichen Todesschaden.“
 
-„Dann wäre die Verzögerung trotzdem passiert.“
-
-„Aber ohne Schaden.“
-
-„Ohne nachweisbaren zusätzlichen individuellen Todesschaden. Die Ressourcenfolge bliebe.“
+„Richtig“, sagte Miriam. „Die Ressourcenfolge bliebe.“
 
 Eva setzte sich wieder.
 

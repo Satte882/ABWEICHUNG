@@ -1,7 +1,7 @@
 # Prosa – S022
 
 scene_id: S022
-prose_status: final_rhythm_rework
+prose_status: external_major_dialogue_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -95,19 +95,9 @@ Ihr Finger lag auf der KORA-Zeile.
 
 **Priorität: Falkenried Nord.**
 
-„Das ist mein Vater.“
+Laura ließ den Finger auf der Zeile. „Das ist mein Vater. KORA hat gesagt, er soll den Platz bekommen. Mit hoher Sicherheit.“
 
-„Ja.“
-
-„Und KORA hat gesagt, er soll den Platz bekommen.“
-
-„Ja.“
-
-„Mit hoher Sicherheit.“
-
-Eva spürte den Impuls, sofort zu korrigieren. Sie ließ eine Sekunde vergehen.
-
-„Mit hoher Konfidenz.“
+Eva spürte den Impuls, sofort zu korrigieren. Sie ließ eine Sekunde vergehen. „Mit hoher Konfidenz.“
 
 Laura hob den Blick.
 
@@ -127,15 +117,7 @@ Eva legte die Hand von der Seite weg.
 
 Laura tippte mit dem Finger auf die Empfehlung.
 
-„Sie haben das gesehen.“
-
-„Ja.“
-
-„Bevor Sie entschieden haben.“
-
-„Ja.“
-
-„Sie wussten, dass das System meinen Vater priorisiert.“
+„Sie haben das gesehen, bevor Sie entschieden haben. Sie wussten, dass das System meinen Vater priorisiert.“
 
 „Ja.“
 
@@ -301,15 +283,7 @@ Eva ging die Minuten noch einmal durch.
 
 Laura stellte das Glas ab.
 
-„Bei Ihrem Patienten kannten Sie das Gesicht.“
-
-„Ja.“
-
-„Sie wussten, wie er atmet.“
-
-„Ja.“
-
-„Sie konnten ihn anfassen.“
+„Bei Ihrem Patienten kannten Sie das Gesicht. Sie wussten, wie er atmet. Sie konnten ihn anfassen.“
 
 Eva spürte die Erinnerung an die feuchte Haut unter ihrer Hand, bevor sie antwortete.
 

@@ -1,7 +1,7 @@
 # Prosa – S010
 
 scene_id: S010
-prose_status: final_rhythm_rework
+prose_status: external_major_dialogue_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -51,17 +51,9 @@ Keine Wunderkurve.
 
 Aber eine sichtbare Besserung.
 
-„KORA wollte hoch.“
+Eva deutete auf den Konflikteintrag. „KORA wollte hoch. High confidence.“
 
-„Ich weiß.“
-
-„High confidence.“
-
-„Auch das.“
-
-Eva sah auf den Override-Eintrag.
-
-Nele hatte ihn bereits selbst dokumentiert.
+„Ich weiß“, sagte Nele. Eva sah auf den Override-Eintrag. Nele hatte ihn bereits selbst dokumentiert.
 
 **Vorübergehende hämodynamische Stabilisierung. Klinisch aktuell ausreichend stabil für engmaschige Weiterbehandlung außerhalb Intensivstation.**
 
@@ -85,31 +77,9 @@ Nele zeigte auf den Verlauf.
 
 „Druck hat sich gebessert. Er reagiert auf die Therapie. Klinisch wirkt er im Moment deutlich stabiler als vorhin.“
 
-„Und das Laktat?“
+Eva fragte nach dem Laktat, seiner Tendenz und der aktuellen Vasopressorunterstützung. Das Laktat war noch hoch; für eine Richtung war es zu früh. Nele nannte die laufende Unterstützung.
 
-„Ist noch hoch.“
-
-„Tendenz?“
-
-„Noch nicht gut genug für eine Aussage.“
-
-„Vasopressor?“
-
-Nele nannte die aktuelle Unterstützung.
-
-Eva sah auf die Zeitpunkte.
-
-„Wann hast du zuletzt selbst untersucht?“
-
-„Vor zwölf Minuten.“
-
-„Neurologisch?“
-
-„Wach. Orientiert. Spricht normal.“
-
-„Diurese?“
-
-Nele beantwortete auch das.
+Eva ging die Zeitpunkte weiter durch. Nele hatte den Patienten vor zwölf Minuten selbst untersucht: wach, orientiert, normale Sprache. Auch zur Diurese hatte sie eine aktuelle Antwort.
 
 Eva nickte nicht sofort.
 
@@ -161,15 +131,9 @@ Nele stand daneben und verglich neue Werte mit dem Verlauf. Der Patient war wach
 
 Eva blieb an der Tür stehen.
 
-„Noch stabil?“
+„Noch stabil? Neues Laktat?“
 
-Nele drehte sich um.
-
-„Im Moment ja.“
-
-„Neues Laktat?“
-
-„Noch nicht da.“
+Nele drehte sich um. „Im Moment ja. Das Laktat ist noch nicht da.“
 
 Eva trat kurz ans Bett.
 

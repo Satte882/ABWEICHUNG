@@ -1,7 +1,7 @@
 # Prosa – S005
 
 scene_id: S005
-prose_status: final_rhythm_rework
+prose_status: external_major_dialogue_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -105,45 +105,23 @@ Eva scrollte zurück zum Override. Der lokale Verlauf blieb gut. Die Stabilisier
 
 „Wir reden nicht über alle denkbaren Folgen.“ Miriam deutete auf die Chronologie. „Hier geht es um eine konkrete knappe Ressource und zwei konkrete Patienten, die gleichzeitig um sie konkurrierten.“
 
-„KORA bewertet verbundweit.“
+„KORA bewertet verbundweit“, sagte Eva. „Aber KORA trägt den Patienten nicht.“
 
-„Genau.“
-
-„KORA trägt den Patienten nicht.“
-
-„Nein.“
-
-Miriam verschob die Ansicht erneut. Jetzt standen Evas klinische Notizen direkt neben den Daten aus Nord.
-
-„Aber vielleicht sieht es Dinge, die ein Mensch am Bett zwangsläufig nicht gleichzeitig sehen kann.“
+Miriam verschob die Ansicht erneut. Jetzt standen Evas klinische Notizen direkt neben den Daten aus Nord. „Nein. Aber vielleicht sieht es Dinge, die ein Mensch am Bett zwangsläufig nicht gleichzeitig sehen kann.“
 
 Eva verglich die Spalten. Auf ihrer Seite standen der erschöpfte Mann, das leiser werdende Atemgeräusch und die verzögerte Reaktion. Auf der anderen steigender Vasopressorbedarf, hohe Laktatwerte und wiederholte Übergangsmaßnahmen.
 
 Beides war real. Eva hatte nur eine Seite davon erlebt.
 
-„Wenn ich Nord gesehen hätte, hätte ich trotzdem entscheiden müssen.“
+„Wenn ich Nord gesehen hätte, hätte ich trotzdem entscheiden müssen“, sagte Eva. „Vielleicht genauso.“
 
-„Natürlich.“
-
-„Und vielleicht genauso.“
-
-„Vielleicht.“
-
-Miriam sagte es ohne Provokation. Gerade das störte Eva.
+Miriam nickte nur. „Vielleicht.“ Gerade die fehlende Provokation störte Eva.
 
 Sie stand auf und ging zum Fenster. Unten hielt ein Rettungswagen in der Zufahrt. Türen gingen auf, zwei Menschen schoben eine Liege hinein. Von hier oben sah jeder Fall gleich weit weg aus.
 
-„Ich will nicht, dass daraus eine Moralgeschichte wird.“
+„Ich will nicht, dass daraus eine Moralgeschichte wird. Lokaler Arzt egoistisch, System objektiv.“
 
-„Welche?“
-
-„Lokaler Arzt egoistisch, System objektiv.“
-
-„Das ist nicht meine Geschichte.“
-
-„Welche dann?“
-
-Miriam wandte sich wieder dem Bildschirm zu. „Dass du eine vernünftige Entscheidung getroffen haben kannst und sie trotzdem einen Preis hatte, den du in dem Moment kaum sehen konntest.“
+Miriam wandte sich wieder dem Bildschirm zu. „Das ist nicht meine Geschichte. Meine ist: Du kannst eine vernünftige Entscheidung treffen und trotzdem einen Preis erzeugen, den du in dem Moment kaum sehen kannst.“
 
 Eva blieb am Fenster.
 

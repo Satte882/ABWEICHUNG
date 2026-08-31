@@ -911,45 +911,23 @@ Eva scrollte zurück zum Override. Der lokale Verlauf blieb gut. Die Stabilisier
 
 „Wir reden nicht über alle denkbaren Folgen.“ Miriam deutete auf die Chronologie. „Hier geht es um eine konkrete knappe Ressource und zwei konkrete Patienten, die gleichzeitig um sie konkurrierten.“
 
-„KORA bewertet verbundweit.“
+„KORA bewertet verbundweit“, sagte Eva. „Aber KORA trägt den Patienten nicht.“
 
-„Genau.“
-
-„KORA trägt den Patienten nicht.“
-
-„Nein.“
-
-Miriam verschob die Ansicht erneut. Jetzt standen Evas klinische Notizen direkt neben den Daten aus Nord.
-
-„Aber vielleicht sieht es Dinge, die ein Mensch am Bett zwangsläufig nicht gleichzeitig sehen kann.“
+Miriam verschob die Ansicht erneut. Jetzt standen Evas klinische Notizen direkt neben den Daten aus Nord. „Nein. Aber vielleicht sieht es Dinge, die ein Mensch am Bett zwangsläufig nicht gleichzeitig sehen kann.“
 
 Eva verglich die Spalten. Auf ihrer Seite standen der erschöpfte Mann, das leiser werdende Atemgeräusch und die verzögerte Reaktion. Auf der anderen steigender Vasopressorbedarf, hohe Laktatwerte und wiederholte Übergangsmaßnahmen.
 
 Beides war real. Eva hatte nur eine Seite davon erlebt.
 
-„Wenn ich Nord gesehen hätte, hätte ich trotzdem entscheiden müssen.“
+„Wenn ich Nord gesehen hätte, hätte ich trotzdem entscheiden müssen“, sagte Eva. „Vielleicht genauso.“
 
-„Natürlich.“
-
-„Und vielleicht genauso.“
-
-„Vielleicht.“
-
-Miriam sagte es ohne Provokation. Gerade das störte Eva.
+Miriam nickte nur. „Vielleicht.“ Gerade die fehlende Provokation störte Eva.
 
 Sie stand auf und ging zum Fenster. Unten hielt ein Rettungswagen in der Zufahrt. Türen gingen auf, zwei Menschen schoben eine Liege hinein. Von hier oben sah jeder Fall gleich weit weg aus.
 
-„Ich will nicht, dass daraus eine Moralgeschichte wird.“
+„Ich will nicht, dass daraus eine Moralgeschichte wird. Lokaler Arzt egoistisch, System objektiv.“
 
-„Welche?“
-
-„Lokaler Arzt egoistisch, System objektiv.“
-
-„Das ist nicht meine Geschichte.“
-
-„Welche dann?“
-
-Miriam wandte sich wieder dem Bildschirm zu. „Dass du eine vernünftige Entscheidung getroffen haben kannst und sie trotzdem einen Preis hatte, den du in dem Moment kaum sehen konntest.“
+Miriam wandte sich wieder dem Bildschirm zu. „Das ist nicht meine Geschichte. Meine ist: Du kannst eine vernünftige Entscheidung treffen und trotzdem einen Preis erzeugen, den du in dem Moment kaum sehen kannst.“
 
 Eva blieb am Fenster.
 
@@ -1027,17 +1005,9 @@ Eva sah zu ihr.
 
 Miriam hielt den Blick.
 
-„Er ist nach der Verzögerung gestorben.“
+„Er ist nach der Verzögerung gestorben“, sagte Eva. „Für mich klingt das wie dasselbe mit anderen Worten.“
 
-„Ja.“
-
-„Du sagst gerade dasselbe mit anderen Worten.“
-
-„Nein.“
-
-Miriam zog die Akte näher zu sich, nicht als Schutz, eher um den relevanten Abschnitt zwischen ihnen zu platzieren.
-
-„Wir können belegen, dass deine Ressourcenentscheidung seine definitive Intensivversorgung verzögert hat. Wir können nicht belegen, dass er bei früherer Aufnahme überlebt hätte.“
+Miriam zog die Akte näher zu sich, nicht als Schutz, eher um den relevanten Abschnitt zwischen ihnen zu platzieren. „Ist es nicht. Wir können belegen, dass deine Ressourcenentscheidung seine definitive Intensivversorgung verzögert hat. Wir können nicht belegen, dass er bei früherer Aufnahme überlebt hätte.“
 
 Eva lehnte sich zurück.
 
@@ -1063,13 +1033,9 @@ Sie scrollte zurück zu dem Zeitpunkt, an dem KORA Nord priorisiert hatte.
 
 „Dass sein erwarteter akuter Behandlungsnutzen zum Entscheidungszeitpunkt höher war. Das wussten wir bereits.“
 
-„Und wenn er sofort den Platz bekommen hätte?“
+„Und wenn er sofort den Platz bekommen hätte? Das System macht Prognosen.“
 
-„KORA berechnet uns keine alternative Vergangenheit.“
-
-„Das System macht Prognosen.“
-
-„Prospektiv. Nicht als Beweis für einen nicht eingetretenen Einzelfall.“
+Miriam schüttelte den Kopf. „Prospektiv. Es berechnet uns keine alternative Vergangenheit und beweist keinen nicht eingetretenen Einzelfall.“
 
 Eva kannte die Unterscheidung. In jeder anderen Besprechung hätte sie sie selbst verteidigt.
 
@@ -1137,13 +1103,9 @@ Miriam deutete auf den Entscheidungszeitpunkt.
 
 „Wir hatten keine Gewissheit. Wir hatten zwei Risiken, eine knappe Ressource und eine bessere Prognoseentscheidung von KORA. Du hast anders priorisiert. Dein Grund war klinisch nachvollziehbar. Die Folge für Nord war trotzdem real.“
 
-„Und wenn er so oder so gestorben wäre?“
+„Und wenn er so oder so gestorben wäre? Dann hätten wir eine Verzögerung ohne nachweisbaren zusätzlichen Todesschaden.“
 
-„Dann wäre die Verzögerung trotzdem passiert.“
-
-„Aber ohne Schaden.“
-
-„Ohne nachweisbaren zusätzlichen individuellen Todesschaden. Die Ressourcenfolge bliebe.“
+„Richtig“, sagte Miriam. „Die Ressourcenfolge bliebe.“
 
 Eva setzte sich wieder.
 
@@ -1793,17 +1755,9 @@ Keine Wunderkurve.
 
 Aber eine sichtbare Besserung.
 
-„KORA wollte hoch.“
+Eva deutete auf den Konflikteintrag. „KORA wollte hoch. High confidence.“
 
-„Ich weiß.“
-
-„High confidence.“
-
-„Auch das.“
-
-Eva sah auf den Override-Eintrag.
-
-Nele hatte ihn bereits selbst dokumentiert.
+„Ich weiß“, sagte Nele. Eva sah auf den Override-Eintrag. Nele hatte ihn bereits selbst dokumentiert.
 
 **Vorübergehende hämodynamische Stabilisierung. Klinisch aktuell ausreichend stabil für engmaschige Weiterbehandlung außerhalb Intensivstation.**
 
@@ -1827,31 +1781,9 @@ Nele zeigte auf den Verlauf.
 
 „Druck hat sich gebessert. Er reagiert auf die Therapie. Klinisch wirkt er im Moment deutlich stabiler als vorhin.“
 
-„Und das Laktat?“
+Eva fragte nach dem Laktat, seiner Tendenz und der aktuellen Vasopressorunterstützung. Das Laktat war noch hoch; für eine Richtung war es zu früh. Nele nannte die laufende Unterstützung.
 
-„Ist noch hoch.“
-
-„Tendenz?“
-
-„Noch nicht gut genug für eine Aussage.“
-
-„Vasopressor?“
-
-Nele nannte die aktuelle Unterstützung.
-
-Eva sah auf die Zeitpunkte.
-
-„Wann hast du zuletzt selbst untersucht?“
-
-„Vor zwölf Minuten.“
-
-„Neurologisch?“
-
-„Wach. Orientiert. Spricht normal.“
-
-„Diurese?“
-
-Nele beantwortete auch das.
+Eva ging die Zeitpunkte weiter durch. Nele hatte den Patienten vor zwölf Minuten selbst untersucht: wach, orientiert, normale Sprache. Auch zur Diurese hatte sie eine aktuelle Antwort.
 
 Eva nickte nicht sofort.
 
@@ -1903,15 +1835,9 @@ Nele stand daneben und verglich neue Werte mit dem Verlauf. Der Patient war wach
 
 Eva blieb an der Tür stehen.
 
-„Noch stabil?“
+„Noch stabil? Neues Laktat?“
 
-Nele drehte sich um.
-
-„Im Moment ja.“
-
-„Neues Laktat?“
-
-„Noch nicht da.“
+Nele drehte sich um. „Im Moment ja. Das Laktat ist noch nicht da.“
 
 Eva trat kurz ans Bett.
 
@@ -2035,15 +1961,7 @@ Eva sagte nichts.
 
 Nele trocknete die Hände ab.
 
-„KORA hat früher zur Intensiveskalation geraten.“
-
-„Ja.“
-
-„High confidence.“
-
-„Ja.“
-
-„Und ich habe gewartet.“
+Nele sah auf ihre Hände. „KORA hat früher zur Intensiveskalation geraten. High confidence. Und ich habe gewartet.“
 
 Eva trat einen Schritt in den Raum.
 
@@ -2129,37 +2047,17 @@ Nele presste die Lippen zusammen.
 
 Miriam öffnete die Entscheidungsansicht zum damaligen Zeitpunkt.
 
-„Was war dein Gegenbeleg?“
+„Sag mir deinen Gegenbeleg noch einmal vollständig“, sagte Miriam.
 
-Nele antwortete nicht sofort.
+Nele brauchte einen Moment. „Er hatte sich gebessert. Druck, Herzfrequenz, klinischer Eindruck.“
 
-„Er hatte sich gebessert.“
+Miriam ließ sie ausreden. „Die Stabilisierung hatte KORA. Was blieb ungünstig?“
 
-„Was genau hatte sich gebessert?“
+Nele sah auf die damaligen Werte. „Die Gesamtlage. Mehrere Risikosignale. Die Unsicherheit.“
 
-Nele nannte die Veränderungen.
+„Also kein relevanter Befund außerhalb der Systemdaten, keine Datenlücke und kein patientenspezifisches Therapieziel gegen die Eskalation?“
 
-„Und was blieb ungünstig?“
-
-Nele sah auf die damaligen Werte.
-
-„Die Gesamtlage. Mehrere Risikosignale. Die Unsicherheit.“
-
-„Hatte KORA die vorübergehende Stabilisierung?“
-
-„Ja.“
-
-„Gab es einen relevanten Befund, den KORA nicht hatte?“
-
-Nele schüttelte den Kopf.
-
-„Eine Datenlücke?“
-
-„Nein.“
-
-„Ein patientenspezifisches Therapieziel, das gegen die Eskalation sprach?“
-
-„Nein.“
+Nele schüttelte den Kopf. „Nein.“
 
 Miriam sagte nichts mehr. Die Stille war schlimmer als ein Vorwurf. Nele sah zu Eva. Nicht anklagend. Das war für Eva schwerer auszuhalten.
 
@@ -4099,19 +3997,9 @@ Ihr Finger lag auf der KORA-Zeile.
 
 **Priorität: Falkenried Nord.**
 
-„Das ist mein Vater.“
+Laura ließ den Finger auf der Zeile. „Das ist mein Vater. KORA hat gesagt, er soll den Platz bekommen. Mit hoher Sicherheit.“
 
-„Ja.“
-
-„Und KORA hat gesagt, er soll den Platz bekommen.“
-
-„Ja.“
-
-„Mit hoher Sicherheit.“
-
-Eva spürte den Impuls, sofort zu korrigieren. Sie ließ eine Sekunde vergehen.
-
-„Mit hoher Konfidenz.“
+Eva spürte den Impuls, sofort zu korrigieren. Sie ließ eine Sekunde vergehen. „Mit hoher Konfidenz.“
 
 Laura hob den Blick.
 
@@ -4131,15 +4019,7 @@ Eva legte die Hand von der Seite weg.
 
 Laura tippte mit dem Finger auf die Empfehlung.
 
-„Sie haben das gesehen.“
-
-„Ja.“
-
-„Bevor Sie entschieden haben.“
-
-„Ja.“
-
-„Sie wussten, dass das System meinen Vater priorisiert.“
+„Sie haben das gesehen, bevor Sie entschieden haben. Sie wussten, dass das System meinen Vater priorisiert.“
 
 „Ja.“
 
@@ -4305,15 +4185,7 @@ Eva ging die Minuten noch einmal durch.
 
 Laura stellte das Glas ab.
 
-„Bei Ihrem Patienten kannten Sie das Gesicht.“
-
-„Ja.“
-
-„Sie wussten, wie er atmet.“
-
-„Ja.“
-
-„Sie konnten ihn anfassen.“
+„Bei Ihrem Patienten kannten Sie das Gesicht. Sie wussten, wie er atmet. Sie konnten ihn anfassen.“
 
 Eva spürte die Erinnerung an die feuchte Haut unter ihrer Hand, bevor sie antwortete.
 
@@ -7273,13 +7145,9 @@ Diesmal wartete Miriam.
 
 „Du konntest drücken. Aber der Weg war nicht neutral. Du wusstest, dass deine Entscheidung markiert und geprüft wird.“
 
-„Also beeinflusst die Governance.“
+„Also beeinflusst die Governance. Dann ist die Freiheit nicht dieselbe wie vorher.“
 
-„Natürlich.“
-
-„Dann ist die Freiheit nicht dieselbe wie vorher.“
-
-„Nein. Das habe ich nie behauptet.“
+Miriam nickte. „Natürlich beeinflusst sie. Und nein, die Freiheit ist nicht dieselbe. Das habe ich nie behauptet.“
 
 „Institutionell klingt es oft so.“
 
@@ -7289,13 +7157,9 @@ Eva musste kurz lächeln. Es verschwand schnell.
 
 Miriam nahm den Bericht wieder an sich. „Die Frage ist nicht, ob Governance Verhalten beeinflusst. Das tut sie. Die Frage ist, ob dieser Einfluss legitim, sichtbar und korrigierbar ist.“
 
-„Und wer entscheidet das?“
+„Und wer entscheidet, ob dieser Einfluss legitim ist?“
 
-„Wir.“
-
-„Das ist keine beruhigende Antwort.“
-
-„Sollte es auch nicht sein.“
+„Wir“, sagte Miriam. „Und nein, das ist keine beruhigende Antwort. Sollte es auch nicht sein.“
 
 Für einen Moment war der Raum still. Eva betrachtete wieder die beiden Ergebniszeilen. Nord lebte, Zentral nicht. Sie hätte gern eine Ordnung gehabt, in der daraus eine eindeutige Lehre folgte. Die gab es nicht.
 

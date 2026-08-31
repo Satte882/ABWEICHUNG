@@ -1,7 +1,7 @@
 # Prosa – S039
 
 scene_id: S039
-prose_status: final_rhythm_rework
+prose_status: external_major_dialogue_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -99,13 +99,9 @@ Diesmal wartete Miriam.
 
 „Du konntest drücken. Aber der Weg war nicht neutral. Du wusstest, dass deine Entscheidung markiert und geprüft wird.“
 
-„Also beeinflusst die Governance.“
+„Also beeinflusst die Governance. Dann ist die Freiheit nicht dieselbe wie vorher.“
 
-„Natürlich.“
-
-„Dann ist die Freiheit nicht dieselbe wie vorher.“
-
-„Nein. Das habe ich nie behauptet.“
+Miriam nickte. „Natürlich beeinflusst sie. Und nein, die Freiheit ist nicht dieselbe. Das habe ich nie behauptet.“
 
 „Institutionell klingt es oft so.“
 
@@ -115,13 +111,9 @@ Eva musste kurz lächeln. Es verschwand schnell.
 
 Miriam nahm den Bericht wieder an sich. „Die Frage ist nicht, ob Governance Verhalten beeinflusst. Das tut sie. Die Frage ist, ob dieser Einfluss legitim, sichtbar und korrigierbar ist.“
 
-„Und wer entscheidet das?“
+„Und wer entscheidet, ob dieser Einfluss legitim ist?“
 
-„Wir.“
-
-„Das ist keine beruhigende Antwort.“
-
-„Sollte es auch nicht sein.“
+„Wir“, sagte Miriam. „Und nein, das ist keine beruhigende Antwort. Sollte es auch nicht sein.“
 
 Für einen Moment war der Raum still. Eva betrachtete wieder die beiden Ergebniszeilen. Nord lebte, Zentral nicht. Sie hätte gern eine Ordnung gehabt, in der daraus eine eindeutige Lehre folgte. Die gab es nicht.
 
