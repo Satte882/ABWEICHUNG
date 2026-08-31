@@ -1,7 +1,7 @@
 # Prosa – S040
 
 scene_id: S040
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -9,31 +9,19 @@ source_beats: `BEATS.md`
 
 Einige Tage später stand eine junge Ärztin in Evas Tür.
 
-Eva kannte sie aus zwei gemeinsamen Diensten. Gründlich. Schnell. Noch in dem Stadium, in dem jede schwierige Entscheidung ein wenig zu deutlich im Gesicht stand.
+Eva kannte sie aus zwei gemeinsamen Diensten: gründlich, schnell und noch in dem Stadium, in dem jede schwierige Entscheidung ein wenig zu deutlich im Gesicht stand.
 
 „Hast du kurz?“
 
-Eva sah auf die Uhr.
-
-„Wenn es wirklich kurz ist.“
+Eva sah auf die Uhr. „Wenn es wirklich kurz ist.“
 
 Die Ärztin kam herein und hielt ein Tablet in beiden Händen.
 
 „Ich will bei einem Fall von KORA abweichen.“
 
-Eva streckte die Hand aus.
+Eva streckte die Hand aus. Das Tablet wechselte zu ihr.
 
-Das Tablet wechselte zu ihr.
-
-Kein roter Netzwerkkonflikt.
-
-Keine Intensivkapazität zwischen zwei Standorten.
-
-Ein alltäglicherer klinischer Fall.
-
-Gerade deshalb blieb Eva aufmerksam.
-
-Die meisten Entscheidungen kamen nicht mit einem Alarmton.
+Es gab keinen roten Netzwerkkonflikt und keine Intensivkapazität, um die zwei Standorte konkurrierten. Der Fall war alltäglicher. Gerade deshalb blieb Eva aufmerksam; die meisten Entscheidungen kamen ohne Alarmton.
 
 Auf dem Flur wurde ein Wagen vorbeigeschoben. Jemand rief nach einer Blutabnahme. Ein Telefon klingelte zweimal und verstummte.
 
@@ -43,99 +31,43 @@ Eva öffnete die Empfehlung.
 
 „Hoch.“
 
-Sie scrollte durch die Einflussfaktoren.
-
-Der Patient war seit dem Morgen in Behandlung. Die bisherigen Maßnahmen waren dokumentiert. Verlauf und aktuelle Befunde standen in der Ansicht. Nichts daran wirkte wie ein Fall, der auf den ersten Blick nach einem Systemfehler schrie.
+Sie scrollte durch die Einflussfaktoren. Der Patient war seit dem Morgen in Behandlung, die bisherigen Maßnahmen waren dokumentiert, Verlauf und aktuelle Befunde standen in der Ansicht. Nichts deutete auf den ersten Blick auf einen Systemfehler.
 
 Die jüngere Ärztin trat näher an den Schreibtisch.
 
 „Er wirkt am Bett anders als hier.“
 
-Eva hob den Blick.
-
-„Anders wie?“
+Eva hob den Blick. „Anders wie?“
 
 „Stabiler. Ich glaube, dass die nächste Eskalation zu früh ist.“
 
-Eva sah wieder auf das Tablet.
+Eva blickte wieder auf das Tablet. Nicht der Fall kam ihr bekannt vor, die Formulierung war es: *Er wirkt anders.*
 
-Die Formulierung war vertraut.
+Früher hätte sie vielleicht sofort nach der Untersuchung gefragt, nach Atemarbeit, Haut, Bewusstsein, nach dem kleinen klinischen Detail, das in einer Kurve nicht auftauchte. Vielleicht hätte sie erklärt, dass Erfahrung am Bett nicht durch ein Modell ersetzt werde. Oder sie hätte auf die hohe Konfidenz verwiesen und daran erinnert, wofür KORA gebaut worden war.
 
-Nicht der Fall.
-
-Der Satz.
-
-*Er wirkt anders.*
-
-Früher hätte Eva an dieser Stelle vielleicht sofort nach der Untersuchung gefragt. Nach Atemarbeit, Haut, Bewusstsein, nach dem kleinen klinischen Detail, das in einer Kurve nicht auftauchte.
-
-Vielleicht hätte sie gesagt, dass Erfahrung am Bett nicht durch ein Modell ersetzt werde.
-
-Vielleicht hätte sie umgekehrt auf die hohe Konfidenz gezeigt und erklärt, dass KORA genau für solche Situationen gebaut worden war.
-
-Keiner dieser Sätze kam zuerst.
+Diesmal begann sie woanders.
 
 „Was hast du neu untersucht?“
 
-Die Ärztin nannte zwei Befunde.
+Die Ärztin nannte zwei Befunde. Eva suchte sie in der Ansicht. Einer war bereits dokumentiert, der andere stand in einem neuen Eintrag von vor wenigen Minuten. KORA hatte beide berücksichtigt.
 
-Eva suchte sie in der Ansicht.
+Die Ärztin folgte ihrem Blick. „Ich weiß.“
 
-Einer war bereits dokumentiert.
-
-Der andere stand in einem neuen Eintrag, wenige Minuten alt.
-
-KORA hatte ihn übernommen.
-
-Die Ärztin sah, wohin Eva blickte.
-
-„Ich weiß.“
-
-„Gut.“
-
-Eva scrollte weiter.
-
-„Patientenwille? Therapieziel? Irgendetwas, das die Empfehlung als Entscheidungswert nicht abbildet?“
+„Gut. Patientenwille? Therapieziel? Irgendetwas, das die Empfehlung als Entscheidungswert nicht abbildet?“
 
 „Nicht dass ich weiß.“
 
-Die Ärztin begann bereits wieder zu erklären.
+Die Ärztin setzte schon wieder an. „Ich weiß, dass die Empfehlung stark ist, aber ich habe bei ihm das Gefühl, dass –“
 
-„Ich weiß, dass die Empfehlung stark ist, aber ich habe bei ihm das Gefühl, dass—“
+Eva hob einen Finger, und die Ärztin verstummte.
 
-Eva hob einen Finger.
+Gefühle waren nicht verboten, und KORA hatte nicht das letzte Wort. Eva suchte nur nach der Stelle, an der Fallwirklichkeit und Modell tatsächlich auseinandergehen könnten: ein Befund, eine Entwicklung, eine Information, die mehr beschrieb als die Überzeugung der Person, die gerade entscheiden wollte.
 
-Die Ärztin stoppte.
+Auf dem Flur öffnete sich eine Tür. Die Ärztin wartete.
 
-Nicht weil Gefühle verboten waren.
+Eva musste weder Nord noch den Mann aus ihrer Notaufnahme aufrufen. Die Erinnerung brauchte keinen eigenen Auftritt mehr, um etwas verändert zu haben.
 
-Nicht weil KORA das letzte Wort hatte.
-
-Eva legte das Tablet nicht weg.
-
-Sie suchte nach der Stelle, an der Fallwirklichkeit und Modell auseinandergehen könnten.
-
-Ein Befund.
-
-Eine Entwicklung.
-
-Eine Information.
-
-Etwas, das nicht nur die Überzeugung der Person beschrieb, die gerade entscheiden wollte.
-
-Auf dem Flur öffnete sich eine Tür.
-
-Die Ärztin wartete.
-
-Eva dachte nicht an Nord.
-
-Nicht bewusst.
-
-Auch nicht an den Mann, der in ihrer Notaufnahme gestorben war.
-
-Die Erinnerung musste nicht jedes Mal in den Raum gestellt werden, um etwas verändert zu haben.
-
-Eva sah vom Tablet auf.
+Sie sah vom Tablet auf.
 
 „Was sieht KORA nicht?“
 
