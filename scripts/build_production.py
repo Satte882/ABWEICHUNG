@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build deterministic production artifacts from the G4-approved manuscript commit.
+"""Build deterministic production artifacts from a fixed manuscript commit.
 
 The canonical manuscript remains the distributed PROSA.md set at the supplied source ref.
 This script derives a consolidated Markdown manuscript and a standalone HTML reading/print artifact.
@@ -111,6 +111,11 @@ def main() -> None:
         raise SystemExit(f"hard prose guard failed: found {len(forbidden)} occurrence(s) of 'sondern'")
 
     word_count = len(WORD_RE.findall(full_text))
+    scene_word_counts = {
+        f"S{number:03d}": len(WORD_RE.findall(body))
+        for number, _, body in scenes
+    }
+
     out_dir = Path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -165,6 +170,7 @@ strong {{ font-weight: 600; }}
         "scene_count": len(scenes),
         "scene_ids": [f"S{number:03d}" for number, _, _ in scenes],
         "word_count": word_count,
+        "scene_word_counts": scene_word_counts,
         "hard_guard_sondern_count": 0,
         "source_paths": [path for _, path, _ in scenes],
         "artifacts": {
