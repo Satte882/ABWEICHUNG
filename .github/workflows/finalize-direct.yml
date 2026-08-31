@@ -36,19 +36,19 @@ jobs:
           fc-cache -f
           fc-match Garamond
 
-      - name: Rebuild fixed external-major candidate
+      - name: Rebuild fixed external-v2 candidate
         shell: bash
         run: |
           set -euo pipefail
           python scripts/build_production.py \
-            --source-ref 7b476fe63e933592d36e9ab9a385a01187de60d5 \
+            --source-ref 45605eb4b95d225a0dfc4b59297aa8f954814b20 \
             --out-dir /tmp/abweichung-g4
           python - <<'PY'
           import json
           info = json.load(open('/tmp/abweichung-g4/BUILD_INFO.json'))
           assert info['scene_count'] == 40, info['scene_count']
           assert info['hard_guard_sondern_count'] == 0
-          assert 37000 <= info['word_count'] <= 38500, info['word_count']
+          assert 37500 <= info['word_count'] <= 38500, info['word_count']
           print(f"source validation OK: scenes={info['scene_count']}, words={info['word_count']}")
           PY
 
@@ -147,6 +147,6 @@ jobs:
             echo 'No final-file changes to commit.'
             exit 0
           fi
-          git commit -m 'production: publish external-major rework candidate'
+          git commit -m 'production: publish final external-v2 manuscript'
           git pull --rebase origin main
           git push origin HEAD:main
