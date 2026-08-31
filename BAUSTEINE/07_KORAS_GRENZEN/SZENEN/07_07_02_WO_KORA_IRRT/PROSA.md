@@ -1,208 +1,184 @@
 # Prosa – S015
 
 scene_id: S015
-prose_status: final_rhythm_rework
+prose_status: external_major_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Jan begann diesmal mit einem Fehler.
+Jan hatte sechs Fallkarten auf den Tisch gelegt.
 
-„Hier lag KORA daneben.“
+Keine Folien.
 
-Eva sah auf den Bildschirm.
+Eva blieb in der Tür des kleinen Validierungsraums stehen. Durch die Scheibe dahinter war der Flur der Diagnostik zu sehen. Menschen gingen vorbei, Monitore wechselten, irgendwo wurde ein Wagen gegen eine Türzarge gesetzt.
 
-Kein Vorspann. Keine große Gesamtzahl. Nur ein einzelner Fall.
+„Du wolltest die Fehler zuerst“, sagte Jan.
 
-KORA hatte mit niedriger Konfidenz eine Eskalation empfohlen. Der Arzt hatte nach erneuter Untersuchung und einem konkreten Befund anders entschieden. Der spätere Verlauf hatte die Abweichung gestützt.
+„Ich wollte sehen, ob ich sie erkenne, bevor du mir die Antwort gibst.“
 
-Jan öffnete den Entscheidungszeitpunkt, dann den Verlauf danach.
+Er schob ihr die Karten hin.
 
-„Welche Information hatte der Arzt?“ fragte Eva.
+Auf jeder standen nur die Informationen, die zum Entscheidungszeitpunkt verfügbar gewesen waren. KORA-Empfehlung, Konfidenz, klinische Daten, Entscheidung des Teams. Der spätere Verlauf war abgedeckt.
 
-„Keine geheime.“
+Eva nahm die erste.
 
-„Also alles auch im System?“
+Niedrige Konfidenz. KORA hatte eine Eskalation empfohlen. Ein Arzt hatte nach erneuter Untersuchung abgewichen und einen konkreten Befund dokumentiert.
 
-„Die entscheidenden Daten, ja. Die Lage war einfach unsicher.“
+Eva legte die Karte links.
 
-Jan zeigte die Konfidenzmarkierung.
+Die zweite war schwieriger. Ebenfalls niedrige Konfidenz, weniger klarer Gegenbeleg, ein Verlauf, der mehrere Möglichkeiten offenließ.
 
-Gelb.
+Sie legte sie in die Mitte.
 
-„KORA hat selbst signalisiert, dass die Prognosebreite groß ist.“
+Bei der dritten blieb sie länger hängen.
 
-Eva lehnte sich zurück.
+„Hier würde ich KORA widersprechen.“
 
-„Gut.“
+Jan hob nicht einmal den Kopf von seinem Laptop. „Dann leg sie dahin.“
 
-Miriam sah zu ihr. „Gut, dass KORA falsch lag?“
+Links.
 
-„Gut, dass wir mit einem Fall anfangen, in dem die Fehlbarkeit nicht theoretisch ist.“
+Erst als Eva alle drei sortiert hatte, zog Jan die Abdeckstreifen ab.
 
-Jan wechselte zum zweiten Beispiel.
+Beim ersten Fall hatte der spätere Verlauf die menschliche Abweichung gestützt. Beim zweiten blieb die Sache offen. Beim dritten hatte KORA schlechter gelegen als der Arzt.
 
-Wieder niedrige Konfidenz. Wieder ein Override. Diesmal war der spätere Vorteil der menschlichen Entscheidung weniger eindeutig. Beim dritten Fall war die Abweichung deutlich plausibler und der Verlauf passte dazu.
+Eva sah Jan an.
 
-Jan ließ die Fälle nebeneinander stehen.
+„Also.“
 
-„Wenn man nur Beispiele zeigt“, sagte er, „kann ich euch in beide Richtungen überzeugen. Deshalb jetzt die Gruppen.“
+„Also nichts Allgemeines.“
 
-Er blendete die Auswertung ein.
+„Drei Fälle, drei verschiedene Gründe.“
 
-Die Daten waren so aufgeteilt, wie Eva es verlangt hatte. Entscheidungstyp. Konfidenz. Fallmix. Unsicherheit.
+„Genau.“
 
-Keine große Zahl in der Mitte.
+Jan drehte seinen Laptop noch nicht zu ihr. „Wenn ich dir zehn hübsche Beispiele gebe, kann ich aus KORA einen Idioten machen. Mit zehn anderen mache ich aus Ärzten ein Sicherheitsrisiko. Beides wäre bequem und beides wäre schlechte Arbeit.“
 
-Bei niedriger Konfidenz war das Bild unruhig.
+Das klang mehr nach Jan als jede seiner bisherigen Folien.
 
-In einigen Entscheidungsklassen lagen menschliche Abweichungen mindestens gleichauf. In anderen schnitten sie besser ab. Bei wieder anderen war die Gruppe zu klein oder zu heterogen, um eine belastbare Aussage zu ziehen.
+Eva nahm die drei Karten erneut. Gemeinsam war ihnen nur die Unsicherheit. KORA hatte sie selbst markiert.
 
-Jan zeigte nicht nur die Richtung, auch die Streuung.
+„Low confidence bleibt offen.“
 
-„Daraus würde ich keinen allgemeinen Vorrang ableiten“, sagte er. „Weder für KORA noch für menschliche Overrides.“
+„Das ist die vernünftige Lesart.“
 
-Eva betrachtete die Kurven.
+Jan nahm die anderen drei Karten.
 
-Da war der Raum, den sie gesucht hatte.
+Auf der ersten stand hohe Konfidenz. Ressourcenentscheidung. Eva las die Daten zweimal und fand keinen fehlenden Befund. Die menschliche Abweichung hatte eine plausible Begründung, aber keinen neuen medizinischen Faktor.
 
-Keine Maschine, die immer recht hatte.
+Sie legte die Karte nicht sofort ab.
 
-Kein System, das jede menschliche Abweichung statistisch als Irrtum entlarvte.
+„Rechts?“, fragte Jan.
 
-Ein Bereich, in dem Unsicherheit wirklich Unsicherheit blieb.
+„Ich entscheide noch.“
 
-„Wie groß ist der Effekt der Overrides dort?“ fragte sie.
+„Dann entscheide.“
 
-Jan öffnete die Untergruppen.
+Eva legte sie rechts.
 
-Nicht spektakulär. Teilweise positiv. Teilweise neutral. Mit Grenzen.
+Bei der zweiten war kurz nach dem Systemstand ein neuer Befund entstanden. Die Empfehlung war auf einem Zustand gebaut, der wenige Minuten später nicht mehr vollständig galt.
 
-„Und wenn du nur die sauber dokumentierten Gegenbelege nimmst?“
+Diese Karte ging nach links.
 
-„Dann wird es tendenziell besser für die Abweichungen, aber die Gruppe wird deutlich kleiner.“
+Die dritte blieb wieder rechts.
 
-„Also keine Aussage, die du auf jeden Low-Confidence-Fall übertragen würdest.“
+Jan zog die Abdeckungen ab.
 
-„Nein.“
+Eva hatte die Richtung der drei Fälle getroffen. Nicht weil sie KORA besser verstand als vorher. Die Gründe waren konkreter geworden.
 
-Eva nickte.
+Neuer Befund.
 
-Das war wichtig.
+Geänderter Zustand.
 
-Sie wollte keinen neuen Automatismus, nur in die andere Richtung.
+Oder eben kein solcher Unterschied.
 
-Miriam sagte bisher nichts. Jan wechselte zu high confidence. Die Kurven lagen weiter auseinander.
+Jan schob die Karten zusammen.
 
-Eva spürte die Veränderung, bevor Jan etwas erklärte.
+„Jetzt die Gruppen.“
 
-Das Bild war ruhiger. Nicht perfekt. Deutlich.
+Er öffnete die Auswertung.
 
-Jan ging zuerst durch die Kontrollen, als wollte er verhindern, dass jemand aus der Grafik schneller eine Wahrheit machte, als die Daten hergaben. Fallmix berücksichtigt. Entscheidungstypen getrennt. Unvollständige Datensätze separat. Standorte geprüft. Keine einzelne große Teilgruppe, die das Ergebnis allein trug.
+Keine Überschrift, die schon verriet, was man denken sollte. Entscheidungstypen, Konfidenz, Fallmix, Unsicherheitsbereiche.
 
-In den relevanten Ressourcen- und Eskalationsklassen blieb die Asymmetrie zugunsten KORA bestehen.
+Bei niedriger Konfidenz blieb das Bild unruhig. Einige menschliche Abweichungen lagen gleichauf, einige besser, andere schlechter. Mehrere Gruppen waren zu klein für eine robuste Aussage.
 
-Eva ging näher an den Bildschirm.
+Eva erkannte ihre drei Karten darin wieder, ohne dass eine von ihnen die Kurve erklären konnte.
 
-„Wie viel Restfehler bleibt?“
+Dann wechselte Jan zu high confidence.
 
-Jan öffnete Fehlerraten und Unsicherheitsbereiche.
+Die Abstände wurden größer.
 
-„Genug, dass ich niemals behaupten würde, der einzelne Patient sei damit entschieden.“
+Nicht überall. Nicht perfekt. Aber in den relevanten Ressourcen- und Eskalationsklassen stabil genug, dass Eva nicht mehr auf einen einzelnen Gegenfall zeigen konnte und damit die ganze Gruppe entwertete.
 
-Er zeigte auf die Kalibrierung.
+Sie trat näher an den Bildschirm.
 
-„Hohe Konfidenz ist keine individuelle Zukunft. Es bedeutet, dass KORA in dieser Gruppe deutlich besser kalibriert ist und die Empfehlung häufiger trägt.“
+Jan sprach weiter, bevor sie fragen konnte.
 
-„Also kann ich auch hier recht haben.“
+„Fallmix ist berücksichtigt. Unvollständige Datensätze laufen separat. Standorte habe ich geprüft. Keine große Untergruppe trägt das Ergebnis allein. Und bevor du den Satz sagst: Hohe Konfidenz ist keine individuelle Zukunft.“
 
-„Natürlich.“
+Eva sah zu ihm.
 
-„Wie oft?“
+„Den Satz wollte ich tatsächlich sagen.“
 
-Jan nannte ihr die Größenordnung in der Auswertung, ohne daraus ein persönliches Risiko für den nächsten Fall zu machen.
+„Deshalb sage ich ihn zuerst. Wenn Miriam daraus irgendwann macht: KORA weiß, was mit diesem Patienten passieren wird, nehme ich meinen Namen von der Auswertung.“
 
-Eva sah wieder auf die Kurven. KORA konnte irren. Der Satz blieb wahr.
+Eva musste kurz lächeln.
 
-Er war nur nicht mehr stark genug, um jede Abweichung gleich zu schützen.
+„Mutig.“
 
-Sie strich mit dem Finger in der Luft über die niedrige Konfidenzgruppe.
+„Methodisch.“
 
-„Hier brauche ich Spielraum.“
+Er zeigte auf die Kalibrierung. „Die Gruppe ist deutlich. Der einzelne Fall bleibt ein einzelner Fall. Beides gleichzeitig auszuhalten ist offenbar schwieriger, als es klingt.“
 
-„Den bestreitet niemand“, sagte Miriam.
+Eva ging zurück zu den Karten.
 
-Eva deutete auf high confidence.
+Die eine High-Confidence-Karte mit dem neuen Befund lag links. KORA hatte dort nicht magisch versagt. Der Zustand hatte sich verändert.
 
-„Und hier ist mein pauschales Fehlbarkeitsargument zu schwach.“
-
-Jan antwortete nicht sofort. Er musste es nicht für sie formulieren. Eva setzte sich wieder.
-
-„Zeig mir die Fälle, in denen Menschen high confidence schlagen.“
-
-Jan hatte sie vorbereitet.
-
-Es gab welche.
-
-Ein konkreter neuer Befund, der kurz nach dem letzten Systemstand entstanden war. Eine besondere Konstellation, in der die dokumentierte Datenlage formal vollständig, klinisch aber bereits im Wandel gewesen war. Ein Fall, in dem die menschliche Abweichung im späteren Review besser getragen hatte.
-
-Eva las jeden davon. Sie suchte nach einer gemeinsamen Regel. Sie fand keine, die ihr gefiel. Es waren konkrete Gründe. Keine allgemeine Lizenz für Intuition.
-
-„Das ist der Unterschied“, sagte sie mehr zu sich selbst.
-
-Miriam fragte nicht nach.
-
-Eva zeigte auf einen der Fälle.
-
-„Wenn ich hier einen neuen Befund habe, ist die hohe Konfidenz weniger wichtig, weil der Entscheidungszustand sich verändert hat.“
-
-Jan nickte.
-
-„Dann muss KORA neu rechnen.“
-
-„Und wenn ich keinen neuen Befund habe?“
-
-„Dann bleibt die ursprüngliche Evidenz stärker.“
-
-Felix hätte an dieser Stelle gesagt, dass kein Modell klinische Erfahrung vollständig abbilden könne.
-
-Eva hätte ihm vor einigen Wochen zugestimmt und den Satz als Ende der Diskussion benutzt.
-
-Jetzt war er für sie nur noch der Anfang einer Frage.
-
-Welche konkrete Information trägt die Abweichung?
-
-Miriam schob die Unterlagen zu sich.
-
-„Was folgt für dich daraus?“
-
-Eva blieb vor den beiden Gruppen stehen.
-
-„Dass wir Low und High nicht mehr in derselben Sprache behandeln dürfen.“
-
-„Weiter.“
-
-„Dass KORA in High-Confidence-Fällen immer noch falsch liegen kann.“
+„Wenn ich etwas Neues habe, muss das System neu rechnen.“
 
 „Ja.“
 
-„Und dass dieser Satz allein kein guter Grund ist, die Empfehlung zu überschreiben.“
+„Wenn ich nichts Neues habe, bleibt mein Einwand trotzdem möglich.“
 
-Miriam nickte.
+Jan nickte. „Möglich. Nur wird die Ausgangslage ungemütlicher. Du widersprichst dann einer Empfehlung aus einem Bereich, in dem das System deutlich besser liegt als die menschlichen Abweichungen im Mittel.“
 
-Eva mochte es nicht, den Satz auszusprechen.
+Eva nahm die Karte mit der unbegründeteren Abweichung in die Hand.
 
-Gerade deshalb wusste sie, dass er wichtig war.
+Früher hätte der Satz gereicht: Jedes Modell kann irren.
 
-Ihr Argument war nicht verschwunden.
+Er war weiterhin wahr.
 
-Es hatte Grenzen bekommen.
+Nur trug er nicht mehr genug Gewicht.
 
-In der niedrigen Konfidenz blieb echte Offenheit. In der hohen Konfidenz brauchte die Abweichung mehr als die allgemeine Erinnerung daran, dass jedes System Fehler machte.
+„Low und High brauchen unterschiedliche Regeln“, sagte sie.
 
-Der menschliche Spielraum war noch da.
+Jan schloss die Auswertung.
 
-Er war nur ungleich verteilt.
+„Das ist eine Governance-Frage. Nicht meine.“
 
-Und damit schwieriger zu verteidigen als vorher.
+„Praktisch.“
+
+„Sehr.“
+
+Er stapelte die Karten. Eva hielt die mit dem neuen Befund noch fest.
+
+„Die nehme ich.“
+
+„Warum?“
+
+„Weil sie mich daran erinnert, dass high confidence keine Religion ist.“
+
+Jan nahm die Karte mit der schwach begründeten Abweichung und reichte sie ihr dazu.
+
+„Dann nimm die auch.“
+
+Eva sah auf beide.
+
+„Damit du nicht vergisst, warum high confidence trotzdem etwas bedeutet.“
+
+Diesmal sagte Jan es ohne jede Ironie.
+
+Eva steckte beide Karten in ihre Mappe.
+
+Zum ersten Mal verließ sie eine Auswertung mit weniger Argumenten als vorher und mit einem klareren Bild.
