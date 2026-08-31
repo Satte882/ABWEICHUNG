@@ -4,50 +4,70 @@ status: COMPLETE
 prepared_date: 2026-08-31
 completed_date: 2026-08-31
 
-## Fixierte und freigegebene Stände
+## Final freigegebene Stände
 
-### G2 / G4 – finaler Manuskript-Snapshot
+### G2
 
-`45605ebb75481637aac87cd5f2da060acc0916cd`
+G2 bleibt auf dem zuvor human-freigegebenen Scene-/Beat-/Prose-Ready-Stand gültig, da der letzte Eingriff ausschließlich die Prosaoberfläche betraf und keine Story-, Scene-, Beat-, Figuren- oder Kausalitätsänderung einführte.
+
+Status: `APPROVED`
+
+### G4 – finaler Manuskript-Snapshot
+
+`1014deda39ae5c5503558fabd88bf8b519b56548`
 
 - 40 Szenen
-- 38.013 Wörter Szenen-Prosa
-- finaler externer-v2 Scene-Rework enthalten
-- Whole-Book-Regression PASS (`33419196424`)
+- 37.919 Wörter Szenen-Prosa
+- finaler chirurgischer Stil-Pass auf 13 Szenen / 55 Ersetzungen
+- Workflow `33422136131`: PASS
+- Stakkato-Runs 7 -> 3
+- kurze Negations-Runs 3 -> 2
+- Binary-/Negations-Kandidaten 18 -> 11
+- Explanation-Echo-Kandidaten 45 -> 23
 - `— = 0`
 - `sondern = 0`
-- Dialog-Pingpong-Runs = 26
 - Schluss = `Eva wartete.`
-- keine offenen bestätigten Blocker/Majors nach Rework
 
-Human-Gates:
+Finaler unabhängiger Stil-Retest:
 
-- `G2-APPROVE` – APPROVED
-- `G4-APPROVE` – APPROVED
+- Kapitel 8, 19, 34
+- style_alignment: HIGH
+- prose_naturalness: HIGH
+- ai_pattern_visibility: LOW
+- dialogue_naturalness: HIGH
+- thriller_effectiveness: HIGH
+- professional_style_readiness: READY
+- confirmed_systemic_majors: 0
+- final_style_recommendation: READY
 
 Review-/Evidenzkette:
 
-- `EXTERNAL_REVIEW_RESULT.md`
-- `EXTERNAL_REVIEW_ADJUDICATION.md`
-- `EXTERNAL_REVIEW_RESULT_V2.md`
-- `EXTERNAL_REVIEW_ADJUDICATION_V2.md`
-- `EXTERNAL_V2_REWORK.md`
-- `EXTERNAL_V2_FINAL_REGRESSION.md`
+- `FINAL_STYLE_POLISH_REPORT.md`
+- `FINAL_STYLE_POLISH_AUDIT_POST.md`
+- `EXTERNAL_STYLE_RETEST_TASK.md`
+- `EXTERNAL_STYLE_RETEST_RESULT.md`
+- `EXTERNAL_STYLE_RETEST_ADJUDICATION.md`
+
+Human-Gate:
+
+- `G4-APPROVE` – APPROVED
 
 ### G5 – finaler Produktions-Snapshot
 
-`d4606ba6f9dd33b6a69991d64c076aaed1691498`
+`268b580e3345d842eba5e3e0a30b5aed79db05bf`
 
-Produktionsworkflow `33419575920`: PASS.
+Produktionsworkflow `33422136131`: PASS.
 
 - `ABWEICHUNG_FINAL.md` im Repo-Root
 - `ABWEICHUNG_FINAL.docx` im Repo-Root
 - 40 Kapitelüberschriften
+- 37.919 Wörter Szenen-Prosa
 - Inhaltsverzeichnis materialisiert
 - 2 Dokumentsektionen
 - Buchformat 12,85 × 19,84 cm
-- 21.952 Soft-Hyphens
-- PDF-Render PASS, 334 Seiten
+- 21.937 Soft-Hyphens
+- PDF-Render PASS, 333 Seiten
+- letzter Satz `Eva wartete.`
 
 Human-Gate:
 
@@ -55,6 +75,8 @@ Human-Gate:
 
 ## Abschluss
 
-Die Human-Entscheidungen `G2-APPROVE · G4-APPROVE · G5-APPROVE` wurden am 2026-08-31 explizit erteilt und in `gates/G2.md`, `gates/G4.md` und `gates/G5.md` dokumentiert.
+Nach dem finalen externen Stil-Retest bestätigte der Nutzer die vorgeschlagene Adjudikation und die endgültige Schließung von G4/G5 mit `alles klar, mach das`.
 
-Der Gate-Pfad ist geschlossen. G5 ist final freigegeben.
+Damit sind G2, G4 und G5 geschlossen. Es bestehen keine offenen bestätigten Blocker, Majors oder rework-pflichtigen Stilfindings.
+
+**DoD erreicht.**
