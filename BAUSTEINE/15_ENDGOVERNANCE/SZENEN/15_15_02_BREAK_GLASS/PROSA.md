@@ -1,13 +1,13 @@
 # Prosa – S032
 
 scene_id: S032
-prose_status: final_rhythm_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Der Patient auf dem Bildschirm existierte nicht. Das machte die Entscheidung leichter. Nur nicht harmlos.
+Der Patient auf dem Bildschirm existierte nicht. Die Entscheidung hatte keine unmittelbaren Folgen, die Logik dahinter schon.
 
 Jan hatte den Testfall so gebaut, dass die neue Governance an ihrer engsten Stelle geprüft wurde.
 
@@ -107,7 +107,7 @@ Darunter das Begründungsfeld.
 
 Eva trug den für den Testfall vorgesehenen klinischen Grund ein.
 
-Dann bestätigte sie. Der Behandlungspfad wechselte sofort. Kein Ladesymbol. Kein weiterer Name. Kein zweiter Dialog. Die Abweichung war wirksam. Fast gleichzeitig erschien rechts ein neuer Eintrag.
+Dann bestätigte sie. Ohne Ladesymbol, weiteren Namen oder zweiten Dialog wechselte der Behandlungspfad sofort; die Abweichung war wirksam. Fast gleichzeitig erschien rechts ein neuer Eintrag.
 
 **Persönlicher Reviewfall erstellt.**
 
@@ -137,11 +137,7 @@ Eva sah auf ihren Namen im Reviewfenster.
 
 Sie klickte durch die gespeicherten Informationen.
 
-Kein anonymer Notfallmodus.
-
-Kein technisches Schlupfloch, in dem später niemand mehr wusste, dass die Entscheidung allein getroffen worden war.
-
-Auch keine nachträgliche Genehmigung, die so tat, als hätte der zweite Blick vorher stattgefunden.
+Der Notfallmodus war nicht anonym. Später würde sichtbar bleiben, dass Eva allein entschieden hatte; eine nachträgliche Genehmigung konnte daraus keinen vorherigen zweiten Blick machen.
 
 Das gefiel Eva besser, als sie erwartet hatte.
 
@@ -207,9 +203,7 @@ Wenn die reguläre Schutzstufe in einer akuten Lage nicht erreichbar war, konnte
 
 Aber der Weg trug die spätere Frage bereits in sich.
 
-Nicht als moralischen Kommentar.
-
-Als unvermeidbaren Datensatz.
+Die Frage würde als unvermeidbarer Datensatz zurückkehren, nicht als moralischer Kommentar.
 
 Warum war dein Grund stark genug, allein abzuweichen?
 

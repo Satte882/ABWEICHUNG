@@ -1,7 +1,7 @@
 # Prosa – S036
 
 scene_id: S036
-prose_status: final_rhythm_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -19,11 +19,11 @@ Die Pflegekraft stand am Bett. Eva hob die Hand.
 
 „Eine Sekunde.“
 
-Die Worte klangen falsch, sobald sie ausgesprochen waren. Es gab keine sichere Sekunde. Das war die Wahrheit. Die andere Wahrheit war, dass Zeitdruck jede Prüfung wie Zögern aussehen ließ.
+Die Worte klangen falsch, sobald sie ausgesprochen waren. Es gab keine sichere Sekunde; zugleich ließ Zeitdruck jede Prüfung wie Zögern aussehen.
 
 Eva kannte diesen Mechanismus. Im Notfall fühlte sich Nachdenken schnell wie Unterlassen an. Jede zusätzliche Frage konnte sich anfühlen, als nehme sie dem Patienten etwas weg. Sie sah auf den Break-glass. Der Weg war genau für solche Situationen gebaut worden.
 
-Akut. Keine zweite Person verfügbar oder keine Zustimmung. Der Arzt konnte handeln. Sofort. Eva hätte nur drücken müssen. Sie öffnete noch einmal die medizinische Gegenüberstellung. Nicht weil Nele schlecht geprüft hatte. Weil die Entscheidung jetzt wieder allein bei ihr lag.
+Für die Akutlage brauchte es keine zweite Person und keine vorherige Zustimmung. Der Arzt konnte sofort handeln. Eva hätte nur drücken müssen. Sie öffnete noch einmal die medizinische Gegenüberstellung. Nicht weil Nele schlecht geprüft hatte. Weil die Entscheidung jetzt wieder allein bei ihr lag.
 
 Links der lokale Patient. Schwere hypoxämische respiratorische Insuffizienz. Nichtinvasive Unterstützung ausgeschöpft. Erschöpfung. Verzögerte Reaktion. Rechts Nord. Septischer Schock. Zunehmender Vasopressorbedarf. Weitere Organdysfunktion drohend. KORA priorisierte Nord mit hoher Konfidenz. Eva öffnete die lokalen Einflussfaktoren. Sie suchte nicht nach einem Wort.
 
@@ -61,7 +61,7 @@ Sie las den Satz. Dann löschte sie ihn. Genau dieser Grund war geprüft worden.
 
 **Langjährige klinische Erfahrung spricht dafür, die sichtbare respiratorische Erschöpfung höher zu gewichten.**
 
-Eva hielt inne. Klinische Erfahrung. Höher gewichten. Das war wieder ein Prognosewiderspruch. Wenn ihre Erfahrung medizinisch etwas anderes sah, musste sie benennen, was. Sie konnte es nicht. Sie löschte auch diesen Satz. Hinter ihr sagte jemand: „Sättigung fällt.“
+Eva hielt inne. Klinische Erfahrung. Höher gewichten. Wieder widersprach sie damit KORAs Prognose. Wenn ihre Erfahrung medizinisch etwas anderes sah, musste sie benennen, was. Sie konnte es nicht. Sie löschte auch diesen Satz. Hinter ihr sagte jemand: „Sättigung fällt.“
 
 Eva drehte sich um. Der Wert sank. Die Pflegekraft korrigierte den Sitz der Maske. Der Patient reagierte kaum. Evas Körper wollte zum Bett. Ihre Hand blieb noch auf der Maus. Der Break-glass stand weiter offen.
 
@@ -81,9 +81,9 @@ Die Antwort wäre nicht schwierig zu formulieren.
 
 *Weil der Patient vor mir lag und ich ihn nicht verlieren wollte.*
 
-Eva schloss die Augen. Der Satz war wahr. Er reichte nicht. Das war der Unterschied.
+Eva schloss die Augen. Der Satz war wahr und reichte trotzdem nicht.
 
-Sie hatte keine Angst vor dem Review. Wenn sie einen tragfähigen Grund gehabt hätte, hätte sie gedrückt und später jeden Satz verteidigt. Die persönliche Markierung war nicht das Hindernis. Die Regel war nicht das Hindernis. Nele war nicht das Hindernis.
+Sie hatte keine Angst vor dem Review. Wenn sie einen tragfähigen Grund gehabt hätte, hätte sie gedrückt und später jeden Satz verteidigt. Weder die persönliche Markierung noch die Regel oder Nele hielten sie zurück.
 
 Eva selbst fand keinen Grund, der die Abweichung trug. Sie öffnete die Augen. Der Knopf war noch da. Niemand hatte ihn entfernt. Niemand hatte die Freiheit technisch geschlossen. Die Beweislast war nur bei ihr geblieben.
 
@@ -131,4 +131,4 @@ Auf der lokalen Seite wechselte der Status.
 
 Der Anästhesist begann mit dem Team den nächsten Schritt zu planen. Eva blieb eine Sekunde am Bildschirm. Der Knopf war bis zum letzten Moment da gewesen. Sie hatte ihn nicht benutzt.
 
-Niemand hatte ihr die Entscheidung abgenommen. Das machte die Entscheidung nicht leichter. Es machte sie nur vollständig zu ihrer.
+Niemand hatte ihr die Entscheidung abgenommen. Sie gehörte vollständig ihr.

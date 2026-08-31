@@ -1,7 +1,7 @@
 # Prosa – S003
 
 scene_id: S003
-prose_status: final_rhythm_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -43,7 +43,7 @@ Ein Arzt am anderen Ende des Tisches zeigte auf die KORA-Spalte.
 
 Eva nickte.
 
-Das war der unangenehme Teil des Reviews. Es gab keinen technischen Haken, den sie herausziehen konnte. Keine fehlende Eingabe. Keine verspätete Aktualisierung. KORA hatte die Verschlechterung ihres Patienten gesehen und trotzdem einen anderen Patienten priorisiert.
+Es gab keinen technischen Haken, den sie herausziehen konnte. Keine fehlende Eingabe. Keine verspätete Aktualisierung. KORA hatte die Verschlechterung ihres Patienten gesehen und trotzdem einen anderen Patienten priorisiert.
 
 „KORA hat die Daten nicht übersehen“, sagte Eva. „Ich habe dieselben Daten anders gewichtet, weil ich ihn vor mir hatte und die Erschöpfung für unmittelbar gefährlich hielt.“
 
@@ -107,9 +107,7 @@ Eva dachte nach.
 
 Die Frage blieb offen, was KORA beim anderen Patienten gesehen hatte. Im Review ging es heute um Evas Entscheidung. Die verbundweite Rekonstruktion war noch nicht Teil der Runde.
 
-Das machte den Fall einfacher.
-
-Eva bemerkte es nicht als Entlastung. Noch nicht.
+Die verbundweite Gegenrechnung fehlte noch. Eva bemerkte diese Begrenzung nicht als Entlastung. Noch nicht.
 
 Der Review ging weiter.
 
@@ -137,7 +135,7 @@ Eva schloss den Fall noch nicht.
 
 „Dass das System uns besser machen soll. Nicht dass wir aufhören zu entscheiden.“
 
-Eva sah sie einen Moment an. Das war fast ihr eigener Satz. Vielleicht hatte Nele ihn von ihr.
+Eva sah sie einen Moment an. Der Satz klang fast wie einer von ihr. Vielleicht hatte Nele ihn übernommen.
 
 „Du darfst aus diesem Fall nicht lernen, KORA zu ignorieren.“
 
@@ -171,7 +169,7 @@ Eva hielt inne.
 
 Nele sah wieder auf die Zeile.
 
-Das war wichtig. Eva wollte nicht in einer Medizin arbeiten, in der gute Ergebnisse jede Entscheidung heiligten und schlechte Ergebnisse jede Entscheidung rückwirkend falsch machten.
+Eva wollte nicht in einer Medizin arbeiten, in der gute Ergebnisse jede Entscheidung heiligten und schlechte Ergebnisse jede Entscheidung rückwirkend falsch machten.
 
 Verantwortung bedeutete für sie gerade, unter Unsicherheit entscheiden zu dürfen und später zu erklären, warum.
 
@@ -181,10 +179,6 @@ Der nächste erschien.
 
 Ein gewöhnlicherer Verlauf. KORA und Team auf derselben Linie. Empfehlung übernommen. Keine Diskussion. Keine rote Markierung im Reviewbogen.
 
-Die Runde brauchte dafür nur wenige Minuten.
-
-Das war der Normalfall.
-
-Eva bemerkte, wie schnell er wieder aus ihrem Kopf verschwand.
+Die Runde brauchte dafür nur wenige Minuten. Eva bemerkte, wie schnell dieser gewöhnliche Verlauf wieder aus ihrem Kopf verschwand.
 
 Der andere würde bleiben.

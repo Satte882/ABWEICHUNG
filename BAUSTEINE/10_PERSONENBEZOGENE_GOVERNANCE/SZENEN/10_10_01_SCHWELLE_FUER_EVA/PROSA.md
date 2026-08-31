@@ -1,7 +1,7 @@
 # Prosa – S020
 
 scene_id: S020
-prose_status: external_v2_scene_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -45,7 +45,7 @@ Eva hatte die Nachricht gesehen, aber nur als Eingang zwischen zwei Übergaben. 
 
 „Ich wusste, dass etwas kommt.“
 
-Das war genug für den Trainingsplatz.
+Für den Trainingsplatz ließ Eva es dabei.
 
 Sie ließ Nele den nächsten Fall übernehmen. Standardprofil. Dieselbe Ausgangslage, dieselbe KORA-Konfidenz. Die zusätzliche Freigabe erschien bei Nele tatsächlich später.
 
@@ -99,7 +99,7 @@ Eva hatte mit mehr Widerstand gerechnet. Fast hätte sie ihn gebraucht.
 
 Miriam sprach nicht wie jemand, der einen Sieg erklärte. Sie sprach wie jemand, der eine unangenehme Regel so eng wie möglich halten wollte.
 
-Das machte es für Eva schwerer.
+Gerade diese Sachlichkeit nahm Eva einen bequemen Gegner.
 
 „Schick mir die formale Begründung.“
 
@@ -155,19 +155,13 @@ Später las Eva die Begründung vollständig.
 
 Wiederholt ungünstige Bilanz bei high-confidence Ressourcen-/Eskalationsabweichungen. Ausreichende Fallzahl für eine zeitlich begrenzte personenbezogene Schwellenanpassung. Fallmix berücksichtigt. Begrenzung auf die betroffene kombinierte Entscheidungsklasse. Review nach festgelegtem Zeitraum. Anfechtungsmöglichkeit.
 
-Kein dramatischer Satz.
+Die Begründung enthielt weder ein Urteil über Evas ärztliche Kompetenz noch eine automatische Übertragung auf andere Klassen; Miriam hatte die Begrenzung ausdrücklich eingearbeitet.
 
-Keine Behauptung, Eva sei eine schlechte Ärztin.
-
-Keine automatische Übertragung auf andere Klassen, nachdem Miriam die Ergänzung eingearbeitet hatte.
-
-Gerade die Begrenzung machte die Veränderung präzise.
+Gerade dadurch wurde die Veränderung präzise.
 
 Am Ende des Tages kam Eva erneut am Trainingsplatz vorbei. Der Rechner war frei. Sie lud denselben Fall wie am Morgen.
 
-Nicht um die Regel zu testen. Sie wusste, dass sie funktionierte.
-
-Sie wollte sehen, ob der Hinweis noch dieselbe Wirkung hatte, wenn niemand danebenstand.
+Sie wusste, dass die Regel funktionierte. Sie wollte nur sehen, ob der Hinweis noch dieselbe Wirkung hatte, wenn niemand danebenstand.
 
 **Individuelle Zweitfreigabeschwelle aktiv – high-confidence Ressourcen-/Eskalationsklasse.**
 

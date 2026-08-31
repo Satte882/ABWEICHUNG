@@ -1,7 +1,7 @@
 # Prosa – S029
 
 scene_id: S029
-prose_status: external_major_dialogue_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -79,7 +79,7 @@ Klinischer Plan außerhalb Intensiv. Intervention. Vorübergehende Besserung. Fo
 
 Eva erkannte die Struktur, bevor sie den Namen sah.
 
-Felix. Sie öffnete einen Vergleichsfall. Der Patientenausgang war gut. Beim nächsten ebenfalls kein schwerer dokumentierter Schaden. Das war wichtig.
+Felix. Sie öffnete einen Vergleichsfall. Der Patientenausgang war gut. Beim nächsten ebenfalls kein schwerer dokumentierter Schaden.
 
 Der Mechanismus durfte nicht erst durch den schlechten Ausgang des aktuellen Falls problematisch werden.
 
@@ -99,9 +99,7 @@ Jan trat vom Bildschirm zurück.
 
 „Was wir sicher sagen können, ist enger. Zum rekonstruierbaren klinischen Entscheidungspunkt wäre die Einstufung in diesen Fällen high confidence gewesen. Damit hätte die Zweitfreigabe gegriffen. Der später dokumentierte Punkt lag nach einer realen Zustandsänderung unter der Schwelle. Dadurch wurde die Schutzstufe nicht ausgelöst.“
 
-Eva ließ die Formulierung stehen. Nicht: Felix hat manipuliert. Nicht: Felix hat den Schaden verursacht.
-
-Nur: Die Schutzstufe griff an der faktischen Weiche nicht.
+Eva ließ die Formulierung stehen. Sie belegte weder Manipulation noch Schuld am Patientenausgang; sicher war nur, dass die Schutzstufe an der faktischen Weiche nicht gegriffen hatte.
 
 Sie zeigte auf den aktuellen Schadensfall.
 
@@ -139,8 +137,6 @@ Miriam widersprach nicht weiter.
 
 Jan beendete den Präsentationsmodus. Der Raum wurde heller.
 
-Auf den Ausdrucken stand alles, was Eva für das Gespräch brauchte.
-
-Nicht Felix' Motivation. Nicht die Schuld am Patientenausgang. Nur der Mechanismus. Diesmal war ihr Misstrauen kein Gefühl mehr.
+Auf den Ausdrucken stand alles, was Eva für das Gespräch brauchte. Sie belegten den Mechanismus, nicht Felix' Motivation oder die Schuld am Patientenausgang. Diesmal war ihr Misstrauen kein Gefühl mehr.
 
 Die Absicht musste Felix selbst hinzufügen.

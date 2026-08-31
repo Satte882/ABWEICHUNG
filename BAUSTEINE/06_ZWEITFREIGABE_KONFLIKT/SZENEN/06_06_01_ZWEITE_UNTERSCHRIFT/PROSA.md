@@ -1,7 +1,7 @@
 # Prosa – S012
 
 scene_id: S012
-prose_status: external_major_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -27,7 +27,7 @@ Am Arbeitsplatz vor Raum zwölf blieb Eva stehen.
 
 „Zeig es mir.“
 
-Miriam öffnete auf dem Stationsrechner die Testansicht. Kein Foliensatz, keine Kennzahl. Vor ihnen lag Neles alter Fall in einer Trainingskopie, eingefroren am damaligen Entscheidungspunkt.
+Miriam öffnete auf dem Stationsrechner die Testansicht. Statt Foliensatz oder Kennzahl lag vor ihnen Neles alter Fall in einer Trainingskopie, eingefroren am damaligen Entscheidungspunkt.
 
 KORA: hohe Konfidenz. Eskalation empfohlen. Neles damalige Abweichungsbegründung stand darunter.
 
@@ -41,9 +41,7 @@ Eva las die Ansicht bis unten.
 
 Das System fragte nicht, ob sie sicher sei. Es verlangte jemanden.
 
-Der Unterschied war klein genug, um auf einem Bildschirm banal auszusehen.
-
-Auf Station war er es nicht.
+Auf dem Bildschirm war nur ein zusätzliches Feld erschienen. Auf Station bedeutete es einen weiteren Arzt zwischen Entscheidung und Handlung.
 
 „Und wenn ich nachts um drei niemanden bekomme?“
 
@@ -79,7 +77,7 @@ Felix deutete auf den Trainingsfall. „Nele war falsch. Das wissen wir im Rück
 
 Eva hörte ihm zu.
 
-Das war kein Reflex gegen Technik. Felix beschrieb den Preis ziemlich genau.
+Felix beschrieb den Preis der Regel ziemlich genau.
 
 Sie klickte den Nele-Fall noch einmal auf Anfang.
 
@@ -117,9 +115,7 @@ Eva kannte den Einwand. Er störte sie, weil er nicht falsch war.
 
 Sie drehte die Testansicht wieder zu sich. Im unteren Bereich stand der Status: **Zweitfreigabe ausstehend**.
 
-Ein einziger zusätzlicher Mensch zwischen Entscheidung und Handlung.
-
-Das war Reibung. Gewollte Reibung.
+Eva ließ den Status einen Moment stehen.
 
 „Der Pilot darf nicht daran gemessen werden, ob Ärzte KORA öfter folgen“, sagte Eva. „Wenn am Ende nur die Abweichungsquote sinkt, habt ihr nichts bewiesen.“
 
@@ -151,6 +147,4 @@ Neles Fall war wieder nur Daten, sauber geordnet, ohne die Minuten, die damals v
 
 Unter der Abweichung wartete jetzt ein zweiter Name.
 
-Eva mochte das nicht.
-
-Das reichte nicht mehr als Gegenargument.
+Eva mochte das nicht. Sie ließ die Trainingsansicht trotzdem unverändert und ging zurück auf Station.

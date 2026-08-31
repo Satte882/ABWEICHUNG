@@ -1,7 +1,7 @@
 # Prosa – S023
 
 scene_id: S023
-prose_status: final_rhythm_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -169,7 +169,7 @@ Ihr Vater hatte keinen Platz in Evas Erinnerung aus jener Nacht.
 
 Er hatte nur einen Platz in der späteren Rekonstruktion.
 
-Das war der Punkt. „Ich weiß es nicht“, sagte Eva. Laura bewegte sich nicht. Die Patientenfürsprache schrieb nichts auf. Eva ließ den Satz stehen.
+„Ich weiß es nicht“, sagte Eva. Laura bewegte sich nicht. Die Patientenfürsprache schrieb nichts auf. Eva ließ den Satz stehen.
 
 „Das ist die ehrlichste Antwort, die ich Ihnen geben kann.“
 
@@ -300,5 +300,3 @@ Laura nahm ihr die Entscheidung ab.
 „Finden Sie die Antwort.“
 
 Dann ging sie. Eva blieb im Raum zurück. Auf dem Tisch stand Lauras halbvolles Glas.
-
-Die Frage war geblieben.

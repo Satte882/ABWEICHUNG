@@ -1,7 +1,7 @@
 # Prosa – S021
 
 scene_id: S021
-prose_status: final_rhythm_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -41,23 +41,13 @@ Darunter:
 
 Eva verzog den Mund.
 
-Da war die Regel.
-
-Nicht als Eintrag in ihrem Profil. Nicht als abstrakte Verfahrensbeschreibung.
-
-Zwischen ihr und einer konkreten Entscheidung.
+Die Regel stand jetzt zwischen ihr und einer konkreten Entscheidung, nicht mehr abstrakt in ihrem Profil oder einer Verfahrensbeschreibung.
 
 Sie klickte in das Freitextfeld.
 
 **Welcher patientenspezifische Befund spricht gegen die Empfehlung?**
 
-Früher hätte ein Satz gereicht.
-
-*Patient klinisch stabiler als Risikobewertung.*
-
-Oder:
-
-*Weitere Beobachtung bei engmaschiger Kontrolle vertretbar.*
+Früher hätte einer von zwei Sätzen gereicht: *Patient klinisch stabiler als Risikobewertung.* Oder: *Weitere Beobachtung bei engmaschiger Kontrolle vertretbar.*
 
 Eva setzte die Finger auf die Tastatur.
 
@@ -65,11 +55,7 @@ Sie schrieb:
 
 **Patient wirkt klinisch stabiler als die Risikobewertung nahelegt.**
 
-Dann hielt sie inne.
-
-*Wirkt.*
-
-Sie las das Wort noch einmal.
+Beim Wort *wirkt* hielt sie inne und las es noch einmal.
 
 Es war genau die Art Formulierung, die sie Wochen zuvor im Override-Register kritisiert hatte.
 
@@ -89,11 +75,7 @@ Sie schrieb erneut.
 
 **Der bisherige Verlauf rechtfertigt aus meiner Sicht eine weitere Beobachtung ohne sofortige Eskalation.**
 
-Wieder stoppte sie.
-
-*Der bisherige Verlauf.*
-
-Welcher Teil?
+Beim *bisherigen Verlauf* stoppte sie wieder. Welcher Teil genau?
 
 Eva öffnete die Timeline.
 
@@ -103,11 +85,7 @@ Sie löschte auch diesen Satz.
 
 Ihr Puls war schneller geworden, obwohl im Raum nichts Dringendes passierte.
 
-Das ärgerte sie.
-
-Nicht KORA zwang sie gerade zu etwas.
-
-Ein Textfeld zwang sie, einen Impuls in einen überprüfbaren Grund zu verwandeln.
+Das ärgerte sie. KORA zwang sie gerade zu nichts; das Textfeld zwang sie, einen Impuls in einen überprüfbaren Grund zu verwandeln.
 
 Am rechten Rand erschien eine Kollegin als verfügbare Zweitfreigabe.
 
@@ -115,21 +93,7 @@ Eva kannte sie gut. Erfahren. Kein Mensch, der KORA blind folgte.
 
 Ein Klick würde reichen, um die Prüfung zu starten.
 
-Eva stellte sich das Gespräch vor.
-
-*Was ist dein Gegenbeleg?*
-
-Sie würde sagen:
-
-*Er sieht besser aus.*
-
-Zu wenig.
-
-*Ich halte die Eskalation für verfrüht.*
-
-Das war keine neue Information.
-
-*Meine Erfahrung sagt mir, dass wir noch Zeit haben.*
+Eva stellte sich das Gespräch vor. *Was ist dein Gegenbeleg?* Ihre Antworten kamen sofort: *Er sieht besser aus.* Zu wenig. *Ich halte die Eskalation für verfrüht.* Keine neue Information. *Meine Erfahrung sagt mir, dass wir noch Zeit haben.*
 
 Eva nahm die Hände von der Tastatur.
 
@@ -145,21 +109,13 @@ Ein sichtbarer stabiler Mensch fühlte sich belastbarer an als eine statistische
 
 Eva ging noch einmal ans Bett.
 
-Diesmal suchte sie ausdrücklich nach einem Gegenbeleg.
-
-Nicht nach einem Grund, KORA zu mögen oder nicht zu mögen.
-
-Nach etwas, das die Empfehlung in diesem konkreten Fall schwächte.
+Diesmal suchte sie ausdrücklich nach etwas, das die Empfehlung in diesem konkreten Fall schwächte, nicht nach einem Grund für oder gegen KORA.
 
 Sie prüfte den aktuellen Zustand erneut. Fragte nach einer Veränderung, die zuvor nicht dokumentiert war. Kontrollierte, ob ein Therapieziel oder eine patientenspezifische Information existierte, die KORA nicht abbildete.
 
 Nichts davon änderte die Lage entscheidend. Der Patient sah stabil aus. Das war real. KORA wusste es. Zurück am Arbeitsplatz blieb das Feld leer. Eva setzte sich. Sie ärgerte sich über die Regel.
 
-Noch mehr ärgerte sie sich darüber, dass die Regel gerade funktionierte.
-
-Nicht weil sie sie zwang, KORA zu folgen.
-
-Noch hatte niemand Nein gesagt.
+Noch mehr ärgerte sie sich darüber, dass die Regel gerade funktionierte, ohne sie technisch zu zwingen. Noch hatte niemand Nein gesagt.
 
 Keine zweite Ärztin hatte ihren Grund zurückgewiesen.
 
@@ -231,6 +187,4 @@ Die neue Schwelle hatte sie gezwungen, den Satz zu vervollständigen:
 
 *Ich entscheide anders, weil …*
 
-Das Weil hatte nicht gehalten. Eva schloss den Fall. Das fühlte sich wie Machtverlust an. Und wie eine Hilfe.
-
-Beides gleichzeitig war schwerer auszuhalten als ein klares Verbot.
+Das Weil hatte nicht gehalten. Eva schloss den Fall. Der Machtverlust fühlte sich zugleich wie Hilfe an, und genau das war schwerer auszuhalten als ein klares Verbot.

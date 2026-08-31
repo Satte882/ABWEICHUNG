@@ -1,15 +1,13 @@
 # Prosa – S025
 
 scene_id: S025
-prose_status: external_major_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Der Patient hatte seine Grenze bereits gesetzt.
-
-Nicht an diesem Morgen. Monate vorher.
+Der Patient hatte seine Grenze bereits Monate zuvor gesetzt.
 
 Eva stand mit Nele vor dem Rechner am Ende des Flurs und las den dokumentierten Therapievermerk zum zweiten Mal. Keine invasive Beatmung. Keine Eskalation über das festgelegte Therapieziel hinaus. Der Eintrag war mehrfach bestätigt, zuletzt bei der Aufnahme.
 
@@ -109,7 +107,7 @@ Im Zimmer wurde die Tür ganz geöffnet. Die Pflegekraft kam heraus und sagte, d
 
 Eva blieb mit Miriam und der Ethikärztin am Rechner.
 
-Das war der Teil, den keine Statistik allein lösen konnte. Eine medizinisch bessere Prognose war nicht automatisch die einzige Größe, nach der ein Mensch behandelt werden wollte.
+Keine Statistik konnte allein beantworten, nach welchen Zielen dieser Patient behandelt werden wollte. Eine medizinisch bessere Prognose war dafür nicht automatisch die einzige Größe.
 
 Miriam öffnete den Entwurf für die neue Oberfläche.
 
@@ -155,7 +153,7 @@ Eva hob den Blick.
 
 Nele sah zur Zimmertür. „Nach meinem Fall finde ich es nicht schlimm, wenn ich sagen muss, was genau ich zu wissen glaube. Und hier will ich auch nicht so tun, als wäre KORA medizinisch falsch.“
 
-Das war keine Systemtreue. Es war eine präzisere Form von Verantwortung. Miriam speicherte den Entwurf.
+Miriam speicherte den Entwurf.
 
 „Wir testen noch ein paar Grenzfälle, bevor das live geht.“
 

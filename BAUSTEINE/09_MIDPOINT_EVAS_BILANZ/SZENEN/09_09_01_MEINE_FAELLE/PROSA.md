@@ -1,7 +1,7 @@
 # Prosa – S018
 
 scene_id: S018
-prose_status: external_v2_scene_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -105,7 +105,7 @@ Dann ging sie die anderen markierten Ressourcenfälle durch.
 
 Bei mehreren wusste sie sofort, was mit dem Patienten vor ihr passiert war. Was dieselbe Entscheidung im Verbund ausgelöst hatte, wusste sie nicht aus dem Kopf.
 
-Vielleicht war dort nichts Relevantes gewesen. Vielleicht doch. Genau das war die Frage.
+Ob dort etwas Relevantes geschehen war, wusste sie nicht.
 
 Eva rief Jan nicht an. Sie ging in die Diagnostik, wo er noch an einem Besprechungstisch saß und Unterlagen zusammenpackte.
 
@@ -168,8 +168,6 @@ Nele verzog den Mund. „Nicht überraschend.“
 „Nein.“
 
 Eva ging weiter.
-
-Das war das Unangenehme.
 
 Sie hatte erwartet, dass ihre Erfahrung gegen eine personenbezogene Statistik verteidigt werden müsste. Noch bevor Jan eine Zahl gerechnet hatte, zeigte ihr die eigene Auswahl bereits, warum Erfahrung kein neutrales Archiv war.
 

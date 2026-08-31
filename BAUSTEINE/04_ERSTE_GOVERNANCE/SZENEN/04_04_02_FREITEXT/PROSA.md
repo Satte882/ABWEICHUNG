@@ -1,7 +1,7 @@
 # Prosa – S009
 
 scene_id: S009
-prose_status: external_v2_scene_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -117,7 +117,7 @@ Eva blieb mit Miriam zurück.
 
 Miriam wusste, was Eva meinte. „Im normalen Qualitätsreview sehen wir Fälle. Rollen mit Patientensicherheitsauftrag können den Urheber nachvollziehen. Anders wäre verantwortliche Dokumentation nicht möglich.“
 
-Eva nickte. Das war logisch.
+Eva nickte.
 
 „Und wenn jemand irgendwann anfängt, die Sätze pro Arzt zu vergleichen?“
 
@@ -127,13 +127,9 @@ Eva nickte. Das war logisch.
 
 Miriam sah auf die drei Ausdrucke. „Technisch ist vieles möglich, sobald Daten existieren.“
 
-Das war der Teil, der Eva störte.
-
 Vor dem Freitextfeld hatte eine Abweichung ebenfalls einen Namen getragen. Jeder wusste, wer entschieden hatte. Neu war, dass der Grund in derselben Sekunde neben der Entscheidung gespeichert wurde. Nicht drei Wochen später als Erinnerung. Nicht als nachträglich geglättete Geschichte.
 
-Das machte schlechte Gründe sichtbarer.
-
-Es machte auch Ärzte vergleichbarer.
+Schlechte Gründe wurden damit sichtbarer, Ärzte zugleich vergleichbarer.
 
 Miriam nahm die beiden Fallauszüge zurück. Den ersten Ausdruck ließ sie liegen.
 

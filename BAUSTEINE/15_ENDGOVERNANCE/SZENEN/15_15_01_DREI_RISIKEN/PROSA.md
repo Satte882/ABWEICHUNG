@@ -1,7 +1,7 @@
 # Prosa – S031
 
 scene_id: S031
-prose_status: external_v2_scene_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -13,7 +13,7 @@ Früher hätte Felix dort gestanden, zu nah am Tresen, die Arme verschränkt, be
 
 Heute lag dort nur ein Stapel Papier.
 
-Miriam wartete am zentralen Arbeitsplatz mit zwei Mitgliedern des Vorstands. Kein Konferenzraum. Keine Titelfolie. Hinter ihnen lief die Notaufnahme weiter, als hätte der Beschluss, den sie vorbereiteten, nichts mit ihr zu tun.
+Miriam wartete am zentralen Arbeitsplatz mit zwei Mitgliedern des Vorstands. Auf Konferenzraum und Titelfolie hatte sie verzichtet. Hinter ihnen lief die Notaufnahme weiter, als hätte der Beschluss, den sie vorbereiteten, nichts mit ihr zu tun.
 
 Miriam legte die Hand auf drei Seiten.
 
@@ -47,9 +47,7 @@ Kein einzelnes Signal erklärte eine Entscheidung.
 
 Zusammen konnten sie sichtbar machen, dass eine Weiche möglicherweise früher gestellt worden war als der spätere formale Eintrag.
 
-Eva ließ die anonymisierte Spur laufen. Keine automatische Schuldzuweisung. Kein rotes Feld mit *Umgehung erkannt*.
-
-Nur eine Zeitfolge, die eine frühere Frage ermöglichte.
+Eva ließ die anonymisierte Spur laufen. Es erschien kein rotes Feld mit *Umgehung erkannt*, nur eine Zeitfolge, die eine frühere Frage ermöglichte.
 
 „Das hätte den Felix-Fall verhindert?“ fragte eines der Vorstandsmitglieder.
 
@@ -71,13 +69,7 @@ Nele sah kurz zu Eva.
 
 „Nein. Die medizinische Verantwortung bleibt bei mir. Aber ich kann den normalen Abweichungsweg nicht allein abschließen. Nach meinem eigenen Fall finde ich diese Reibung vertretbar, solange die zweite Person wirklich prüft und nicht nur bestätigt.“
 
-Eva hörte den Unterschied zu Felix sofort.
-
-Dieselbe Oberfläche.
-
-Für Nele war sie Schutz vor dem eigenen Tunnel.
-
-Für Felix war sie eine fremde Hand auf seiner Entscheidung gewesen.
+Eva hörte den Unterschied zu Felix sofort. Nele sah in derselben Oberfläche Schutz vor dem eigenen Tunnel; Felix hatte darin eine fremde Hand auf seiner Entscheidung gesehen.
 
 Beide hatten gute Gründe für ihre Wahrnehmung gehabt. Nur einer hatte die Regel heimlich aus dem Weg geräumt.
 
@@ -113,21 +105,17 @@ Miriam rief **Solo Break Glass** auf.
 
 Der rote Rahmen erschien.
 
-Kein zweiter Name. Sofortige Wirksamkeit. Persönliche Zuordnung. Automatisches Nachreview.
+Der Weg wirkte sofort, blieb Eva persönlich zugeordnet und löste automatisch ein Nachreview aus; ein zweiter Name war dafür nicht nötig.
 
 Eva ließ sich vom Vorstand die praktischen Fragen stellen: versteckte Sperre, Timeout, nachträgliche Zustimmung vor Wirksamkeit. Sie beantwortete keine davon aus Erinnerung. Miriam zeigte direkt im Trainingsablauf, dass der Weg offen blieb.
 
 Eva musste den Knopf nicht drücken, um zu verstehen, was er bedeutete.
 
-Felix hatte eine Schutzstufe verschwinden lassen, weil er ihre Legitimität nicht akzeptierte.
-
-Der Break-glass tat das Gegenteil. Er ließ die Ausnahme ausdrücklich sichtbar werden.
-
-Das war für Eva der entscheidende Unterschied.
+Felix hatte eine Schutzstufe verschwinden lassen, weil er ihre Legitimität nicht akzeptierte. Beim Break-glass blieb die Ausnahme sichtbar und wurde Eva persönlich zugerechnet.
 
 Die beiden Vorstandsmitglieder berieten sich nicht lange. Die Bedingungen waren nicht elegant, aber prüfbar: Schutzstufen für definierte Risikoklassen, ein enger Wert-/Kontextweg, Prozesssignale gegen nachträgliche Glättung und ein realer Akutweg.
 
-Miriam setzte die finale Freigabe im Dokument. Keine Folie mit **Beschluss**. Nur eine neue Versionsnummer und zwei Unterschriften.
+Miriam setzte die finale Freigabe im Dokument. Eine neue Versionsnummer und zwei Unterschriften genügten.
 
 Nele schloss den Trainingsfall und wurde sofort von einer Pflegekraft in die Versorgung gezogen. Der freie Platz neben ihr blieb leer.
 
@@ -143,4 +131,4 @@ Felix wäre nicht mehr derjenige, der Eva daneben erklärte, warum genau das gef
 
 Sie kannte seine Argumente inzwischen gut genug, um sie selbst mit in die Regel zu schreiben.
 
-Das war kein Ersatz für ihn.
+Der Platz rechts neben Nele blieb trotzdem leer.

@@ -1,7 +1,7 @@
 # Prosa – S016
 
 scene_id: S016
-prose_status: external_major_rework
+prose_status: final_style_polish
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -89,9 +89,7 @@ Er nahm ihr das Tablet noch einmal ab und öffnete die Kurve selbst.
 
 Eva sah ihn an.
 
-Das war mehr als Trotz.
-
-Felix hatte Angst vor einer Medizin, in der statistische Abweichung selbst zum Verdacht wurde.
+Hinter dem Trotz lag echte Angst vor einer Medizin, in der statistische Abweichung selbst zum Verdacht wurde.
 
 Sie verstand den Punkt.
 
@@ -141,7 +139,7 @@ Eva blieb vor der Scheibe stehen.
 
 Drinnen war Felix wieder vollständig Arzt. Keine Governance, keine Statistik, kein Machtkampf. Er beugte sich über den Patienten, hörte zu, gab eine Anweisung und wartete auf die Reaktion.
 
-Eva vertraute ihm in diesem Raum. Das machte die Zeile nicht weniger auffällig. Vielleicht war seine Erklärung vollständig.
+Eva vertraute ihm in diesem Raum. Die fast leere Zeile blieb trotzdem auffällig. Vielleicht war seine Erklärung vollständig.
 
 Vielleicht lag genau in der klinisch plausiblen Reihenfolge die Stelle, an der sich eine Regel umgehen ließ, ohne einen einzigen falschen Wert einzutragen.
 
