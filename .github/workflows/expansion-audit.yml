@@ -1,0 +1,43 @@
+name: Expansion Audit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/audit_expansion.py'
+      - '.github/workflows/expansion-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current manuscript
+        uses: actions/checkout@v4
+
+      - name: Run expansion audit
+        id: audit
+        continue-on-error: true
+        run: python scripts/audit_expansion.py
+
+      - name: Upload audit artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: expansion-audit
+          path: expansion_audit/
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Enforce hard guards
+        if: always()
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          data = json.loads(Path('expansion_audit/AUDIT.json').read_text(encoding='utf-8'))
+          assert data['summary']['guard_pass'], data['summary']
+          PY
