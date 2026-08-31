@@ -1,7 +1,7 @@
 # Prosa – S030
 
 scene_id: S030
-prose_status: external_major_dialogue_rework
+prose_status: external_v2_scene_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -163,12 +163,58 @@ Eva dachte an den Patienten, an die echte vorübergehende Verbesserung, an Felix
 
 „Es erklärt es. Das ist nicht dasselbe.“
 
-Felix öffnete die Tür. Diesmal sagte keiner von beiden noch etwas. Später verlor Felix seine Funktion.
+Felix öffnete die Tür. Diesmal sagte keiner von beiden noch etwas.
 
-Die formalen Schritte verliefen geordnet: Anhörung, Bewertung, Entscheidung.
+Drei Tage später traf Eva ihn vor der Intensivstation wieder.
 
-Zwischen ihnen blieb danach nichts, das sich mit einem sachlichen Gespräch reparieren ließ.
+Nicht zufällig. Sie hatte dort einen Patienten übernommen und wusste, dass Felix Dienst hatte. Trotzdem war sie nicht auf ihn vorbereitet.
 
-Das war kein Prozesspunkt.
+Er kam aus einem Zimmer, zog die Handschuhe aus und gab einer Pflegekraft zwei kurze Anweisungen. Früher hätte er Eva danach im Vorbeigehen irgendeinen Satz hingeworfen. Eine schlechte Bemerkung über KORA. Eine Frage, die eigentlich keine war. Manchmal nur den Namen eines Patienten, weil er wusste, dass Eva den Rest verstand.
 
-Es war der Teil, für den es kein Formular gab.
+Diesmal blieb er stehen, als er sie sah.
+
+Zwischen ihnen lagen vielleicht drei Meter.
+
+„Die Anhörung ist Freitag“, sagte er.
+
+Eva nickte. „Ich weiß.“
+
+Felix schob die Hände in die Kitteltaschen.
+
+„Ich werde den Ablauf nicht bestreiten.“
+
+„Das habe ich nicht erwartet.“
+
+„Die Bewertung schon.“
+
+Eva wollte fragen, ob er gegen einen Funktionsverlust vorgehen würde. Ob er blieb. Ob er ihr noch zutraute, zwischen Prozessverletzung und Medizin zu unterscheiden.
+
+Keine der Fragen passte in den Flur.
+
+Felix sah an ihr vorbei zum Arbeitsplatz.
+
+„Zimmer sieben braucht in zwanzig Minuten die nächste Blutgaskontrolle. Falls du nachher noch hier bist.“
+
+Es war eine klinische Information. Korrekt, knapp, austauschbar.
+
+Eva verstand trotzdem, was fehlte.
+
+Kein *schau selbst drauf*. Kein *was meinst du*. Keine Einladung in den Teil seiner Arbeit, den er früher mit ihr geteilt hatte, gerade weil sie sich stritten.
+
+„Ich bin noch hier“, sagte sie.
+
+Felix nickte und ging.
+
+Am Freitag verlor er die leitende Funktion.
+
+Die formalen Schritte verliefen geordnet: Anhörung, Bewertung, Entscheidung. Eva konnte jeden Satz der Begründung nachvollziehen.
+
+Als sie später an der Intensivstation vorbeikam, stand sein Name noch im Dienstplan. Nur nicht mehr in der Zeile darüber.
+
+Sie blieb diesmal stehen.
+
+Nicht lange.
+
+Die Governance hatte einen Prozessverstoß beantwortet.
+
+Was zwischen ihr und Felix verloren gegangen war, hatte keinen Statuscode.
