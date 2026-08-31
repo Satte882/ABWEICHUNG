@@ -1,22 +1,33 @@
-# Fresh-Context-Review – Szenenebene
+# Fresh-Context-Re-Review – Szenen-/Beat-Ebene
 
 review_status: CLEAN_FRESH_CONTEXT
-review_target: dea9fe2e2119cbd85950fca89c398f7459d28775
+review_target: `78222a7e99c80378c35379ad42684ee332a412a6`
 finding_count: 0
-review_scope: vollständige horizontale Szenenebene S001–S040
+review_scope: full scene + beat layer, whole-book distribution
+
+g2_readiness: READY_FOR_REAPPROVAL
 
 ## Ergebnis
 
-Der unabhängige Fresh-Context-Review der vollständigen Szenenebene meldet keine Findings.
+Der unabhängige Fresh-Context-Re-Review des kontrollierten G2-Backtracks meldet **keine Findings**.
 
-Die Szenenebene ist damit als belastbare Ableitungsbasis für die nächste horizontale Ebene akzeptiert. Es wird **kein zusätzlicher Human Gate** zwischen Szenen und Beats eingeführt.
+Geprüft wurden insbesondere:
 
-## Konsequenz
+- G1-/Event-Treue,
+- Figurenverantwortung und Informationsreihenfolge,
+- Governance-Reihenfolge,
+- Beat-Readiness,
+- kritische Storyketten um Nele, Midpoint, Felix, Wert-/Kontextweg und Finale,
+- Whole-Book Scene-Shape-Verteilung über S001–S040.
 
-Nächster Arbeitsschritt:
+Der geänderte Szenen-/Beat-Stand ist damit fachlich konsistent und strukturell ausreichend variiert, um erneut dem Human Gate G2 vorgelegt zu werden.
 
-`40 Szenen → Beats für alle 40 Szenen`
+## Gate-Konsequenz
 
-Die Beat-Ebene darf die freigegebene G1-Architektur und die reviewte Szenenlogik nur granularisieren. Neue Plotentscheidungen, neue Figurenfunktionen oder neue medizinische Kausalitäten müssen gegebenenfalls auf die passende vorgelagerte Ebene zurückgeführt werden.
+Status: `READY_FOR_HUMAN_G2`
 
-Prosa bleibt bis zum Abschluss und Review der Beat-Ebene gesperrt.
+Erforderlicher Human-Token:
+
+`G2-APPROVE`
+
+Erst dieser Token gibt den aktuellen Rework-Stand erneut als G2 / Prose Ready frei.
