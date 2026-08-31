@@ -68,40 +68,16 @@ raw_g4_readiness: REWORK_REQUIRED
 
 ### MANUSCRIPT-FR-001 — scene_repetition — vom Reviewer als major gemeldet
 
-Der Reviewer bewertet weiterhin eine zu starke institutionelle Meeting-/Review-/SOP-Dichte und nennt unter anderem S003, S004, S008–S009, S012–S015, S024–S025 und S031–S032 als Beleg.
+Der Reviewer bewertet weiterhin eine zu starke institutionelle Meeting-/Review-/SOP-Dichte.
 
 ### MANUSCRIPT-FR-002 — style_pattern — minor
 
-Die zentrale Beweislast-Umkehr sowie die Unterscheidung formaler und faktischer Entscheidungsmacht werden mehrfach in ähnlicher fertiger Schlussrhetorik formuliert. Dadurch kann die finale Formulierung etwas von ihrer Überraschungskraft verlieren.
+Die zentrale Beweislast-Umkehr sowie die Unterscheidung formaler und faktischer Entscheidungsmacht werden mehrfach in ähnlicher fertiger Schlussrhetorik formuliert.
 
 ## Adjudikation Review 3
 
-Ein Fresh-Context-Review liefert Befunde; die Gate-Disposition prüft anschließend, ob Severity und Rework-Ebene durch die konkrete Evidenz getragen werden.
-
-### MANUSCRIPT-FR-001
-
-**Disposition: NOT_SUSTAINED_AS_MAJOR / non-blocking residual risk**
-
-Begründung:
-
-1. Mehrere als Beleg genannte Szenen entsprechen am geprüften Target gerade **nicht** mehr derselben Meeting-/SOP-Choreografie:
-   - S008 ist eine Live-Anwendung der neuen Begründungspflicht während eines realen klinischen Workflows.
-   - S014 startet mit einem konkreten Low-Confidence-Fall am Arbeitsplatz; der Analyseauftrag entsteht daraus per Nachricht an Jan.
-   - S032 ist ein funktionaler Break-glass-Stresstest an einem simulierten Fall.
-   - S013 zeigt die erste Zweitfreigabe im laufenden Stationsbetrieb und eine persönliche Reibung zwischen Felix und Nele.
-2. Der unmittelbar vorgeschaltete unabhängige Whole-Book-Szenen-/Beat-Re-Review desselben Targets prüfte explizit die Scene-Shape-Verteilung und meldete `finding_count: 0`.
-3. Institutionelle Gespräche bleiben absichtlich Bestandteil eines Romans über die schrittweise Institutionalisierung von Entscheidungsmacht. Ihre bloße thematische Verwandtschaft reicht nach dem strukturellen Backtrack nicht mehr als Nachweis eines Architektur-Majors.
-4. Ein weiterer Scene-/Beat-Backtrack würde daher überwiegend auf eine strengere Reviewer-Präferenz optimieren, ohne einen neuen konkreten Architekturfehler zu beheben.
-
-Der Befund bleibt als **nicht blockierendes Restrisiko zur institutionellen Dichte** dokumentiert, löst aber keinen vierten Struktur-Rework aus.
-
-### MANUSCRIPT-FR-002
-
-**Disposition: ACCEPTED_MINOR / non-blocking**
-
-Der Befund ist plausibel: Einzelne Szenen formulieren die Beweislast-Umkehr bereits sehr explizit. Das ist ein Stil-/Dosierungsrisiko, kein Architekturbruch und kein G4-blockierender Major. Es wird als bewusst akzeptierter Minor für die Human-G4-Entscheidung sichtbar gehalten; kein automatischer weiterer Prosa-Rework wird daraus abgeleitet.
-
-## Gate-Readiness nach Disposition
+- `MANUSCRIPT-FR-001`: **NOT_SUSTAINED_AS_MAJOR / non-blocking residual risk**
+- `MANUSCRIPT-FR-002`: **ACCEPTED_MINOR / non-blocking**
 
 Offene Blocker: 0  
 Offene bestätigte Major-Findings: 0  
@@ -109,4 +85,34 @@ Offene Minor-/Residual-Risiken: 2
 
 **g4_readiness_after_disposition: READY_FOR_HUMAN_G4**
 
-Der Human Gate G4 entscheidet nun, ob der vollständige Manuskriptstand einschließlich der transparent dokumentierten Minor-/Residual-Risiken als kanonisches Manuskript akzeptiert wird.
+Der Stand wurde anschließend durch Human G4 freigegeben und später durch `G5-REWORK` wegen des zu geringen Produktumfangs erneut geöffnet.
+
+## Review 4 – erweiterter Manuskriptstand nach G5-Rework
+
+review_status: CLEAN_FRESH_CONTEXT  
+review_target: `14563bc5ea63d2b77c10e63f1d23a751e136c617`  
+finding_count: 2  
+g4_readiness: READY
+
+### MANUSCRIPT-FR-001 — style_pattern — minor
+
+Manuskriptweit treten weiterhin wiederkehrende Übergangs- und Blickformeln wie `Eva sah`, `Eva nickte` und kurze funktionale Dialog-Pingpong-Strukturen auf. Der Reviewer bewertet die daraus entstehende Vorhersagbarkeit des narrativen Rhythmus als leicht, aber nicht architektur- oder lesbarkeitsgefährdend.
+
+**Disposition: ACCEPTED_MINOR / non-blocking**  
+**Rework-Ebene:** `prose`
+
+### MANUSCRIPT-FR-002 — scene_repetition — minor
+
+Besonders in den Governance- und Review-Clustern B04–B15 bleibt der Szenenträger `Daten/Regel → Prüfung/Klärung → Eva-Reaktion` erkennbar. Der Reviewer sieht eine spürbare Ermüdungswirkung im Mittelteil, bewertet die Eskalation bis Midpoint, Felix und Finale jedoch als kausal sauber.
+
+**Disposition: ACCEPTED_MINOR / non-blocking**  
+**Rework-Ebene:** `prose`
+
+## Gate-Readiness Review 4
+
+- offene Blocker: 0
+- offene Major-Findings: 0
+- akzeptierte Minor-Findings: 2
+- Review-Urteil: `g4_readiness: READY`
+
+Human GO vom 2026-08-31 wird als `G4-REAPPROVE` für den geprüften Manuskript-Snapshot `14563bc5ea63d2b77c10e63f1d23a751e136c617` übernommen.
