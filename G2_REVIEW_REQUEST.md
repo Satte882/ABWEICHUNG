@@ -1,8 +1,9 @@
 # G2 Review Request – Prose Ready
 
-status: REOPENED_AWAITING_FRESH_CONTEXT_SCENE_SHAPE_REVIEW
+status: READY_FOR_HUMAN_G2
 gate: G2
 review_target: `78222a7e99c80378c35379ad42684ee332a412a6`
+review_result: `SCENE_FRESH_CONTEXT_RESULT.md`
 
 ## Hintergrund
 
@@ -10,7 +11,7 @@ Der ursprüngliche G2-Stand wurde am 2026-08-30 durch Human `G2-APPROVE` freigeg
 
 Nach zwei Whole-Manuscript-Reviews wurde ein kontrollierter Backtrack auf Szenen-/Beat-Ebene notwendig, weil wiederholte Scene-Repetition-/Pacing-Majors durch Prosa-Rework allein nicht ausreichend lösbar waren.
 
-G1-Storywahrheit und Ereignisebene bleiben unverändert.
+G1-Storywahrheit und Ereignisebene blieben unverändert.
 
 ## Rework-Scope
 
@@ -25,16 +26,22 @@ Geänderte dramaturgische Trägerformen:
 
 Keine Szene wurde entfernt oder neu hinzugefügt. Die Event-Abdeckung bleibt 54/54; die Gesamtstruktur bleibt 40 Szenen / 253 Beats.
 
-## Re-Review-Frage
+## Fresh-Context-Re-Review
 
-Ist der reworked Szenen-/Beat-Stand weiterhin vollständig G1-konsistent und zugleich als **gesamte Szenenfolge** ausreichend variiert, sodass der bisher wiederkehrende Meeting-/Review-Träger nicht mehr als struktureller Major in der Architektur angelegt ist?
+Ergebnis gegen den festen Rework-Target:
 
-## Vor erneutem Human Gate
+- `review_status: CLEAN_FRESH_CONTEXT`
+- `finding_count: 0`
+- `g2_readiness: READY_FOR_REAPPROVAL`
 
-1. `SCENE_FRESH_CONTEXT_TASK.md` gegen `78222a7e99c80378c35379ad42684ee332a412a6` ausführen.
-2. Findings vollständig dispositionieren.
-3. Bei sauberem Ergebnis erneut:
+Damit bestehen aktuell keine offenen Blocker oder Major-Findings auf Szenen-/Beat-Ebene und keine strukturelle Scene-Shape-Monotonie, die vor erneuter Freigabe behoben werden müsste.
+
+## Human Gate
+
+Der aktuelle Rework-Stand ist bereit für die erneute Human-Freigabe.
+
+Gültiger Token:
 
 `G2-APPROVE`
 
-Bis dahin ist G2 für den aktuellen Rework-Stand **nicht erneut freigegeben**.
+Erst danach gilt der Rework-Stand erneut als G2 / Prose Ready und der Gesamtmanuskript-Re-Review vor G4 darf fortgesetzt werden.
