@@ -1,7 +1,10 @@
 # G5 Review Request – Produktion
 
-status: READY_FOR_HUMAN_G5
+status: APPROVED
 human_gate: G5
+current_decision: APPROVE
+current_decided_by: human
+current_date: 2026-08-31
 prior_gate: `gates/G4.md`
 source_manuscript: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
 build_manifest: `production/BUILD_MANIFEST.md`
@@ -9,40 +12,24 @@ production_run: `33377576980`
 production_artifact_id: `9752446466`
 production_artifact: `abweichung-production-g5-rebuild`
 
-## Vorherige Entscheidung
+## Human-Entscheidung
 
-Human `G5-REWORK` vom 2026-08-31 hatte den ersten Produktionsstand nicht freigegeben, weil der damalige G4-Stand nur 16.527 Wörter umfasste.
+Human `G5-APPROVE` vom 2026-08-31.
 
-## Neuer G4-freigegebener Stand
+Der technisch vollständige und reproduzierbare Produktionsstand wird akzeptiert und G5 abgeschlossen.
 
-Der erweiterte Manuskript-Snapshot
+## Freigegebener Produktionsstand
 
-`14563bc5ea63d2b77c10e63f1d23a751e136c617`
-
-ist Human-G4-REAPPROVED.
-
-Der unabhängige Clean-Room-Gesamtmanuskript-Review ergab:
-
-- `g4_readiness: READY`
-- 0 Blocker
-- 0 Majors
-- 2 akzeptierte Minors
-
-## Produktionsbuild
-
-GitHub Actions Run `33377576980`: **PASS**
-
-Verifiziert:
-
-1. Build-Source = `14563bc5ea63d2b77c10e63f1d23a751e136c617`.
-2. Source-Tree = `fbbe9704813f27251b1d5e9e77d89b1ba419ee02`.
-3. 40/40 Prosaszenen und S001–S040 lückenlos.
-4. `sondern = 0`.
-5. Wortzahl = **39.331**.
-6. `ABWEICHUNG_v01.md` erfolgreich erzeugt.
-7. `ABWEICHUNG_v01.html` erfolgreich erzeugt.
-8. `BUILD_INFO.json` erfolgreich erzeugt.
-9. Produktionsartefakt `abweichung-production-g5-rebuild` erfolgreich hochgeladen.
+- Manuskriptquelle: `14563bc5ea63d2b77c10e63f1d23a751e136c617`
+- G4: APPROVED
+- GitHub Actions Run `33377576980`: PASS
+- 40/40 Prosaszenen, S001–S040 lückenlos
+- Wortzahl: 39.331
+- `sondern = 0`
+- `ABWEICHUNG_v01.md`: erzeugt und gehasht
+- `ABWEICHUNG_v01.html`: erzeugt und gehasht
+- `BUILD_INFO.json`: erzeugt
+- Produktionsartefakt: `abweichung-production-g5-rebuild`
 
 ### Checksummen
 
@@ -50,24 +37,8 @@ Verifiziert:
 - `ABWEICHUNG_v01.html`: `1ccd519396d71d03a83de7190a83b5de34a20ec946e8dd6df2d17743980c7954`
 - Artifact-ZIP: `c9379c14893e09b1051d59f24d64304d1dfd37d6d27d7ceedd9541e07ab6b180`
 
-## Umfang
+## Abschluss
 
-Der frühere G5-Rework-Auslöser ist behoben:
+**G5 APPROVED**
 
-- vorheriger Build: 16.527 Wörter
-- aktueller Build: **39.331 Wörter**
-
-Die neue Wortzahl stammt aus dem G4-geprüften inhaltlichen Manuskriptausbau; der Produktionsbuild fügt keinen Text hinzu.
-
-## Human Gate G5
-
-Der Produktionsstand ist technisch vollständig und reproduzierbar.
-
-Nächste Entscheidung:
-
-- `G5-APPROVE` → Produktionsstand akzeptieren und G5 abschließen.
-- `G5-REWORK` → nur bei einem konkret benannten offenen Produkt-/Produktionsproblem.
-
-Aktuell:
-
-**G5 → READY_FOR_HUMAN_G5**
+Der frühere REWORK-Stand mit 16.527 Wörtern bleibt nur historischer Nachweis. Der aktuelle Build mit 39.331 Wörtern ist der kanonische freigegebene Produktionsstand.
