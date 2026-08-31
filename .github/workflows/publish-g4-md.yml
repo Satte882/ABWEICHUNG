@@ -5,8 +5,6 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/publish-g4-md.yml'
-      - 'scripts/apply_external_dialogue_rework.py'
-      - 'BAUSTEINE/**/PROSA.md'
 
 permissions:
   contents: write
@@ -19,30 +17,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Apply targeted external-dialogue rework
-        shell: bash
-        run: |
-          set -euo pipefail
-          python scripts/apply_external_dialogue_rework.py
-
       - name: Compact safe vertical staccato and rebuild manuscript
         shell: bash
         run: |
           set -euo pipefail
           python scripts/apply_final_prose_rhythm_pass.py
-          # The script also writes a historical gate report whose wording belongs to
-          # the earlier pass. Keep the current repository version unchanged here.
           git restore FINAL_PROSE_RHYTHM_APPLIED.md
 
-      - name: Run final post-external-major prose audit
+      - name: Run final post-external-v2 prose audit
         shell: bash
         run: |
           set -euo pipefail
           python scripts/final_prose_rhythm_audit.py \
             --output FINAL_PROSE_RHYTHM_AUDIT_EXTERNAL_REWORK.md \
-            --status POST_EXTERNAL_MAJOR_REWORK_FINAL
+            --status POST_EXTERNAL_V2_FINAL_REWORK
 
-      - name: Validate manuscript contract and XR-002 regression
+      - name: Validate manuscript contract and final regression
         shell: bash
         run: |
           set -euo pipefail
@@ -67,10 +57,8 @@ jobs:
           m = re.search(r'- Dialog-Pingpong-Runs: \*\*(\d+)\*\*', audit)
           assert m, 'dialogue metric missing'
           dialogue_runs = int(m.group(1))
-          # Post-rhythm pre-external baseline was 58; first scene-shape rework was 44.
-          # Final targeted regression must materially improve again.
-          assert dialogue_runs <= 34, dialogue_runs
-          print(f'G4 external-major regression validation OK; dialogue runs={dialogue_runs}')
+          assert dialogue_runs <= 30, dialogue_runs
+          print(f'final regression validation OK; dialogue runs={dialogue_runs}')
           PY
 
       - name: Commit reworked prose, manuscript and audit
@@ -84,6 +72,6 @@ jobs:
             echo 'No generated changes to commit.'
             exit 0
           fi
-          git commit -m 'production: finalize external-major dialogue rework'
+          git commit -m 'production: publish final external-v2 scene rework'
           git pull --rebase origin main
           git push origin HEAD:main
