@@ -1,140 +1,158 @@
 # Prosa – S009
 
 scene_id: S009
-prose_status: final_rhythm_rework
+prose_status: external_v2_scene_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Nach einigen Wochen war aus dem Freitextfeld eine Datenspur geworden.
+Der Satz kam Eva auf dem Flur entgegen.
 
-Eva merkte es daran, dass die einzelnen Einträge sich nicht mehr wie lästige Zusatzarbeit anfühlten. Die Maske gehörte inzwischen zum Ablauf: Grundtyp wählen, zwei oder drei Sätze, bestätigen, weiter. Was beim einzelnen Fall kaum Zeit kostete, sah in der Summe anders aus.
+„Patient wirkt stabiler als Modellbewertung.“
 
-Miriam hatte vier anonymisierte Einträge nebeneinandergestellt. Keine Namen, keine Bewertung, keine Rangliste. Zu sehen waren nur die damalige KORA-Empfehlung, der Grundtyp und der Satz, mit dem ein Arzt davon abgewichen war.
+Nele hielt ihr einen Ausdruck hin, während hinter ihnen ein Transportteam versuchte, mit einem Bett durch die zu enge Kurve vor der Diagnostik zu kommen. Einer der Pfleger fluchte leise, zog zurück und setzte neu an.
 
-„Nur lesen“, sagte Miriam.
+Eva las den Satz noch einmal.
 
-„Ich lese.“
+„Von dir?“
 
-„Du hast schon den Stift in der Hand.“
+„Nein. Frühdienst Innere. Der Fall ist im Review hängen geblieben. Miriam will wissen, ob wir mit so einer Begründung leben können.“
 
-Eva blickte auf den Stift und behielt ihn.
+Eva gab den Ausdruck nicht zurück.
 
-Der erste Eintrag lautete:
+„Was hat sich beim Patienten konkret verändert?“
 
-**Klinischer Verlauf passt nicht zur prognostizierten Verschlechterung. Aktuelle Untersuchung spricht gegen sofortige Eskalation.**
+Nele zeigte auf den unteren Teil. Blutdruck etwas besser. Sauerstoffbedarf unverändert. Kein neuer Untersuchungsbefund. Keine zusätzliche Information, die KORA zum Entscheidungszeitpunkt gefehlt hatte.
 
-Darunter standen ein konkreter Untersuchungsbefund und der Zeitpunkt der erneuten Bewertung. Eva las den späteren Verlauf; die Abweichung war nachvollziehbar geblieben. Sie zog eine Linie unter den Satz.
+„Dann ist der Satz zu groß für das, was darunter steht.“
 
-„Der benennt etwas, das man prüfen kann.“
+„Genau das habe ich gesagt.“
 
-Der zweite Eintrag war kürzer.
+Nele klang nicht triumphierend. Nach ihrem eigenen Sepsisfall war jede Diskussion über schlechte Begründungen persönlicher geworden.
 
-**Patient wirkt stabiler als Modellbewertung.**
+Sie gingen gemeinsam zum Arbeitsplatz. Miriam wartete dort bereits, eine schmale Mappe unter dem Arm.
 
-Eva suchte nach einer Ergänzung. Es gab keine.
+„Ihr habt angefangen.“
 
-„Was heißt wirkt?“
+„Du hast uns Material geschickt“, sagte Eva.
 
-Miriam hob die Schultern. „Genau das steht dort.“
+Miriam zog zwei weitere Blätter aus der Mappe. „Ich wollte keine Sitzung. Nur wissen, ob das Freitextfeld inzwischen das tut, wofür wir es gebaut haben.“
 
-Der dritte Eintrag lautete **Langjährige Erfahrung mit vergleichbaren Verläufen**, der vierte **Fachärztliche Entscheidung nach Gesamtbewertung**.
+Eva las den ersten neuen Eintrag.
 
-Eva setzte den Stift auf das Papier und hielt inne. „Die beiden hier benennen vor allem den Entscheider.“
+**Neu aufgetretener fokal-neurologischer Befund nach letzter KORA-Bewertung. Reevaluation veranlasst.**
+
+Darunter Zeitpunkt, Untersuchung und neue Bildgebung.
+
+„Der trägt.“
+
+Der zweite lautete:
+
+**Fachärztliche Entscheidung nach Gesamtbewertung.**
+
+Eva sah zu Miriam.
+
+„Der trägt den Titel des Entscheiders.“
+
+„Nicht den Grund“, sagte Nele.
+
+Miriam nickte. „Und genau deshalb habe ich beide mitgebracht.“
+
+Eine Pflegekraft stellte sich neben Eva und wartete, bis sie kurz frei war. Es ging um eine Medikation, die wegen eines neuen Laborwerts angepasst werden sollte. Eva prüfte den Wert, änderte die Anordnung und unterschrieb. Als die Pflegekraft weiterging, lag der Freitextausdruck noch immer zwischen den drei Frauen.
+
+So sollte es sein, dachte Eva. Eine Regel, die im Alltag überlebte oder gar nicht.
+
+„Wie viele von diesen Statussätzen haben wir?“
+
+Miriam nannte keine Zahl. Sie sagte nur: „Genug, dass es kein Einzelner mehr ist.“
+
+„Und die guten?“
+
+„Auch genug.“
+
+Eva lehnte sich mit der Hüfte an den Tresen. Sie wollte keine Liste sehen. Nicht wieder zehn Varianten nebeneinander, bis aus Unterschiedlichkeit ein Diagramm wurde.
+
+„Gib mir einen guten und einen schlechten Verlauf. Mehr nicht.“
+
+Miriam hatte damit gerechnet. Sie legte zwei Fallauszüge hin.
+
+Im ersten hatte eine Ärztin einen neuen Untersuchungsbefund dokumentiert, der KORA noch nicht vorgelegen hatte. Die Empfehlung war nach der Aktualisierung tatsächlich gekippt. Der Override hatte im späteren Review getragen.
+
+Im zweiten war die Begründung **langjährige Erfahrung mit vergleichbaren Verläufen** gewesen. Der damalige Datensatz enthielt keinen neuen Faktor. Der Patient hatte sich trotzdem gut entwickelt.
+
+Eva blieb daran hängen.
+
+„Das ist das gefährlichere Beispiel.“
+
+Nele sah sie an. „Weil er gut ausgegangen ist?“
+
+„Ja. Wenn wir nur auf den Ausgang schauen, sieht die schwache Begründung plötzlich klug aus.“
+
+Miriam legte die Hand auf den zweiten Fall. „Deshalb bewerten wir nicht die Schreibkunst und nicht den einzelnen guten Ausgang. Wir halten fest, was zum Entscheidungszeitpunkt tatsächlich als Gegenargument da war.“
+
+Eva betrachtete den Satz **langjährige Erfahrung**.
+
+Er war nicht wertlos. Erfahrung konnte einen Arzt schneller sehen lassen, was andere übersahen. Aber wenn sie etwas sah, musste irgendwann benennbar werden, was es war. Ein Befund. Eine Entwicklung. Eine Information. Sonst blieb nur der Status der Person, die entschieden hatte.
+
+Nele zog den ersten Ausdruck wieder zu sich.
+
+„Was würdest du aus *wirkt stabiler* machen?“
+
+Eva zeigte auf die Werte. „Wenn es einen konkreten Befund gibt, steht der da. Wenn es keinen gibt, bleibt die Unsicherheit sichtbar. Wir dürfen aus einer vagen Beobachtung keinen präzisen Gegenbeleg erfinden, nur damit das Feld sauber aussieht.“
+
+„Also lieber eine schwache ehrliche Begründung als eine starke erfundene.“
+
+„Immer.“
+
+Miriam lächelte kurz. „Das schreibe ich nicht in die SOP.“
+
+„Schade.“
+
+Ein Telefon klingelte am anderen Ende des Tresens. Nele nahm ab und wurde sofort in einen anderen Fall gezogen. Sie ging mit dem Hörer davon, noch bevor das Gespräch beendet war.
+
+Eva blieb mit Miriam zurück.
+
+„Was passiert mit den Sätzen später?“
+
+Miriam wusste, was Eva meinte. „Im normalen Qualitätsreview sehen wir Fälle. Rollen mit Patientensicherheitsauftrag können den Urheber nachvollziehen. Anders wäre verantwortliche Dokumentation nicht möglich.“
+
+Eva nickte. Das war logisch.
+
+„Und wenn jemand irgendwann anfängt, die Sätze pro Arzt zu vergleichen?“
+
+„Dann braucht es dafür einen Grund, eine Methode und eine Entscheidung, dass wir genau das tun wollen.“
+
+„Technisch wäre es möglich.“
+
+Miriam sah auf die drei Ausdrucke. „Technisch ist vieles möglich, sobald Daten existieren.“
+
+Das war der Teil, der Eva störte.
+
+Vor dem Freitextfeld hatte eine Abweichung ebenfalls einen Namen getragen. Jeder wusste, wer entschieden hatte. Neu war, dass der Grund in derselben Sekunde neben der Entscheidung gespeichert wurde. Nicht drei Wochen später als Erinnerung. Nicht als nachträglich geglättete Geschichte.
+
+Das machte schlechte Gründe sichtbarer.
+
+Es machte auch Ärzte vergleichbarer.
+
+Miriam nahm die beiden Fallauszüge zurück. Den ersten Ausdruck ließ sie liegen.
+
+„Was soll ich damit machen?“ fragte Eva.
+
+„Nichts. Der Fall geht in den normalen Review. Ich wollte wissen, ob du das Feld inzwischen für nützlich hältst.“
+
+Eva sah auf **Patient wirkt stabiler als Modellbewertung**.
 
 „Ja.“
 
-„Das ist keine Begründung.“
+Miriam wartete auf den Rest.
 
-„Es ist eine dokumentierte Begründung.“
+Eva gab ihn ihr nicht.
 
-„Dann ist die Kategorie zu großzügig.“
+Das Feld war nützlich. Gerade deshalb musste sie genauer beobachten, was aus den gesammelten Gründen wurde.
 
-Miriam zeigte auf den Bildschirm. „Oder wir sehen zum ersten Mal, wie unterschiedlich das, was Ärzte intern für einen Grund halten, nach außen aussieht.“
+Hinter ihnen rief jemand nach Nele. Eine Tür ging auf, ein Monitor alarmierte, das Transportteam kam endlich mit dem Bett um die Ecke.
 
-Eva blätterte weiter. Die nächsten Einträge nannten einen später ergänzten Laborwert, einen neu aufgetretenen klinischen Befund, eine patientenspezifische Information, die im System nicht abgebildet war, daneben eine knappe Intuitionsformel und ein Statusargument.
+Der Freitext war längst Teil dieses Lärms geworden.
 
-Zwei Begründungen klangen professionell und sagten nach dem zweiten Lesen kaum mehr als: *Ich halte es für richtig.* Andere wurden stärker, je länger Eva hinsah. Sie nannten konkrete Beobachtungen, Zeitpunkte, fehlende Daten oder eine überprüfbare klinische Gegenhypothese.
-
-„Zeig mir die Verläufe dazu.“
-
-Miriam öffnete sie nacheinander.
-
-Eva wollte wissen, ob gute Begründungen lediglich gut geschrieben waren. Konnte jemand mit der Sprache eines Gutachtens einen schwachen Override sauberer aussehen lassen als ein Kollege, der knapp, aber richtig entschieden hatte?
-
-Eine eindeutige Antwort bekam sie nicht. Ein kurzer Satz konnte einen starken Befund enthalten, eine lange Begründung sich als höflich formulierter Kreis herausstellen.
-
-„Das wird nie automatisch bewertbar“, sagte Eva.
-
-„Hoffentlich nicht.“
-
-Eva drehte sich zu Miriam. „Das klingt fast beruhigend.“
-
-„Ich will keine Textanalyse, die entscheidet, ob ein Arzt recht hat.“
-
-„Was willst du dann?“
-
-Miriam zog einen weiteren Fall auf. „Dass wir beim Review nicht erst aus Erinnerung rekonstruieren, warum jemand vor drei Wochen eine Empfehlung überschrieben hat.“
-
-Eva las den Eintrag und musste an ihren ersten Override denken. Damals hätte im System nur gestanden, dass sie anders entschieden hatte. Alles Weitere lebte in ihrer Erinnerung und in den klinischen Notizen. Bei Laura Bergs Fragen war genau das plötzlich wichtig geworden: Wer wusste was, und warum wurde abgewichen?
-
-Die neue Maske beantwortete diese Fragen nicht vollständig. Sie zwang den Grund lediglich näher an den Entscheidungszeitpunkt.
-
-„Das ist nützlich“, sagte Eva.
-
-Miriam hob leicht die Augenbrauen. „Das klang schmerzhafter, als es müsste.“
-
-Eva legte den Stift hin. „Weil nützlich nicht eindeutig heißt. Der erste schreibt besser. Vielleicht entscheidet er auch besser. Vielleicht kann er nur besser erklären, was er ohnehin getan hätte.“
-
-„Deshalb bewerten wir hier keine Schreibkunst.“
-
-„Und was bewertet ihr?“
-
-„Im Moment die Fälle, keine Personen. Wir setzen keine Schwellen, keine Sanktionen und keine automatische Kennzahl.“
-
-Eva musterte sie. „Du hast die Liste auffällig schnell parat.“
-
-„Du klingst wie Felix.“
-
-„Das ist eine Beleidigung.“
-
-Miriam lächelte kurz. „Wir beobachten und prüfen Fälle. Keine neue Verschärfung.“
-
-Diesmal kam kein Zusatz. Eva ließ ein paar Sekunden verstreichen.
-
-„Wirklich nur beobachten?“
-
-„Ja.“
-
-Das gefiel ihr mehr, als sie erwartet hatte.
-
-Sie öffnete das Register noch einmal, diesmal wegen der guten Einträge. Ein Arzt hatte einen unerwarteten Untersuchungsbefund dokumentiert und damit einen Override begründet, der im späteren Review medizinisch trug. Eine andere Ärztin hatte eine Datenlücke konkret benannt. Wieder jemand hatte einen Grund festgehalten, der im Rückblick viel weniger überzeugend war, als die Beteiligten ihn in Erinnerung gehabt hatten.
-
-Das Register machte Entscheidungen nicht automatisch richtig oder falsch. Es machte einige von ihnen weniger bequem.
-
-Damit konnte Eva leben. Vielleicht war genau das gute Qualitätssicherung: den Arzt nicht durch ein Systemurteil ersetzen, die damalige Entscheidung aber so festhalten, dass sie später niemand unbemerkt schöner erzählen konnte.
-
-Miriam schloss die Detailansicht.
-
-„Noch etwas?“
-
-„Wer kann das Register sehen?“
-
-Miriam nannte die begrenzten Rollen im Qualitätsprozess.
-
-„Und personenbezogen?“
-
-„Im normalen Review sehen wir Fälle.“
-
-Eva blieb an der Formulierung hängen. „Im normalen Review.“
-
-Miriam erwiderte ihren Blick. „Wenn es einen Patientensicherheitsgrund gibt, können Entscheidungen natürlich auf ihre Urheber zurückgeführt werden. Sonst wäre das keine verantwortliche Dokumentation.“
-
-Das war logisch. Die Namen standen ohnehin im System; niemand hatte je behauptet, Overrides seien anonym.
-
-Trotzdem blieb Evas Blick auf der Liste liegen. Vor der Begründungspflicht war eine Abweichung eine Entscheidung gewesen. Jetzt hinterließ sie zusätzlich einen Satz, und Sätze ließen sich vergleichen.
-
-Wenn man genug davon hatte, konnte man irgendwann auch die Menschen dahinter vergleichen.
-
-Eva ließ den Gedanken dort stehen.
+Und aus vielen kleinen Sätzen entstand etwas, das keiner von ihnen am einzelnen Bett sehen konnte.
