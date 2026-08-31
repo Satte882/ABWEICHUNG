@@ -1,178 +1,194 @@
 # Prosa – S018
 
 scene_id: S018
-prose_status: final_rhythm_rework
+prose_status: external_v2_scene_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Eva blieb länger im Büro als nötig.
+Eva begann mit drei Namen, an die sie sich sofort erinnerte.
 
-Der Flur vor ihrer Tür war fast leer. Irgendwo lief noch ein Drucker. Das Licht im Besprechungsraum gegenüber war bereits aus.
+Nicht Patientennamen. Fallkennungen.
 
-Auf ihrem Bildschirm stand das Override-Register. Der Streit mit Miriam war vorbei. Der Satz daraus nicht.
+Sie schrieb sie auf die Rückseite eines Übergabeblatts, während der Spätdienst im Stationszimmer langsam auseinanderfiel. Nele telefonierte am Fenster. Zwei Pflegekräfte diskutierten leise über eine Verlegung. Jemand stellte einen kalten Kaffee neben Eva und vergaß ihn dort.
+
+Drei gute Overrides.
+
+So hätte Eva sie genannt, wenn Miriam sie am Vormittag gefragt hätte.
+
+Beim ersten war der Patient nach ihrer Entscheidung sichtbar stabiler geworden. Beim zweiten hatte die spätere Entwicklung ihren klinischen Eindruck bestätigt. Beim dritten hatte ein Kollege im Review gesagt: guter Blick.
+
+Eva betrachtete die drei Kennungen.
+
+Der Satz aus ihrem Streit mit Miriam war ihr gefolgt.
 
 *Wenn wir einzelne Ärzte nach ihren Abweichungen beurteilen, müssen wir wenigstens wissen, ob diese Abweichungen tatsächlich schlechter waren.*
 
-Eva hatte ihn selbst fast als Herausforderung formuliert.
+Eva hatte ihn als Einwand gemeint.
 
-Jetzt lag die Herausforderung vor ihr.
+Jetzt wollte sie wissen, ob er sie selbst schützte.
 
-Sie öffnete ihr eigenes Register.
+Nele legte auf und sah das Blatt.
 
-Die Liste war länger, als sie im Kopf gewesen war.
+„Was ist das?“
 
-Das überraschte sie zuerst.
+„Meine Beweise.“
 
-Dann ärgerte sie sich darüber, überrascht zu sein.
+„Wofür?“
 
-Natürlich erinnerte sie sich nicht an jede Abweichung. Die meisten waren keine dramatischen Entscheidungen gewesen. Kein roter Balken. Kein letzter Intensivplatz. Oft nur ein anderer Zeitpunkt, eine andere Priorisierung, eine andere Eskalationsentscheidung.
+Eva schob ihr das Blatt hin.
 
-Trotzdem hatte sie in den letzten Wochen über ihre Overrides gesprochen, als wären sie eine klare Kategorie ihrer Erfahrung.
+Nele las die drei Kennungen. Bei einer erkannte sie den Fall.
 
-Eva sortierte nach Datum. Der Cold-Open-Fall erschien zwischen vielen gewöhnlicheren Einträgen. Sie übersprang ihn zunächst.
+„Der ist gut gelaufen.“
 
-Stattdessen begann sie mit den Fällen, an die sie sich gern erinnerte.
+„Genau.“
 
-Ein Patient, der sich nach ihrer Entscheidung stabilisiert hatte.
+Nele gab ihr das Blatt zurück. „Und die anderen?“
 
-Ein anderer, bei dem die spätere Entwicklung ihre Einschätzung bestätigt hatte.
+„Auch.“
 
-Ein Fall, in dem ein Kollege im Review gesagt hatte: guter klinischer Blick.
+„Ich meine die anderen Overrides.“
 
-Eva markierte drei. Dann hielt sie inne. Sie sah die markierten Zeilen an.
+Eva sah sie an.
 
-Drei Entscheidungen, die sie innerhalb von Sekunden aus einer viel längeren Liste herausgezogen hatte.
+Nele zuckte mit einer Schulter. „Wenn du schon Beweise sagst.“
 
-Warum genau diese? Weil sie gut ausgegangen waren. Weil jemand ihre Einschätzung bestätigt hatte. Weil sie sich an die Patienten erinnerte.
+Dann wurde sie aus dem Raum gerufen.
 
-Wenn sie Jan genau diese Fälle schickte, bewies sie nichts.
+Eva blieb mit dem Blatt zurück.
 
-Sie würde ihm ihre eigene Erinnerung als Datensatz geben.
+Die Frage war lästig, weil sie banal war.
 
-Eva löschte die Markierungen.
+Natürlich hatte Eva nicht zuerst an die Fälle gedacht, an die sie sich kaum erinnerte. Kein Arzt tat das. Erfahrung bestand aus Fällen, die hängen blieben. Ein Gesicht. Ein dramatischer Verlauf. Eine Entscheidung, die später bestätigt wurde. Ein Fehler, den man nie wieder machen wollte.
 
-Dann setzte sie den Filter auf die komplette relevante Fallgruppe.
+Was keinen Eindruck hinterließ, wurde Teil eines unscharfen Mittelfelds.
 
-High confidence getrennt vom Rest. Ressourcenentscheidungen separat. Eskalationen separat.
+Eva ging zur Qualitätsassistenz und bat nicht um eine Auswertung. Nur um die vollständige Liste ihrer relevanten Overrides im definierten Zeitraum, mit Fallkennung und Entscheidungsklasse. Keine Ergebnisse. Keine Sortierung nach Erfolg.
 
-Nur Fälle mit ausreichend vollständigen Daten zum damaligen Entscheidungszeitpunkt.
+Die Mitarbeiterin druckte vier Seiten.
 
-Die Zahl wurde kleiner. Unangenehm überschaubar. Eva öffnete den ersten Fall. Sie erinnerte sich kaum.
+Eva nahm sie mit in den leeren Aufenthaltsraum.
 
-Eine Abweichung, die damals vernünftig gewirkt hatte. Kein schwerer Ausgang. Keine Beschwerde. Kein Gespräch, das im Gedächtnis geblieben war.
+Ihre drei handgeschriebenen Kennungen standen tatsächlich darin.
 
-Sie las die damalige Begründung.
+Zwischen vielen anderen.
 
-Konkreter als manche Einträge im Register. Dünner als sie erwartet hätte, wenn man sie unmittelbar nach dem Fall gefragt hätte.
+Die Liste war länger, als sich ihre eigene Geschichte über ihre Entscheidungen angefühlt hatte.
 
-Der spätere Verlauf war unauffällig. Eva schloss ihn. Nächster. Auch kaum Erinnerung.
+Eva legte das Übergabeblatt daneben.
 
-Ein Ressourcenfall. Ihr Patient hatte lokal den gewünschten Verlauf genommen. Eva konnte sich an das Bett nicht erinnern, nur an eine kurze Diskussion im Team.
+Drei aus einer viel größeren Gruppe.
 
-Sie öffnete die verbundweite Folge nicht.
+Sie begann oben.
 
-Noch nicht.
+Bei manchen Kennungen kam sofort ein Bild. Ein Patient, der nach einer Eskalationsentscheidung ruhiger geatmet hatte. Eine Frau, deren Verlauf sich genau in die Richtung entwickelt hatte, die Eva erwartet hatte. Ein Ressourcenfall, bei dem das Team ihr später gedankt hatte, weil sie die Kapazität lokal gehalten hatte.
 
-Das sollte Jan tun, mit denselben Regeln für alle Fälle.
+Andere Kennungen blieben leer.
 
-Eva bemerkte, wie stark der Impuls war, vorher zu prüfen, was sie erwartete.
+Eva wusste, dass sie entschieden hatte. Sie erinnerte sich nur nicht mehr an den Menschen.
 
-Sie zwang sich, weiterzugehen. Dritter Fall. Den kannte sie.
+Das störte sie stärker als eine schlechte Zahl.
 
-Ein guter Override, hätte sie vor einer Stunde gesagt.
+Sie markierte nicht, was gut oder schlecht gewesen war. Sie setzte nur einen kleinen Punkt neben jede Kennung, zu der ihr ohne Nachschlagen sofort ein Gesicht oder ein Verlauf einfiel.
 
-Der Patient war besser geworden.
+Am Ende waren die Punkte ungleich verteilt.
 
-Eva legte die Hand vom Touchpad weg.
+Fast alle lagen bei Fällen mit sichtbarem lokalen Ausgang.
 
-Genau solche Fälle würden entscheiden, ob ihre Erinnerung etwas taugte.
+Der Cold-Open-Fall bekam natürlich einen Punkt.
 
-Sie öffnete eine leere Nachricht an Jan.
+Eva sah die Kennung lange an.
 
-Zuerst schrieb sie:
+Ihr Patient. Respiratorische Erschöpfung. Intensivaufnahme. Stabilisierung.
 
-**Bitte meine Overrides auswerten.**
+Dann Laura Bergs Vater. Nicht als eigene Kennung in Evas Erinnerung, weil Eva ihn in jener Nacht nicht als Person erlebt hatte. Seine Verzögerung hatte erst später einen Namen bekommen.
 
-Zu weich.
+Eva nahm einen zweiten Stift und schrieb neben den Cold-Open-Fall:
 
-Sie löschte den Satz.
+**Nord mitprüfen.**
 
-Dann:
+Dann ging sie die anderen markierten Ressourcenfälle durch.
 
-**Nimm meine komplette relevante Fallgruppe. Fallmixbereinigt. High confidence separat. Entscheidungsklassen sichtbar. Keine Auswahl durch mich.**
+Bei mehreren wusste sie sofort, was mit dem Patienten vor ihr passiert war. Was dieselbe Entscheidung im Verbund ausgelöst hatte, wusste sie nicht aus dem Kopf.
 
-Darunter setzte sie:
+Vielleicht war dort nichts Relevantes gewesen.
 
-**Ich will wissen, ob meine Abweichungen in vergleichbaren Situationen tatsächlich besser, gleichwertig oder schlechter waren.**
+Vielleicht doch.
 
-Eva las den Text.
+Genau das war die Frage.
 
-Sie hätte ihn abschwächen können.
+Eva rief Jan nicht an. Sie ging in die Diagnostik, wo er noch an einem Besprechungstisch saß und Unterlagen zusammenpackte.
 
-*Explorativ.*
+Er sah die vier Seiten in ihrer Hand.
 
-*Nur zur Einordnung.*
+„Das sieht nach Arbeit aus.“
 
-*Keine personenbezogene Bewertung.*
+Eva legte ihm die vollständige Liste hin. Das kleine Blatt mit den drei handverlesenen Fällen behielt sie noch.
 
-Alles Begriffe, mit denen man sich später erklären konnte, dass ein Ergebnis nie wirklich gegen einen selbst gerichtet gewesen war.
+„Nimm meine komplette relevante Fallgruppe. Fallmixbereinigt. High confidence separat. Entscheidungsklassen sichtbar. Keine Auswahl durch mich.“
 
-Sie schrieb keinen davon. Stattdessen öffnete sie die Auswahl der Empfänger. Miriam setzte sie in Kopie. Eva hielt inne.
+Jan überflog die erste Seite.
 
-Der Schritt machte aus der privaten Gegenprobe einen institutionell sichtbaren Auftrag.
+„Was willst du als Ergebnis?“
 
-Sie schickte die Nachricht trotzdem. Für einige Sekunden passierte nichts. Eva sah wieder auf die Liste. Ihr Name stand über jeder Zeile. Nicht als Beschuldigte. Als Entscheiderin. Miriams Antwort kam zuerst.
+„Kein gewünschtes.“
 
-**Einverstanden. Keine Vorgabe ans Ergebnis.**
+„Das ist nicht dasselbe wie eine Fragestellung.“
 
-Eva musste lächeln.
+Eva musste kurz lächeln. „Ich will wissen, ob meine Abweichungen in vergleichbaren Situationen tatsächlich besser, gleichwertig oder schlechter waren. Und bei Ressourcenentscheidungen will ich die verbundweite Folge, nicht nur meinen lokalen Ausgang.“
 
-Typisch Miriam. Ein Satz, der gleichzeitig Zustimmung und Warnung war.
+Jan nickte langsam.
 
-Jan schrieb wenige Minuten später.
+„Miriam?“
 
-**Verstanden. Ich definiere die Kohorte transparent und schicke dir die Auswertung mit Grenzen, nicht nur die Kennzahl.**
+„In Kopie. Mit denselben Regeln.“
 
-Eva antwortete nicht sofort. Sie öffnete den Cold-Open-Fall. Lokaler Verlauf. Intensivaufnahme. Stabilisierung.
+Eva legte das Übergabeblatt mit den drei Kennungen neben die vollständige Liste.
 
-Sie kannte die zweite Seite inzwischen ebenfalls. Nord. Verzögerung. Tod. Gegenverlauf offen.
+Jan sah darauf.
 
-Dieser Fall allein konnte ihre Frage nicht beantworten.
+„Was ist das?“
 
-Das war fast beruhigend.
+„Die Auswertung, die ich dir gegeben hätte, wenn ich nach Erinnerung ausgewählt hätte.“
 
-Wenn ihre guten Overrides wirklich gut waren, würde eine saubere Auswertung das zeigen.
+Er las die drei Fälle.
 
-Wenn die schlechten Ausgänge nur zufällig stärker dokumentiert waren, würde auch das sichtbar werden.
+„Alle gut ausgegangen?“
 
-Wenn Eva aber systematisch die Erfolge vor ihrem eigenen Bett erinnerte und die Kosten außerhalb ihres Blickfelds vergaß, dann würde die Bereinigung genau dort schmerzen.
+„Lokal, soweit ich mich erinnere.“
 
-Sie scrollte noch einmal durch die Liste.
+Jan schob das kleine Blatt zurück zu ihr. „Dann behalt es.“
 
-Bei manchen Fällen hatte sie sofort ein Gesicht vor Augen.
+„Warum?“
 
-Bei anderen nur eine Fallkennung.
+„Damit du später vergleichen kannst, was du erinnert hast und was die vollständige Gruppe zeigt.“
 
-Vielleicht war das bereits ein Teil des Problems.
+Eva steckte es in ihre Kitteltasche.
 
-Erfahrung war kein neutrales Archiv. Erfahrung erinnerte, was Eindruck hinterlassen hatte.
+Auf dem Rückweg traf sie Nele wieder. Sie stand an einem Medikamentenwagen und unterschrieb etwas.
 
-Der Patient, der sich nach Evas Override sichtbar stabilisierte, hinterließ Eindruck.
+„Und?“ fragte Nele.
 
-Eine verzögerte Versorgung an einem anderen Standort oft nicht.
+Eva verstand sofort, was sie meinte.
 
-Eva schloss das Register.
+„Meine drei Beweise waren drei Fälle, die ich gern erinnere.“
 
-Sie war sich ziemlich sicher, was die Analyse zeigen würde.
+Nele verzog den Mund. „Nicht überraschend.“
 
-Das war der Grund, warum sie sie wollte.
+„Nein.“
 
-Und zum ersten Mal auch der Grund, warum sie kurz davor zurückschreckte.
+Eva ging weiter.
 
-Sie nahm die Hand vom Touchpad.
+Das war das Unangenehme.
 
-Die Frage war gestellt.
+Sie hatte erwartet, dass ihre Erfahrung gegen eine personenbezogene Statistik verteidigt werden müsste. Noch bevor Jan eine Zahl gerechnet hatte, zeigte ihr die eigene Auswahl bereits, warum Erfahrung kein neutrales Archiv war.
 
-Und sie gehörte ihr.
+Sie erinnerte die Patienten, deren Veränderung sie gesehen hatte.
+
+Die Folgen außerhalb ihres Blickfelds mussten erst zu ihr gebracht werden.
+
+Die vollständige Liste lag jetzt bei Jan.
+
+Das kleine Blatt mit den drei Lieblingsbeweisen trug Eva selbst.
