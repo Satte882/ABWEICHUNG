@@ -1,104 +1,290 @@
 # Prosa – S038
 
 scene_id: S038
-prose_status: full_manuscript_draft
+prose_status: expansion_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Die Nachricht aus dem anderen Standort kam später.
+Die Nachricht aus Nord kam später.
 
-Eva hatte inzwischen geduscht und dieselben Sachen wieder angezogen. Sie saß in ihrem Büro, ohne wirklich zu arbeiten.
+Eva hatte inzwischen geduscht und dieselben Sachen wieder angezogen.
 
-Auf dem Bildschirm erschien der Verlaufsbericht.
+Sie saß in ihrem Büro.
 
-Sie öffnete ihn nicht sofort.
+Vor ihr stand ein Becher Kaffee, den sie nicht angerührt hatte.
 
-Dann tat sie es.
+Auf dem Bildschirm lagen drei offene Fenster. Dienstplan. Eine Rückfrage aus der Station. Der lokale Fall.
 
-Der septische Patient hatte die Intensivkapazität erhalten.
+Eva arbeitete in keinem davon.
 
-Zeitgerechte Aufnahme.
+Dann erschien die Verbundmeldung.
 
-Weitere Behandlung.
+**Verlaufsupdate Falkenried Nord verfügbar.**
 
-Der Kreislauf hatte sich unter der intensivmedizinischen Versorgung stabilisiert.
+Sie sah die Zeile.
+
+Ihr erster Impuls war, das Fenster zu schließen.
+
+Nicht aus Gleichgültigkeit.
+
+Aus Erschöpfung.
+
+Der Patient im eigenen Haus war vor wenigen Stunden gestorben. Eva hatte sein Gesicht vor sich, sobald sie die Augen schloss.
+
+Nord war weit weg.
+
+Sie konnte den Bericht morgen lesen.
+
+Eva wusste, dass genau dieser Gedanke der falsche war.
+
+Sie öffnete die Meldung.
+
+Der septische Patient hatte die priorisierte Intensivkapazität rechtzeitig erhalten.
+
+Aufnahme.
+
+Kreislaufunterstützung.
+
+Weitere Diagnostik.
+
+Therapieanpassung.
+
+Eva scrollte langsam.
+
+Der Vasopressorbedarf war zunächst weiter gestiegen.
+
+Dann stabilisierte sich der Kreislauf.
+
+Weitere Werte besserten sich.
+
+Keine Wunderwendung.
+
+Kein Satz, der den Konflikt rückwirkend einfach machte.
+
+Nur ein schwer kranker Patient, der auf die intensivmedizinische Behandlung reagiert hatte.
 
 Eva scrollte weiter.
 
-Der Patient lebte.
+Der aktuelle Status stand am Ende.
 
-Sie blieb bei der Zeile.
+**Lebend. Kreislauf stabilisiert. Weitere intensivmedizinische Behandlung.**
 
-Keine Triumphmeldung. Kein Vergleich mit Zentral. Nur ein klinischer Verlauf.
+Eva blieb auf der Zeile.
 
-Eva las ihn von oben nach unten.
+Sie las sie ein zweites Mal.
 
-Sie suchte unwillkürlich nach einem Satz, der die Sache weniger eindeutig machte.
+Dann ein drittes.
 
-Nicht weil sie wollte, dass der Mann schlechter dastand.
+Kein Triumph.
 
-Weil der andere Ausgang sich anfühlte wie ein Urteil über den Tod in ihrem eigenen Haus.
+Keine Bemerkung zu Zentral.
 
-Das war er nicht.
+Kein Vergleich.
 
-Der überlebende Patient bewies nicht, dass KORA immer recht hatte.
+Nur der Verlauf eines Patienten.
 
-Er bewies auch nicht, dass Evas lokaler Patient bei einer anderen Ressourcenentscheidung sicher gestorben oder sicher gerettet worden wäre.
+Eva lehnte sich zurück.
 
-Ein einzelner Verlauf blieb ein einzelner Verlauf.
+Der erste Gedanke war unangenehm menschlich.
 
-Eva kannte diese Sätze inzwischen.
+Sie suchte nach einer Einschränkung.
 
-Trotzdem durfte sie den Ausgang auch nicht kleinreden.
+Etwas, das den Ausgang weniger schwer gegen den Tod im eigenen Haus stellte.
 
-Der Mann hatte die Ressource bekommen, die KORA für ihn priorisiert hatte.
+War der Patient vielleicht ohnehin stabiler gewesen?
 
-Er war rechtzeitig intensivmedizinisch versorgt worden.
+Nein.
 
-Er hatte überlebt.
+War die Aufnahme vielleicht doch verzögert?
 
-Eva schloss die Augen.
+Nicht relevant genug, um die Grundfolge zu verändern.
 
-Vor ihr erschien der lokale Patient.
+War die Prognose vielleicht trotz Behandlung weiterhin schlecht?
 
-Die erschöpfte Atmung. Die Hand. Das Bettgitter nach seinem Tod.
+Möglich.
 
-Dann zwang sie sich, den anderen Verlauf nicht aus dem Kopf zu schieben.
+Aber er lebte.
 
-Von ihm hatte sie weder eine Hand in Erinnerung noch ein Gesicht. Trotzdem war dort ein Mensch, der weiterlebte.
+Eva merkte, was sie tat.
 
-Zum ersten Mal hatte sie beide Enden derselben Entscheidung gleichzeitig, nicht erst Monate später in einer Statistik oder als abstrakte Externalität.
+Sie suchte nicht nach medizinischer Wahrheit.
 
-Einen Tod, den sie gesehen hatte.
+Sie suchte Entlastung.
 
-Ein Überleben, das außerhalb ihres Blickfelds stattgefunden hatte.
+Sie stand auf und ging zum Fenster.
 
-Eva öffnete die Verbundansicht und legte beide Verläufe nebeneinander.
+Unten fuhr ein Rettungswagen vom Hof.
 
-Sie blieb lange davor sitzen.
+Ein zweiter wartete bereits.
 
-Als Miriam später anrief, fragte sie nur: „Hast du Nord gesehen?“
+Eva dachte an den lokalen Patienten.
+
+An die letzten Atemzüge.
+
+An das Bettgitter.
+
+An den Moment, in dem der Monitor still geworden war.
+
+Der andere Verlauf fühlte sich daneben fast ungehörig an.
+
+Als dürfe ein Mensch nicht überleben, während derjenige, den Eva gesehen hatte, starb.
+
+Eva ging zurück zum Schreibtisch.
+
+Sie las den Bericht von oben nach unten.
+
+Diesmal ohne nach einer Schwachstelle zu suchen.
+
+Der Patient war schwer krank gewesen.
+
+KORA hatte ihn priorisiert.
+
+Die Intensivkapazität war zugewiesen worden.
+
+Er hatte die Versorgung rechtzeitig erhalten.
+
+Sein Kreislauf hatte sich stabilisiert.
+
+Er lebte.
+
+Das war die beobachtbare Kette.
+
+Mehr nicht.
+
+Aber auch nicht weniger.
+
+Eva schloss den Bericht nicht.
+
+Der Ausgang bewies nicht, dass KORA immer recht hatte.
+
+Ein einzelner geretteter Patient machte aus einem Modell keine moralische Instanz.
+
+Er bewies auch nicht, dass der lokale Patient bei der anderen Entscheidung sicher überlebt hätte.
+
+Niemand kannte diese alternative Vergangenheit.
+
+Eva kannte die Sätze.
+
+Sie hatte sie selbst oft genug benutzt.
+
+Diesmal mussten sie in beide Richtungen gelten.
+
+Sie durfte den Tod vor ihr nicht zum Beweis gegen KORA machen.
+
+Und sie durfte das Überleben in Nord nicht als bedeutungslosen Zufall abtun, nur weil es ihr wehtat.
+
+Eva öffnete den lokalen Verlauf.
+
+Die beiden Fenster lagen nebeneinander.
+
+Zentral.
+
+Nord.
+
+Links endete die Kurve.
+
+Rechts lief sie weiter.
+
+Eva sah lange darauf.
+
+So hatte KORA die Entscheidung von Anfang an dargestellt.
+
+Zwei Patienten.
+
+Zwei Risiken.
+
+Eine Ressource.
+
+Nur hatte Eva diese Gleichzeitigkeit früher nie wirklich erlebt.
+
+Beim ersten Konflikt war der andere Patient später gekommen.
+
+Als Statistik.
+
+Als Audit.
+
+Als Tochter in einem Besprechungsraum.
+
+Jetzt lagen beide Enden derselben Entscheidung gleichzeitig vor ihr.
+
+Der Patient, dessen Tod sie gesehen hatte.
+
+Der Patient, dessen Überleben außerhalb ihres Blickfelds stattgefunden hatte.
+
+Eva wusste nichts über das Gesicht des Mannes in Nord.
+
+Nicht, ob jemand bei ihm gewesen war.
+
+Nicht, ob er Familie hatte.
+
+Nicht, ob er später verstehen würde, wie knapp die Ressource gewesen war, die ihn erreicht hatte.
+
+Sie wusste nur, dass er weiterlebte.
+
+Zum ersten Mal reichte ihr das, um ihn nicht wieder zu einer Kurve werden zu lassen.
+
+Ihr Telefon klingelte.
+
+Miriam.
+
+Eva nahm ab.
 
 „Ja.“
 
-„Wir machen die Aufarbeitung morgen.“
+„Hast du Nord gesehen?“
 
-Eva sah auf die zwei Fenster.
+„Ja.“
+
+Am anderen Ende blieb es kurz still.
+
+„Wir machen die formale Aufarbeitung morgen.“
+
+Eva sah auf die zwei Verläufe.
 
 „Gut.“
+
+„Du musst heute nichts mehr vorbereiten.“
+
+Eva reagierte fast mit einem Lachen.
+
+„Ich weiß.“
 
 „Eva?“
 
 „Was?“
 
-Miriam schwieg kurz.
+Miriam schwieg.
+
+Vielleicht suchte sie nach einem Satz.
+
+Vielleicht entschied sie sich dagegen.
 
 „Nichts.“
 
-Eva beendete das Gespräch.
+Eva legte auf.
 
-Auf dem Bildschirm standen beide Patienten weiter nebeneinander.
+Sie blieb noch am Schreibtisch.
 
-Diesmal schloss sie keinen von beiden.
+Der lokale Verlauf links.
+
+Nord rechts.
+
+Sie dachte wieder an die Frage, ob ihre Entscheidung richtig gewesen war.
+
+Die Antwort kam nicht.
+
+Vielleicht würde sie nie in der Form kommen, die Menschen gern hätten.
+
+Ein Ausgang konnte eine Entscheidung plausibler machen.
+
+Er konnte sie nicht rückwirkend eindeutig machen.
+
+Eva schloss den Dienstplan.
+
+Dann die Stationsrückfrage.
+
+Die beiden Patienten ließ sie offen.
+
+Diesmal keinen nur deshalb, weil sie ihn nicht gesehen hatte.

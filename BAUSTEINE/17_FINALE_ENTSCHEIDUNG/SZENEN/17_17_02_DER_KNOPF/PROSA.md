@@ -1,7 +1,7 @@
 # Prosa – S036
 
 scene_id: S036
-prose_status: full_manuscript_draft
+prose_status: expansion_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -11,9 +11,13 @@ Der Knopf war da.
 
 **SOLO-BREAK-GLASS**
 
-Eva musste nichts freischalten. Niemanden anrufen. Keine Begründung vorab genehmigen lassen.
+Eva musste nichts freischalten.
 
-Ein Druck, eine Bestätigung, und die Kapazität würde in Zentral bleiben.
+Niemanden anrufen.
+
+Keine Begründung vorab genehmigen lassen.
+
+Ein Klick, eine Bestätigung, und die Intensivkapazität würde in Zentral bleiben.
 
 So hatte sie es verlangt.
 
@@ -21,144 +25,378 @@ Hinter ihr verschlechterte sich der Patient weiter.
 
 „Eva?“
 
-Sie hob die Hand, ohne sich umzudrehen.
+Die Pflegekraft stand am Bett.
+
+Eva hob die Hand.
 
 „Eine Sekunde.“
 
-Es gab keine Sekunde.
+Die Worte klangen falsch, sobald sie ausgesprochen waren.
 
-Das war die Lüge, die Zeitdruck einem immer erzählte. Dass Prüfen bereits Versagen sei. Dass jede Verzögerung automatisch gegen den Patienten vor einem arbeite.
+Es gab keine sichere Sekunde.
 
-Eva sah auf die beiden Verläufe.
+Das war die Wahrheit.
+
+Die andere Wahrheit war, dass Zeitdruck jede Prüfung wie Zögern aussehen ließ.
+
+Eva kannte diesen Mechanismus. Im Notfall fühlte sich Nachdenken schnell wie Unterlassen an. Jede zusätzliche Frage konnte sich anfühlen, als nehme sie dem Patienten etwas weg.
+
+Sie sah auf den Break-glass.
+
+Der Weg war genau für solche Situationen gebaut worden.
+
+Akut.
+
+Keine zweite Person verfügbar oder keine Zustimmung.
+
+Der Arzt konnte handeln.
+
+Sofort.
+
+Eva hätte nur drücken müssen.
+
+Sie öffnete noch einmal die medizinische Gegenüberstellung.
+
+Nicht weil Nele schlecht geprüft hatte.
+
+Weil die Entscheidung jetzt wieder allein bei ihr lag.
+
+Links der lokale Patient.
+
+Schwere hypoxämische respiratorische Insuffizienz.
+
+Nichtinvasive Unterstützung ausgeschöpft.
+
+Erschöpfung.
+
+Verzögerte Reaktion.
+
+Rechts Nord.
+
+Septischer Schock.
+
+Zunehmender Vasopressorbedarf.
+
+Weitere Organdysfunktion drohend.
+
+KORA priorisierte Nord mit hoher Konfidenz.
+
+Eva öffnete die lokalen Einflussfaktoren.
+
+Sie suchte nicht nach einem Wort.
+
+Sie suchte nach etwas, das sie einem anderen Arzt zeigen könnte.
+
+Ein Befund.
+
+Eine Entwicklung.
+
+Ein fehlender Wert.
+
+Etwas, das die Rechnung veränderte.
+
+Die letzten Blutgase waren da.
+
+Die klinische Verschlechterung war da.
+
+Die aktuelle Atemarbeit war dokumentiert.
+
+Die Reaktionsverzögerung ebenfalls.
+
+Eva scrollte zurück.
 
 Noch einmal.
 
-Lokaler Patient: schwere respiratorische Insuffizienz trotz ausgeschöpfter nichtinvasiver Unterstützung.
+Nichts.
 
-Entfernter Patient: septischer Schock, zunehmender Vasopressorbedarf, drohende weitere Organdysfunktion.
+Sie ging zum Bett.
 
-KORA: hohe Konfidenz für den entfernten Patienten.
+Der Patient hatte die Augen geschlossen.
 
-Eva öffnete die medizinischen Einflussfaktoren erneut.
+„Herr Weber.“
 
-Es musste etwas geben.
+Keine Reaktion.
 
-Ein Detail, das im Gesamtbild zu klein geworden war. Ein klinischer Befund, der am Bett mehr Bedeutung hatte als im Modell. Eine Entwicklung der letzten Minuten.
+Eva berührte seine Schulter.
 
-Sie verglich alles.
+„Herr Weber, Augen auf.“
 
-Nichts fehlte.
+Die Lider hoben sich langsam.
 
-Keine neue Information.
+Er sah sie nicht sofort an.
 
-Keine falsch erfasste Entwicklung.
+„Bei mir bleiben.“
 
-Kein Widerspruch zwischen dem Patienten vor ihr und dem, was KORA über ihn wusste.
+Ein schwaches Nicken.
 
-Eva wechselte zum Wert-/Kontextweg.
+Die Pflegekraft sagte: „Wir können das nicht lange so halten.“
+
+Eva sah auf den Monitor.
+
+„Ich weiß.“
+
+„Anästhesie ist bereit.“
+
+„Gut.“
+
+„Aber ohne Bett?“
+
+Eva antwortete nicht.
+
+Sie untersuchte den Patienten erneut.
+
+Kein überraschender Befund.
+
+Keine medizinische Information, die KORA nicht hatte.
+
+Nur dieselbe Dringlichkeit, die sie bereits kannte.
+
+Sie ging zurück zum Bildschirm.
+
+Der medizinische Weg blieb leer.
+
+Eva öffnete den Wert-/Kontextweg.
 
 Patientenwille.
 
-Kein relevanter abweichender Wille dokumentiert.
+Volle Behandlung.
 
 Therapieziel.
 
-Kein Faktor, der die Ressourcenentscheidung anders machte.
+Keine Begrenzung.
 
-Behandlungsbelastung.
+Besondere patientenspezifische Belastung.
 
-Kein patientenspezifischer Grund außerhalb der bereits bewerteten medizinischen Lage.
+Nichts, das den Ressourcenkonflikt veränderte.
 
-Kontext.
+Sie sah auf das Freitextfeld.
 
-Da war er.
+Ihr Cursor blinkte darin.
 
-Der Patient lag vor ihr.
+Eva setzte die Hände auf die Tastatur.
 
-Sie war seine Ärztin.
+Sie schrieb:
 
-Ihr Team wartete auf ihre Entscheidung.
+**Unmittelbare Verantwortung für den lokal behandelten Patienten bei fortschreitender Verschlechterung.**
 
-Sie konnte seine Atmung hören.
+Sie las den Satz.
 
-Der andere Patient war wieder nur ein Verlauf auf einem Display.
+Dann löschte sie ihn.
 
-Eva schloss das Feld.
+Genau dieser Grund war geprüft worden.
 
-Neles Stimme war noch in ihrem Kopf.
+Genau dieser Grund sollte allein nicht reichen.
 
-*Deshalb haben wir die Regel.*
+Sie schrieb einen zweiten Satz.
 
-Eva sah den Break-glass an.
+**Langjährige klinische Erfahrung spricht dafür, die sichtbare respiratorische Erschöpfung höher zu gewichten.**
 
-Er war nicht gesperrt.
+Eva hielt inne.
 
-Keine rote Warnung sagte *unzulässig*.
+Klinische Erfahrung.
 
-Nur der Hinweis, den sie kannte.
+Höher gewichten.
+
+Das war wieder ein Prognosewiderspruch.
+
+Wenn ihre Erfahrung medizinisch etwas anderes sah, musste sie benennen, was.
+
+Sie konnte es nicht.
+
+Sie löschte auch diesen Satz.
+
+Hinter ihr sagte jemand: „Sättigung fällt.“
+
+Eva drehte sich um.
+
+Der Wert sank.
+
+Die Pflegekraft korrigierte den Sitz der Maske.
+
+Der Patient reagierte kaum.
+
+Evas Körper wollte zum Bett.
+
+Ihre Hand blieb noch auf der Maus.
+
+Der Break-glass stand weiter offen.
 
 **Unmittelbare Abweichung. Automatische persönliche Nachprüfung.**
 
-Das war der Preis, den Miriam genannt hatte.
+Eva öffnete den Hinweis.
 
-Institutionell teuer.
+Sie kannte ihn aus dem Test.
 
-Eva wusste, dass sie später vor einem Review sitzen würde. Dass ihre Entscheidung markiert wäre. Dass jeder fragen würde, welcher Grund stark genug gewesen war, eine high-confidence Empfehlung ohne Zweitfreigabe zu übergehen.
+Die Abweichung würde sofort wirksam.
 
-Sie könnte damit leben.
+Die damalige Datenlage würde eingefroren.
 
-Das war nicht der Punkt.
+Der Reviewfall würde automatisch erstellt.
 
-Wenn sie einen Grund hätte, würde sie drücken.
+Ihr Name würde dort stehen.
 
-Der Gedanke kam klar und ohne Pathos.
+Sie wusste, wie die Nachprüfung aussehen würde.
 
-Sie hatte den Mechanismus genau dafür verlangt.
+Miriam.
 
-Nur hatte sie keinen Grund, der über das hinausging, was sie mit eigenen Händen als unzureichend in die Regel geschrieben hatte.
+Vielleicht Nele.
 
-Nähe.
+Vielleicht ein anderes Gremium.
 
-Behandlerbindung.
+Fragen nach dem Grund.
 
-Unmittelbares Verantwortungsgefühl.
+Nach der medizinischen Lücke.
 
-Eva drehte sich zum Bett.
+Nach dem patientenspezifischen Wert.
+
+Nach dem Moment, in dem Eva allein entschieden hatte.
+
+Eva stellte sich vor, den Knopf zu drücken.
+
+Der lokale Patient bekäme die Kapazität.
+
+Das Team würde handeln.
+
+Der Patient in Nord bliebe in der Übergangsversorgung.
+
+Vielleicht würde er sich verschlechtern.
+
+Vielleicht überleben.
+
+Vielleicht sterben.
+
+Eva wusste es nicht.
+
+Genau wie beim ersten Mal.
+
+Sie stellte sich den Review vor.
+
+*Warum hast du den Break-glass benutzt?*
+
+Die Antwort wäre nicht schwierig zu formulieren.
+
+*Weil der Patient vor mir lag und ich ihn nicht verlieren wollte.*
+
+Eva schloss die Augen.
+
+Der Satz war wahr.
+
+Er reichte nicht.
+
+Das war der Unterschied.
+
+Sie hatte keine Angst vor dem Review.
+
+Wenn sie einen tragfähigen Grund gehabt hätte, hätte sie gedrückt und später jeden Satz verteidigt.
+
+Die persönliche Markierung war nicht das Hindernis.
+
+Die Regel war nicht das Hindernis.
+
+Nele war nicht das Hindernis.
+
+Eva selbst fand keinen Grund, der die Abweichung trug.
+
+Sie öffnete die Augen.
+
+Der Knopf war noch da.
+
+Niemand hatte ihn entfernt.
+
+Niemand hatte die Freiheit technisch geschlossen.
+
+Die Beweislast war nur bei ihr geblieben.
+
+„Eva.“
+
+Diesmal war es der Anästhesist.
+
+„Wir brauchen die Entscheidung.“
+
+Eva ging zum Bett.
+
+Sie stellte sich ans Kopfende.
 
 Der Patient sah sie nicht mehr an. Seine ganze Aufmerksamkeit lag auf dem nächsten Atemzug.
 
-Sie ging zu ihm.
+Eva beugte sich zu ihm.
 
-„Wir behandeln Sie weiter. Wir hören nicht auf.“
+„Wir behandeln Sie weiter.“
+
+Keine sichtbare Reaktion.
+
+„Wir hören nicht auf.“
 
 Die Pflegekraft sah Eva an.
 
 „Der Platz?“
 
-Eva spürte die Antwort körperlich, bevor sie sie sagte.
+Eva spürte die Antwort zuerst im Brustkorb.
 
-„Geht an den anderen Standort.“
+Ein Druck.
+
+Ein inneres Nein gegen das, was sie gleich sagen würde.
+
+Sie sagte es trotzdem.
+
+„Geht nach Nord.“
 
 Einen Moment bewegte sich niemand.
 
 Dann nickte die Pflegekraft.
 
-Eva ging zurück zum Display.
+Kein Kommentar.
 
-Der Break-glass stand noch offen.
+Keine moralische Bewertung.
 
-Sie schloss das Fenster.
+Nur die nächste medizinische Aufgabe.
+
+„Dann brauchen wir den Überbrückungsplan jetzt.“
+
+Eva nickte.
+
+„Ja.“
+
+Sie ging zurück zum Display.
+
+Der Break-glass stand weiter offen.
+
+Eva legte den Cursor darauf.
+
+Nicht um zu klicken.
+
+Nur um zu sehen, wie wenig zwischen Möglichkeit und Handlung lag.
+
+Ein Zentimeter auf dem Bildschirm.
+
+Sie nahm die Hand weg.
+
+Dann schloss sie das Fenster.
 
 **Priorisierung bestätigen?**
 
-Eva bestätigte.
+Eva sah noch einmal auf Nord.
 
-Die Kapazität wurde dem entfernten Patienten zugewiesen.
+Dann auf den Patienten hinter sich.
 
-Auf der lokalen Seite wechselte der Status auf weitere Überbrückungsversorgung.
+Sie bestätigte.
+
+Die Kapazität wurde Falkenried Nord zugewiesen.
+
+Auf der lokalen Seite wechselte der Status.
+
+**Überbrückungsversorgung fortsetzen.**
+
+Der Anästhesist begann mit dem Team den nächsten Schritt zu planen.
+
+Eva blieb eine Sekunde am Bildschirm.
 
 Der Knopf war bis zum letzten Moment da gewesen.
 
-Eva hatte ihn nicht benutzt.
+Sie hatte ihn nicht benutzt.
 
 Niemand hatte ihr die Entscheidung abgenommen.
+
+Das machte die Entscheidung nicht leichter.
+
+Es machte sie nur vollständig zu ihrer.
