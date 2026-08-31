@@ -1,7 +1,7 @@
 # Prosa – S005
 
 scene_id: S005
-prose_status: expansion_rework
+prose_status: final_rhythm_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -9,23 +9,13 @@ source_beats: `BEATS.md`
 
 Die Linie auf dem Bildschirm verband zwei Krankenhäuser.
 
-Eva hatte den Fall bisher nur von ihrer Seite gesehen.
-
-Zentral: ihr Patient. Verschlechterung. Override. Intensivkapazität gebunden. Intubation. Stabilisierung.
-
-Die Zeitleiste war fast vertraut. Eva kannte einzelne Uhrzeiten bereits aus dem Morgenreview. Sie wusste, wann die Blutgase gekommen waren, wann sie das Override bestätigt hatte und wann der Patient auf Intensiv übernommen worden war.
+Bisher hatte Eva den Fall nur von ihrer Seite gesehen: ihr Patient in Zentral, die Verschlechterung, das Override, die gebundene Intensivkapazität, Intubation und Stabilisierung. Die Zeitleiste war fast vertraut. Einzelne Uhrzeiten kannte sie bereits aus dem Morgenreview – wann die Blutgase gekommen waren, wann sie das Override bestätigt hatte und wann der Patient auf Intensiv übernommen worden war.
 
 Miriam zog die Ansicht weiter nach rechts.
 
-„Bis hierhin kennen wir deine Seite.“
+„Bis hierhin kennen wir deine Seite. Jetzt ergänzen wir die Ressourcenkette.“
 
-„Ja.“
-
-„Dann ergänzen wir jetzt die Ressourcenkette.“
-
-Unter der ersten Linie erschien Falkenried Nord.
-
-Eva rückte den Stuhl näher an den Bildschirm.
+Unter der ersten Linie erschien Falkenried Nord. Eva rückte den Stuhl näher an den Bildschirm.
 
 „Was genau ist das?“
 
@@ -33,99 +23,45 @@ Eva rückte den Stuhl näher an den Bildschirm.
 
 „Das sehe ich.“
 
-Miriam ignorierte die Spitze. Sie vergrößerte den Zeitraum um Evas Entscheidung.
+Miriam ignorierte die Spitze und vergrößerte den Zeitraum um Evas Entscheidung. Oben Zentral, unten Nord. Die beiden Verläufe liefen zunächst unabhängig voneinander und trafen dann auf denselben Zeitpunkt.
 
-Oben Zentral. Unten Nord.
+KORA-Konflikt erkannt. Letzte unmittelbar verfügbare voll belegbare Intensivkapazität. Priorität Nord. Override Zentral. Kapazität gebunden.
 
-Die beiden Verläufe liefen zunächst unabhängig voneinander. Dann erreichten sie denselben Zeitpunkt.
+Eva kannte jedes dieser Wörter. Untereinander sahen sie anders aus.
 
-KORA-Konflikt erkannt.
-
-Letzte unmittelbar verfügbare voll belegbare Intensivkapazität.
-
-Priorität Nord.
-
-Override Zentral.
-
-Kapazität gebunden.
-
-Eva kannte jedes dieser Worte. Untereinander sahen sie anders aus.
-
-Miriam ließ den Cursor auf einem Eintrag in Nord stehen.
-
-Der Patient dort war zu diesem Zeitpunkt bereits kreislaufinstabil. Der Vasopressor lief. Das Laktat war hoch und stieg weiter. KORA hatte ihn wegen des erwarteten Nutzens einer sofortigen Intensivaufnahme und des Verzögerungsrisikos priorisiert.
+Miriam ließ den Cursor auf einem Eintrag in Nord stehen. Der Patient dort war zu diesem Zeitpunkt bereits kreislaufinstabil. Der Vasopressor lief, das Laktat war hoch und stieg weiter. KORA hatte ihn wegen des erwarteten Nutzens einer sofortigen Intensivaufnahme und des Verzögerungsrisikos priorisiert.
 
 „Und was hatten sie danach?“ fragte Eva.
 
-Miriam öffnete die lokalen Maßnahmen.
-
-Übergangsstabilisierung. Engmaschige Überwachung. Vasopressorunterstützung. Wiederholte Rücksprache mit der Intensivstation.
-
-Eva las die Liste.
+Miriam öffnete die lokalen Maßnahmen: Übergangsstabilisierung, engmaschige Überwachung, Vasopressorunterstützung und wiederholte Rücksprache mit der Intensivstation.
 
 „Die haben ihn stabilisiert.“
 
-„Überbrückt.“
+„Überbrückt“, sagte Miriam. „Mit Vasopressorunterstützung und Monitoring, ja. Aber er war noch nicht definitiv intensivmedizinisch aufgenommen.“
 
-„Er bekam Vasopressorunterstützung.“
-
-„Ja.“
-
-„Monitoring war vorhanden.“
-
-„Ja.“
-
-„Dann war er versorgt.“
+„Dann war er zumindest versorgt.“
 
 Miriam drehte sich halb zu ihr.
 
 „Eva.“
 
-Sie mochte den Ton nicht.
+Sie mochte den Ton nicht. „Was?“
 
-„Was?“
-
-„Versorgt ist nicht dasselbe wie definitiv intensivmedizinisch aufgenommen.“
-
-„Das weiß ich.“
-
-„Dann lies die Zeitachse als Zeitachse.“
+„Lies die Zeitachse als Zeitachse.“
 
 Eva tat es.
 
-Die Minuten waren zunächst klein. Zwölf. Acht. Neunzehn.
-
-Kein dramatischer roter Balken. Keine einzelne Stelle, an der man sagen konnte: hier geschah der Fehler.
-
-Nur Zeit.
-
-Ein erneuter Kapazitätscheck.
-
-Keine Freigabe.
-
-Ein weiterer Vasopressor-Schritt.
-
-Neue Laborkontrolle.
-
-Rücksprache.
-
-Noch keine definitive Aufnahme.
+Die Abstände waren zunächst klein: zwölf Minuten, acht, neunzehn. Kein dramatischer roter Balken markierte den einen Moment, an dem etwas gekippt war. Es gab nur einen erneuten Kapazitätscheck, keine Freigabe, einen weiteren Vasopressor-Schritt, eine neue Laborkontrolle, Rücksprache – und noch immer keine definitive Aufnahme.
 
 Eva scrollte langsamer.
 
-In ihrer Notaufnahme hatte dieselbe Zeit anders ausgesehen. Dort hatte sie auf jeden Atemzug gewartet und gewusst, dass der Patient vor ihr die nächste halbe Stunde vielleicht nicht in derselben Form überstehen würde.
-
-Hier war Zeit eine Reihe aus Einträgen.
-
-Sie fühlte sich harmloser an.
+In ihrer Notaufnahme hatte dieselbe Zeit anders ausgesehen. Dort hatte sie auf jeden Atemzug gewartet und gewusst, dass der Patient vor ihr die nächste halbe Stunde vielleicht nicht in derselben Form überstehen würde. Hier bestand Zeit aus Einträgen und wirkte dadurch harmloser.
 
 „Wie lange insgesamt?“
 
 Miriam nannte die Verzögerung.
 
-Eva lehnte sich zurück.
-
-„Und vorher?“
+Eva lehnte sich zurück. „Und vorher?“
 
 „Vor deiner Kapazitätsbindung wäre Nord der nächste Patient für die verfügbare Intensivressource gewesen.“
 
@@ -133,63 +69,41 @@ Eva lehnte sich zurück.
 
 „Das ist die dokumentierte Zuweisung vor deinem Override.“
 
-Eva sah auf die zwei Linien.
-
-„Das konnte ich in der Situation nicht vollständig sehen.“
+Eva betrachtete die zwei Linien. „Das konnte ich in der Situation nicht vollständig sehen.“
 
 „Richtig.“
 
-Miriam sagte es sofort.
-
-Eva wartete auf den Rest.
-
-Er kam nicht.
+Miriam ließ es dabei. Eva wartete einen Moment auf den entlastenden Nachsatz, der nicht kam.
 
 „Warum klingt das bei dir nicht wie eine Entlastung?“
 
-Miriam zog die Hände vom Laptop zurück.
+Miriam zog die Hände vom Laptop zurück. „Weil es beides ist. Eine Erklärung für deine Entscheidung und ein Problem für das System.“
 
-„Weil es beides ist. Eine Erklärung für deine Entscheidung und ein Problem für das System.“
-
-„Ich hatte einen Patienten mit drohender respiratorischer Erschöpfung direkt vor mir. Das war keine Sichtfeldverzerrung. Das war klinische Realität.“
+„Ich hatte einen Patienten mit drohender respiratorischer Erschöpfung direkt vor mir. Das war keine Sichtfeldverzerrung, das war klinische Realität.“
 
 „Bestreite ich nicht.“
 
-„Er wurde intubiert und stabilisiert.“
+„Er wurde intubiert und stabilisiert. Dann tu nicht so, als hätte ich mich von einem Gesicht täuschen lassen.“
 
-„Ja.“
-
-„Dann tu nicht so, als hätte ich mich von einem Gesicht täuschen lassen.“
-
-Miriam sah sie einen Moment an.
-
-„Das tue ich nicht.“
+Miriam hielt ihren Blick. „Das tue ich nicht.“
 
 Sie zog die beiden Verläufe auf dieselbe Höhe.
 
-„Ich sage, dass dein klinischer Eindruck real war. Und dass gleichzeitig eine Folge deiner Ressourcenentscheidung außerhalb deines Blickfelds real war.“
+„Dein klinischer Eindruck war real. Gleichzeitig hatte deine Ressourcenentscheidung eine reale Folge außerhalb deines Blickfelds.“
 
-Eva schob den Stuhl näher an den Tisch.
-
-„Das ist banal. Jede Ressourcenentscheidung hat Opportunitätskosten.“
+Eva schob den Stuhl näher an den Tisch. „Das ist banal. Jede Ressourcenentscheidung hat Opportunitätskosten.“
 
 „Bisher waren viele davon unscharf.“
 
 „Und jetzt?“
 
-Miriam tippte auf die untere Linie.
+Miriam tippte auf die untere Linie. „Jetzt sehen wir sie zeitlich.“
 
-„Jetzt sehen wir sie zeitlich.“
-
-Der Satz traf Eva härter, als er sollte.
-
-Sie scrollte zurück zum Override.
-
-Der lokale Verlauf blieb gut. Die Stabilisierung verschwand nicht, nur weil eine zweite Zeile darunterlag. Ihr Patient war nicht plötzlich die falsche Person für eine Intensivaufnahme.
+Eva scrollte zurück zum Override. Der lokale Verlauf blieb gut. Die Stabilisierung verschwand nicht, nur weil darunter eine zweite Zeile stand. Ihr Patient war dadurch nicht plötzlich die falsche Person für eine Intensivaufnahme.
 
 „Wenn wir anfangen, jede Entscheidung nach allen denkbaren Folgen im ganzen Verbund zu bewerten, entscheidet am Ende niemand mehr am Bett.“
 
-„Wir reden nicht über alle denkbaren Folgen.“ Miriam deutete auf die Chronologie. „Wir reden über eine konkrete knappe Ressource und zwei konkrete Patienten, die gleichzeitig um sie konkurrierten.“
+„Wir reden nicht über alle denkbaren Folgen.“ Miriam deutete auf die Chronologie. „Hier geht es um eine konkrete knappe Ressource und zwei konkrete Patienten, die gleichzeitig um sie konkurrierten.“
 
 „KORA bewertet verbundweit.“
 
@@ -201,19 +115,13 @@ Der lokale Verlauf blieb gut. Die Stabilisierung verschwand nicht, nur weil eine
 
 Miriam verschob die Ansicht erneut. Jetzt standen Evas klinische Notizen direkt neben den Daten aus Nord.
 
-„Aber vielleicht sieht es Dinge, die der Mensch am Bett zwangsläufig nicht gleichzeitig sehen kann.“
+„Aber vielleicht sieht es Dinge, die ein Mensch am Bett zwangsläufig nicht gleichzeitig sehen kann.“
 
-Eva betrachtete die zwei Spalten.
+Eva verglich die Spalten. Auf ihrer Seite standen der erschöpfte Mann, das leiser werdende Atemgeräusch und die verzögerte Reaktion. Auf der anderen steigender Vasopressorbedarf, hohe Laktatwerte und wiederholte Übergangsmaßnahmen.
 
-Auf ihrer Seite: erschöpfter Mann, leiser werdendes Atemgeräusch, verzögerte Reaktion.
+Beides war real. Eva hatte nur eine Seite davon erlebt.
 
-Auf der anderen: steigender Vasopressorbedarf, hohe Laktatwerte, wiederholte Übergangsmaßnahmen.
-
-Beide waren real.
-
-Der Unterschied war, dass Eva nur einen davon erlebt hatte.
-
-„Wenn ich Nord gesehen hätte“, sagte sie, „hätte ich trotzdem entscheiden müssen.“
+„Wenn ich Nord gesehen hätte, hätte ich trotzdem entscheiden müssen.“
 
 „Natürlich.“
 
@@ -221,15 +129,11 @@ Der Unterschied war, dass Eva nur einen davon erlebt hatte.
 
 „Vielleicht.“
 
-Miriam sagte es ohne Provokation.
+Miriam sagte es ohne Provokation. Gerade das störte Eva.
 
-Das war schlimmer.
+Sie stand auf und ging zum Fenster. Unten hielt ein Rettungswagen in der Zufahrt. Türen gingen auf, zwei Menschen schoben eine Liege hinein. Von hier oben sah jeder Fall gleich weit weg aus.
 
-Eva stand auf und ging zwei Schritte zum Fenster. Unten bewegten sich Fahrzeuge in der Zufahrt. Ein Rettungswagen hielt, Türen gingen auf, zwei Menschen schoben eine Liege hinein.
-
-Von hier oben sah jeder Fall gleich weit weg aus.
-
-„Ich will nicht, dass daraus eine Moralgeschichte wird“, sagte Eva.
+„Ich will nicht, dass daraus eine Moralgeschichte wird.“
 
 „Welche?“
 
@@ -239,46 +143,30 @@ Von hier oben sah jeder Fall gleich weit weg aus.
 
 „Welche dann?“
 
-Miriam sah auf den Bildschirm.
-
-„Dass du eine vernünftige Entscheidung getroffen haben kannst und sie trotzdem einen Preis hatte, den du in dem Moment kaum sehen konntest.“
+Miriam wandte sich wieder dem Bildschirm zu. „Dass du eine vernünftige Entscheidung getroffen haben kannst und sie trotzdem einen Preis hatte, den du in dem Moment kaum sehen konntest.“
 
 Eva blieb am Fenster.
 
-Sie hatte mit Schuld leichter umgehen können als mit diesem Satz. Schuld war klar. Ein Fehler. Eine falsche Handlung. Etwas, das man korrigieren konnte.
-
-Eine vernünftige Entscheidung mit unsichtbaren Kosten war komplizierter.
+Mit Schuld hätte sie leichter umgehen können. Schuld war klar: ein Fehler, eine falsche Handlung, etwas, das man korrigieren konnte. Eine vernünftige Entscheidung mit unsichtbaren Kosten ließ sich nicht so sauber einordnen.
 
 Sie setzte sich wieder.
 
 „Was passiert jetzt mit dem Fall?“
 
-Miriam markierte ihn für die vertiefte Qualitätsanalyse.
-
-„Ich will die gesamte Kette.“
+Miriam markierte ihn für die vertiefte Qualitätsanalyse. „Ich will die gesamte Kette.“
 
 Der Eintrag wurde farblich hervorgehoben.
 
 „Warum?“
 
-„Weil dein Patient stabilisiert wurde.“
+„Weil dein Patient stabilisiert wurde.“ Miriam zog den unteren Verlauf etwas weiter nach rechts. „Und weil ich wissen will, welche Wirkung dieselbe Entscheidung anderswo hatte.“
 
-Miriam zog den unteren Verlauf etwas weiter nach rechts.
+„Vorhin hast du Preis gesagt.“
 
-„Und weil ich wissen will, was dieselbe Entscheidung anderswo gekostet hat.“
+„Und du hättest zu Recht gefragt, ob ich die Kausalität schon kenne.“
 
-Eva sah auf die Markierung.
+Miriam nickte zur Chronologie. „Deshalb rekonstruieren wir sie.“
 
-„Gekostet ist schon eine Wertung.“
-
-„Dann nenn es Wirkung.“
-
-„Auch das setzt Kausalität voraus.“
-
-Miriam nickte. „Deshalb rekonstruieren wir sie.“
-
-Eva antwortete nicht.
-
-Auf dem Bildschirm liefen beide Linien weiter.
+Eva antwortete nicht. Auf dem Bildschirm liefen beide Linien weiter.
 
 Zum ersten Mal war die Entscheidung aus der Nacht größer als der Raum, in dem Eva sie getroffen hatte.
