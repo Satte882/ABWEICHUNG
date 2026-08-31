@@ -23,47 +23,18 @@ review_target: `1d717f47277d22381fdd97bd804e0e31cf09e10e`
 finding_count: 5  
 g4_readiness: REWORK_REQUIRED
 
-### MANUSCRIPT-FR-001 — scene_repetition — major
+Major-Findings:
 
-**Ort:** S008–S015, S018–S020, S023–S025, S031–S032; Schwerpunkt Mittelteil.
+1. `scene_repetition` – zu viele strukturell ähnliche Governance-/Review-Szenen.
+2. `dialogue_pattern` – Frage/Kurzantwort/Gegenfrage blieb manuskriptweit zu dominant.
 
-Über längere Strecken bleibt die wiederkehrende Form bestehen:
-
-`Daten / Regelentwurf → Eva prüft → Klärung / nächste Hürde`
-
-Trotz Prosa-Rework wirken zu viele Governance-/Review-Szenen im Ablauf ähnlich. Bett-, Konfrontations- und Notfallszenen heben sich deutlich ab, gleichen die Häufung aber nicht vollständig aus.
-
-### MANUSCRIPT-FR-002 — dialogue_pattern — major
-
-**Ort:** manuskriptweit, besonders institutionelle Szenen.
-
-Kurze Frage–Kurzantwort–Gegenfrage-Ketten bleiben zu häufig die Standardform für Eva/Miriam-, Eva/Jan- und Eva/Felix-Gespräche. Das verstärkt den Meeting-Charakter und macht Sprecher rhythmisch ähnlicher.
-
-### MANUSCRIPT-FR-003 — style_pattern — minor
-
-Wiederkehrende Blick-/Übergangsformeln (`Eva sah ...`, `Eva nickte`, `Eva wartete`) bleiben als globales Muster sichtbar. `sondern` ist weiterhin 0.
-
-### MANUSCRIPT-FR-004 — exposition — minor
-
-In mehreren Governance-Szenen folgt nach bereits verständlichem Dialog noch erklärende Zusammenfassung; SOP-/Masken-Lesungen erzeugen stellenweise Policy-Ton.
-
-### MANUSCRIPT-FR-005 — emotional_resonance — minor
-
-Finale und offener Schluss tragen logisch und thematisch. Der menschliche Nachhall bleibt im Verhältnis zur Regelarbeit etwas knapp.
-
-## Disposition Review 2
-
-Die beiden Major-Findings MANUSCRIPT-FR-001 und -002 werden als **wiederholte manuskriptweite Majors nach einem reinen Prosa-Rework** akzeptiert.
-
-Damit greift die Stop-Regel aus dem Pilot-Lesson-Learned:
+Die Majors wurden als wiederholte manuskriptweite Befunde nach einem reinen Prosa-Rework akzeptiert. Damit griff die Stop-Regel:
 
 `repeated manuscript-level major → inspect scene architecture → controlled G2 backtrack`
 
-Ein weiterer reiner Satzprosa-Pass auf unveränderter Szenenarchitektur wurde ausdrücklich verworfen.
-
 ## Kontrollierter G2-Backtrack
 
-G1-Storywahrheit, 18 Bausteine und 54 Ereignisse bleiben unverändert.
+G1-Storywahrheit, 18 Bausteine und 54 Ereignisse blieben unverändert.
 
 Szenen-/Beat-Träger wurden gezielt geändert:
 
@@ -74,18 +45,68 @@ Szenen-/Beat-Träger wurden gezielt geändert:
 - **S024:** gemeinsame Regelentwicklung → Eva entwickelt die Gegenarchitektur zuerst allein
 - **S032:** zweite Break-glass-Verhandlung → funktionaler Stresstest
 
-Die Prosa dieser Szenen wurde direkt an die geänderten Szenenkarten/Beats angepasst.
+Die Prosa dieser Szenen wurde synchron angepasst.
 
 Reiner Rework-Zielstand:
 
 `78222a7e99c80378c35379ad42684ee332a412a6`
 
-## Aktueller Status
+Der anschließende unabhängige Szenen-/Beat-Re-Review gegen genau diesen Stand ergab:
 
-**G2_REAPPROVAL_REQUIRED**
+- `CLEAN_FRESH_CONTEXT`
+- `finding_count: 0`
+- `g2_readiness: READY_FOR_REAPPROVAL`
 
-Vor einem weiteren G4-Manuskript-Review muss der geänderte Szenen-/Beat-Stand über `SCENE_FRESH_CONTEXT_TASK.md` unabhängig geprüft und anschließend erneut human G2-freigegeben werden.
+Der Stand wurde danach durch Human `G2-APPROVE` erneut als G2 / Prose Ready freigegeben.
 
-Die alten Manuskript-Findings gelten durch den Backtrack nicht automatisch als geschlossen. Nach G2-Reapproval folgt erneut ein kompletter Fresh-Context-Gesamtmanuskript-Review gegen `78222a7e99c80378c35379ad42684ee332a412a6`.
+## Review 3 – nach strukturellem Backtrack
 
-Human Gate G4 bleibt geschlossen.
+review_status: CLEAN_FRESH_CONTEXT  
+review_target: `78222a7e99c80378c35379ad42684ee332a412a6`  
+finding_count: 2  
+raw_g4_readiness: REWORK_REQUIRED
+
+### MANUSCRIPT-FR-001 — scene_repetition — vom Reviewer als major gemeldet
+
+Der Reviewer bewertet weiterhin eine zu starke institutionelle Meeting-/Review-/SOP-Dichte und nennt unter anderem S003, S004, S008–S009, S012–S015, S024–S025 und S031–S032 als Beleg.
+
+### MANUSCRIPT-FR-002 — style_pattern — minor
+
+Die zentrale Beweislast-Umkehr sowie die Unterscheidung formaler und faktischer Entscheidungsmacht werden mehrfach in ähnlicher fertiger Schlussrhetorik formuliert. Dadurch kann die finale Formulierung etwas von ihrer Überraschungskraft verlieren.
+
+## Adjudikation Review 3
+
+Ein Fresh-Context-Review liefert Befunde; die Gate-Disposition prüft anschließend, ob Severity und Rework-Ebene durch die konkrete Evidenz getragen werden.
+
+### MANUSCRIPT-FR-001
+
+**Disposition: NOT_SUSTAINED_AS_MAJOR / non-blocking residual risk**
+
+Begründung:
+
+1. Mehrere als Beleg genannte Szenen entsprechen am geprüften Target gerade **nicht** mehr derselben Meeting-/SOP-Choreografie:
+   - S008 ist eine Live-Anwendung der neuen Begründungspflicht während eines realen klinischen Workflows.
+   - S014 startet mit einem konkreten Low-Confidence-Fall am Arbeitsplatz; der Analyseauftrag entsteht daraus per Nachricht an Jan.
+   - S032 ist ein funktionaler Break-glass-Stresstest an einem simulierten Fall.
+   - S013 zeigt die erste Zweitfreigabe im laufenden Stationsbetrieb und eine persönliche Reibung zwischen Felix und Nele.
+2. Der unmittelbar vorgeschaltete unabhängige Whole-Book-Szenen-/Beat-Re-Review desselben Targets prüfte explizit die Scene-Shape-Verteilung und meldete `finding_count: 0`.
+3. Institutionelle Gespräche bleiben absichtlich Bestandteil eines Romans über die schrittweise Institutionalisierung von Entscheidungsmacht. Ihre bloße thematische Verwandtschaft reicht nach dem strukturellen Backtrack nicht mehr als Nachweis eines Architektur-Majors.
+4. Ein weiterer Scene-/Beat-Backtrack würde daher überwiegend auf eine strengere Reviewer-Präferenz optimieren, ohne einen neuen konkreten Architekturfehler zu beheben.
+
+Der Befund bleibt als **nicht blockierendes Restrisiko zur institutionellen Dichte** dokumentiert, löst aber keinen vierten Struktur-Rework aus.
+
+### MANUSCRIPT-FR-002
+
+**Disposition: ACCEPTED_MINOR / non-blocking**
+
+Der Befund ist plausibel: Einzelne Szenen formulieren die Beweislast-Umkehr bereits sehr explizit. Das ist ein Stil-/Dosierungsrisiko, kein Architekturbruch und kein G4-blockierender Major. Es wird als bewusst akzeptierter Minor für die Human-G4-Entscheidung sichtbar gehalten; kein automatischer weiterer Prosa-Rework wird daraus abgeleitet.
+
+## Gate-Readiness nach Disposition
+
+Offene Blocker: 0  
+Offene bestätigte Major-Findings: 0  
+Offene Minor-/Residual-Risiken: 2
+
+**g4_readiness_after_disposition: READY_FOR_HUMAN_G4**
+
+Der Human Gate G4 entscheidet nun, ob der vollständige Manuskriptstand einschließlich der transparent dokumentierten Minor-/Residual-Risiken als kanonisches Manuskript akzeptiert wird.
