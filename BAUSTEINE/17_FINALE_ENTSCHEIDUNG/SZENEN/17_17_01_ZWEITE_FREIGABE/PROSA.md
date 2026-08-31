@@ -1,225 +1,181 @@
 # Prosa – S035
 
 scene_id: S035
-prose_status: final_rhythm_rework
+prose_status: external_major_dialogue_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Neles Gesicht erschien im kleinen Videofenster. Hinter ihr lief ebenfalls Betrieb. Stimmen, Schritte, das gedämpfte Signal eines Monitors. Nele saß nicht in einem Besprechungsraum. Sie stand an einem Arbeitsplatz, eine Hand noch auf der Tastatur, und sah erst auf Eva, dann auf die Daten.
+Neles Gesicht erschien im kleinen Videofenster.
+
+Hinter ihr lief ebenfalls Betrieb. Stimmen, Schritte, das gedämpfte Signal eines Monitors. Sie stand an einem Arbeitsplatz, eine Hand noch auf der Tastatur.
 
 „Ich habe den Fall.“
 
 Eva nickte.
 
-„Dann los.“
+Am Bett hinter ihr lief die Atemunterstützung weiter. Der Patient reagierte kaum noch auf das Gespräch im Raum. Die Pflegekraft blieb bei ihm und kontrollierte den Sitz der Maske.
 
-Am Bett hinter ihr lief die Atemunterstützung weiter. Der Patient reagierte kaum noch auf das Gespräch im Raum. Die Pflegekraft blieb bei ihm und kontrollierte den Sitz der Maske. Nele öffnete die Gegenüberstellung.
+Nele öffnete die Gegenüberstellung.
 
-„Medizinischer Gegenbeleg?“
+„Ich gehe zuerst durch den medizinischen Gegenbeleg. Die Verschlechterung ist drin, einschließlich des Eintrags von vor zwei Minuten. Atemarbeit, Blutgase, Sauerstoffbedarf, Erschöpfungszeichen. Wenn du etwas hast, das KORA noch nicht kennt, brauche ich es jetzt.“
 
-Direkt. Keine Einleitung. Kein Versuch, Eva Zeit zu verschaffen. Genau so war die Prüfung gedacht. Eva sah auf den lokalen Verlauf.
+Eva prüfte die letzten Minuten erneut.
 
-„Er verschlechtert sich trotz maximaler nichtinvasiver Unterstützung. Atemarbeit höher, Reaktion langsamer.“
+Nichts fehlte.
 
-Nele blickte auf ihre Seite.
+„Kein neuer Befund.“
 
-„Ist berücksichtigt.“
+Nele nickte und ging weiter. „Auch keine falsche Zuordnung, keinen Übertragungsfehler und keine erkennbare Kontraindikation auf der anderen Seite. Damit habe ich medizinisch keinen konkreten Grund, die Empfehlung für unvollständig zu halten.“
 
-„Die letzte klinische Verschlechterung auch?“
+Die Pflegekraft sagte leise den Namen des Patienten.
 
-„Ja. Zeitstempel vor zwei Minuten.“
-
-Eva öffnete denselben Eintrag. Da stand er. Nele fuhr fort.
-
-„Gibt es einen Befund, der noch nicht drin ist?“
-
-Eva ging die letzten Minuten durch. Untersuchung. Blutgase. Sauerstoffbedarf. Erschöpfungszeichen. Keine neue Information.
-
-„Nein.“
-
-Nele klickte weiter.
-
-„Fehlerhafte Zuordnung? Falscher Wert? Übertragungsfehler?“
-
-„Nicht dass ich sehe.“
-
-„Kontraindikation auf der anderen Seite?“
-
-Eva öffnete Nord.
-
-„Keine.“
-
-Nele schwieg kurz. Eva hörte hinter sich eine leise Frage der Pflegekraft.
-
-„Herr Weber? Hören Sie mich?“
-
-Der Patient bewegte den Kopf kaum sichtbar. Eva drehte sich halb um.
+Eva drehte sich halb um. Der Mann bewegte den Kopf kaum.
 
 „Ich bin gleich wieder bei Ihnen.“
 
-Dann sah sie zurück zu Nele. Nele hatte gewartet.
+Dann wandte sie sich dem Bildschirm zu.
 
-„Also kein medizinischer Gegenbeleg.“
-
-Es war keine Frage mehr. Eva spürte den Widerstand gegen den Satz.
-
-„Keiner, den KORA nicht kennt.“
-
-Nele nickte. Sie wechselte zum zweiten Weg.
-
-„Dann Wert und Kontext.“
-
-Eva sah die Überschrift bereits auf ihrem eigenen Bildschirm.
+Nele hatte bereits den zweiten Weg geöffnet.
 
 **Patientenspezifischen Wert-/Kontextgrund dokumentieren.**
 
-Nele fragte: „Patientenwille?“
+„Volle Behandlung?“, fragte sie.
 
-„Volle Behandlung.“
+„Ja.“
 
-„Therapieziel?“
+„Keine Therapiebegrenzung?“
 
-„Keine Begrenzung.“
+„Keine.“
 
-„Relevante patientenspezifische Belastung, die die Ressourcenentscheidung verändert?“
+Nele wartete.
 
-Eva schüttelte den Kopf.
+Eva kannte den Rest der Liste. Patientenwille, Belastung, ein konkreter Wert oder Kontext, den KORA nicht als Entscheidungswert abbildete.
 
-„Nein.“
+Nichts davon passte.
 
-Nele sah in die Kamera.
+„Dann sag mir deinen Grund“, sagte Nele.
 
-„Dann was ist dein Grund?“
+Eva sah zum Bett.
 
-Eva blickte zum Bett. Der Mann lag wenige Meter entfernt. Die Maske bedeckte fast sein ganzes Gesicht. Seine Hände lagen auf der Decke. Eine davon hatte vorhin nach ihrer gegriffen.
+Der Mann lag wenige Meter entfernt. Eine Hand hatte vorhin nach ihrer gegriffen. Sie wusste, wie seine Atmung klang, wie feucht seine Haut gewesen war, wie wenig Zeit sie ihm noch gab.
 
-„Er liegt hier.“
+„Er liegt hier. Ich behandle ihn. Wenn wir die Kapazität nach Nord geben, bleibt uns nur die Überbrückung.“
 
-Nele sagte nichts. Eva hörte den eigenen Satz. Er war zu klein.
+Nele sah sie an.
 
-„Ich behandle ihn. Ich sehe, wie er abbaut. Wenn wir die Kapazität nach Nord geben, bleibt uns nur die Überbrückung.“
-
-Nele wartete noch immer.
-
-„Und?“
-
-Eva merkte, wie ihr Nacken heiß wurde.
+Eva setzte nach.
 
 „Und ich bin für ihn verantwortlich.“
 
-„Das bist du.“
+„Das bist du“, sagte Nele. „Aber bisher beschreibst du deine Beziehung zu ihm, nicht den patientenspezifischen Grund, der die Ressourcenentscheidung verändert.“
 
-Nele sagte es sofort. Keine Ironie. Kein Widerspruch.
-
-„Aber das ist noch kein patientenspezifischer Wertgrund.“
-
-Eva sah sie an. Die Worte hätten aus dem Entwurf stammen können, den sie selbst mit Miriam geschrieben hatte.
+Die Worte trafen, weil Eva sie selbst mitgebaut hatte.
 
 „Ich weiß.“
 
-Nele blickte wieder auf die Daten.
+„Dann such nicht nach einem besseren Satz. Such nach etwas, das am Fall anders ist.“
 
-„Gibt es etwas an diesem Patienten, das die Entscheidung verändert und nicht nur deine Beziehung zu ihm beschreibt?“
-
-Eva antwortete nicht. Die Pflegekraft rief ihren Namen. Eva hob die Hand.
-
-„Eine Minute.“
-
-Dann sah sie wieder zu Nele. „Es gibt keine Minute“, sagte Nele leise. Eva spürte einen kurzen Stich von Ärger.
-
-„Das weiß ich.“
-
-„Dann brauche ich deinen Grund jetzt.“
-
-Eva ging die Kriterien ein zweites Mal durch. Nicht weil sie sie vergessen hatte. Weil sie wollte, dass irgendwo ein Satz auftauchte, den sie übersehen hatte. Patientenwille. Nein. Therapieziel. Nein. Belastung. Nein. Medizinischer Gegenbeleg. Nein.
-
-Übrig blieb der Patient im Raum. Seine Atmung. Sein Blick. Die Tatsache, dass Eva wusste, wie seine Haut sich angefühlt hatte, während der andere Patient in Nord eine Kurve blieb.
-
-„Du siehst ihn nicht“, sagte Eva.
-
-Der Satz war draußen, bevor sie ihn stoppen konnte. Nele bewegte sich nicht. Für einen Moment hörte Eva nur das Rauschen der Atemunterstützung.
-
-Dann sagte Nele: „Nein.“
-
-Eva wartete.
-
-„Deshalb haben wir die Regel.“
-
-Kein Trotz. Keine Genugtuung. Nur der Satz. Eva schloss die Augen. Laura Berg. Der Vater, den Eva damals ebenfalls nicht gesehen hatte. Die Regel, die daraus entstanden war.
-
-Räumliche Nähe oder bestehende Behandlerbeziehung allein reichen nicht. Das allgemeine unmittelbare Verantwortungsgefühl reicht nicht. Sie hatte diese Sätze verteidigt, weil der entfernte Patient sonst immer schwächer im Raum blieb.
-
-Jetzt stand der entfernte Patient wieder auf der anderen Seite des Systems. Und Eva war diejenige, die den sichtbaren Menschen retten wollte. Sie öffnete die Augen. Nele sah nicht weg.
-
-„Ich kann das nicht freigeben“, sagte sie.
-
-Eva spürte, wie sich etwas in ihr gegen die Aussage stemmte.
-
-„Du könntest.“
-
-„Technisch ja.“
-
-„Du könntest sagen, dass die klinische Lage außergewöhnlich ist.“
-
-„Ist sie. Beide klinischen Lagen sind außergewöhnlich.“
-
-„Du weißt, dass ich ihn wahrscheinlich intubieren muss.“
-
-„Ja.“
-
-„Und wenn ich keinen Platz habe–“
-
-„Eva.“
-
-Nele unterbrach sie zum ersten Mal.
-
-„Ich bestreite nicht, wie schlecht er ist.“
-
-Eva schwieg.
-
-„Ich prüfe, ob du einen Grund hast, die priorisierte Entscheidung umzudrehen.“
-
-Der Satz traf genauer als jede Warnmeldung. Eva sah zum Bett. Die Pflegekraft hatte die Hand des Patienten wieder unter die Decke gelegt. Nele fuhr fort.
-
-„Wenn ich freigebe, weil du ihn siehst und ich dir vertraue, dann ist die Regel genau dort weg, wo sie am meisten Druck bekommt.“
-
-Eva antwortete nicht. Sie dachte an all die Male, in denen sie von jüngeren Ärzten verlangt hatte, ihre Entscheidung selbst zu tragen. Jetzt tat Nele genau das.
-
-Sie versteckte sich nicht hinter KORA. Nicht hinter einem Pflichtfeld. Nicht hinter Miriam. Die Ablehnung war ihre.
-
-„Ich kann das nicht mittragen“, sagte Nele.
-
-Eva atmete einmal langsam aus.
-
-„Verstanden.“
-
-Nele zögerte.
-
-„Eva–“
-
-„Nein.“
+Die Pflegekraft rief Evas Namen.
 
 Eva hob die Hand.
 
-„Du hast geprüft.“
+„Eine Minute.“
 
-Nele blieb still.
+Nele antwortete leise: „Die hast du nicht.“
 
-„Du hast entschieden.“
+Ärger stieg in Eva auf, kurz und heiß.
 
-„Ja.“
+„Das weiß ich.“
 
-Eva nickte. Auf der Oberfläche wechselte der Status.
+Sie ging die Kriterien noch einmal durch. Nicht weil sie sie vergessen hatte. Weil sie wollte, dass irgendwo eine Information auftauchte, die den Druck im Raum in einen tragfähigen Grund verwandelte.
+
+Es gab keine.
+
+Übrig blieb der Patient vor ihr.
+
+Seine Atmung.
+
+Sein Blick.
+
+Die Tatsache, dass Eva seinen Körper kannte, während Nord eine Kurve blieb.
+
+„Du siehst ihn nicht“, sagte Eva.
+
+Nele bewegte sich nicht.
+
+„Nein“, sagte sie nach einem Moment. „Und genau deshalb darf mein Vertrauen in dich die Prüfung nicht ersetzen. Wenn Nähe allein reicht, ist der entfernte Patient wieder automatisch schwächer.“
+
+Eva schloss die Augen.
+
+Laura Berg.
+
+Der Vater, den sie damals ebenfalls nicht gesehen hatte.
+
+Die Regel war aus genau diesem Unterschied entstanden.
+
+Räumliche Nähe oder bestehende Behandlerbeziehung allein reichen nicht. Allgemeines unmittelbares Verantwortungsgefühl reicht nicht.
+
+Eva hatte diese Grenze verteidigt.
+
+Jetzt stand sie auf der anderen Seite davon.
+
+Sie öffnete die Augen.
+
+„Du wirst nicht freigeben.“
+
+„Nein. Ich bestreite nicht, wie schlecht dein Patient ist. Ich bestreite auch nicht, dass du ihn wahrscheinlich intubieren musst. Aber ich sehe keinen medizinischen Gegenbeleg und keinen zulässigen Wert-/Kontextgrund, mit dem ich die Priorisierung nach Nord umdrehen kann.“
+
+Eva spürte den Widerstand gegen diese Klarheit.
+
+„Du könntest die außergewöhnliche Lage trotzdem als ausreichend bewerten.“
+
+Nele schüttelte den Kopf.
+
+„Beide Lagen sind außergewöhnlich. Wenn ich jetzt freigebe, weil du den Patienten vor dir hast und ich dir vertraue, verschwindet die Regel genau an dem Punkt, an dem der Druck am größten ist.“
+
+Eva sagte nichts.
+
+Nele fuhr fort.
+
+„Ich prüfe nicht, ob dein Patient Hilfe braucht. Das ist offensichtlich. Ich prüfe, ob dein Grund trägt, dem anderen Patienten die priorisierte Ressource zu nehmen. Das kann ich nicht bestätigen.“
+
+Der Satz saß.
+
+Eva dachte an all die Male, in denen sie von jüngeren Ärzten verlangt hatte, eine Entscheidung selbst zu tragen.
+
+Nele tat genau das.
+
+Sie versteckte sich nicht hinter KORA, nicht hinter Miriam, nicht hinter einem Pflichtfeld.
+
+Die Ablehnung war ihre.
+
+„Verstanden“, sagte Eva.
+
+Nele zögerte.
+
+Eva hob die Hand.
+
+„Du hast geprüft. Du hast entschieden. Das reicht.“
+
+Auf der Oberfläche wechselte der Status.
 
 **Zweitfreigabe abgelehnt.**
 
-Der reguläre Override-Weg wurde grau. Darunter blieb eine Schaltfläche aktiv.
+Der reguläre Override-Weg wurde grau.
+
+Darunter blieb eine Schaltfläche aktiv.
 
 **SOLO-BREAK-GLASS**
 
-Nele sah sie ebenfalls. Ihr Blick ging kurz dorthin, dann wieder zu Eva. Sie sagte nichts. Das war richtig. Der Break-glass brauchte keine zweite Zustimmung. Genau dafür existierte er.
+Nele sah sie ebenfalls.
+
+Sie sagte nichts.
+
+Das war richtig.
+
+Der Break-glass brauchte keine zweite Zustimmung. Genau dafür existierte er.
 
 Eva beendete die Verbindung nicht sofort.
 
@@ -227,10 +183,18 @@ Eva beendete die Verbindung nicht sofort.
 
 „Ja?“
 
-Eva suchte nach einem Satz. Dank. Vorwurf. Warnung. Nichts davon passte.
+Eva suchte nach einem Satz, fand keinen, der nicht wie Dank, Vorwurf oder Entlastung klang.
 
 „Zurück an deine Arbeit.“
 
-Nele nickte knapp. Das Fenster schloss sich. Eva stand wieder allein vor der Entscheidung. Hinter ihr arbeitete das Team weiter. Vor ihr war der reguläre Weg geschlossen.
+Nele nickte knapp. Das Fenster schloss sich.
 
-Der letzte Weg war offen. Und diesmal konnte sie niemandem mehr die Entscheidung zuschieben.
+Eva stand wieder allein vor der Entscheidung.
+
+Hinter ihr arbeitete das Team weiter.
+
+Vor ihr war der reguläre Weg geschlossen.
+
+Der letzte Weg war offen.
+
+Diesmal konnte sie niemandem mehr die Entscheidung zuschieben.
