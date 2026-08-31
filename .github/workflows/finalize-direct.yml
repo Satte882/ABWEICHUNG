@@ -41,7 +41,7 @@ jobs:
         run: |
           set -euo pipefail
           python scripts/build_production.py \
-            --source-ref 45605eb4b95d225a0dfc4b59297aa8f954814b20 \
+            --source-ref 45605ebb75481637aac87cd5f2da060acc0916cd \
             --out-dir /tmp/abweichung-g4
           python - <<'PY'
           import json
