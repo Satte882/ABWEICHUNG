@@ -1,212 +1,200 @@
 # Prosa – S026
 
 scene_id: S026
-prose_status: final_rhythm_rework
+prose_status: external_major_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
 ---
 
-Die Kategorie war beliebt.
+„Kannst du kurz draufschauen?“
 
-Zu beliebt.
+Eva kannte den Arzt aus der Inneren. Ruhig, erfahren, keiner, der bei jeder Regel zuerst nach dem Schlupfloch suchte.
 
-Eva sah auf die Kurve und wusste, was Miriam gleich sagen würde.
+Er stand mit einem Tablet vor ihr, während hinter ihm zwei Pflegekräfte einen Patienten in die Diagnostik schoben.
 
-Der Pilot war erst seit kurzer Zeit aktiv. Trotzdem stieg der Anteil der Wert-/Kontextabweichungen schneller, als es die echten Grenzfälle erwarten ließen.
+„Worum geht es?“
 
-Miriam stand neben dem Bildschirm, die Arme vor der Brust.
+„Wert-/Kontextweg.“
 
-„Das ist kein Pilot mehr. Das ist eine Ausweichspur.“
+Eva nahm das Tablet.
 
-„Warte.“
+KORA empfahl in einem Ressourcen- und Eskalationskonflikt eine andere Priorisierung. Hohe Konfidenz. Der Arzt wollte abweichen.
 
-„Worauf?“
+Im Begründungsfeld stand:
 
-„Auf die Fälle.“
+**Langjährige Behandlerbindung. Unmittelbare Verantwortung für den Patienten vor Ort.**
 
-Eva zog den Laptop näher und öffnete die Liste.
+Eva las den Satz noch einmal.
 
-Die ersten Einträge waren sauber. Dokumentierter Patientenwille. Begrenztes Therapieziel.
+„Was weißt du über ihn, das hier nicht steht?“
 
-Eine relevante Behandlungsbelastung, die in der KORA-Optimierung nicht als eigener Wert abgebildet war.
+Der Arzt deutete auf die Kurve. „Ich behandle ihn seit vier Jahren. Ich kenne seine Verläufe. Ich sehe, wie schnell er kippen kann.“
 
-Eva öffnete den ersten Fall vollständig. Der Wille war dokumentiert. Die Prognose blieb unbestritten. Die Entscheidung folgte einem klaren Ziel des Patienten.
+„Konkreter Befund?“
 
-„Genau dafür haben wir die Kategorie gebaut.“
+„Nicht neuer als das hier.“
+
+Eva scrollte.
+
+„Patientenwille? Therapieziel? Eine Belastung oder ein anderer patientenspezifischer Wert, der die Entscheidung verändert?“
+
+Er schüttelte den Kopf.
+
+„Darum geht es nicht. Ich kenne ihn. Wenn du lange genug mit einem Patienten arbeitest, merkst du Dinge früher.“
+
+Eva gab ihm das Tablet nicht zurück.
+
+Vor ein paar Monaten hätte sie den Satz fast automatisch verteidigt.
+
+Erfahrung war real.
+
+Behandlerwissen war real.
+
+Nähe konnte Informationen liefern, die ein Datensatz schlecht abbildete.
+
+Nur stand hier keine solche Information.
+
+Es stand die Beziehung selbst.
+
+„Wenn du etwas Konkretes früher merkst, schreib genau das in den medizinischen Gegenbeleg.“
+
+Der Arzt runzelte die Stirn.
+
+„Und wenn ich es noch nicht auf einen Wert runterbrechen kann?“
+
+„Dann haben wir kein neues Faktum für diesen Weg.“
+
+„Also soll ich KORA folgen, weil ich meinen Patienten zu gut kenne?“
+
+Der Satz traf die Stelle, an der Eva früher sofort in Opposition gegangen wäre.
+
+Sie hielt das Tablet zwischen ihnen.
+
+„Nein. Du kannst medizinisch widersprechen, wenn du benennen kannst, was in der Prognose nicht trägt. Du kannst über Wert und Kontext abweichen, wenn etwas Patientenspezifisches die Entscheidung verändert. Dass du ihn kennst, kann dir beides liefern. Die Beziehung allein entscheidet aber nicht, wer die knappe Ressource bekommt.“
+
+Der Arzt sah sie an.
+
+„Das ist sehr sauber.“
+
+„Ja.“
+
+„Am Bett fühlt es sich weniger sauber an.“
+
+„Weiß ich.“
+
+Er nahm das Tablet zurück.
+
+„Und jetzt?“
+
+„Prüf den Fall noch einmal. Wenn du einen konkreten medizinischen Grund hast, nimm den ersten Weg. Wenn es einen echten Wert- oder Kontextgrund gibt, nimm den zweiten. Wenn beides fehlt, reicht der Satz da nicht.“
+
+Er sagte nichts mehr dazu.
+
+Eva sah ihm nach, bis er um die Ecke verschwunden war.
+
+Das Unangenehme war nicht, dass er offensichtlich tricksen wollte.
+
+Er hatte seinen Grund ernst gemeint.
+
+Genau das machte ihn gefährlicher für die Kategorie.
+
+Später am selben Nachmittag öffnete Eva das Pilotprotokoll.
+
+Sie suchte nicht nach dem Arzt.
+
+Sie filterte nach den Freitextgründen.
+
+Die ersten Einträge waren das, wofür der Weg gebaut worden war: dokumentierter Patientenwille, begrenztes Therapieziel, konkrete Behandlungsbelastung.
+
+Dann kamen die anderen.
+
+**Besondere klinische Nähe zum Verlauf.**
+
+**Patient im eigenen Verantwortungsbereich.**
+
+**Langjährige Behandlerbindung.**
+
+**Unmittelbares Verantwortungsgefühl vor Ort.**
+
+Eva scrollte weiter.
+
+Mehrere verschiedene Ärzte. Verschiedene Stationen. Derselbe Kern.
+
+Ich sehe ihn.
+
+Ich kenne ihn.
+
+Ich trage ihn.
+
+Laura Berg hatte ihr Monate zuvor die andere Hälfte dieses Satzes gezeigt.
+
+Der entfernte Patient konnte keinen Druck durch Anwesenheit erzeugen.
+
+Eva rief Miriam an und bat sie nicht zu einem Termin. Sie schickte nur die gefilterte Ansicht.
+
+Miriam stand zehn Minuten später in Evas Tür.
+
+„Wie viele?“
+
+Eva nannte die Zahl und drehte den Bildschirm zu ihr.
+
+Miriam las einige Einträge.
+
+„Das wächst zu schnell.“
+
+„Die echten Fälle sind auch da.“
+
+„Ich sehe sie.“
+
+Eva öffnete einen dokumentierten Patientenwillen. Danach ein begrenztes Therapieziel.
+
+„Dafür bleibt der Weg.“
 
 Miriam nickte.
 
-„Weiter.“
+Eva wechselte zurück zu den problematischen Einträgen.
 
-Eva klickte zum nächsten.
+„Aber das hier ist mein alter Fehler mit neuem Namen.“
 
-Auch der hielt.
+Miriam sagte nichts.
 
-Dann kam der erste Satz, bei dem sie langsamer las.
+„Nähe wird als Kontext etikettiert. Verantwortung wird als patientenspezifisch etikettiert. Die Person vor mir bekommt wieder mehr Gewicht, weil sie vor mir ist.“
 
-**Patient im eigenen Verantwortungsbereich, langjährige Behandlerbindung.**
-
-Sie schwieg. Miriam sagte nichts. Eva öffnete die Details. Mehr Text erschien. Kein zusätzlicher Grund.
-
-Keine dokumentierte Präferenz. Kein abweichendes Therapieziel. Keine konkrete Belastung. Kein Faktor, den KORA nicht als medizinische Information kannte.
-
-Nur die Beziehung zum Behandlungsteam.
-
-Eva klickte weiter.
-
-**Besondere klinische Nähe zum Verlauf; Abweichung aus Gesamtverantwortung.**
-
-Noch einer.
-
-**Kontext der unmittelbaren Versorgung vor Ort.**
-
-Eva spürte, wie sich ihr Nacken anspannte.
-
-„Das sind keine Werteentscheidungen“, sagte Miriam.
-
-„Ein Teil vielleicht.“
-
-Miriam drehte den Laptop zu Eva zurück.
-
-„Dann zeig mir den patientenspezifischen Wert.“
-
-Eva öffnete den ersten Eintrag noch einmal.
-
-Sie wollte etwas finden.
-
-Nicht um Miriam zu widerlegen. Um den Weg zu schützen, den sie selbst durchgesetzt hatte.
-
-Sie las den Freitext bis zum Ende.
-
-Der Arzt beschrieb, dass er den Patienten lange kenne, die aktuelle Verschlechterung selbst erlebt habe und sich für die weitere Versorgung unmittelbar verantwortlich fühle.
-
-Alles nachvollziehbar.
-
-Nichts davon beantwortete die Frage, warum dieser Patient in einem verbundweiten Konflikt aus einem patientenspezifischen Wertgrund Vorrang erhalten sollte.
-
-Eva klickte zum nächsten. Dort stand ein längerer Absatz. Mehr Wörter. Derselbe Kern.
-
-*Ich sehe ihn. Ich kenne ihn. Ich trage die Verantwortung.*
+„Dann müssen wir die Grenze schreiben.“
 
 Eva lehnte sich zurück.
 
-„Sie nennen es Kontext.“
+Sie hatte den Weg durchgesetzt, weil ein Mensch mehr sein konnte als seine Prognose.
 
-„Ja.“
+Jetzt half sie, den Weg enger zu machen.
 
-„Und meinen eigentlich: Ich bin hier, der andere Patient ist woanders.“
+Das fühlte sich nicht gut an.
 
-Miriam ließ den Satz stehen.
+Es fühlte sich notwendig an.
 
-Eva kannte seine Kraft.
+„Behandlerbindung kann relevante Information liefern“, sagte sie. „Die Information darf tragen. Die Beziehung selbst nicht.“
 
-Der Patient vor einem war kein Fall in einer Liste. Er hatte eine Stimme. Eine Familie. Einen Geruch nach Desinfektionsmittel und Haut. Seine Verschlechterung ließ sich hören, noch bevor man auf den Monitor sah.
+Miriam setzte sich auf die Kante des Besucherstuhls und öffnete den Entwurf auf ihrem Tablet.
 
-Die andere Seite eines Ressourcenkonflikts blieb leicht eine Zahl.
+Eva sprach weiter.
 
-Laura Berg hatte genau diese Lücke sichtbar gemacht.
+„Räumliche Nähe reicht nicht. Allgemeines Verantwortungsgefühl reicht nicht. Status auch nicht. Wenn jemand Wert oder Kontext sagt, muss klar werden, was am Patienten die Entscheidung verändert.“
 
-Eva scrollte weiter. Ein Eintrag begann mit **besondere individuelle Situation**. Sie öffnete ihn.
+Miriam tippte.
 
-Dahinter stand erneut keine individuelle Situation. Nur der Hinweis, dass das lokale Team den Patienten bereits seit mehreren Tagen betreue.
+„Und wenn nichts benennbar ist?“
 
-Miriam setzte sich ihr gegenüber.
+Eva sah auf die Liste.
 
-„Wenn Ärzte wissen, dass der medizinische Gegenbeleg nicht trägt, nehmen sie den zweiten Weg.“
+„Dann ist die Kategorie nicht der richtige Weg.“
 
-„Einige.“
+Sie hörte den Satz, nachdem er gesagt war.
 
-„Genug.“
+Früher hätte sie ihn als Bürokratensprache gehasst.
 
-Eva blickte auf die Kurve.
+Heute wusste sie, warum er dort stehen musste.
 
-„Das war vorhersehbar.“
+Die Ausnahme blieb.
 
-„Dann hätten wir es vorher enger bauen sollen.“
-
-Eva sah sie an.
-
-„Und die echten Fälle?“
-
-„Ich will die Kategorie nicht schließen.“
-
-„Das klang gerade anders.“
-
-„Ich will verhindern, dass jede Intuition ein Werteetikett bekommt.“
-
-Miriam öffnete die Auswertung nach Begründungstypen. Die legitimen Kategorien waren weiterhin da. Patientenwille. Therapieziel. Behandlungsbelastung.
-
-Daneben wuchs eine unscharfe Gruppe aus *Kontext*, *Verantwortung*, *Behandlerbindung* und *besonderer Nähe*.
-
-Eva sah eine Weile darauf.
-
-Sie hatte den zweiten Weg geschaffen, weil ein Mensch mehr sein konnte als eine medizinische Prognose.
-
-Jetzt wurde derselbe Weg benutzt, um den Menschen hinter der Entscheidung wieder ins Zentrum zu stellen.
-
-Nicht den Patienten. Den Entscheider. „Wir brauchen die Kategorie“, sagte Eva.
-
-„Ja.“
-
-„Und wir müssen sie enger machen.“
-
-Miriam hob den Kopf.
-
-Eva hörte selbst, wie fremd der Satz in ihrem Mund geklungen hätte, ein paar Monate zuvor.
-
-Miriam sagte: „Von dir hätte ich das früher gern aufgenommen.“
-
-„Versuch es nicht.“
-
-„Ich meine es ernst.“
-
-„Ich auch.“
-
-Eva zog die problematischen Fälle in eine eigene Ansicht.
-
-„Wir dürfen nicht so eng werden, dass am Ende nur noch Prognose zählt.“
-
-„Einverstanden.“
-
-„Aber Nähe, Status und ein allgemeines Verantwortungsgefühl reichen nicht.“
-
-Miriam nickte.
-
-„Dann müssen wir das ausdrücklich schreiben.“
-
-Eva ließ den Cursor über einem der Fälle stehen.
-
-„Wenn wir nur *patientenspezifisch* sagen, reicht das offenbar nicht.“
-
-„Offenbar nicht.“
-
-„Behandlerbindung kann relevante Information liefern.“
-
-„Ja.“
-
-„Dann müssen wir trennen: Die Information kann tragen. Die Beziehung allein nicht.“
-
-Miriam öffnete einen neuen Entwurf.
-
-„Schreib.“
-
-Eva zögerte.
-
-Sie hatte eine Ausnahme geschaffen, um menschlichen Entscheidungsraum zu schützen.
-
-Jetzt saß sie vor einer Liste menschlicher Entscheidungen und half dabei, diese Ausnahme enger zu regulieren.
-
-Es fühlte sich nicht wie Verrat an der eigenen Idee an.
-
-Eher wie die Rechnung, die zu jeder echten Ausnahme gehörte: Sobald ein Weg existierte, würde jemand seine Grenze testen.
-
-Eva rückte den Stuhl näher an den Tisch.
-
-„Okay.“
-
-Miriam stellte den Cursor in die erste Zeile.
-
-Draußen fuhr ein Wagen über eine Türschwelle. Das kurze Rattern drang bis in den Raum.
-
-Eva begann zu formulieren.
+Nur die Ausrede wurde kleiner.
