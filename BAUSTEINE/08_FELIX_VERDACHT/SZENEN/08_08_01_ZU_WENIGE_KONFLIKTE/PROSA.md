@@ -1,7 +1,7 @@
 # Prosa – S016
 
 scene_id: S016
-prose_status: final_rhythm_rework
+prose_status: external_major_rework
 source_scene: `SZENE.md`
 source_beats: `BEATS.md`
 
@@ -9,202 +9,148 @@ source_beats: `BEATS.md`
 
 Felix' Zeile war fast leer.
 
-Eva scrollte zurück.
-
-Die Ansicht war ursprünglich nicht für ihn gedacht. Jan hatte die Verteilung der high-confidence Konflikte nach Entscheidungstypen gezeigt, um zu erklären, wie oft die neue Zweitfreigabe überhaupt griff.
-
-Ein Name war dabei aufgefallen.
-
-Felix Brandt.
-
-Andere Ärzte hatten high-confidence Konflikte, je nach Fallmix mehr oder weniger. Bei Felix waren es auffällig wenige.
-
-Eva prüfte zuerst die Fallzahlen.
-
-Felix behandelte genug Patienten, dass eine leere Zeile nicht einfach durch geringe Aktivität erklärt war.
-
-Dann die Entscheidungsklassen.
-
-Er arbeitete nicht in einem Bereich, der kaum von KORAs high-confidence Empfehlungen betroffen war.
-
-Dann den Zeitraum.
-
-Das Muster blieb.
-
-Sie sortierte nach Dienstzeiten, weil sie sich selbst dabei ertappte, aus einer Zahl bereits eine Geschichte zu bauen.
-
-Vielleicht hatte Felix schlicht andere Schichten gehabt.
-
-Vielleicht eine andere Patientenmischung.
-
-Vielleicht war er tatsächlich seltener im Konflikt mit KORA, als seine Haltung vermuten ließ.
-
-Alles möglich.
-
-Jan stand noch am anderen Ende des Raums und packte seinen Laptop ein.
-
-„Ist das fallmixbereinigt?“ fragte Eva.
-
-Er sah zu ihrer Ansicht.
-
-„Grob ja. Nicht als personenbezogene Qualitätsanalyse.“
-
-„Ich will keine personenbezogene Qualitätsanalyse.“
-
-„Dann lies nicht zu viel in eine personenbezogene Zeile.“
-
-Eva schloss die Ansicht.
-
-„Mach ich nicht.“
-
-Jan antwortete nicht.
-
-Das war wahrscheinlich klüger.
+Eva hatte sie am Vormittag gesehen und den Laptop zugeklappt, bevor aus einem Muster eine Behauptung wurde.
 
 Am Nachmittag fand sie Felix auf der Intensivstation.
 
-Er stand an einem Arbeitsplatz zwischen zwei Patientenzimmern und diktierte eine kurze Notiz. Eva wartete, bis er fertig war.
+Er stand im Zimmer eines Patienten, dessen Kreislauf gerade genug Arbeit machte, dass niemand dort Zeit für Grundsatzfragen hatte. Eva blieb draußen. Durch die Scheibe sah sie Felix mit der Pflege sprechen, eine Einstellung am Perfusor prüfen und danach selbst noch einmal an das Bett treten.
 
-„Hast du eine Minute?“
+Er brauchte fast zehn Minuten.
 
-Felix sah auf die Uhr.
+Als er herauskam, zog er die Handschuhe aus und warf sie in den Abwurf.
 
-„Wenn du mir nicht gleich eine neue Regel verkaufst.“
+„Du wartest. Das ist selten.“
 
-„Keine Sorge.“
+„Genieß es nicht.“
 
-„Das sagt ihr immer kurz vor einer neuen Regel.“
+Sie gingen ein Stück den Flur hinunter. Eva hielt ihm das Tablet hin.
 
-Eva hielt ihm das Tablet hin. Felix nahm es und überflog die Ansicht. Sein Gesicht veränderte sich kaum.
+Felix sah auf die Ansicht und blieb stehen.
 
-„Und?“
+Sein Name. Darunter fast keine high-confidence Konflikte.
 
-„Du hast kaum high-confidence Konflikte.“
+Er gab ihr das Tablet nicht sofort zurück.
 
-„Vielleicht bin ich einfach besser als ihr.“
+„Das ist also jetzt eine persönliche Statistik.“
+
+„Noch nicht. Im Moment ist es eine auffällige Zeile.“
+
+Felix las die Fallzahl, die Entscheidungsklassen, den Zeitraum. Dann strich er mit dem Daumen über den Rand des Geräts.
+
+„Ich dokumentiere oft nach der ersten Intervention neu. Das weißt du.“
+
+„Erklär es mir so, als wüsste ich es nicht.“
+
+Felix sah sie kurz an. Dann deutete er mit dem Tablet auf die geschlossene Zimmertür hinter ihnen.
+
+„Der Patient da drin kommt mit einem Zustand. Wir beginnen eine Maßnahme. Fünf Minuten später hat er neue Werte, eine andere Atemarbeit, vielleicht einen anderen Kreislauf. Wenn ich dann weiterentscheide, arbeite ich mit dem Zustand nach der Intervention. Den dokumentiere ich. KORA bewertet neu. Für dich sieht das in der Auswertung aus, als hätte es den ursprünglichen Konflikt nie gegeben. Für mich ist der ursprüngliche Zustand nur nicht mehr der Zustand, auf dessen Basis ich weiterhandle.“
+
+Er sagte es ohne Hast.
+
+Eva kannte diese Art von Erklärung. Felix war gut darin, einen klinischen Ablauf auf das zu reduzieren, was praktisch geschehen musste.
+
+Gerade deshalb hörte sie genauer hin.
+
+„Und der Moment vor der Intervention?“
+
+Felix atmete durch die Nase aus.
+
+„Da fängt das Problem mit eurer Logik an. Ihr wollt einen sauberen Entscheidungspunkt. In der Akutmedizin gibt es oft einen Verlauf. Ich probiere etwas, sehe eine Reaktion, passe an. Wenn ihr jede Zwischenlage einfriert und daraus ein Ja oder Nein zu KORA macht, erzeugt ihr eine Ordnung, die auf dem Bildschirm sauberer ist als am Bett.“
+
+Eine Pflegekraft kam aus dem Zimmer und hielt Felix einen Ausdruck hin. Er überflog ihn, sagte zwei Sätze zur nächsten Kontrolle und gab ihn zurück.
+
+Eva wartete, bis sie wieder allein waren.
+
+„Die Erklärung ist plausibel.“
+
+„Danke für die Abnahme.“
+
+„Das war keine.“
+
+Felix lehnte sich mit der Schulter an die Wand.
+
+Eva öffnete einen der anonymisierten Verläufe aus seiner Gruppe.
+
+Eingangszustand. KORA-Empfehlung. Intervention. Neuer Snapshot. Niedrigere Konfidenz.
+
+Alles konnte genau so passiert sein, wie Felix es beschrieb.
+
+„Ich will wissen, ob du den neuen Zustand dokumentierst, weil er klinisch relevant ist“, sagte Eva, „oder ob der neue Zustand praktisch auch den Konflikt verschwinden lässt.“
+
+Felix' Gesicht wurde härter.
+
+Er nahm ihr das Tablet noch einmal ab und öffnete die Kurve selbst.
+
+„Beides kann gleichzeitig wahr sein, Eva. Ein neuer Zustand ist klinisch real. Und wenn eure Regel an einem früheren Snapshot hängt, verändert ein neuer Zustand natürlich die Regelwirkung. Daraus folgt nicht, dass ich Daten erfinde oder Patienten behandle, um einen Schalter zu umgehen.“
+
+„Das habe ich nicht behauptet.“
+
+„Noch nicht. Aber genau so fängt es an. Erst sieht jemand eine Verteilung. Dann ist sie auffällig. Dann muss der Einzelne erklären, warum er nicht aussieht wie der Mittelwert. Irgendwann wird aus der Erklärung eine Pflicht und aus der Pflicht eine Vermutung.“
 
 Eva sah ihn an.
 
-Felix grinste kurz.
+Das war mehr als Trotz.
 
-„Schon gut.“
+Felix hatte Angst vor einer Medizin, in der statistische Abweichung selbst zum Verdacht wurde.
 
-„Ernsthaft.“
+Sie verstand den Punkt.
 
-Er gab ihr das Tablet noch nicht zurück. Stattdessen öffnete er einen der anonymisierten Verläufe aus seiner eigenen Gruppe.
+Sie verstand auch, warum er die Frage nicht beantwortete, die sie eigentlich beschäftigte.
 
-„Ich dokumentiere oft nach der ersten Intervention neu. Wenn sich ein Patient darunter verändert, bewertet KORA die neue Lage.“
+„Wann ist für dich eine Entscheidung so weit getroffen, dass sie in die Governance gehört?“
 
-„Das erklärt so viel?“
+Felix gab ihr das Tablet zurück.
 
-Felix hob die Schultern.
+„Wenn sie tatsächlich getroffen ist.“
 
-„Vielleicht.“
+„Das hilft mir nicht.“
 
-„Vielleicht?“
+„Doch. Du magst nur die Antwort nicht.“
 
-„Ich zähle meine Konflikte nicht.“
+Er zeigte wieder zur Zimmertür.
 
-Er zeigte auf den Verlauf.
+„Vorhin habe ich die Unterstützung verändert. Wenn der Patient darauf deutlich reagiert, ist die nächste Entscheidung eine andere als die davor. Wenn er nicht reagiert, eskaliere ich. Ich weigere mich, so zu tun, als hätte ich beim ersten Kontakt bereits jede spätere Weiche gestellt.“
 
-„Hier. Patient kommt hypoxisch rein. Wir beginnen die erste Stabilisierung. KORA bewertet den Eingangszustand. Danach habe ich neue Werte und einen neuen klinischen Zustand. Also dokumentiere ich neu.“
+Eva kannte seine Arbeit gut genug, um das nicht als Ausrede abzutun.
 
-Eva sah auf den zeitlichen Verlauf.
+Sie kannte ihn auch gut genug, um zu hören, wo Überzeugung in Starrheit überging.
 
-Das war medizinisch nicht absurd.
+„Und wenn die erste Intervention bereits die Weiche ist?“
 
-Im Gegenteil. Entscheidungen in Akutsituationen waren selten einzelne saubere Punkte. Ein Patient veränderte sich. Eine Maßnahme wirkte oder wirkte nicht. Der Plan wurde neu bewertet.
+Felix schwieg.
 
-„Und wann ist für dich die Entscheidung gefallen?“ fragte Eva.
+Nicht lange.
 
-Felix sah sie an.
+„Dann muss man sie als solche erkennen. Aber nicht jede Maßnahme ist eine Entscheidung gegen KORA, nur weil eine spätere Auswertung gern einen Zeitpunkt hätte.“
 
-„Welche?“
+Ein Monitor alarmierte im Zimmer hinter ihnen.
 
-„Ob du der ursprünglichen KORA-Empfehlung folgst.“
+Felix war sofort von der Wand weg.
 
-„Das ist genau die falsche Frage.“
+„Ich muss rein.“
 
-„Warum?“
+Eva trat zur Seite.
 
-Felix legte das Tablet auf den Tresen.
+Er öffnete die Tür, blieb aber noch einen Moment stehen.
 
-„Weil du so tust, als gäbe es einen Moment, an dem ich eine Empfehlung bekomme und dann feierlich Ja oder Nein sage. Oft behandle ich. Der Patient reagiert. Dann entscheide ich weiter.“
+„Wenn du mir etwas vorwerfen willst, bring einen Fall. Keine leere Zeile.“
 
-„KORA markiert trotzdem einen Entscheidungszustand.“
+Dann ging er hinein.
 
-„Für die Dokumentation.“
+Eva blieb vor der Scheibe stehen.
 
-„Für die Empfehlung.“
+Drinnen war Felix wieder vollständig Arzt. Keine Governance, keine Statistik, kein Machtkampf. Er beugte sich über den Patienten, hörte zu, gab eine Anweisung und wartete auf die Reaktion.
 
-„Auch.“
+Eva vertraute ihm in diesem Raum.
 
-Felix verschränkte die Arme.
+Das machte die Zeile nicht weniger auffällig.
 
-„Du siehst einen Zähler und plötzlich muss ich erklären, warum er nicht aussieht wie bei den anderen.“
+Vielleicht war seine Erklärung vollständig.
 
-„Ich frage dich, weil ich dir vertraue.“
+Vielleicht lag genau in der klinisch plausiblen Reihenfolge die Stelle, an der sich eine Regel umgehen ließ, ohne einen einzigen falschen Wert einzutragen.
 
-Felix' Gesicht wurde ernster.
+Eva schloss die Ansicht.
 
-„Dann glaub mir: Ich behandle zuerst den Patienten. Wenn ich neue reale Daten habe, gebe ich neue reale Daten ein. KORA bewertet dann den Zustand, der tatsächlich vorliegt.“
+Sie hatte keinen Beleg gegen Felix.
 
-Eva nahm das Tablet wieder.
-
-„Ich habe nicht gesagt, dass du etwas falsch machst.“
-
-„Noch nicht.“
-
-„Felix.“
-
-Er sah durch die Scheibe in eines der Zimmer. Drinnen prüfte eine Pflegekraft einen Monitor.
-
-„Weißt du, was das Problem mit solchen Auswertungen ist?“ fragte er.
-
-Eva wartete.
-
-„Am Anfang heißt es: Wir wollen nur verstehen. Dann heißt es: Das Muster ist auffällig. Dann muss der Einzelne beweisen, dass sein Ablauf plausibel war.“
-
-„Wenn ein Ablauf auffällig ist, darf man fragen.“
-
-„Natürlich darf man fragen.“
-
-Felix sah wieder zu ihr.
-
-„Die Frage ist, wann Fragen zu einer Erwartung werden.“
-
-Eva dachte an die getrennte Auswertung. An high confidence. An die Zweitfreigabe.
-
-„Das ändert nichts daran, dass deine Erklärung plausibel ist.“
-
-„Großzügig.“
-
-„Gewöhn dich nicht dran.“
-
-Felix lächelte diesmal wirklich kurz.
-
-Eva schob das Tablet unter den Arm.
-
-„Ich will nur eines verstehen. Wenn sich ein Patient nach einer ersten Maßnahme verändert: dokumentierst du den neuen Zustand, weil er klinisch relevant ist, oder weil du dann eine andere KORA-Konfidenz bekommst?“
-
-Felix' Lächeln verschwand.
-
-„Weil der neue Zustand der neue Zustand ist.“
-
-„Okay.“
-
-„Okay?“
-
-„Ich habe gefragt. Du hast geantwortet.“
-
-„So einfach?“
-
-„Genieß es.“
-
-Eva ging.
-
-Auf dem Flur blieb sie kurz stehen und öffnete die Zeile noch einmal.
-
-Wenige high-confidence Konflikte. Die Erklärung war plausibel. Vielleicht vollständig. Vielleicht nur der erste Teil einer Antwort. Eva schloss die Ansicht. Sie hatte keinen Beleg gegen Felix.
-
-Nur eine Frage, die nach seiner Erklärung nicht verschwunden war.
+Nur eine Frage, die jetzt präziser war als vorher.
