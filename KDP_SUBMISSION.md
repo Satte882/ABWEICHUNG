@@ -51,18 +51,18 @@ Drei engste Live-Kategorien auswählen:
 
 Upload:
 
-- Datei: `ABWEICHUNG_FINAL.docx`
+- Datei: `ABWEICHUNG_FINAL.docx` bzw. die daraus final exportierte Innen-PDF
 - Trim Size: **5,06 × 7,81 Zoll / 12,85 × 19,84 cm**
 - schwarze Tinte
 - weißes Papier
 - **kein Beschnitt** im Innenraum
 - Leserichtung links nach rechts
 
-CI-Referenz:
+Aktueller finaler Export:
 
 - 40 Kapitel
 - 37.919 Wörter Szenen-Prosa
-- 333 Seiten im validierten LibreOffice-Render
+- **233 Seiten**
 - letzter Satz `Eva wartete.`
 
 ### Previewer-QA
@@ -91,11 +91,11 @@ Stop und eigene ISBN verwenden, wenn die identische Printausgabe bewusst außerh
 Aktueller Kandidat:
 
 - Datei: `ABWEICHUNG_COVER.pdf`
-- Basis: 333 Seiten
+- Basis: **233 Seiten**
 - Schwarzweiß / weißes Papier
 - Format: 5,06 × 7,81 Zoll
-- PDF: **11,119916 × 8,060 Zoll**
-- Rücken: **0,749916 Zoll**
+- PDF: **10,894716 × 8,060 Zoll**
+- Rücken: **0,524716 Zoll**
 
 Coverinhalt:
 
@@ -124,7 +124,7 @@ Coverinhalt:
 
 ### Live-Gate
 
-Wenn der KDP-Previewer nicht exakt 333 Seiten meldet:
+Wenn der KDP-Previewer nicht exakt **233 Seiten** meldet:
 
 1. tatsächliche Seitenzahl übernehmen
 2. `python scripts/build_kdp_cover.py --pages <KDP_SEITENZAHL> --paper white --output ABWEICHUNG_COVER.pdf`
@@ -135,10 +135,10 @@ Wenn der KDP-Previewer nicht exakt 333 Seiten meldet:
 
 Startvorschlag Amazon.de: **14,99 €**.
 
-Bei 333 Seiten aktuelle Schätzung:
+Repo-interne Schätzung bei 233 Seiten:
 
-- Druckkosten ca. 4,75 €
-- Tantieme bei 60 % ca. 4,25 €
+- Druckkosten ca. **3,55 €**
+- Tantieme bei 60 % ca. **5,45 €**
 
 Live-Druckkosten vor Veröffentlichung prüfen und Preis bewusst bestätigen.
 
@@ -155,7 +155,7 @@ Repository-seitig:
 - [x] ISBN-Default festgelegt
 - [x] Preisvorschlag festgelegt
 - [x] Cover-Spezifikation vorhanden
-- [x] 333-Seiten-Cover-PDF vorhanden
+- [x] **233-Seiten-Cover-PDF vorhanden**
 
 Live/Human:
 
