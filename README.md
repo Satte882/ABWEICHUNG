@@ -44,6 +44,15 @@ Verbindliche Gate-Records liegen unter `gates/`.
 
 Das Cover ist für den aktuellen **333-Seiten-Stand, Schwarzweiß auf weißem Papier** erzeugt. Die Live-Seitenzahl im KDP-Previewer bleibt für die endgültige Rückenbreite maßgeblich. Ändert KDP die Seitenzahl, wird dasselbe Design mit `scripts/build_kdp_cover.py` neu erzeugt. Der Rücken enthält keinen Text; sein vertikales Linien-/Ausschlagmotiv ist exakt das um 90° gedrehte Vorderseitenmotiv und wird als ein durchgängiger Pfad erzeugt. Die Rückseite enthält ausschließlich eine gerade horizontale Flatline.
 
+## Marketing / A+ Content
+
+Amazon-KDP-A+-Content wird in diesem Repo zunächst als **reale Teststrecke für ABWEICHUNG** entwickelt.
+
+- `MARKETING/A_PLUS_REFERENCE.md` – Amazon-Regeln, Modullogik, Bild-/Textanforderungen, Erstellungsprozess und Compliance-Check
+- `MARKETING/README.md` – Arbeitsmodell für Konzept, Produktion, QA, Submission und späteren Lessons-Learned-Transfer
+
+Nach Abschluss der A+-Teststrecke werden ausschließlich die **generalisierbaren** Erkenntnisse in `Satte882/Buch-Framework` übernommen. Buchspezifische Texte, Motive und Geschmacksentscheidungen bleiben in diesem Repo.
+
 ## Aktive Story-/Research-Quellen
 
 - `BOOK_IDEA.md` – Grundidee und irreversible Konzeptentscheidungen
