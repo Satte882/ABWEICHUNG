@@ -50,6 +50,7 @@ Finale Innen-PDF laut aktuellem Export:
 
 - Trim Size: **5,06 × 7,81 Zoll**
 - Seitenzahl: **233 Seiten**
+- Seitenzahlquelle: final exportierte Innen-PDF, vom Nutzer am 2026-09-01 bestätigt
 - Schwarzweiß-Inhalt
 - weißes Papier
 - Cover-Beschnitt: **0,125 Zoll an allen Außenkanten**
