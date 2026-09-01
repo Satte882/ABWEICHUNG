@@ -33,7 +33,7 @@ jobs:
 
       - name: Build cover
         run: |
-          python scripts/build_kdp_cover.py --pages 333 --paper white --output ABWEICHUNG_COVER.pdf
+          python scripts/build_kdp_cover.py --pages 233 --paper white --output ABWEICHUNG_COVER.pdf
 
       - name: Validate PDF
         run: |
@@ -46,7 +46,7 @@ jobs:
           box = reader.pages[0].mediabox
           width = float(box.width) / 72
           height = float(box.height) / 72
-          assert abs(width - 11.119916) < 0.001, (width, height)
+          assert abs(width - 10.894716) < 0.001, (width, height)
           assert abs(height - 8.060) < 0.001, (width, height)
           text = reader.pages[0].extract_text() or ''
           for required in (
@@ -87,6 +87,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'No cover change.'
           else
-            git commit -m 'production: build approved ABWEICHUNG cover'
+            git commit -m 'production: build ABWEICHUNG cover for 233 pages'
             git push
           fi
