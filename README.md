@@ -19,7 +19,7 @@ Der Roman ist inhaltlich und produktionstechnisch abgeschlossen.
 - finale Manuskriptfreigabe: `1014deda39ae5c5503558fabd88bf8b519b56548`
 - finaler Produktions-Snapshot: `268b580e3345d842eba5e3e0a30b5aed79db05bf`
 - DOCX-QA: PASS
-- CI-PDF-Render: 333 Seiten
+- finale exportierte Innen-PDF: **233 Seiten**
 - Format: 5,06 × 7,81 Zoll / 12,85 × 19,84 cm
 - letzter Satz: `Eva wartete.`
 
@@ -42,7 +42,7 @@ Verbindliche Gate-Records liegen unter `gates/`.
 | operative Upload-/Submission-Checkliste | `KDP_SUBMISSION.md` |
 | verbindliche Cover-Spezifikation | `COVER_SPEC.md` |
 
-Das Cover ist für den aktuellen **333-Seiten-Stand, Schwarzweiß auf weißem Papier** erzeugt. Die Live-Seitenzahl im KDP-Previewer bleibt für die endgültige Rückenbreite maßgeblich. Ändert KDP die Seitenzahl, wird dasselbe Design mit `scripts/build_kdp_cover.py` neu erzeugt. Der Rücken enthält keinen Text; sein vertikales Linien-/Ausschlagmotiv ist exakt das um 90° gedrehte Vorderseitenmotiv und wird als ein durchgängiger Pfad erzeugt. Die Rückseite enthält ausschließlich eine gerade horizontale Flatline.
+Das Cover ist für den aktuellen **233-Seiten-Stand, Schwarzweiß auf weißem Papier** erzeugt. Die Live-Seitenzahl im KDP-Previewer bleibt für die endgültige Rückenbreite maßgeblich. Ändert KDP die Seitenzahl, wird dasselbe Design mit `scripts/build_kdp_cover.py` neu erzeugt. Der Rücken enthält keinen Text; sein vertikales Linien-/Ausschlagmotiv ist exakt das um 90° gedrehte Vorderseitenmotiv und wird als ein durchgängiger Pfad erzeugt. Die Rückseite enthält ausschließlich eine gerade horizontale Flatline.
 
 ## Marketing / A+ Content
 
