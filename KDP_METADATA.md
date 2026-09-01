@@ -1,7 +1,7 @@
 # KDP Metadata – ABWEICHUNG
 
 status: prepared-for-submission
-checked: 2026-08-31
+checked: 2026-09-01
 market: Amazon.de
 language: Deutsch
 
@@ -62,20 +62,20 @@ Die Offenlegung ist kein öffentliches Qualitätslabel, sondern eine KDP-Submiss
 - Druck: **schwarze Tinte auf weißem Papier**
 - Innenraum-Beschnitt: **kein Beschnitt**
 - Leserichtung: links nach rechts
-- CI-Render: **333 Seiten**
+- finale exportierte Innen-PDF: **233 Seiten**
 - Cover: `ABWEICHUNG_COVER.pdf`
 - Cover-Beschnitt: **0,125 Zoll an den Außenkanten**
 
 Die Live-Seitenzahl des KDP-Previewers ist für die finale Rückenbreite maßgeblich.
 
-## Cover-Geometrie – aktueller 333-Seiten-Kandidat
+## Cover-Geometrie – aktueller 233-Seiten-Kandidat
 
 KDP-Faktor Schwarzweiß / weißes Papier: `0,002252 Zoll × Seitenzahl`.
 
-- Rücken: `333 × 0,002252 = 0,749916 Zoll`
-- Gesamtbreite: `0,125 + 5,06 + 0,749916 + 5,06 + 0,125 = 11,119916 Zoll`
+- Rücken: `233 × 0,002252 = 0,524716 Zoll`
+- Gesamtbreite: `0,125 + 5,06 + 0,524716 + 5,06 + 0,125 = 10,894716 Zoll`
 - Gesamthöhe: `0,125 + 7,81 + 0,125 = 8,060 Zoll`
-- metrisch: ca. **282,446 × 204,724 mm**
+- metrisch: ca. **276,726 × 204,724 mm**
 
 Design-Soll: `COVER_SPEC.md`.
 
@@ -91,12 +91,12 @@ Vor der Zuweisung stattdessen eigene ISBN wählen, falls dieselbe Printausgabe b
 
 Vorläufiger Amazon.de-Listenpreis: **14,99 €**.
 
-Aktuelle KDP-Schätzung für 333 Seiten, schwarzer Druck, normales Format, weißes Papier:
+Repo-interne Schätzung auf Basis der bisher verwendeten Formel für 233 Seiten, schwarzer Druck, normales Format, weißes Papier:
 
-- Druckkosten: `0,75 € + 333 × 0,012 € = 4,746 €` → ca. **4,75 €**
-- bei 14,99 € und 60-%-Tantiemensatz: ca. **4,25 € Tantieme** pro Amazon.de-Verkauf vor ggf. weiteren Besonderheiten
+- Druckkosten: `0,75 € + 233 × 0,012 € = 3,546 €` → ca. **3,55 €**
+- bei 14,99 € und 60-%-Tantiemensatz: ca. **5,45 € Tantieme** pro Amazon.de-Verkauf vor ggf. weiteren Besonderheiten
 
-Preis erst im Live-KDP-Projekt nach angezeigten Druckkosten final bestätigen.
+Preis und tatsächliche Druckkosten erst im Live-KDP-Projekt final bestätigen.
 
 ## Kindle
 
@@ -113,8 +113,8 @@ Falls eine deutsche Kindle-Ausgabe geöffnet wird:
 
 1. verbindliche Autoren-Schreibweise
 2. kostenlose KDP-ISBN vs. eigene ISBN final bestätigen
-3. Live-Seitenzahl nach KDP-Previewer
-4. daraus ggf. Cover neu bauen
+3. Live-Seitenzahl nach KDP-Previewer bestätigen
+4. bei Abweichung Cover neu bauen
 5. 14,99 € im Live-System final bestätigen oder bewusst ändern
 6. finalen Previewer ohne Fehler abschließen
 7. Veröffentlichung auslösen
