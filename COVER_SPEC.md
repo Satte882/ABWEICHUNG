@@ -1,8 +1,8 @@
 # KDP-Cover – ABWEICHUNG
 
-status: APPROVED-333-page-cover
+status: APPROVED-233-page-cover
 approved_by: human
-date: 2026-08-31
+date: 2026-09-01
 
 ## Verbindliches Design
 
@@ -46,20 +46,20 @@ Titelregeln:
 
 ## Aktuelle Produktionsgeometrie
 
-Innenraum laut freigegebenem Produktionsstand:
+Finale Innen-PDF laut aktuellem Export:
 
 - Trim Size: **5,06 × 7,81 Zoll**
-- CI-PDF-Render: **333 Seiten**
+- Seitenzahl: **233 Seiten**
 - Schwarzweiß-Inhalt
 - weißes Papier
 - Cover-Beschnitt: **0,125 Zoll an allen Außenkanten**
 
 KDP-Faktor für Schwarzweiß auf weißem Papier:
 
-- Rückenbreite: `333 × 0,002252" = 0,749916"`
-- Gesamtbreite: `0,125 + 5,06 + 0,749916 + 5,06 + 0,125 = 11,119916"`
+- Rückenbreite: `233 × 0,002252" = 0,524716"`
+- Gesamtbreite: `0,125 + 5,06 + 0,524716 + 5,06 + 0,125 = 10,894716"`
 - Gesamthöhe: `0,125 + 7,81 + 0,125 = 8,060"`
-- metrisch: ca. **282,446 × 204,724 mm**
+- metrisch: ca. **276,726 × 204,724 mm**
 
 `ABWEICHUNG_COVER.pdf` wird exakt in dieser Größe erzeugt.
 
@@ -82,12 +82,12 @@ KDP-Faktor für Schwarzweiß auf weißem Papier:
 Build:
 
 ```bash
-python scripts/build_kdp_cover.py --pages 333 --paper white --output ABWEICHUNG_COVER.pdf
+python scripts/build_kdp_cover.py --pages 233 --paper white --output ABWEICHUNG_COVER.pdf
 ```
 
 ## Live-KDP-Gate
 
-Die 333 Seiten stammen aus dem validierten Repository-/LibreOffice-Render. Für den finalen Upload ist die im **KDP-Previewer** tatsächlich gemeldete Seitenzahl maßgeblich.
+Die Produktionsgeometrie basiert jetzt auf der final exportierten Innen-PDF mit **233 Seiten**. Für den finalen Upload ist trotzdem die im **KDP-Previewer** tatsächlich gemeldete Seitenzahl maßgeblich.
 
 Wenn KDP eine andere Seitenzahl meldet:
 
