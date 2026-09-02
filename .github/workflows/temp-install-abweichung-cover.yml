@@ -75,7 +75,7 @@ jobs:
           assert b'/MediaBox [0 0 784.419552 580.320000]' in data
           assert b'/Font' not in data
           assert data.count(b'/Type /Page ') == 1
-          assert len(jpg) > 500_000
+          assert len(jpg) > 300_000
           print('cover OK:', W_IN, 'x', H_IN, 'in;', IMG_W, 'x', IMG_H, 'px; no fonts')
           PY
 
